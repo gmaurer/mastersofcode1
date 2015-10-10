@@ -35,7 +35,7 @@
     }
     .login-box{
 
-    
+        height: 50px;
 
         border: 1px solid black;
         background-color: #3D2EFF;
