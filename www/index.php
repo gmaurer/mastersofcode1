@@ -33,11 +33,22 @@
 
 
     }
+    .login-box{
+
+        position: absolute;
+        right: 10px;
+        top: 40px;
+        border: 2px solid black;
+
+
+
+    }
 
 
 </style>
 
 <body style="background-color: #CC99FF">
+    <div class="login-box">
     <form role="form">
         <div>
             <button href="#" class="btn btn-info" role="button" >Login</button>
@@ -49,6 +60,7 @@
             
         </div>
     </form>
+    </div>
     <div>
 
         <img src="Baseball-Heart-L.jpg" class="images" style="width:300px;height:286px;">
