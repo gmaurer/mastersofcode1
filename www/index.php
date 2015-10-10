@@ -40,10 +40,11 @@
 <body>
     <form role="form">
         <div>
-
-            <input type="email" class="form-control" id="email" placeholder="Enter email">
-            <input type="password" class="form-control" id="pwd" placeholder="Enter password">
             <button href="#" class="btn btn-info" role="button" >Login</button>
+            <input type="password" class="form-control" id="pwd" placeholder="Enter password">
+            <input type="email" class="form-control" id="email" placeholder="Enter email">
+
+
 
             
         </div>
