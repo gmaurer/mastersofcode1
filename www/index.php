@@ -23,13 +23,22 @@
         
     }
 
+    .form-control{
+
+        float:right;
+    }
+
 
 </style>
 
 <body>
     <div>
-        <a href="#" class="btn btn-info" role="button" >Login</a>
         <a href="#" class="btn btn-info" role="button" >New User</a>
+        <input type="email" class="form-control" id="email" placeholder="Enter email">
+        <input type="password" class="form-control" id="pwd" placeholder="Enter password">
+
+        <button href="#" class="btn btn-info" role="button" >Login</button>
+
             
     </div>
 
