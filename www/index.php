@@ -29,7 +29,7 @@
 <body>
     <div>
         <a href="#" class="btn btn-info" role="button" >Login</a>
-        <a href="#" class="btn btn-info" role="button" >Existing User</a>
+        <a href="#" class="btn btn-info" role="button" >New User</a>
             
     </div>
 
