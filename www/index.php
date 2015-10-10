@@ -36,10 +36,9 @@
     .login-box{
 
         position: absolute;
-        right: 10px;
-        top: 40px;
-        border: 2px solid black;
-
+      
+        border: 1px solid black;
+        background-color: #3D2EFF;
 
 
     }
