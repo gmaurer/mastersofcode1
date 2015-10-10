@@ -37,7 +37,7 @@
 
 </style>
 
-<body>
+<body style="background-color: #CC99FF">
     <form role="form">
         <div>
             <button href="#" class="btn btn-info" role="button" >Login</button>
