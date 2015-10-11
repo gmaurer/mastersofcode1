@@ -1,3 +1,8 @@
+<?php
+
+?>
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -33,15 +38,15 @@
 
 
     function validateNewForm() {
-        var a = document.forms["myForm1"]["newemail"].value;
-        var b = document.forms["myForm1"]["newpass"].value;
-        var c = document.forms["myForm1"]["newuser"].value;
+        var a = document.forms["myForm1"]["email"].value;
+        var b = document.forms["myForm1"]["pass"].value;
+        var c = document.forms["myForm1"]["name"].value;
         var d = document.forms["myForm1"]["newreenterpass"].value;
         var e = document.forms["myForm1"]["donateamt"].value;
         var minValVar = 50;
 
 
-        if (a == null || b == "") {
+        if (a == null || a == "") {
             alert("Email must be filled out");
             return false;
         }
@@ -50,7 +55,7 @@
             return false;
         }
         if (c == null || c == "") {
-            alert("Username must be filled out");
+            alert("Name must be filled out");
             return false;
         }
         if (d == null || d == "") {
@@ -236,12 +241,12 @@
 
 <body style="background-color: #30C2CF">
     <nav class="login-box">
-    <form action="login.php" name="myForm" class="login-center" role="form">
+    <form action="payment.php" method="post" name="myForm" class="login-center" role="form">
 
             <button href="#" onclick="validateForm()" class="btn btn-info" role="button" >Login</button>
             <input type="password" class="form-control form1" name="pass" id="pwd" placeholder="Enter password">
             <input type="email" class="form-control form1" name="email" id="email" placeholder=" Enter email">
-
+            <input type="hidden" name="method" value="li"/>
 
 
 
@@ -251,23 +256,23 @@
 
     <div class="inputNew">
 
-        <form action="checkout.php" name="myForm1" class="create-center" role="form">
+        <form action="payment.php" method="post" name="myForm1" class="create-center" role="form">
 
             <h3 class="headerstuff" >New User</h3>
             <br>
 
-            <input  type="email" class="form-control form-control1" name="newemail" id="newemail" placeholder=" Enter email">
+            <input  type="email" class="form-control form-control1" name="email" id="email" placeholder=" Enter email">
             <br>
-            <input  type="text" class="form-control form-control1" name="newname" id="newname" placeholder=" Enter name">
+            <input  type="text" class="form-control form-control1" name="name" id="name" placeholder=" Enter name">
             <br>
-            <input  type="password" class="form-control form-control1" name="newpass" id="newpass" placeholder=" Enter password">
+            <input  type="password" class="form-control form-control1" name="pass" id="pass" placeholder=" Enter password">
             <br>
             <input  type="password" class="form-control form-control1" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
             <br>
             <input  type="number" class="form-control form-control-num" name="donateamt" id="donateamt" placeholder=" Donation amount ">
             <br>
             <button href="#" onclick="validateNewForm()" class="btn form-control1-btn" role="button" >Give</button>
-
+            <input type="hidden" name="method" value="cn"/>
 
         </form>
 
@@ -286,3 +291,4 @@
 
 
 </html>
+
