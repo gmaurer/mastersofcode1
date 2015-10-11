@@ -132,7 +132,7 @@
         width: 7%;
         top: 20px;
         float: right;
-        background-color: #b7d7a7;
+        background-color: #fc6271;
         color: #6d638c;
         /*padding-right: 5px;*/
 
@@ -181,7 +181,7 @@
         height: 50px;
         padding: 5px;
         border: 1px solid black;
-        background-color: #6c8672;
+        background-color: #b7d7a7;
 
 
     }
@@ -190,7 +190,7 @@
         top: 40px;
         height: 550px;
         padding: 30px;
-
+        background-color: #6c8672;
 
     }
 
@@ -210,7 +210,7 @@
         margin-right: auto ;
         padding: 20px;
         border: 2px solid black;
-        background-color: #3D2EFF;
+        background-color: #b7d7a7;
 
 
     }
