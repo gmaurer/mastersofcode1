@@ -134,7 +134,8 @@
         width: 400px ;
         margin-left: auto ;
         margin-right: auto ;
-        padding: 10px;
+        padding: 20px;
+        border: 2px solid black;
 
 
     }
