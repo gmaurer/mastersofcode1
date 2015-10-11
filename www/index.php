@@ -118,7 +118,7 @@
     }
 
     .inputNew{
-        top: 38px;
+        top: 40px;
         height: 500px;
         padding: 30px;
 
@@ -127,7 +127,7 @@
 
     .login-center{
         top: 10px;
-        height: 34px;
+        height: 35px;
       
 
     }
@@ -192,6 +192,8 @@
             <input  type="password" class="form-control1" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
             <br>
             <input  type="number" class="form-control1" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
+            <br>
+            <button href="#" class="btn btn-info" role="button" >Login</button>
 
 
         </form>
