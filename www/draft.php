@@ -70,6 +70,11 @@ if ($team==NULL) {
         border: 1px solid black;
 
     }
+
+    body{
+
+        style="background-color: #232B2B;
+    }
     </style>
 
 
@@ -114,7 +119,7 @@ if ($team==NULL) {
 		       });
       </script>
 </head>
-<body style="background-color: #232B2B;">
+<body ">
 	<!-- Div to create space for header -->
 	<div style="height: 100px;"></div>
 	<div class="row">
