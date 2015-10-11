@@ -132,7 +132,7 @@
         width: 7%;
         top: 20px;
         float: right;
-        background-color: #E3AE57;
+        background-color: #DC3D24;
         color: #FFFFFF;
         /*padding-right: 5px;*/
 
@@ -170,7 +170,7 @@
         padding: 10px;
         margin-left: auto ;
         margin-right: auto ;
-        background-color: #E3AE57;
+        background-color: #DC3D24;
         color: #FFFFFF;
 
 
@@ -181,7 +181,7 @@
         height: 50px;
         padding: 5px;
         border: 1px solid black;
-        background-color: #DC3D24;
+        background-color: #232B2B;
 
 
     }
