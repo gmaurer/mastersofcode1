@@ -98,7 +98,7 @@
     .form-control1{
 
         display: block;
-        padding: 15px;
+        padding: 10px;
         margin-left: auto ;
         margin-right: auto ;
 
@@ -134,6 +134,7 @@
         width: 400px ;
         margin-left: auto ;
         margin-right: auto ;
+        padding: 10px;
 
 
     }
@@ -178,9 +179,13 @@
         <form name="myForm1" class="create-center" role="form">
 
             <input  type="email" class="form-control1" name="newemail" id="newemail" placeholder=" Enter email">
+            <br>
             <input  type="text" class="form-control1" name="newuser" id="newuser" placeholder=" Enter username">
+            <br>
             <input  type="password" class="form-control1" name="newpass" id="newpass" placeholder=" Enter password">
+            <br>
             <input  type="password" class="form-control1" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
+            <br>
             <input  type="number" class="form-control1" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
 
 
