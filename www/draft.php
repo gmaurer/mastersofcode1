@@ -85,7 +85,7 @@ if ($team==NULL) {
   <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Search by Team
   <span class="caret"></span></button>
   <ul class="dropdown-menu">
-<li><a href="#">Angels</a></li>
+<li><a href="?team=Angels">Angels</a></li>
 <li><a href="#">Astros</a></li>
 <li><a href="#">Athletics</a></li>
 <li><a href="#">Blue Jays</a></li>
