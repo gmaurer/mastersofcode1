@@ -15,7 +15,7 @@ if(isset($_POST['method'])&&isset($_POST['email'])&&isset($_POST['pass'])){
         header("Location: http://mc.turco.com/draft.php");
         die();
     }
-    if(isset($_POST['name']&&$_POST['donateamt']){
+    if(isset($_POST['name'])&&isset($_POST['donateamt'])){
 	$name = $_POST['name'];
 	$donateamt = $_POST['donateamt'];
 	if(checkusername($email, $pass, $name)){
