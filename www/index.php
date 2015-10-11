@@ -36,7 +36,7 @@
 
     .login-box{
 
-        height: 34px;
+        height: 38px;
 
         border: 1px solid black;
         background-color: #3D2EFF;
@@ -48,6 +48,12 @@
         top: 10px;
         height: 100px;
       
+
+    }
+
+    .images{
+
+        vertical-align: middle;
 
     }
 
