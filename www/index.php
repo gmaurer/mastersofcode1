@@ -11,6 +11,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
+    <script type="text/javascript" src="https://www.simplify.com/commerce/simplify.pay.js"></script>
+
+
 
 
 </head>
@@ -43,6 +46,10 @@
         var c = document.forms["myForm1"]["name"].value;
         var d = document.forms["myForm1"]["newreenterpass"].value;
         var e = document.forms["myForm1"]["donateamt"].value;
+        document.getElementById("SCbtn").setAttribute("data-amount",e);
+        document.getElementById("SCbtn").setAttribute("data-customer-name",c);
+        document.getElementById("SCbtn").setAttribute("data-customer-email",a);
+
         var minValVar = 50;
 
 
@@ -77,7 +84,6 @@
         }
 
 
-        sendInfo1();
     }
 
 
@@ -273,6 +279,12 @@
             <br>
             <button href="#" onclick="validateNewForm()" class="btn form-control1-btn" role="button" >Give</button>
             <input type="hidden" name="method" value="cn"/>
+
+            <button onclick="validateNewForm()" id="SCbtn" data-sc-key="sbpb_M2U5NWFhYjctNzQxNC00MzczLTgyNGMtZWM1OTFiMTVlNTg3" data-name="Donation"
+                    data-masterpass="true" data-description="Donation for Giving Ladder Charity" data-reference="99999"
+                    data-amount="5000" data-customer-name="Bob Donor" data-customer-email="donor@email.com" data-redirect-url="http://mc.turco.com/draft.php" data-color="#12B830">
+                Give Now
+            </button>
 
         </form>
 
