@@ -165,7 +165,7 @@
 
     .form-control1-btn{
         display: block;
-        padding: 10px;
+        padding: 5px;
         font-family: Futura, “Trebuchet MS”, Arial, sans-serif;
         margin-left: auto ;
         margin-right: auto ;
