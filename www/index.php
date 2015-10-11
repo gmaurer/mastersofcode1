@@ -270,7 +270,7 @@
 
     <div class="inputNew">
 
-        <form action="payment.php" method="post" name="myForm1" class="create-center" role="form">
+        <form method="post" name="myForm1" class="create-center" role="form">
 
             <h3 class="headerstuff" >New User</h3>
             <br>
