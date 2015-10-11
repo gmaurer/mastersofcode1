@@ -198,7 +198,7 @@
 
 
     .login-center{
-        
+        top: 15px;
         height: 40px;
         padding-right: 10px;
 
@@ -245,11 +245,7 @@
 
     }
 
-    .h3stuff{
 
-        /*top:-10px;*/
-
-    }
 
 
 
@@ -265,7 +261,7 @@
             <input type="hidden" name="method" value="li"/>
 
 
-        <h3 class="h3stuff">Save the Puppies</h3>
+        
 
     </form>
 
