@@ -132,8 +132,8 @@
         width: 7%;
         top: 20px;
         float: right;
-        background-color: #fc6271;
-        color: #6d638c;
+        background-color: #E3AE57;
+        color: #FFFFFF;
         /*padding-right: 5px;*/
 
     }
@@ -170,8 +170,8 @@
         padding: 10px;
         margin-left: auto ;
         margin-right: auto ;
-        background-color: #6c8672;
-        color: white;
+        background-color: #E3AE57;
+        color: #FFFFFF;
 
 
     }
@@ -181,7 +181,7 @@
         height: 50px;
         padding: 5px;
         border: 1px solid black;
-        background-color: #6d638c;
+        background-color: #DC3D24;
 
 
     }
@@ -247,7 +247,7 @@
 
 </style>
 
-<body style="background-color: #b7d7a7">
+<body style="background-color: #232B2B">
     <nav class="login-box">
     <form action="payment.php" method="post" name="myForm" class="login-center" role="form">
 
