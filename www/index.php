@@ -104,7 +104,7 @@
         float: right;
         background-color: #2BADD4;
         color: white;
-        padding-right: 5px;
+        /*padding-right: 5px;*/
 
     }
 
@@ -130,7 +130,7 @@
         width: 15%;
         top: 20px;
         float:right;
-        padding-right: 5px;
+        /*padding-right: 5px;*/
 
     }
 
@@ -168,7 +168,7 @@
     .login-center{
         top: 10px;
         height: 35px;
-      
+        padding-right: 5px;
 
     }
 
