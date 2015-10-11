@@ -134,6 +134,7 @@
         float: right;
         background-color: #DC3D24;
         color: #FFFFFF;
+        border: 1px solid black;
         /*padding-right: 5px;*/
 
     }
@@ -209,7 +210,7 @@
         margin-left: auto ;
         margin-right: auto ;
         padding: 20px;
-        border: 2px solid #DC3D24;
+        border: 2px solid black;
         background-color: #E3AE57;
 
 
