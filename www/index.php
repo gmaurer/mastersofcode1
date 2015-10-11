@@ -33,14 +33,10 @@
 
     }
 
-    .images{
-        margin: 0 auto;
 
-
-    }
     .login-box{
 
-        height: 100px;
+        height: 34px;
 
         border: 1px solid black;
         background-color: #3D2EFF;
