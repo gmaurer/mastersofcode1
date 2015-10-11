@@ -98,9 +98,9 @@
     }
 
     .form-control{
-        width: 15%;
-        top: 20px;
-        float:right;
+        /*width: 15%;*/
+        /*top: 20px;*/
+        /*float:right;*/
 
 
     }
@@ -111,6 +111,14 @@
         padding: 10px;
         margin-left: auto ;
         margin-right: auto ;
+
+    }
+
+    .form1{
+
+        width: 15%;
+        top: 20px;
+        float:right;
 
     }
 
@@ -187,8 +195,8 @@
     <form name="myForm" class="login-center" role="form">
 
             <button href="#" class="btn btn-info" role="button" >Login</button>
-            <input type="password" class="form-control" name="pass" id="pwd" placeholder="Enter password">
-            <input type="email" class="form-control" name="email" id="email" placeholder=" Enter email">
+            <input type="password" class="form-control form1" name="pass" id="pwd" placeholder="Enter password">
+            <input type="email" class="form-control form1" name="email" id="email" placeholder=" Enter email">
 
 
 
@@ -201,15 +209,15 @@
 
         <form name="myForm1" class="create-center" role="form">
 
-            <input  type="email" class="form-control1" name="newemail" id="newemail" placeholder=" Enter email">
+            <input  type="email" class="form-control form-control1" name="newemail" id="newemail" placeholder=" Enter email">
             <br>
-            <input  type="text" class="form-control1" name="newuser" id="newuser" placeholder=" Enter username">
+            <input  type="text" class="form-control form-control1" name="newuser" id="newuser" placeholder=" Enter username">
             <br>
-            <input  type="password" class="form-control1" name="newpass" id="newpass" placeholder=" Enter password">
+            <input  type="password" class="form-control form-control1" name="newpass" id="newpass" placeholder=" Enter password">
             <br>
-            <input  type="password" class="form-control1" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
+            <input  type="password" class="form-control form-control1" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
             <br>
-            <input  type="number" class="form-control1" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
+            <input  type="number" class="form-control form-control1" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
             <br>
             <button href="#" class="btn form-control1-btn" role="button" >Login</button>
 
