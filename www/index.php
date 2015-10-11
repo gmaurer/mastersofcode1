@@ -59,10 +59,13 @@
 
     }
 
-    .images{
 
-        vertical-align: middle;
 
+    .images {
+        margin: auto;
+        width: 60%;
+        border:3px solid #8AC007;
+        padding: 10px;
     }
 
 
