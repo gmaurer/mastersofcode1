@@ -29,13 +29,15 @@ if ($team==NULL) {
 ?>
 <style type="text/css">
     .col-xs-5{
-
+        border: 2px solid black;
         background-color: #E3AE57;
+        border-radius: 25px;
     }
 
     .col-xs-6{
-
+        border: 2px solid black;
         background-color: #E3AE57;
+        border-radius: 25px;
     }
 
 
