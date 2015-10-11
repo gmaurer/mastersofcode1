@@ -133,7 +133,7 @@
         top: 20px;
         float: right;
         background-color: #DC3D24;
-        color: #FFFFFF;
+        color: #434B4B;
         border: 1px solid black;
         /*padding-right: 5px;*/
 
@@ -176,7 +176,7 @@
         margin-left: auto ;
         margin-right: auto ;
         background-color: #DC3D24;
-        color: #FFFFFF;
+        color: #434B4B;
 
 
     }
@@ -237,7 +237,7 @@
     
     .form-control-num{
         height: 45px;
-        
+        border: 1px solid black;
         
         
     }
