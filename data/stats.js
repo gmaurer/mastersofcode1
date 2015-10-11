@@ -119,7 +119,11 @@ db.players.insert({
     },
     "2015-07-value": 143,
     "name": "Randal Grichuk",
-    "playerid": 10243
+    "playerid": 10243,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -207,7 +211,10 @@ db.players.insert({
     },
     "2015-06-value": 117,
     "name": "Cory Spangenberg",
-    "playerid": 12294
+    "playerid": 12294,
+    "team-2014": "Padres",
+    "team-2015-05": "Padres",
+    "team-2015-06": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -323,7 +330,11 @@ db.players.insert({
     },
     "2015-07-value": 92,
     "name": "Eduardo Escobar",
-    "playerid": 6153
+    "playerid": 6153,
+    "team-2014": "Twins",
+    "team-2015-05": "Twins",
+    "team-2015-06": "Twins",
+    "team-2015-07": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -439,7 +450,11 @@ db.players.insert({
     },
     "2015-07-value": 96,
     "name": "Josh Harrison",
-    "playerid": 8202
+    "playerid": 8202,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -555,7 +570,11 @@ db.players.insert({
     },
     "2015-07-value": 115,
     "name": "Dee Gordon",
-    "playerid": 8203
+    "playerid": 8203,
+    "team-2014": "Marlins",
+    "team-2015-05": "Marlins",
+    "team-2015-06": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2015-07": {
@@ -587,7 +606,8 @@ db.players.insert({
     },
     "2015-07-value": 62,
     "name": "Chris Bassitt",
-    "playerid": 12304
+    "playerid": 12304,
+    "team-2015-07": "Athletics"
 });
 db.players.insert({
     "2015-05": {
@@ -619,7 +639,8 @@ db.players.insert({
     },
     "2015-05-value": 55,
     "name": "Adam Warren",
-    "playerid": 9029
+    "playerid": 9029,
+    "team-2015-05": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -735,7 +756,11 @@ db.players.insert({
     },
     "2015-07-value": 134,
     "name": "Brandon Belt",
-    "playerid": 10264
+    "playerid": 10264,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -851,7 +876,11 @@ db.players.insert({
     },
     "2015-07-value": 56,
     "name": "Brett Anderson",
-    "playerid": 8223
+    "playerid": 8223,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -883,7 +912,8 @@ db.players.insert({
     },
     "2014-value": 97,
     "name": "Tony Sanchez",
-    "playerid": 6178
+    "playerid": 6178,
+    "team-2014": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -999,7 +1029,11 @@ db.players.insert({
     },
     "2015-07-value": 110,
     "name": "Jace Peterson",
-    "playerid": 12325
+    "playerid": 12325,
+    "team-2014": "Braves",
+    "team-2015-05": "Braves",
+    "team-2015-06": "Braves",
+    "team-2015-07": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -1115,7 +1149,11 @@ db.players.insert({
     },
     "2015-07-value": 149,
     "name": "J.D. Martinez",
-    "playerid": 6184
+    "playerid": 6184,
+    "team-2014": "Tigers",
+    "team-2015-05": "Tigers",
+    "team-2015-06": "Tigers",
+    "team-2015-07": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -1231,7 +1269,11 @@ db.players.insert({
     },
     "2015-07-value": 134,
     "name": "Alex Rios",
-    "playerid": 2090
+    "playerid": 2090,
+    "team-2014": "Royals",
+    "team-2015-05": "Royals",
+    "team-2015-06": "Royals",
+    "team-2015-07": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -1347,7 +1389,11 @@ db.players.insert({
     },
     "2015-07-value": 57,
     "name": "Brad Hand",
-    "playerid": 9111
+    "playerid": 9111,
+    "team-2014": "Marlins",
+    "team-2015-05": "Marlins",
+    "team-2015-06": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -1407,7 +1453,9 @@ db.players.insert({
     },
     "2015-05-value": 52,
     "name": "Jonathan Diaz",
-    "playerid": 4142
+    "playerid": 4142,
+    "team-2014": "Blue Jays",
+    "team-2015-05": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -1495,7 +1543,10 @@ db.players.insert({
     },
     "2015-07-value": 90,
     "name": "Hector Sanchez",
-    "playerid": 10289
+    "playerid": 10289,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -1611,7 +1662,11 @@ db.players.insert({
     },
     "2015-07-value": 148,
     "name": "Ian Kinsler",
-    "playerid": 6195
+    "playerid": 6195,
+    "team-2014": "Tigers",
+    "team-2015-05": "Tigers",
+    "team-2015-06": "Tigers",
+    "team-2015-07": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -1699,7 +1754,10 @@ db.players.insert({
     },
     "2015-07-value": 72,
     "name": "Josh Wilson",
-    "playerid": 2102
+    "playerid": 2102,
+    "team-2014": "Tigers",
+    "team-2015-06": "Tigers",
+    "team-2015-07": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -1815,7 +1873,11 @@ db.players.insert({
     },
     "2015-07-value": 87,
     "name": "Jake Arrieta",
-    "playerid": 4153
+    "playerid": 4153,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -1903,7 +1965,10 @@ db.players.insert({
     },
     "2015-07-value": 108,
     "name": "Eury Perez",
-    "playerid": 10299
+    "playerid": 10299,
+    "team-2014": "Braves",
+    "team-2015-06": "Braves",
+    "team-2015-07": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -2019,7 +2084,11 @@ db.players.insert({
     },
     "2015-07-value": 134,
     "name": "Hunter Pence",
-    "playerid": 8252
+    "playerid": 8252,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -2135,7 +2204,11 @@ db.players.insert({
     },
     "2015-07-value": 144,
     "name": "Michael Brantley",
-    "playerid": 4106
+    "playerid": 4106,
+    "team-2014": "Indians",
+    "team-2015-05": "Indians",
+    "team-2015-06": "Indians",
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -2251,7 +2324,11 @@ db.players.insert({
     },
     "2015-07-value": 77,
     "name": "Chris Heston",
-    "playerid": 10302
+    "playerid": 10302,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -2339,7 +2416,10 @@ db.players.insert({
     },
     "2015-06-value": 57,
     "name": "Jarred Cosart",
-    "playerid": 10304
+    "playerid": 10304,
+    "team-2014": "Marlins",
+    "team-2015-05": "Marlins",
+    "team-2015-06": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -2399,7 +2479,9 @@ db.players.insert({
     },
     "2015-05-value": 79,
     "name": "Oswaldo Arcia",
-    "playerid": 10306
+    "playerid": 10306,
+    "team-2014": "Twins",
+    "team-2015-05": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -2515,7 +2597,11 @@ db.players.insert({
     },
     "2015-07-value": 105,
     "name": "Kurt Suzuki",
-    "playerid": 8259
+    "playerid": 8259,
+    "team-2014": "Twins",
+    "team-2015-05": "Twins",
+    "team-2015-06": "Twins",
+    "team-2015-07": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -2547,7 +2633,8 @@ db.players.insert({
     },
     "2014-value": 83,
     "name": "Zack Wheeler",
-    "playerid": 10310
+    "playerid": 10310,
+    "team-2014": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -2607,7 +2694,9 @@ db.players.insert({
     },
     "2015-05-value": 57,
     "name": "Erasmo Ramirez",
-    "playerid": 10314
+    "playerid": 10314,
+    "team-2014": "Rays",
+    "team-2015-05": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -2723,7 +2812,11 @@ db.players.insert({
     },
     "2015-07-value": 121,
     "name": "Chris Iannetta",
-    "playerid": 8267
+    "playerid": 8267,
+    "team-2014": "Angels",
+    "team-2015-05": "Angels",
+    "team-2015-06": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2015-06": {
@@ -2783,7 +2876,9 @@ db.players.insert({
     },
     "2015-07-value": 75,
     "name": "Deven Marrero",
-    "playerid": 13325
+    "playerid": 13325,
+    "team-2015-06": "Red Sox",
+    "team-2015-07": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -2899,7 +2994,11 @@ db.players.insert({
     },
     "2015-07-value": 78,
     "name": "Jackie Bradley Jr.",
-    "playerid": 12984
+    "playerid": 12984,
+    "team-2014": "Red Sox",
+    "team-2015-05": "Red Sox",
+    "team-2015-06": "Red Sox",
+    "team-2015-07": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -3015,7 +3114,11 @@ db.players.insert({
     },
     "2015-07-value": 113,
     "name": "Danny Santana",
-    "playerid": 10322
+    "playerid": 10322,
+    "team-2014": "Twins",
+    "team-2015-05": "Twins",
+    "team-2015-06": "Twins",
+    "team-2015-07": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -3075,7 +3178,9 @@ db.players.insert({
     },
     "2015-05-value": 74,
     "name": "Craig Gentry",
-    "playerid": 9571
+    "playerid": 9571,
+    "team-2014": "Athletics",
+    "team-2015-05": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -3191,7 +3296,11 @@ db.players.insert({
     },
     "2015-07-value": 59,
     "name": "Marcell Ozuna",
-    "playerid": 10324
+    "playerid": 10324,
+    "team-2014": "Marlins",
+    "team-2015-05": "Marlins",
+    "team-2015-06": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -3307,7 +3416,11 @@ db.players.insert({
     },
     "2015-07-value": 107,
     "name": "Jonathan Herrera",
-    "playerid": 4182
+    "playerid": 4182,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -3339,7 +3452,8 @@ db.players.insert({
     },
     "2014-value": 109,
     "name": "J.P. Arencibia",
-    "playerid": 697
+    "playerid": 697,
+    "team-2014": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -3455,7 +3569,11 @@ db.players.insert({
     },
     "2015-07-value": 144,
     "name": "David Peralta",
-    "playerid": 2136
+    "playerid": 2136,
+    "team-2014": "Diamondbacks",
+    "team-2015-05": "Diamondbacks",
+    "team-2015-06": "Diamondbacks",
+    "team-2015-07": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -3515,7 +3633,9 @@ db.players.insert({
     },
     "2015-06-value": 55,
     "name": "Chris Archer",
-    "playerid": 6345
+    "playerid": 6345,
+    "team-2014": "Rays",
+    "team-2015-06": "Rays"
 });
 db.players.insert({
     "2015-06": {
@@ -3575,7 +3695,9 @@ db.players.insert({
     },
     "2015-07-value": 111,
     "name": "Kyle Schwarber",
-    "playerid": 16478
+    "playerid": 16478,
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -3691,7 +3813,11 @@ db.players.insert({
     },
     "2015-07-value": 117,
     "name": "Yunel Escobar",
-    "playerid": 4191
+    "playerid": 4191,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2015-05": {
@@ -3723,7 +3849,8 @@ db.players.insert({
     },
     "2015-05-value": 92,
     "name": "Slade Heathcott",
-    "playerid": 10336
+    "playerid": 10336,
+    "team-2015-05": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -3755,7 +3882,8 @@ db.players.insert({
     },
     "2014-value": 64,
     "name": "Nicholas Tropeano",
-    "playerid": 12385
+    "playerid": 12385,
+    "team-2014": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -3871,7 +3999,11 @@ db.players.insert({
     },
     "2015-07-value": 128,
     "name": "Scooter Gennett",
-    "playerid": 10339
+    "playerid": 10339,
+    "team-2014": "Brewers",
+    "team-2015-05": "Brewers",
+    "team-2015-06": "Brewers",
+    "team-2015-07": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -3903,7 +4035,8 @@ db.players.insert({
     },
     "2014-value": 55,
     "name": "Tom Gorzelanny",
-    "playerid": 6244
+    "playerid": 6244,
+    "team-2014": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -4019,7 +4152,11 @@ db.players.insert({
     },
     "2015-07-value": 120,
     "name": "Edwin Encarnacion",
-    "playerid": 2151
+    "playerid": 2151,
+    "team-2014": "Blue Jays",
+    "team-2015-05": "Blue Jays",
+    "team-2015-06": "Blue Jays",
+    "team-2015-07": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -4079,7 +4216,9 @@ db.players.insert({
     },
     "2015-05-value": 65,
     "name": "Trevor Cahill",
-    "playerid": 6249
+    "playerid": 6249,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -4195,7 +4334,11 @@ db.players.insert({
     },
     "2015-07-value": 102,
     "name": "JR Murphy",
-    "playerid": 10346
+    "playerid": 10346,
+    "team-2014": "Yankees",
+    "team-2015-05": "Yankees",
+    "team-2015-06": "Yankees",
+    "team-2015-07": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -4255,7 +4398,9 @@ db.players.insert({
     },
     "2015-05-value": 50,
     "name": "Alfredo Simon",
-    "playerid": 2155
+    "playerid": 2155,
+    "team-2014": "Tigers",
+    "team-2015-05": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -4343,7 +4488,10 @@ db.players.insert({
     },
     "2015-07-value": 79,
     "name": "Domingo Santana",
-    "playerid": 10348
+    "playerid": 10348,
+    "team-2014": "Brewers",
+    "team-2015-06": "Brewers",
+    "team-2015-07": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -4375,7 +4523,8 @@ db.players.insert({
     },
     "2014-value": 107,
     "name": "Kevin Frandsen",
-    "playerid": 7528
+    "playerid": 7528,
+    "team-2014": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -4407,7 +4556,8 @@ db.players.insert({
     },
     "2014-value": 75,
     "name": "Robbie Erlin",
-    "playerid": 10354
+    "playerid": 10354,
+    "team-2014": "Padres"
 });
 db.players.insert({
     "2015-05": {
@@ -4495,7 +4645,10 @@ db.players.insert({
     },
     "2015-07-value": 64,
     "name": "Severino Gonzalez",
-    "playerid": 14697
+    "playerid": 14697,
+    "team-2015-05": "Phillies",
+    "team-2015-06": "Phillies",
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -4611,7 +4764,11 @@ db.players.insert({
     },
     "2015-07-value": 108,
     "name": "Andre Ethier",
-    "playerid": 6265
+    "playerid": 6265,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -4699,7 +4856,10 @@ db.players.insert({
     },
     "2015-07-value": 106,
     "name": "Daniel Robertson",
-    "playerid": 6266
+    "playerid": 6266,
+    "team-2014": "Angels",
+    "team-2015-06": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -4815,7 +4975,11 @@ db.players.insert({
     },
     "2015-07-value": 88,
     "name": "Ryan Zimmerman",
-    "playerid": 4220
+    "playerid": 4220,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -4847,7 +5011,8 @@ db.players.insert({
     },
     "2014-value": 67,
     "name": "Chris Tillman",
-    "playerid": 5279
+    "playerid": 5279,
+    "team-2014": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -4963,7 +5128,11 @@ db.players.insert({
     },
     "2015-07-value": 129,
     "name": "Howie Kendrick",
-    "playerid": 4229
+    "playerid": 4229,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -5023,7 +5192,9 @@ db.players.insert({
     },
     "2015-05-value": 52,
     "name": "Jered Weaver",
-    "playerid": 4235
+    "playerid": 4235,
+    "team-2014": "Angels",
+    "team-2015-05": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -5083,7 +5254,9 @@ db.players.insert({
     },
     "2015-06-value": 51,
     "name": "Jeremy Guthrie",
-    "playerid": 2072
+    "playerid": 2072,
+    "team-2014": "Royals",
+    "team-2015-06": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -5199,7 +5372,11 @@ db.players.insert({
     },
     "2015-07-value": 129,
     "name": "Kevin Pillar",
-    "playerid": 12434
+    "playerid": 12434,
+    "team-2014": "Blue Jays",
+    "team-2015-05": "Blue Jays",
+    "team-2015-06": "Blue Jays",
+    "team-2015-07": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -5315,7 +5492,11 @@ db.players.insert({
     },
     "2015-07-value": 75,
     "name": "Jose Lobaton",
-    "playerid": 4243
+    "playerid": 4243,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -5431,7 +5612,11 @@ db.players.insert({
     },
     "2015-07-value": 100,
     "name": "Grady Sizemore",
-    "playerid": 2197
+    "playerid": 2197,
+    "team-2014": "Rays",
+    "team-2015-05": "Rays",
+    "team-2015-06": "Rays",
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2015-06": {
@@ -5463,7 +5648,8 @@ db.players.insert({
     },
     "2015-06-value": 77,
     "name": "Daniel Fields",
-    "playerid": 10390
+    "playerid": 10390,
+    "team-2015-06": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -5579,7 +5765,11 @@ db.players.insert({
     },
     "2015-07-value": 90,
     "name": "Shane Robinson",
-    "playerid": 4249
+    "playerid": 4249,
+    "team-2014": "Twins",
+    "team-2015-05": "Twins",
+    "team-2015-06": "Twins",
+    "team-2015-07": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -5695,7 +5885,11 @@ db.players.insert({
     },
     "2015-07-value": 86,
     "name": "Denard Span",
-    "playerid": 8347
+    "playerid": 8347,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -5727,7 +5921,8 @@ db.players.insert({
     },
     "2014-value": 86,
     "name": "Dean Anna",
-    "playerid": 8353
+    "playerid": 8353,
+    "team-2014": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -5815,7 +6010,10 @@ db.players.insert({
     },
     "2015-06-value": 72,
     "name": "Josh Thole",
-    "playerid": 9689
+    "playerid": 9689,
+    "team-2014": "Blue Jays",
+    "team-2015-05": "Blue Jays",
+    "team-2015-06": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -5931,7 +6129,11 @@ db.players.insert({
     },
     "2015-07-value": 137,
     "name": "Alcides Escobar",
-    "playerid": 6310
+    "playerid": 6310,
+    "team-2014": "Royals",
+    "team-2015-05": "Royals",
+    "team-2015-06": "Royals",
+    "team-2015-07": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -5963,7 +6165,8 @@ db.players.insert({
     },
     "2014-value": 105,
     "name": "Don Kelly",
-    "playerid": 2216
+    "playerid": 2216,
+    "team-2014": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -6079,7 +6282,11 @@ db.players.insert({
     },
     "2015-07-value": 85,
     "name": "Ryan Raburn",
-    "playerid": 2218
+    "playerid": 2218,
+    "team-2014": "Indians",
+    "team-2015-05": "Indians",
+    "team-2015-06": "Indians",
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -6195,7 +6402,11 @@ db.players.insert({
     },
     "2015-07-value": 76,
     "name": "David Phelps",
-    "playerid": 6316
+    "playerid": 6316,
+    "team-2014": "Marlins",
+    "team-2015-05": "Marlins",
+    "team-2015-06": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -6227,7 +6438,8 @@ db.players.insert({
     },
     "2014-value": 61,
     "name": "Wilfredo Tovar",
-    "playerid": 10416
+    "playerid": 10416,
+    "team-2014": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -6315,7 +6527,10 @@ db.players.insert({
     },
     "2015-07-value": 91,
     "name": "Jason Bourgeois",
-    "playerid": 2225
+    "playerid": 2225,
+    "team-2014": "Reds",
+    "team-2015-06": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -6431,7 +6646,11 @@ db.players.insert({
     },
     "2015-07-value": 79,
     "name": "Dustin Pedroia",
-    "playerid": 8370
+    "playerid": 8370,
+    "team-2014": "Red Sox",
+    "team-2015-05": "Red Sox",
+    "team-2015-06": "Red Sox",
+    "team-2015-07": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -6463,7 +6682,8 @@ db.players.insert({
     },
     "2014-value": 81,
     "name": "Austin Romine",
-    "playerid": 5491
+    "playerid": 5491,
+    "team-2014": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -6523,7 +6743,9 @@ db.players.insert({
     },
     "2015-05-value": 93,
     "name": "Justin Morneau",
-    "playerid": 1737
+    "playerid": 1737,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -6555,7 +6777,8 @@ db.players.insert({
     },
     "2014-value": 67,
     "name": "John Danks",
-    "playerid": 6329
+    "playerid": 6329,
+    "team-2014": "White Sox"
 });
 db.players.insert({
     "2014": {
@@ -6671,7 +6894,11 @@ db.players.insert({
     },
     "2015-07-value": 126,
     "name": "Kelly Johnson",
-    "playerid": 2234
+    "playerid": 2234,
+    "team-2014": "Mets",
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -6787,7 +7014,11 @@ db.players.insert({
     },
     "2015-07-value": 123,
     "name": "Brian McCann",
-    "playerid": 4810
+    "playerid": 4810,
+    "team-2014": "Yankees",
+    "team-2015-05": "Yankees",
+    "team-2015-06": "Yankees",
+    "team-2015-07": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -6847,7 +7078,9 @@ db.players.insert({
     },
     "2015-07-value": 73,
     "name": "Pedro Florimon",
-    "playerid": 8385
+    "playerid": 8385,
+    "team-2014": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -6879,7 +7112,8 @@ db.players.insert({
     },
     "2014-value": 135,
     "name": "David Wright",
-    "playerid": 3787
+    "playerid": 3787,
+    "team-2014": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -6995,7 +7229,11 @@ db.players.insert({
     },
     "2015-07-value": 100,
     "name": "Daniel Descalso",
-    "playerid": 8392
+    "playerid": 8392,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -7083,7 +7321,10 @@ db.players.insert({
     },
     "2015-07-value": 100,
     "name": "Jon Singleton",
-    "playerid": 10441
+    "playerid": 10441,
+    "team-2014": "Astros",
+    "team-2015-06": "Astros",
+    "team-2015-07": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -7171,7 +7412,10 @@ db.players.insert({
     },
     "2015-07-value": 109,
     "name": "Matt Wieters",
-    "playerid": 4298
+    "playerid": 4298,
+    "team-2014": "Orioles",
+    "team-2015-06": "Orioles",
+    "team-2015-07": "Orioles"
 });
 db.players.insert({
     "2015-05": {
@@ -7203,7 +7447,8 @@ db.players.insert({
     },
     "2015-05-value": 61,
     "name": "Tyler Wilson",
-    "playerid": 12691
+    "playerid": 12691,
+    "team-2015-05": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -7235,7 +7480,8 @@ db.players.insert({
     },
     "2014-value": 53,
     "name": "Justin Wilson",
-    "playerid": 4301
+    "playerid": 4301,
+    "team-2014": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -7267,7 +7513,8 @@ db.players.insert({
     },
     "2014-value": 90,
     "name": "Antoan Richardson",
-    "playerid": 209
+    "playerid": 209,
+    "team-2014": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -7383,7 +7630,11 @@ db.players.insert({
     },
     "2015-07-value": 112,
     "name": "Will Venable",
-    "playerid": 211
+    "playerid": 211,
+    "team-2014": "Rangers",
+    "team-2015-05": "Rangers",
+    "team-2015-06": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -7499,7 +7750,11 @@ db.players.insert({
     },
     "2015-07-value": 146,
     "name": "Joey Votto",
-    "playerid": 4314
+    "playerid": 4314,
+    "team-2014": "Reds",
+    "team-2015-05": "Reds",
+    "team-2015-06": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -7615,7 +7870,11 @@ db.players.insert({
     },
     "2015-07-value": 120,
     "name": "Adeiny Hechavarria",
-    "playerid": 10459
+    "playerid": 10459,
+    "team-2014": "Marlins",
+    "team-2015-05": "Marlins",
+    "team-2015-06": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -7731,7 +7990,11 @@ db.players.insert({
     },
     "2015-07-value": 117,
     "name": "Danny Valencia",
-    "playerid": 6364
+    "playerid": 6364,
+    "team-2014": "Athletics",
+    "team-2015-05": "Athletics",
+    "team-2015-06": "Athletics",
+    "team-2015-07": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -7819,7 +8082,10 @@ db.players.insert({
     },
     "2015-07-value": 120,
     "name": "Curt Casali",
-    "playerid": 12510
+    "playerid": 12510,
+    "team-2014": "Rays",
+    "team-2015-06": "Rays",
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -7935,7 +8201,11 @@ db.players.insert({
     },
     "2015-07-value": 145,
     "name": "Adam Jones",
-    "playerid": 6368
+    "playerid": 6368,
+    "team-2014": "Orioles",
+    "team-2015-05": "Orioles",
+    "team-2015-06": "Orioles",
+    "team-2015-07": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -8051,7 +8321,11 @@ db.players.insert({
     },
     "2015-07-value": 93,
     "name": "Ryan Flaherty",
-    "playerid": 7888
+    "playerid": 7888,
+    "team-2014": "Orioles",
+    "team-2015-05": "Orioles",
+    "team-2015-06": "Orioles",
+    "team-2015-07": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -8111,7 +8385,9 @@ db.players.insert({
     },
     "2015-07-value": 87,
     "name": "Ehire Adrianza",
-    "playerid": 8418
+    "playerid": 8418,
+    "team-2014": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -8143,7 +8419,8 @@ db.players.insert({
     },
     "2014-value": 70,
     "name": "Taylor Hill",
-    "playerid": 12515
+    "playerid": 12515,
+    "team-2014": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -8175,7 +8452,8 @@ db.players.insert({
     },
     "2014-value": 64,
     "name": "Rafael Montero",
-    "playerid": 12760
+    "playerid": 12760,
+    "team-2014": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -8291,7 +8569,11 @@ db.players.insert({
     },
     "2015-07-value": 103,
     "name": "Enrique Hernandez",
-    "playerid": 10472
+    "playerid": 10472,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2015-07": {
@@ -8323,7 +8605,8 @@ db.players.insert({
     },
     "2015-07-value": 93,
     "name": "Cheslor Cuthbert",
-    "playerid": 10473
+    "playerid": 10473,
+    "team-2015-07": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -8383,7 +8666,9 @@ db.players.insert({
     },
     "2015-07-value": 81,
     "name": "Tomas Telis",
-    "playerid": 10067
+    "playerid": 10067,
+    "team-2014": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -8499,7 +8784,11 @@ db.players.insert({
     },
     "2015-07-value": 91,
     "name": "Ike Davis",
-    "playerid": 8433
+    "playerid": 8433,
+    "team-2014": "Athletics",
+    "team-2015-05": "Athletics",
+    "team-2015-06": "Athletics",
+    "team-2015-07": "Athletics"
 });
 db.players.insert({
     "2015-06": {
@@ -8559,7 +8848,9 @@ db.players.insert({
     },
     "2015-07-value": 96,
     "name": "Brett Wallace",
-    "playerid": 8434
+    "playerid": 8434,
+    "team-2015-06": "Padres",
+    "team-2015-07": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -8675,7 +8966,11 @@ db.players.insert({
     },
     "2015-07-value": 117,
     "name": "Michael Bourn",
-    "playerid": 6387
+    "playerid": 6387,
+    "team-2014": "Braves",
+    "team-2015-05": "Braves",
+    "team-2015-06": "Braves",
+    "team-2015-07": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -8791,7 +9086,11 @@ db.players.insert({
     },
     "2015-07-value": 134,
     "name": "Kolten Wong",
-    "playerid": 12532
+    "playerid": 12532,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -8907,7 +9206,11 @@ db.players.insert({
     },
     "2015-07-value": 110,
     "name": "Marcus Semien",
-    "playerid": 12533
+    "playerid": 12533,
+    "team-2014": "Athletics",
+    "team-2015-05": "Athletics",
+    "team-2015-06": "Athletics",
+    "team-2015-07": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -9023,7 +9326,11 @@ db.players.insert({
     },
     "2015-07-value": 109,
     "name": "Nick Ahmed",
-    "playerid": 12147
+    "playerid": 12147,
+    "team-2014": "Diamondbacks",
+    "team-2015-05": "Diamondbacks",
+    "team-2015-06": "Diamondbacks",
+    "team-2015-07": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -9139,7 +9446,11 @@ db.players.insert({
     },
     "2015-07-value": 52,
     "name": "Carlos Villanueva",
-    "playerid": 4138
+    "playerid": 4138,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2015-06": {
@@ -9199,7 +9510,9 @@ db.players.insert({
     },
     "2015-07-value": 54,
     "name": "Trevor May",
-    "playerid": 6398
+    "playerid": 6398,
+    "team-2015-06": "Twins",
+    "team-2015-07": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -9315,7 +9628,11 @@ db.players.insert({
     },
     "2015-07-value": 118,
     "name": "Kirk Nieuwenhuis",
-    "playerid": 6400
+    "playerid": 6400,
+    "team-2014": "Mets",
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -9431,7 +9748,11 @@ db.players.insert({
     },
     "2015-07-value": 134,
     "name": "C.J. Cron",
-    "playerid": 12546
+    "playerid": 12546,
+    "team-2014": "Angels",
+    "team-2015-05": "Angels",
+    "team-2015-06": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -9463,7 +9784,8 @@ db.players.insert({
     },
     "2014-value": 61,
     "name": "Preston Claiborne",
-    "playerid": 10500
+    "playerid": 10500,
+    "team-2014": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -9495,7 +9817,8 @@ db.players.insert({
     },
     "2014-value": 64,
     "name": "Roenis Elias",
-    "playerid": 12673
+    "playerid": 12673,
+    "team-2014": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -9583,7 +9906,10 @@ db.players.insert({
     },
     "2015-07-value": 127,
     "name": "Eugenio Suarez",
-    "playerid": 12552
+    "playerid": 12552,
+    "team-2014": "Reds",
+    "team-2015-06": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -9643,7 +9969,9 @@ db.players.insert({
     },
     "2015-07-value": 74,
     "name": "Tony Cingrani",
-    "playerid": 12555
+    "playerid": 12555,
+    "team-2014": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -9759,7 +10087,11 @@ db.players.insert({
     },
     "2015-07-value": 89,
     "name": "Scott Van Slyke",
-    "playerid": 4365
+    "playerid": 4365,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2015-05": {
@@ -9847,7 +10179,10 @@ db.players.insert({
     },
     "2015-07-value": 52,
     "name": "Jeremy Hellickson",
-    "playerid": 4371
+    "playerid": 4371,
+    "team-2015-05": "Diamondbacks",
+    "team-2015-06": "Diamondbacks",
+    "team-2015-07": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -9907,7 +10242,9 @@ db.players.insert({
     },
     "2015-05-value": 61,
     "name": "Blake Treinen",
-    "playerid": 12572
+    "playerid": 12572,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -9939,7 +10276,8 @@ db.players.insert({
     },
     "2014-value": 68,
     "name": "Tim Stauffer",
-    "playerid": 6432
+    "playerid": 6432,
+    "team-2014": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -10055,7 +10393,11 @@ db.players.insert({
     },
     "2015-07-value": 54,
     "name": "Vance Worley",
-    "playerid": 6435
+    "playerid": 6435,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2015-06": {
@@ -10115,7 +10457,9 @@ db.players.insert({
     },
     "2015-07-value": 80,
     "name": "Adam Morgan",
-    "playerid": 12580
+    "playerid": 12580,
+    "team-2015-06": "Phillies",
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -10203,7 +10547,10 @@ db.players.insert({
     },
     "2015-06-value": 74,
     "name": "Kyle Blanks",
-    "playerid": 49
+    "playerid": 49,
+    "team-2014": "Rangers",
+    "team-2015-05": "Rangers",
+    "team-2015-06": "Rangers"
 });
 db.players.insert({
     "2015-05": {
@@ -10235,7 +10582,8 @@ db.players.insert({
     },
     "2015-05-value": 67,
     "name": "Mike Wright",
-    "playerid": 12586
+    "playerid": 12586,
+    "team-2015-05": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -10323,7 +10671,10 @@ db.players.insert({
     },
     "2015-07-value": 112,
     "name": "Derek Dietrich",
-    "playerid": 10542
+    "playerid": 10542,
+    "team-2014": "Marlins",
+    "team-2015-06": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -10439,7 +10790,11 @@ db.players.insert({
     },
     "2015-07-value": 125,
     "name": "Cody Asche",
-    "playerid": 11997
+    "playerid": 11997,
+    "team-2014": "Phillies",
+    "team-2015-05": "Phillies",
+    "team-2015-06": "Phillies",
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -10555,7 +10910,11 @@ db.players.insert({
     },
     "2015-07-value": 106,
     "name": "Chris Denorfia",
-    "playerid": 4400
+    "playerid": 4400,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -10671,7 +11030,11 @@ db.players.insert({
     },
     "2015-07-value": 77,
     "name": "Jimmy Nelson",
-    "playerid": 10547
+    "playerid": 10547,
+    "team-2014": "Brewers",
+    "team-2015-05": "Brewers",
+    "team-2015-06": "Brewers",
+    "team-2015-07": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -10703,7 +11066,8 @@ db.players.insert({
     },
     "2014-value": 59,
     "name": "Danny Farquhar",
-    "playerid": 8501
+    "playerid": 8501,
+    "team-2014": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -10819,7 +11183,11 @@ db.players.insert({
     },
     "2015-07-value": 136,
     "name": "Cesar Hernandez",
-    "playerid": 10556
+    "playerid": 10556,
+    "team-2014": "Phillies",
+    "team-2015-05": "Phillies",
+    "team-2015-06": "Phillies",
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -10851,7 +11219,8 @@ db.players.insert({
     },
     "2014-value": 75,
     "name": "Rafael Lopez",
-    "playerid": 12606
+    "playerid": 12606,
+    "team-2014": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -10911,7 +11280,9 @@ db.players.insert({
     },
     "2015-07-value": 67,
     "name": "Jed Lowrie",
-    "playerid": 4418
+    "playerid": 4418,
+    "team-2014": "Astros",
+    "team-2015-07": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -11027,7 +11398,11 @@ db.players.insert({
     },
     "2015-07-value": 72,
     "name": "Jon Niese",
-    "playerid": 4424
+    "playerid": 4424,
+    "team-2014": "Mets",
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2015-06": {
@@ -11087,7 +11462,9 @@ db.players.insert({
     },
     "2015-07-value": 65,
     "name": "Carlos Rodon",
-    "playerid": 16137
+    "playerid": 16137,
+    "team-2015-06": "White Sox",
+    "team-2015-07": "White Sox"
 });
 db.players.insert({
     "2014": {
@@ -11147,7 +11524,9 @@ db.players.insert({
     },
     "2015-05-value": 51,
     "name": "Ricky Nolasco",
-    "playerid": 3830
+    "playerid": 3830,
+    "team-2014": "Twins",
+    "team-2015-05": "Twins"
 });
 db.players.insert({
     "2015-05": {
@@ -11179,7 +11558,8 @@ db.players.insert({
     },
     "2015-05-value": 58,
     "name": "Addison Reed",
-    "playerid": 10586
+    "playerid": 10586,
+    "team-2015-05": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -11295,7 +11675,11 @@ db.players.insert({
     },
     "2015-07-value": 59,
     "name": "Chad Bettis",
-    "playerid": 10587
+    "playerid": 10587,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -11411,7 +11795,11 @@ db.players.insert({
     },
     "2015-07-value": 139,
     "name": "Carlos Santana",
-    "playerid": 2396
+    "playerid": 2396,
+    "team-2014": "Indians",
+    "team-2015-05": "Indians",
+    "team-2015-06": "Indians",
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2015-07": {
@@ -11443,7 +11831,8 @@ db.players.insert({
     },
     "2015-07-value": 83,
     "name": "Nate Karns",
-    "playerid": 12638
+    "playerid": 12638,
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -11531,7 +11920,10 @@ db.players.insert({
     },
     "2015-07-value": 73,
     "name": "Joey Terdoslavich",
-    "playerid": 10593
+    "playerid": 10593,
+    "team-2014": "Braves",
+    "team-2015-06": "Braves",
+    "team-2015-07": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -11647,7 +12039,11 @@ db.players.insert({
     },
     "2015-07-value": 148,
     "name": "Gerardo Parra",
-    "playerid": 8553
+    "playerid": 8553,
+    "team-2014": "Orioles",
+    "team-2015-05": "Orioles",
+    "team-2015-06": "Orioles",
+    "team-2015-07": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -11763,7 +12159,11 @@ db.players.insert({
     },
     "2015-07-value": 59,
     "name": "Chris Sale",
-    "playerid": 10603
+    "playerid": 10603,
+    "team-2014": "White Sox",
+    "team-2015-05": "White Sox",
+    "team-2015-06": "White Sox",
+    "team-2015-07": "White Sox"
 });
 db.players.insert({
     "2014": {
@@ -11795,7 +12195,8 @@ db.players.insert({
     },
     "2014-value": 90,
     "name": "Bryce Brentz",
-    "playerid": 10607
+    "playerid": 10607,
+    "team-2014": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -11911,7 +12312,11 @@ db.players.insert({
     },
     "2015-07-value": 116,
     "name": "Brandon Moss",
-    "playerid": 4467
+    "playerid": 4467,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -12027,7 +12432,11 @@ db.players.insert({
     },
     "2015-07-value": 89,
     "name": "Sam Fuld",
-    "playerid": 8254
+    "playerid": 8254,
+    "team-2014": "Athletics",
+    "team-2015-05": "Athletics",
+    "team-2015-06": "Athletics",
+    "team-2015-07": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -12143,7 +12552,11 @@ db.players.insert({
     },
     "2015-07-value": 65,
     "name": "Bartolo Colon",
-    "playerid": 375
+    "playerid": 375,
+    "team-2014": "Mets",
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -12203,7 +12616,9 @@ db.players.insert({
     },
     "2015-06-value": 61,
     "name": "Masahiro Tanaka",
-    "playerid": 15764
+    "playerid": 15764,
+    "team-2014": "Yankees",
+    "team-2015-06": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -12263,7 +12678,9 @@ db.players.insert({
     },
     "2015-07-value": 50,
     "name": "Corey Kluber",
-    "playerid": 2429
+    "playerid": 2429,
+    "team-2014": "Indians",
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -12351,7 +12768,10 @@ db.players.insert({
     },
     "2015-06-value": 81,
     "name": "Zach Walters",
-    "playerid": 10622
+    "playerid": 10622,
+    "team-2014": "Indians",
+    "team-2015-05": "Indians",
+    "team-2015-06": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -12467,7 +12887,11 @@ db.players.insert({
     },
     "2015-07-value": 94,
     "name": "Clint Barmes",
-    "playerid": 1830
+    "playerid": 1830,
+    "team-2014": "Padres",
+    "team-2015-05": "Padres",
+    "team-2015-06": "Padres",
+    "team-2015-07": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -12583,7 +13007,11 @@ db.players.insert({
     },
     "2015-07-value": 148,
     "name": "Nelson Cruz",
-    "playerid": 2434
+    "playerid": 2434,
+    "team-2014": "Mariners",
+    "team-2015-05": "Mariners",
+    "team-2015-06": "Mariners",
+    "team-2015-07": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -12671,7 +13099,10 @@ db.players.insert({
     },
     "2015-07-value": 74,
     "name": "Tyler Holt",
-    "playerid": 11391
+    "playerid": 11391,
+    "team-2014": "Reds",
+    "team-2015-05": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2015-06": {
@@ -12731,7 +13162,9 @@ db.players.insert({
     },
     "2015-07-value": 57,
     "name": "Justin Miller",
-    "playerid": 8580
+    "playerid": 8580,
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -12763,7 +13196,8 @@ db.players.insert({
     },
     "2014-value": 90,
     "name": "Maicer Izturis",
-    "playerid": 2437
+    "playerid": 2437,
+    "team-2014": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -12879,7 +13313,11 @@ db.players.insert({
     },
     "2015-07-value": 138,
     "name": "Victor Martinez",
-    "playerid": 393
+    "playerid": 393,
+    "team-2014": "Tigers",
+    "team-2015-05": "Tigers",
+    "team-2015-06": "Tigers",
+    "team-2015-07": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -12911,7 +13349,8 @@ db.players.insert({
     },
     "2014-value": 80,
     "name": "Marco Gonzales",
-    "playerid": 15467
+    "playerid": 15467,
+    "team-2014": "Cardinals"
 });
 db.players.insert({
     "2015-05": {
@@ -12943,7 +13382,8 @@ db.players.insert({
     },
     "2015-05-value": 58,
     "name": "Adam Liberatore",
-    "playerid": 10637
+    "playerid": 10637,
+    "team-2015-05": "Dodgers"
 });
 db.players.insert({
     "2015-05": {
@@ -13031,7 +13471,10 @@ db.players.insert({
     },
     "2015-07-value": 89,
     "name": "Carlos Perez",
-    "playerid": 10642
+    "playerid": 10642,
+    "team-2015-05": "Angels",
+    "team-2015-06": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -13147,7 +13590,11 @@ db.players.insert({
     },
     "2015-07-value": 98,
     "name": "Jordy Mercer",
-    "playerid": 6547
+    "playerid": 6547,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -13179,7 +13626,8 @@ db.players.insert({
     },
     "2014-value": 50,
     "name": "CC Sabathia",
-    "playerid": 404
+    "playerid": 404,
+    "team-2014": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -13295,7 +13743,11 @@ db.players.insert({
     },
     "2015-07-value": 52,
     "name": "Jordan Zimmermann",
-    "playerid": 4505
+    "playerid": 4505,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -13411,7 +13863,11 @@ db.players.insert({
     },
     "2015-07-value": 129,
     "name": "Billy Burns",
-    "playerid": 12701
+    "playerid": 12701,
+    "team-2014": "Athletics",
+    "team-2015-05": "Athletics",
+    "team-2015-06": "Athletics",
+    "team-2015-07": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -13499,7 +13955,10 @@ db.players.insert({
     },
     "2015-07-value": 62,
     "name": "Trevor Bauer",
-    "playerid": 12703
+    "playerid": 12703,
+    "team-2014": "Indians",
+    "team-2015-06": "Indians",
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -13615,7 +14074,11 @@ db.players.insert({
     },
     "2015-07-value": 143,
     "name": "Kendrys Morales",
-    "playerid": 8610
+    "playerid": 8610,
+    "team-2014": "Royals",
+    "team-2015-05": "Royals",
+    "team-2015-06": "Royals",
+    "team-2015-07": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -13731,7 +14194,11 @@ db.players.insert({
     },
     "2015-07-value": 55,
     "name": "Bobby Wilson",
-    "playerid": 6564
+    "playerid": 6564,
+    "team-2014": "Rangers",
+    "team-2015-05": "Rangers",
+    "team-2015-06": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -13847,7 +14314,11 @@ db.players.insert({
     },
     "2015-07-value": 61,
     "name": "Tyler Lyons",
-    "playerid": 11334
+    "playerid": 11334,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -13963,7 +14434,11 @@ db.players.insert({
     },
     "2015-07-value": 55,
     "name": "Tom Koehler",
-    "playerid": 6570
+    "playerid": 6570,
+    "team-2014": "Marlins",
+    "team-2015-05": "Marlins",
+    "team-2015-06": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -14079,7 +14554,11 @@ db.players.insert({
     },
     "2015-07-value": 57,
     "name": "Donovan Solano",
-    "playerid": 8623
+    "playerid": 8623,
+    "team-2014": "Marlins",
+    "team-2015-05": "Marlins",
+    "team-2015-06": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2015-06": {
@@ -14111,7 +14590,8 @@ db.players.insert({
     },
     "2015-06-value": 53,
     "name": "Mitchell Harris",
-    "playerid": 4530
+    "playerid": 4530,
+    "team-2015-06": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -14227,7 +14707,11 @@ db.players.insert({
     },
     "2015-07-value": 62,
     "name": "Tyler Collins",
-    "playerid": 12723
+    "playerid": 12723,
+    "team-2014": "Tigers",
+    "team-2015-05": "Tigers",
+    "team-2015-06": "Tigers",
+    "team-2015-07": "Tigers"
 });
 db.players.insert({
     "2015-05": {
@@ -14287,7 +14771,9 @@ db.players.insert({
     },
     "2015-07-value": 112,
     "name": "Paulo Orlando",
-    "playerid": 8628
+    "playerid": 8628,
+    "team-2015-05": "Royals",
+    "team-2015-07": "Royals"
 });
 db.players.insert({
     "2015-05": {
@@ -14347,7 +14833,9 @@ db.players.insert({
     },
     "2015-06-value": 63,
     "name": "Edward Easley",
-    "playerid": 2487
+    "playerid": 2487,
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals"
 });
 db.players.insert({
     "2015-06": {
@@ -14407,7 +14895,9 @@ db.players.insert({
     },
     "2015-07-value": 114,
     "name": "Giovanny Urshela",
-    "playerid": 10681
+    "playerid": 10681,
+    "team-2015-06": "Indians",
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -14523,7 +15013,11 @@ db.players.insert({
     },
     "2015-07-value": 52,
     "name": "Jason Hammel",
-    "playerid": 4538
+    "playerid": 4538,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -14639,7 +15133,11 @@ db.players.insert({
     },
     "2015-07-value": 89,
     "name": "Sean Rodriguez",
-    "playerid": 6589
+    "playerid": 6589,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -14755,7 +15253,11 @@ db.players.insert({
     },
     "2015-07-value": 133,
     "name": "Pedro Alvarez",
-    "playerid": 2495
+    "playerid": 2495,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -14787,7 +15289,8 @@ db.players.insert({
     },
     "2014-value": 62,
     "name": "Tyler Thornburg",
-    "playerid": 10688
+    "playerid": 10688,
+    "team-2014": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -14875,7 +15378,10 @@ db.players.insert({
     },
     "2015-06-value": 60,
     "name": "Tsuyoshi Wada",
-    "playerid": 13046
+    "playerid": 13046,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -14991,7 +15497,11 @@ db.players.insert({
     },
     "2015-07-value": 119,
     "name": "Juan Uribe",
-    "playerid": 454
+    "playerid": 454,
+    "team-2014": "Mets",
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -15107,7 +15617,11 @@ db.players.insert({
     },
     "2015-07-value": 105,
     "name": "Hank Conger",
-    "playerid": 2505
+    "playerid": 2505,
+    "team-2014": "Astros",
+    "team-2015-05": "Astros",
+    "team-2015-06": "Astros",
+    "team-2015-07": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -15139,7 +15653,8 @@ db.players.insert({
     },
     "2014-value": 110,
     "name": "Mike Olt",
-    "playerid": 10698
+    "playerid": 10698,
+    "team-2014": "White Sox"
 });
 db.players.insert({
     "2014": {
@@ -15227,7 +15742,10 @@ db.players.insert({
     },
     "2015-07-value": 109,
     "name": "James Loney",
-    "playerid": 4556
+    "playerid": 4556,
+    "team-2014": "Rays",
+    "team-2015-05": "Rays",
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -15259,7 +15777,8 @@ db.players.insert({
     },
     "2014-value": 74,
     "name": "Alex Cobb",
-    "playerid": 6562
+    "playerid": 6562,
+    "team-2014": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -15375,7 +15894,11 @@ db.players.insert({
     },
     "2015-07-value": 135,
     "name": "Freddy Galvis",
-    "playerid": 6609
+    "playerid": 6609,
+    "team-2014": "Phillies",
+    "team-2015-05": "Phillies",
+    "team-2015-06": "Phillies",
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -15407,7 +15930,8 @@ db.players.insert({
     },
     "2014-value": 116,
     "name": "Arismendy Alcantara",
-    "playerid": 10711
+    "playerid": 10711,
+    "team-2014": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -15523,7 +16047,11 @@ db.players.insert({
     },
     "2015-07-value": 82,
     "name": "Lance Lynn",
-    "playerid": 2520
+    "playerid": 2520,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -15583,7 +16111,9 @@ db.players.insert({
     },
     "2015-07-value": 70,
     "name": "Sonny Gray",
-    "playerid": 12768
+    "playerid": 12768,
+    "team-2014": "Athletics",
+    "team-2015-07": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -15699,7 +16229,11 @@ db.players.insert({
     },
     "2015-07-value": 115,
     "name": "Yonder Alonso",
-    "playerid": 2530
+    "playerid": 2530,
+    "team-2014": "Padres",
+    "team-2015-05": "Padres",
+    "team-2015-06": "Padres",
+    "team-2015-07": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -15815,7 +16349,11 @@ db.players.insert({
     },
     "2015-07-value": 113,
     "name": "Chris Colabello",
-    "playerid": 13051
+    "playerid": 13051,
+    "team-2014": "Blue Jays",
+    "team-2015-05": "Blue Jays",
+    "team-2015-06": "Blue Jays",
+    "team-2015-07": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -15931,7 +16469,11 @@ db.players.insert({
     },
     "2015-07-value": 122,
     "name": "Brad Miller",
-    "playerid": 12775
+    "playerid": 12775,
+    "team-2014": "Mariners",
+    "team-2015-05": "Mariners",
+    "team-2015-06": "Mariners",
+    "team-2015-07": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -15991,7 +16533,9 @@ db.players.insert({
     },
     "2015-07-value": 68,
     "name": "Carlos Carrasco",
-    "playerid": 6632
+    "playerid": 6632,
+    "team-2014": "Indians",
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -16023,7 +16567,8 @@ db.players.insert({
     },
     "2014-value": 78,
     "name": "Quintin Berry",
-    "playerid": 9414
+    "playerid": 9414,
+    "team-2014": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -16139,7 +16684,11 @@ db.players.insert({
     },
     "2015-07-value": 84,
     "name": "Pete Kozma",
-    "playerid": 2539
+    "playerid": 2539,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -16199,7 +16748,9 @@ db.players.insert({
     },
     "2015-07-value": 59,
     "name": "Drew Hutchison",
-    "playerid": 10732
+    "playerid": 10732,
+    "team-2014": "Blue Jays",
+    "team-2015-07": "Blue Jays"
 });
 db.players.insert({
     "2015-07": {
@@ -16231,7 +16782,8 @@ db.players.insert({
     },
     "2015-07-value": 71,
     "name": "Sean Gilmartin",
-    "playerid": 12781
+    "playerid": 12781,
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -16263,7 +16815,8 @@ db.players.insert({
     },
     "2014-value": 113,
     "name": "Tommy La Stella",
-    "playerid": 12371
+    "playerid": 12371,
+    "team-2014": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -16351,7 +16904,10 @@ db.players.insert({
     },
     "2015-06-value": 76,
     "name": "Nick Swisher",
-    "playerid": 4599
+    "playerid": 4599,
+    "team-2014": "Braves",
+    "team-2015-05": "Braves",
+    "team-2015-06": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -16383,7 +16939,8 @@ db.players.insert({
     },
     "2014-value": 62,
     "name": "Trevor Rosenthal",
-    "playerid": 10745
+    "playerid": 10745,
+    "team-2014": "Cardinals"
 });
 db.players.insert({
     "2015-05": {
@@ -16471,7 +17028,10 @@ db.players.insert({
     },
     "2015-07-value": 82,
     "name": "Michael Lorenzen",
-    "playerid": 14843
+    "playerid": 14843,
+    "team-2015-05": "Reds",
+    "team-2015-06": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -16503,7 +17063,8 @@ db.players.insert({
     },
     "2014-value": 75,
     "name": "Justin Verlander",
-    "playerid": 8700
+    "playerid": 8700,
+    "team-2014": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -16563,7 +17124,9 @@ db.players.insert({
     },
     "2015-05-value": 61,
     "name": "Dalton Pompey",
-    "playerid": 12797
+    "playerid": 12797,
+    "team-2014": "Blue Jays",
+    "team-2015-05": "Blue Jays"
 });
 db.players.insert({
     "2015-07": {
@@ -16595,7 +17158,8 @@ db.players.insert({
     },
     "2015-07-value": 63,
     "name": "Cody Anderson",
-    "playerid": 12799
+    "playerid": 12799,
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -16655,7 +17219,9 @@ db.players.insert({
     },
     "2015-07-value": 81,
     "name": "L.J. Hoes",
-    "playerid": 6656
+    "playerid": 6656,
+    "team-2014": "Astros",
+    "team-2015-07": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -16687,7 +17253,8 @@ db.players.insert({
     },
     "2014-value": 53,
     "name": "Zach Duke",
-    "playerid": 3840
+    "playerid": 3840,
+    "team-2014": "White Sox"
 });
 db.players.insert({
     "2015-05": {
@@ -16747,7 +17314,9 @@ db.players.insert({
     },
     "2015-06-value": 68,
     "name": "Carter Capps",
-    "playerid": 12803
+    "playerid": 12803,
+    "team-2015-05": "Marlins",
+    "team-2015-06": "Marlins"
 });
 db.players.insert({
     "2015-06": {
@@ -16807,7 +17376,9 @@ db.players.insert({
     },
     "2015-07-value": 74,
     "name": "Matthew Wisler",
-    "playerid": 12804
+    "playerid": 12804,
+    "team-2015-06": "Braves",
+    "team-2015-07": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -16923,7 +17494,11 @@ db.players.insert({
     },
     "2015-07-value": 131,
     "name": "Elvis Andrus",
-    "playerid": 8709
+    "playerid": 8709,
+    "team-2014": "Rangers",
+    "team-2015-05": "Rangers",
+    "team-2015-06": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -17039,7 +17614,11 @@ db.players.insert({
     },
     "2015-07-value": 132,
     "name": "Russell Martin",
-    "playerid": 4616
+    "playerid": 4616,
+    "team-2014": "Blue Jays",
+    "team-2015-05": "Blue Jays",
+    "team-2015-06": "Blue Jays",
+    "team-2015-07": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -17155,7 +17734,11 @@ db.players.insert({
     },
     "2015-07-value": 90,
     "name": "Corey Dickerson",
-    "playerid": 10762
+    "playerid": 10762,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2015-07": {
@@ -17187,7 +17770,8 @@ db.players.insert({
     },
     "2015-07-value": 64,
     "name": "Zachary Godley",
-    "playerid": 14862
+    "playerid": 14862,
+    "team-2015-07": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -17219,7 +17803,8 @@ db.players.insert({
     },
     "2014-value": 69,
     "name": "Lane Adams",
-    "playerid": 10767
+    "playerid": 10767,
+    "team-2014": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -17251,7 +17836,8 @@ db.players.insert({
     },
     "2014-value": 58,
     "name": "Tony Sipp",
-    "playerid": 8280
+    "playerid": 8280,
+    "team-2014": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -17367,7 +17953,11 @@ db.players.insert({
     },
     "2015-07-value": 109,
     "name": "Jason Castro",
-    "playerid": 8722
+    "playerid": 8722,
+    "team-2014": "Astros",
+    "team-2015-05": "Astros",
+    "team-2015-06": "Astros",
+    "team-2015-07": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -17483,7 +18073,11 @@ db.players.insert({
     },
     "2015-07-value": 105,
     "name": "Carlos Ruiz",
-    "playerid": 2579
+    "playerid": 2579,
+    "team-2014": "Phillies",
+    "team-2015-05": "Phillies",
+    "team-2015-06": "Phillies",
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -17599,7 +18193,11 @@ db.players.insert({
     },
     "2015-07-value": 100,
     "name": "J.B. Shuck",
-    "playerid": 6677
+    "playerid": 6677,
+    "team-2014": "White Sox",
+    "team-2015-05": "White Sox",
+    "team-2015-06": "White Sox",
+    "team-2015-07": "White Sox"
 });
 db.players.insert({
     "2014": {
@@ -17715,7 +18313,11 @@ db.players.insert({
     },
     "2015-07-value": 140,
     "name": "Albert Pujols",
-    "playerid": 1177
+    "playerid": 1177,
+    "team-2014": "Angels",
+    "team-2015-05": "Angels",
+    "team-2015-06": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2015-05": {
@@ -17747,7 +18349,8 @@ db.players.insert({
     },
     "2015-05-value": 54,
     "name": "Miguel Socolovich",
-    "playerid": 6697
+    "playerid": 6697,
+    "team-2015-05": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -17779,7 +18382,8 @@ db.players.insert({
     },
     "2014-value": 62,
     "name": "Josh Edgin",
-    "playerid": 10796
+    "playerid": 10796,
+    "team-2014": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -17811,7 +18415,8 @@ db.players.insert({
     },
     "2014-value": 81,
     "name": "Jhoulys Chacin",
-    "playerid": 2608
+    "playerid": 2608,
+    "team-2014": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -17927,7 +18532,11 @@ db.players.insert({
     },
     "2015-07-value": 76,
     "name": "Tanner Roark",
-    "playerid": 8753
+    "playerid": 8753,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -17987,7 +18596,9 @@ db.players.insert({
     },
     "2015-06-value": 51,
     "name": "Andre Rienzo",
-    "playerid": 3507
+    "playerid": 3507,
+    "team-2014": "Marlins",
+    "team-2015-06": "Marlins"
 });
 db.players.insert({
     "2015-07": {
@@ -18019,7 +18630,8 @@ db.players.insert({
     },
     "2015-07-value": 63,
     "name": "Elvis Araujo",
-    "playerid": 12854
+    "playerid": 12854,
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2015-07": {
@@ -18051,7 +18663,8 @@ db.players.insert({
     },
     "2015-07-value": 123,
     "name": "Tyler Saladino",
-    "playerid": 10807
+    "playerid": 10807,
+    "team-2015-07": "White Sox"
 });
 db.players.insert({
     "2014": {
@@ -18167,7 +18780,11 @@ db.players.insert({
     },
     "2015-07-value": 80,
     "name": "George Springer",
-    "playerid": 12856
+    "playerid": 12856,
+    "team-2014": "Astros",
+    "team-2015-05": "Astros",
+    "team-2015-06": "Astros",
+    "team-2015-07": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -18283,7 +18900,11 @@ db.players.insert({
     },
     "2015-07-value": 120,
     "name": "James McCann",
-    "playerid": 12859
+    "playerid": 12859,
+    "team-2014": "Tigers",
+    "team-2015-05": "Tigers",
+    "team-2015-06": "Tigers",
+    "team-2015-07": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -18371,7 +18992,10 @@ db.players.insert({
     },
     "2015-07-value": 85,
     "name": "Anthony Rendon",
-    "playerid": 12861
+    "playerid": 12861,
+    "team-2014": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -18487,7 +19111,11 @@ db.players.insert({
     },
     "2015-07-value": 122,
     "name": "Jedd Gyorko",
-    "playerid": 10816
+    "playerid": 10816,
+    "team-2014": "Padres",
+    "team-2015-05": "Padres",
+    "team-2015-06": "Padres",
+    "team-2015-07": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -18603,7 +19231,11 @@ db.players.insert({
     },
     "2015-07-value": 52,
     "name": "Charlie Morton",
-    "playerid": 4676
+    "playerid": 4676,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2015-05": {
@@ -18663,7 +19295,9 @@ db.players.insert({
     },
     "2015-06-value": 91,
     "name": "Todd Cunningham",
-    "playerid": 10822
+    "playerid": 10822,
+    "team-2015-05": "Angels",
+    "team-2015-06": "Angels"
 });
 db.players.insert({
     "2015-06": {
@@ -18695,7 +19329,8 @@ db.players.insert({
     },
     "2015-06-value": 50,
     "name": "Jeremy Affeldt",
-    "playerid": 583
+    "playerid": 583,
+    "team-2015-06": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -18727,7 +19362,8 @@ db.players.insert({
     },
     "2014-value": 86,
     "name": "Wade Miley",
-    "playerid": 8779
+    "playerid": 8779,
+    "team-2014": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -18843,7 +19479,11 @@ db.players.insert({
     },
     "2015-07-value": 99,
     "name": "Brandon Guyer",
-    "playerid": 2636
+    "playerid": 2636,
+    "team-2014": "Rays",
+    "team-2015-05": "Rays",
+    "team-2015-06": "Rays",
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -18959,7 +19599,11 @@ db.players.insert({
     },
     "2015-07-value": 100,
     "name": "Carlos Beltran",
-    "playerid": 589
+    "playerid": 589,
+    "team-2014": "Yankees",
+    "team-2015-05": "Yankees",
+    "team-2015-06": "Yankees",
+    "team-2015-07": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -19075,7 +19719,11 @@ db.players.insert({
     },
     "2015-07-value": 57,
     "name": "Andrew Cashner",
-    "playerid": 8782
+    "playerid": 8782,
+    "team-2014": "Padres",
+    "team-2015-05": "Padres",
+    "team-2015-06": "Padres",
+    "team-2015-07": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -19191,7 +19839,11 @@ db.players.insert({
     },
     "2015-07-value": 131,
     "name": "Johnny Giavotella",
-    "playerid": 6740
+    "playerid": 6740,
+    "team-2014": "Angels",
+    "team-2015-05": "Angels",
+    "team-2015-06": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -19223,7 +19875,8 @@ db.players.insert({
     },
     "2014-value": 54,
     "name": "Brandon Maurer",
-    "playerid": 4878
+    "playerid": 4878,
+    "team-2014": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -19255,7 +19908,8 @@ db.players.insert({
     },
     "2014-value": 93,
     "name": "Matthew Clark",
-    "playerid": 8793
+    "playerid": 8793,
+    "team-2014": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -19287,7 +19941,8 @@ db.players.insert({
     },
     "2014-value": 65,
     "name": "Wei-Yin Chen",
-    "playerid": 13071
+    "playerid": 13071,
+    "team-2014": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -19347,7 +20002,9 @@ db.players.insert({
     },
     "2015-07-value": 74,
     "name": "Nick Martinez",
-    "playerid": 12730
+    "playerid": 12730,
+    "team-2014": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -19463,7 +20120,11 @@ db.players.insert({
     },
     "2015-07-value": 104,
     "name": "Andrelton Simmons",
-    "playerid": 10847
+    "playerid": 10847,
+    "team-2014": "Braves",
+    "team-2015-05": "Braves",
+    "team-2015-06": "Braves",
+    "team-2015-07": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -19579,7 +20240,11 @@ db.players.insert({
     },
     "2015-07-value": 117,
     "name": "Justin Upton",
-    "playerid": 5222
+    "playerid": 5222,
+    "team-2014": "Padres",
+    "team-2015-05": "Padres",
+    "team-2015-06": "Padres",
+    "team-2015-07": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -19695,7 +20360,11 @@ db.players.insert({
     },
     "2015-07-value": 130,
     "name": "Todd Frazier",
-    "playerid": 785
+    "playerid": 785,
+    "team-2014": "Reds",
+    "team-2015-05": "Reds",
+    "team-2015-06": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -19811,7 +20480,11 @@ db.players.insert({
     },
     "2015-07-value": 119,
     "name": "Ben Revere",
-    "playerid": 4712
+    "playerid": 4712,
+    "team-2014": "Blue Jays",
+    "team-2015-05": "Blue Jays",
+    "team-2015-06": "Blue Jays",
+    "team-2015-07": "Blue Jays"
 });
 db.players.insert({
     "2015-07": {
@@ -19843,7 +20516,8 @@ db.players.insert({
     },
     "2015-07-value": 63,
     "name": "Logan Verrett",
-    "playerid": 12905
+    "playerid": 12905,
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -19959,7 +20633,11 @@ db.players.insert({
     },
     "2015-07-value": 139,
     "name": "Gregory Polanco",
-    "playerid": 12907
+    "playerid": 12907,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -20075,7 +20753,11 @@ db.players.insert({
     },
     "2015-07-value": 137,
     "name": "Chase Headley",
-    "playerid": 4720
+    "playerid": 4720,
+    "team-2014": "Yankees",
+    "team-2015-05": "Yankees",
+    "team-2015-06": "Yankees",
+    "team-2015-07": "Yankees"
 });
 db.players.insert({
     "2015-05": {
@@ -20163,7 +20845,10 @@ db.players.insert({
     },
     "2015-07-value": 128,
     "name": "Yasmany Tomas",
-    "playerid": 17171
+    "playerid": 17171,
+    "team-2015-05": "Diamondbacks",
+    "team-2015-06": "Diamondbacks",
+    "team-2015-07": "Diamondbacks"
 });
 db.players.insert({
     "2015-06": {
@@ -20223,7 +20908,9 @@ db.players.insert({
     },
     "2015-07-value": 142,
     "name": "Francisco Lindor",
-    "playerid": 12916
+    "playerid": 12916,
+    "team-2015-06": "Indians",
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -20339,7 +21026,11 @@ db.players.insert({
     },
     "2015-07-value": 109,
     "name": "Brandon Barnes",
-    "playerid": 629
+    "playerid": 629,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2015-05": {
@@ -20399,7 +21090,9 @@ db.players.insert({
     },
     "2015-06-value": 60,
     "name": "Archie Bradley",
-    "playerid": 12918
+    "playerid": 12918,
+    "team-2015-05": "Diamondbacks",
+    "team-2015-06": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -20487,7 +21180,10 @@ db.players.insert({
     },
     "2015-07-value": 123,
     "name": "Jacoby Ellsbury",
-    "playerid": 4727
+    "playerid": 4727,
+    "team-2014": "Yankees",
+    "team-2015-05": "Yankees",
+    "team-2015-07": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -20603,7 +21299,11 @@ db.players.insert({
     },
     "2015-07-value": 93,
     "name": "Rusney Castillo",
-    "playerid": 17016
+    "playerid": 17016,
+    "team-2014": "Red Sox",
+    "team-2015-05": "Red Sox",
+    "team-2015-06": "Red Sox",
+    "team-2015-07": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -20663,7 +21363,9 @@ db.players.insert({
     },
     "2015-07-value": 52,
     "name": "Matt Cain",
-    "playerid": 4732
+    "playerid": 4732,
+    "team-2014": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -20779,7 +21481,11 @@ db.players.insert({
     },
     "2015-07-value": 140,
     "name": "Ryan Howard",
-    "playerid": 2154
+    "playerid": 2154,
+    "team-2014": "Phillies",
+    "team-2015-05": "Phillies",
+    "team-2015-06": "Phillies",
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -20811,7 +21517,8 @@ db.players.insert({
     },
     "2014-value": 54,
     "name": "Sergio Santos",
-    "playerid": 4734
+    "playerid": 4734,
+    "team-2014": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -20927,7 +21634,11 @@ db.players.insert({
     },
     "2015-07-value": 129,
     "name": "Adrian Beltre",
-    "playerid": 639
+    "playerid": 639,
+    "team-2014": "Rangers",
+    "team-2015-05": "Rangers",
+    "team-2015-06": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -21015,7 +21726,10 @@ db.players.insert({
     },
     "2015-07-value": 94,
     "name": "Dioner Navarro",
-    "playerid": 3179
+    "playerid": 3179,
+    "team-2014": "Blue Jays",
+    "team-2015-06": "Blue Jays",
+    "team-2015-07": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -21075,7 +21789,9 @@ db.players.insert({
     },
     "2015-05-value": 85,
     "name": "Collin Cowgill",
-    "playerid": 7250
+    "playerid": 7250,
+    "team-2014": "Angels",
+    "team-2015-05": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -21107,7 +21823,8 @@ db.players.insert({
     },
     "2014-value": 88,
     "name": "Hyun-Jin Ryu",
-    "playerid": 14444
+    "playerid": 14444,
+    "team-2014": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -21223,7 +21940,11 @@ db.players.insert({
     },
     "2015-07-value": 139,
     "name": "Curtis Granderson",
-    "playerid": 4747
+    "playerid": 4747,
+    "team-2014": "Mets",
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -21283,7 +22004,9 @@ db.players.insert({
     },
     "2015-06-value": 56,
     "name": "Antonio Bastardo",
-    "playerid": 8844
+    "playerid": 8844,
+    "team-2014": "Pirates",
+    "team-2015-06": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -21399,7 +22122,11 @@ db.players.insert({
     },
     "2015-07-value": 55,
     "name": "Julio Teheran",
-    "playerid": 6797
+    "playerid": 6797,
+    "team-2014": "Braves",
+    "team-2015-05": "Braves",
+    "team-2015-06": "Braves",
+    "team-2015-07": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -21431,7 +22158,8 @@ db.players.insert({
     },
     "2014-value": 59,
     "name": "Jared Hughes",
-    "playerid": 9325
+    "playerid": 9325,
+    "team-2014": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -21463,7 +22191,8 @@ db.players.insert({
     },
     "2014-value": 109,
     "name": "Javier Baez",
-    "playerid": 12979
+    "playerid": 12979,
+    "team-2014": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -21495,7 +22224,8 @@ db.players.insert({
     },
     "2014-value": 107,
     "name": "Josmil Pinto",
-    "playerid": 6806
+    "playerid": 6806,
+    "team-2014": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -21527,7 +22257,8 @@ db.players.insert({
     },
     "2014-value": 70,
     "name": "Nick Tepesch",
-    "playerid": 11716
+    "playerid": 11716,
+    "team-2014": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -21559,7 +22290,8 @@ db.players.insert({
     },
     "2014-value": 50,
     "name": "Rick Porcello",
-    "playerid": 2717
+    "playerid": 2717,
+    "team-2014": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -21647,7 +22379,10 @@ db.players.insert({
     },
     "2015-06-value": 51,
     "name": "David Price",
-    "playerid": 3184
+    "playerid": 3184,
+    "team-2014": "Blue Jays",
+    "team-2015-05": "Blue Jays",
+    "team-2015-06": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -21679,7 +22414,8 @@ db.players.insert({
     },
     "2014-value": 56,
     "name": "Robbie Ross",
-    "playerid": 6819
+    "playerid": 6819,
+    "team-2014": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -21711,7 +22447,8 @@ db.players.insert({
     },
     "2014-value": 54,
     "name": "Felix Hernandez",
-    "playerid": 4772
+    "playerid": 4772,
+    "team-2014": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -21827,7 +22564,11 @@ db.players.insert({
     },
     "2015-07-value": 138,
     "name": "Lucas Duda",
-    "playerid": 2502
+    "playerid": 2502,
+    "team-2014": "Mets",
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -21887,7 +22628,9 @@ db.players.insert({
     },
     "2015-07-value": 53,
     "name": "Matt Shoemaker",
-    "playerid": 4776
+    "playerid": 4776,
+    "team-2014": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -21919,7 +22662,8 @@ db.players.insert({
     },
     "2014-value": 100,
     "name": "Rymer Liriano",
-    "playerid": 4779
+    "playerid": 4779,
+    "team-2014": "Padres"
 });
 db.players.insert({
     "2015-06": {
@@ -21979,7 +22723,9 @@ db.players.insert({
     },
     "2015-07-value": 63,
     "name": "Joe Ross",
-    "playerid": 12972
+    "playerid": 12972,
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -22039,7 +22785,9 @@ db.players.insert({
     },
     "2015-05-value": 58,
     "name": "Christian Bergman",
-    "playerid": 10925
+    "playerid": 10925,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies"
 });
 db.players.insert({
     "2015-05": {
@@ -22127,7 +22875,10 @@ db.players.insert({
     },
     "2015-07-value": 92,
     "name": "Austin Hedges",
-    "playerid": 12976
+    "playerid": 12976,
+    "team-2015-05": "Padres",
+    "team-2015-06": "Padres",
+    "team-2015-07": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -22159,7 +22910,8 @@ db.players.insert({
     },
     "2014-value": 58,
     "name": "Carlos Torres",
-    "playerid": 7624
+    "playerid": 7624,
+    "team-2014": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -22275,7 +23027,11 @@ db.players.insert({
     },
     "2015-07-value": 124,
     "name": "Justin Turner",
-    "playerid": 5235
+    "playerid": 5235,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -22391,7 +23147,11 @@ db.players.insert({
     },
     "2015-07-value": 119,
     "name": "Kevin Kiermaier",
-    "playerid": 11038
+    "playerid": 11038,
+    "team-2014": "Rays",
+    "team-2015-05": "Rays",
+    "team-2015-06": "Rays",
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -22507,7 +23267,11 @@ db.players.insert({
     },
     "2015-07-value": 118,
     "name": "Jeff Francoeur",
-    "playerid": 4792
+    "playerid": 4792,
+    "team-2014": "Phillies",
+    "team-2015-05": "Phillies",
+    "team-2015-06": "Phillies",
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -22595,7 +23359,10 @@ db.players.insert({
     },
     "2015-07-value": 101,
     "name": "Travis Ishikawa",
-    "playerid": 4793
+    "playerid": 4793,
+    "team-2014": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -22655,7 +23422,9 @@ db.players.insert({
     },
     "2015-05-value": 62,
     "name": "Andrew Chafin",
-    "playerid": 12988
+    "playerid": 12988,
+    "team-2014": "Diamondbacks",
+    "team-2015-05": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -22715,7 +23484,9 @@ db.players.insert({
     },
     "2015-05-value": 56,
     "name": "Vidal Nuno",
-    "playerid": 9674
+    "playerid": 9674,
+    "team-2014": "Mariners",
+    "team-2015-05": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -22775,7 +23546,9 @@ db.players.insert({
     },
     "2015-05-value": 82,
     "name": "Allen Craig",
-    "playerid": 3433
+    "playerid": 3433,
+    "team-2014": "Red Sox",
+    "team-2015-05": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -22891,7 +23664,11 @@ db.players.insert({
     },
     "2015-07-value": 86,
     "name": "Eduardo Nunez",
-    "playerid": 6848
+    "playerid": 6848,
+    "team-2014": "Twins",
+    "team-2015-05": "Twins",
+    "team-2015-06": "Twins",
+    "team-2015-07": "Twins"
 });
 db.players.insert({
     "2015-06": {
@@ -22951,7 +23728,9 @@ db.players.insert({
     },
     "2015-07-value": 60,
     "name": "Josh Smith",
-    "playerid": 10946
+    "playerid": 10946,
+    "team-2015-06": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -22983,7 +23762,8 @@ db.players.insert({
     },
     "2014-value": 96,
     "name": "Adam Duvall",
-    "playerid": 10950
+    "playerid": 10950,
+    "team-2014": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -23071,7 +23851,10 @@ db.players.insert({
     },
     "2015-07-value": 77,
     "name": "Greg Garcia",
-    "playerid": 10951
+    "playerid": 10951,
+    "team-2014": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -23131,7 +23914,9 @@ db.players.insert({
     },
     "2015-05-value": 92,
     "name": "Phil Gosselin",
-    "playerid": 10953
+    "playerid": 10953,
+    "team-2014": "Diamondbacks",
+    "team-2015-05": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -23247,7 +24032,11 @@ db.players.insert({
     },
     "2015-07-value": 81,
     "name": "Jacob deGrom",
-    "playerid": 10954
+    "playerid": 10954,
+    "team-2014": "Mets",
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -23279,7 +24068,8 @@ db.players.insert({
     },
     "2014-value": 73,
     "name": "Marcus Stroman",
-    "playerid": 13431
+    "playerid": 13431,
+    "team-2014": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -23311,7 +24101,8 @@ db.players.insert({
     },
     "2014-value": 56,
     "name": "Jeff Manship",
-    "playerid": 6865
+    "playerid": 6865,
+    "team-2014": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -23343,7 +24134,8 @@ db.players.insert({
     },
     "2014-value": 81,
     "name": "Jacob Turner",
-    "playerid": 10185
+    "playerid": 10185,
+    "team-2014": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -23459,7 +24251,11 @@ db.players.insert({
     },
     "2015-07-value": 111,
     "name": "Derek Norris",
-    "playerid": 6867
+    "playerid": 6867,
+    "team-2014": "Padres",
+    "team-2015-05": "Padres",
+    "team-2015-06": "Padres",
+    "team-2015-07": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -23547,7 +24343,10 @@ db.players.insert({
     },
     "2015-07-value": 110,
     "name": "Ryan Rua",
-    "playerid": 12409
+    "playerid": 12409,
+    "team-2014": "Rangers",
+    "team-2015-06": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -23607,7 +24406,9 @@ db.players.insert({
     },
     "2015-07-value": 50,
     "name": "LaTroy Hawkins",
-    "playerid": 729
+    "playerid": 729,
+    "team-2014": "Blue Jays",
+    "team-2015-07": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -23723,7 +24524,11 @@ db.players.insert({
     },
     "2015-07-value": 119,
     "name": "Torii Hunter",
-    "playerid": 731
+    "playerid": 731,
+    "team-2014": "Twins",
+    "team-2015-05": "Twins",
+    "team-2015-06": "Twins",
+    "team-2015-07": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -23839,7 +24644,11 @@ db.players.insert({
     },
     "2015-07-value": 128,
     "name": "Mark Trumbo",
-    "playerid": 6876
+    "playerid": 6876,
+    "team-2014": "Mariners",
+    "team-2015-05": "Mariners",
+    "team-2015-06": "Mariners",
+    "team-2015-07": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -23955,7 +24764,11 @@ db.players.insert({
     },
     "2015-07-value": 123,
     "name": "Chris Coghlan",
-    "playerid": 6878
+    "playerid": 6878,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2015-05": {
@@ -24043,7 +24856,10 @@ db.players.insert({
     },
     "2015-07-value": 87,
     "name": "Johnny Monell",
-    "playerid": 2783
+    "playerid": 2783,
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -24159,7 +24975,11 @@ db.players.insert({
     },
     "2015-07-value": 84,
     "name": "Kyle Lohse",
-    "playerid": 739
+    "playerid": 739,
+    "team-2014": "Brewers",
+    "team-2015-05": "Brewers",
+    "team-2015-06": "Brewers",
+    "team-2015-07": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -24275,7 +25095,11 @@ db.players.insert({
     },
     "2015-07-value": 125,
     "name": "Logan Forsythe",
-    "playerid": 7185
+    "playerid": 7185,
+    "team-2014": "Rays",
+    "team-2015-05": "Rays",
+    "team-2015-06": "Rays",
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -24391,7 +25215,11 @@ db.players.insert({
     },
     "2015-07-value": 131,
     "name": "Ian Desmond",
-    "playerid": 6885
+    "playerid": 6885,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -24423,7 +25251,8 @@ db.players.insert({
     },
     "2014-value": 70,
     "name": "Chase Whitley",
-    "playerid": 10982
+    "playerid": 10982,
+    "team-2014": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -24539,7 +25368,11 @@ db.players.insert({
     },
     "2015-07-value": 76,
     "name": "Martin Maldonado",
-    "playerid": 6887
+    "playerid": 6887,
+    "team-2014": "Brewers",
+    "team-2015-05": "Brewers",
+    "team-2015-06": "Brewers",
+    "team-2015-07": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -24655,7 +25488,11 @@ db.players.insert({
     },
     "2015-07-value": 146,
     "name": "David Ortiz",
-    "playerid": 745
+    "playerid": 745,
+    "team-2014": "Red Sox",
+    "team-2015-05": "Red Sox",
+    "team-2015-06": "Red Sox",
+    "team-2015-07": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -24771,7 +25608,11 @@ db.players.insert({
     },
     "2015-07-value": 122,
     "name": "A.J. Pierzynski",
-    "playerid": 746
+    "playerid": 746,
+    "team-2014": "Braves",
+    "team-2015-05": "Braves",
+    "team-2015-06": "Braves",
+    "team-2015-07": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -24887,7 +25728,11 @@ db.players.insert({
     },
     "2015-07-value": 95,
     "name": "Joey Butler",
-    "playerid": 7799
+    "playerid": 7799,
+    "team-2014": "Rays",
+    "team-2015-05": "Rays",
+    "team-2015-06": "Rays",
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -25003,7 +25848,11 @@ db.players.insert({
     },
     "2015-07-value": 68,
     "name": "Johnny Cueto",
-    "playerid": 6893
+    "playerid": 6893,
+    "team-2014": "Royals",
+    "team-2015-05": "Royals",
+    "team-2015-06": "Royals",
+    "team-2015-07": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -25119,7 +25968,11 @@ db.players.insert({
     },
     "2015-07-value": 68,
     "name": "Chase Anderson",
-    "playerid": 6895
+    "playerid": 6895,
+    "team-2014": "Diamondbacks",
+    "team-2015-05": "Diamondbacks",
+    "team-2015-06": "Diamondbacks",
+    "team-2015-07": "Diamondbacks"
 });
 db.players.insert({
     "2015-06": {
@@ -25151,7 +26004,8 @@ db.players.insert({
     },
     "2015-06-value": 53,
     "name": "Joe Blanton",
-    "playerid": 4849
+    "playerid": 4849,
+    "team-2015-06": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -25267,7 +26121,11 @@ db.players.insert({
     },
     "2015-07-value": 75,
     "name": "Tony Cruz",
-    "playerid": 2802
+    "playerid": 2802,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -25327,7 +26185,9 @@ db.players.insert({
     },
     "2015-07-value": 55,
     "name": "Martin Perez",
-    "playerid": 6902
+    "playerid": 6902,
+    "team-2014": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -25415,7 +26275,10 @@ db.players.insert({
     },
     "2015-06-value": 83,
     "name": "Munenori Kawasaki",
-    "playerid": 13047
+    "playerid": 13047,
+    "team-2014": "Blue Jays",
+    "team-2015-05": "Blue Jays",
+    "team-2015-06": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -25531,7 +26394,11 @@ db.players.insert({
     },
     "2015-07-value": 59,
     "name": "Taylor Jordan",
-    "playerid": 10466
+    "playerid": 10466,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -25647,7 +26514,11 @@ db.players.insert({
     },
     "2015-07-value": 78,
     "name": "Anthony DeSclafani",
-    "playerid": 13050
+    "playerid": 13050,
+    "team-2014": "Reds",
+    "team-2015-05": "Reds",
+    "team-2015-06": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -25763,7 +26634,11 @@ db.players.insert({
     },
     "2015-07-value": 131,
     "name": "Evan Gattis",
-    "playerid": 11003
+    "playerid": 11003,
+    "team-2014": "Astros",
+    "team-2015-05": "Astros",
+    "team-2015-06": "Astros",
+    "team-2015-07": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -25879,7 +26754,11 @@ db.players.insert({
     },
     "2015-07-value": 116,
     "name": "Clint Robinson",
-    "playerid": 6908
+    "playerid": 6908,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -25995,7 +26874,11 @@ db.players.insert({
     },
     "2015-07-value": 127,
     "name": "Chris Young",
-    "playerid": 3882
+    "playerid": 3882,
+    "team-2014": "Yankees",
+    "team-2015-05": "Yankees",
+    "team-2015-06": "Yankees",
+    "team-2015-07": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -26111,7 +26994,11 @@ db.players.insert({
     },
     "2015-07-value": 124,
     "name": "Jarrod Dyson",
-    "playerid": 4866
+    "playerid": 4866,
+    "team-2014": "Royals",
+    "team-2015-05": "Royals",
+    "team-2015-06": "Royals",
+    "team-2015-07": "Royals"
 });
 db.players.insert({
     "2015-06": {
@@ -26143,7 +27030,8 @@ db.players.insert({
     },
     "2015-06-value": 53,
     "name": "Michael Montgomery",
-    "playerid": 4869
+    "playerid": 4869,
+    "team-2015-06": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -26259,7 +27147,11 @@ db.players.insert({
     },
     "2015-07-value": 75,
     "name": "Francisco Liriano",
-    "playerid": 3201
+    "playerid": 3201,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -26319,7 +27211,9 @@ db.players.insert({
     },
     "2015-06-value": 51,
     "name": "Clay Buchholz",
-    "playerid": 3543
+    "playerid": 3543,
+    "team-2014": "Red Sox",
+    "team-2015-06": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -26435,7 +27329,11 @@ db.players.insert({
     },
     "2015-07-value": 81,
     "name": "Travis Snider",
-    "playerid": 2830
+    "playerid": 2830,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -26467,7 +27365,8 @@ db.players.insert({
     },
     "2014-value": 50,
     "name": "Matt Belisle",
-    "playerid": 1837
+    "playerid": 1837,
+    "team-2014": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -26583,7 +27482,11 @@ db.players.insert({
     },
     "2015-07-value": 50,
     "name": "Rafael Ynoa",
-    "playerid": 2832
+    "playerid": 2832,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -26699,7 +27602,11 @@ db.players.insert({
     },
     "2015-07-value": 130,
     "name": "Carlos Gomez",
-    "playerid": 4881
+    "playerid": 4881,
+    "team-2014": "Astros",
+    "team-2015-05": "Astros",
+    "team-2015-06": "Astros",
+    "team-2015-07": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -26731,7 +27638,8 @@ db.players.insert({
     },
     "2014-value": 73,
     "name": "Yu Darvish",
-    "playerid": 13074
+    "playerid": 13074,
+    "team-2014": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -26847,7 +27755,11 @@ db.players.insert({
     },
     "2015-07-value": 82,
     "name": "Nori Aoki",
-    "playerid": 13075
+    "playerid": 13075,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -26879,7 +27791,8 @@ db.players.insert({
     },
     "2014-value": 71,
     "name": "Gavin Floyd",
-    "playerid": 3886
+    "playerid": 3886,
+    "team-2014": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -26995,7 +27908,11 @@ db.players.insert({
     },
     "2015-07-value": 137,
     "name": "Brandon Phillips",
-    "playerid": 791
+    "playerid": 791,
+    "team-2014": "Reds",
+    "team-2015-05": "Reds",
+    "team-2015-06": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -27111,7 +28028,11 @@ db.players.insert({
     },
     "2015-07-value": 98,
     "name": "Eric Campbell",
-    "playerid": 6938
+    "playerid": 6938,
+    "team-2014": "Mets",
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -27227,7 +28148,11 @@ db.players.insert({
     },
     "2015-07-value": 115,
     "name": "Mike Moustakas",
-    "playerid": 4892
+    "playerid": 4892,
+    "team-2014": "Royals",
+    "team-2015-05": "Royals",
+    "team-2015-06": "Royals",
+    "team-2015-07": "Royals"
 });
 db.players.insert({
     "2015-05": {
@@ -27315,7 +28240,10 @@ db.players.insert({
     },
     "2015-07-value": 144,
     "name": "Jung-ho Kang",
-    "playerid": 17182
+    "playerid": 17182,
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -27375,7 +28303,9 @@ db.players.insert({
     },
     "2015-06-value": 76,
     "name": "Scott Kazmir",
-    "playerid": 4897
+    "playerid": 4897,
+    "team-2014": "Astros",
+    "team-2015-06": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -27463,7 +28393,10 @@ db.players.insert({
     },
     "2015-06-value": 63,
     "name": "Carlos Frias",
-    "playerid": 3547
+    "playerid": 3547,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -27495,7 +28428,8 @@ db.players.insert({
     },
     "2014-value": 131,
     "name": "Matt Dominguez",
-    "playerid": 4903
+    "playerid": 4903,
+    "team-2014": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -27527,7 +28461,8 @@ db.players.insert({
     },
     "2014-value": 66,
     "name": "Ross Detwiler",
-    "playerid": 2859
+    "playerid": 2859,
+    "team-2014": "Braves"
 });
 db.players.insert({
     "2015-05": {
@@ -27559,7 +28494,8 @@ db.players.insert({
     },
     "2015-05-value": 50,
     "name": "Randy Choate",
-    "playerid": 813
+    "playerid": 813,
+    "team-2015-05": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -27675,7 +28611,11 @@ db.players.insert({
     },
     "2015-07-value": 148,
     "name": "Yoenis Cespedes",
-    "playerid": 13110
+    "playerid": 13110,
+    "team-2014": "Mets",
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -27791,7 +28731,11 @@ db.players.insert({
     },
     "2015-07-value": 88,
     "name": "Gordon Beckham",
-    "playerid": 9015
+    "playerid": 9015,
+    "team-2014": "White Sox",
+    "team-2015-05": "White Sox",
+    "team-2015-06": "White Sox",
+    "team-2015-07": "White Sox"
 });
 db.players.insert({
     "2014": {
@@ -27823,7 +28767,8 @@ db.players.insert({
     },
     "2014-value": 50,
     "name": "Santiago Casilla",
-    "playerid": 2873
+    "playerid": 2873,
+    "team-2014": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -27939,7 +28884,11 @@ db.players.insert({
     },
     "2015-07-value": 113,
     "name": "Ender Inciarte",
-    "playerid": 4922
+    "playerid": 4922,
+    "team-2014": "Diamondbacks",
+    "team-2015-05": "Diamondbacks",
+    "team-2015-06": "Diamondbacks",
+    "team-2015-07": "Diamondbacks"
 });
 db.players.insert({
     "2015-06": {
@@ -27999,7 +28948,9 @@ db.players.insert({
     },
     "2015-07-value": 83,
     "name": "Taylor Jungmann",
-    "playerid": 13119
+    "playerid": 13119,
+    "team-2015-06": "Brewers",
+    "team-2015-07": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -28115,7 +29066,11 @@ db.players.insert({
     },
     "2015-07-value": 67,
     "name": "Jon Lester",
-    "playerid": 4930
+    "playerid": 4930,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -28147,7 +29102,8 @@ db.players.insert({
     },
     "2014-value": 55,
     "name": "Scott Feldman",
-    "playerid": 6283
+    "playerid": 6283,
+    "team-2014": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -28263,7 +29219,11 @@ db.players.insert({
     },
     "2015-07-value": 63,
     "name": "Gerrit Cole",
-    "playerid": 13125
+    "playerid": 13125,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -28295,7 +29255,8 @@ db.players.insert({
     },
     "2014-value": 68,
     "name": "Jeanmar Gomez",
-    "playerid": 9033
+    "playerid": 9033,
+    "team-2014": "Phillies"
 });
 db.players.insert({
     "2015-06": {
@@ -28355,7 +29316,9 @@ db.players.insert({
     },
     "2015-07-value": 83,
     "name": "Mikie Mahtook",
-    "playerid": 13130
+    "playerid": 13130,
+    "team-2015-06": "Rays",
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -28471,7 +29434,11 @@ db.players.insert({
     },
     "2015-07-value": 140,
     "name": "Jason Heyward",
-    "playerid": 4940
+    "playerid": 4940,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -28503,7 +29470,8 @@ db.players.insert({
     },
     "2014-value": 69,
     "name": "J.J. Hoover",
-    "playerid": 9037
+    "playerid": 9037,
+    "team-2014": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -28535,7 +29503,8 @@ db.players.insert({
     },
     "2014-value": 66,
     "name": "Zach McAllister",
-    "playerid": 2895
+    "playerid": 2895,
+    "team-2014": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -28651,7 +29620,11 @@ db.players.insert({
     },
     "2015-07-value": 111,
     "name": "Starlin Castro",
-    "playerid": 4579
+    "playerid": 4579,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -28767,7 +29740,11 @@ db.players.insert({
     },
     "2015-07-value": 87,
     "name": "Roberto Perez",
-    "playerid": 2900
+    "playerid": 2900,
+    "team-2014": "Indians",
+    "team-2015-05": "Indians",
+    "team-2015-06": "Indians",
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -28855,7 +29832,10 @@ db.players.insert({
     },
     "2015-06-value": 148,
     "name": "Giancarlo Stanton",
-    "playerid": 4949
+    "playerid": 4949,
+    "team-2014": "Marlins",
+    "team-2015-05": "Marlins",
+    "team-2015-06": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -28943,7 +29923,10 @@ db.players.insert({
     },
     "2015-07-value": 104,
     "name": "Ryan Hanigan",
-    "playerid": 4952
+    "playerid": 4952,
+    "team-2014": "Red Sox",
+    "team-2015-05": "Red Sox",
+    "team-2015-07": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -29059,7 +30042,11 @@ db.players.insert({
     },
     "2015-07-value": 76,
     "name": "Will Middlebrooks",
-    "playerid": 7002
+    "playerid": 7002,
+    "team-2014": "Padres",
+    "team-2015-05": "Padres",
+    "team-2015-06": "Padres",
+    "team-2015-07": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -29175,7 +30162,11 @@ db.players.insert({
     },
     "2015-07-value": 114,
     "name": "Justin Smoak",
-    "playerid": 9054
+    "playerid": 9054,
+    "team-2014": "Blue Jays",
+    "team-2015-05": "Blue Jays",
+    "team-2015-06": "Blue Jays",
+    "team-2015-07": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -29291,7 +30282,11 @@ db.players.insert({
     },
     "2015-07-value": 124,
     "name": "Yadier Molina",
-    "playerid": 7007
+    "playerid": 7007,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -29379,7 +30374,10 @@ db.players.insert({
     },
     "2015-07-value": 84,
     "name": "Jorge Polanco",
-    "playerid": 13152
+    "playerid": 13152,
+    "team-2014": "Twins",
+    "team-2015-06": "Twins",
+    "team-2015-07": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -29467,7 +30465,10 @@ db.players.insert({
     },
     "2015-06-value": 73,
     "name": "Luis Sardinas",
-    "playerid": 13153
+    "playerid": 13153,
+    "team-2014": "Brewers",
+    "team-2015-05": "Brewers",
+    "team-2015-06": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -29583,7 +30584,11 @@ db.players.insert({
     },
     "2015-07-value": 111,
     "name": "Asdrubal Cabrera",
-    "playerid": 4962
+    "playerid": 4962,
+    "team-2014": "Rays",
+    "team-2015-05": "Rays",
+    "team-2015-06": "Rays",
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -29699,7 +30704,11 @@ db.players.insert({
     },
     "2015-07-value": 121,
     "name": "Angel Pagan",
-    "playerid": 2918
+    "playerid": 2918,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -29815,7 +30824,11 @@ db.players.insert({
     },
     "2015-07-value": 90,
     "name": "Alexi Amarista",
-    "playerid": 9063
+    "playerid": 9063,
+    "team-2014": "Padres",
+    "team-2015-05": "Padres",
+    "team-2015-06": "Padres",
+    "team-2015-07": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -29931,7 +30944,11 @@ db.players.insert({
     },
     "2015-07-value": 106,
     "name": "Luis Valbuena",
-    "playerid": 4969
+    "playerid": 4969,
+    "team-2014": "Astros",
+    "team-2015-05": "Astros",
+    "team-2015-06": "Astros",
+    "team-2015-07": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -30047,7 +31064,11 @@ db.players.insert({
     },
     "2015-07-value": 78,
     "name": "Cole Hamels",
-    "playerid": 4972
+    "playerid": 4972,
+    "team-2014": "Rangers",
+    "team-2015-05": "Rangers",
+    "team-2015-06": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -30079,7 +31100,8 @@ db.players.insert({
     },
     "2014-value": 61,
     "name": "Carlos Contreras",
-    "playerid": 10386
+    "playerid": 10386,
+    "team-2014": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -30139,7 +31161,9 @@ db.players.insert({
     },
     "2015-05-value": 54,
     "name": "Miguel Gonzalez",
-    "playerid": 7024
+    "playerid": 7024,
+    "team-2014": "Orioles",
+    "team-2015-05": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -30255,7 +31279,11 @@ db.players.insert({
     },
     "2015-07-value": 72,
     "name": "Jeff Locke",
-    "playerid": 2929
+    "playerid": 2929,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -30371,7 +31399,11 @@ db.players.insert({
     },
     "2015-07-value": 149,
     "name": "Lorenzo Cain",
-    "playerid": 9077
+    "playerid": 9077,
+    "team-2014": "Royals",
+    "team-2015-05": "Royals",
+    "team-2015-06": "Royals",
+    "team-2015-07": "Royals"
 });
 db.players.insert({
     "2015-05": {
@@ -30459,7 +31491,10 @@ db.players.insert({
     },
     "2015-07-value": 97,
     "name": "Blake Swihart",
-    "playerid": 13176
+    "playerid": 13176,
+    "team-2015-05": "Red Sox",
+    "team-2015-06": "Red Sox",
+    "team-2015-07": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -30491,7 +31526,8 @@ db.players.insert({
     },
     "2014-value": 64,
     "name": "Yimi Garcia",
-    "playerid": 12095
+    "playerid": 12095,
+    "team-2014": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -30607,7 +31643,11 @@ db.players.insert({
     },
     "2015-07-value": 60,
     "name": "Mike Bolsinger",
-    "playerid": 11137
+    "playerid": 11137,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -30723,7 +31763,11 @@ db.players.insert({
     },
     "2015-07-value": 128,
     "name": "Joe Mauer",
-    "playerid": 1857
+    "playerid": 1857,
+    "team-2014": "Twins",
+    "team-2015-05": "Twins",
+    "team-2015-06": "Twins",
+    "team-2015-07": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -30839,7 +31883,11 @@ db.players.insert({
     },
     "2015-07-value": 106,
     "name": "Stephen Vogt",
-    "playerid": 5000
+    "playerid": 5000,
+    "team-2014": "Athletics",
+    "team-2015-05": "Athletics",
+    "team-2015-06": "Athletics",
+    "team-2015-07": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -30955,7 +32003,11 @@ db.players.insert({
     },
     "2015-07-value": 60,
     "name": "Christian Colon",
-    "playerid": 11145
+    "playerid": 11145,
+    "team-2014": "Royals",
+    "team-2015-05": "Royals",
+    "team-2015-06": "Royals",
+    "team-2015-07": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -31071,7 +32123,11 @@ db.players.insert({
     },
     "2015-07-value": 94,
     "name": "Cameron Rupp",
-    "playerid": 11146
+    "playerid": 11146,
+    "team-2014": "Phillies",
+    "team-2015-05": "Phillies",
+    "team-2015-06": "Phillies",
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -31103,7 +32159,8 @@ db.players.insert({
     },
     "2014-value": 114,
     "name": "Tommy Medica",
-    "playerid": 11147
+    "playerid": 11147,
+    "team-2014": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -31135,7 +32192,8 @@ db.players.insert({
     },
     "2014-value": 51,
     "name": "Luis Avilan",
-    "playerid": 2882
+    "playerid": 2882,
+    "team-2014": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -31223,7 +32281,10 @@ db.players.insert({
     },
     "2015-06-value": 62,
     "name": "Brennan Boesch",
-    "playerid": 914
+    "playerid": 914,
+    "team-2014": "Reds",
+    "team-2015-05": "Reds",
+    "team-2015-06": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -31339,7 +32400,11 @@ db.players.insert({
     },
     "2015-07-value": 55,
     "name": "James Shields",
-    "playerid": 7059
+    "playerid": 7059,
+    "team-2014": "Padres",
+    "team-2015-05": "Padres",
+    "team-2015-06": "Padres",
+    "team-2015-07": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -31371,7 +32436,8 @@ db.players.insert({
     },
     "2014-value": 62,
     "name": "Eric Jokisch",
-    "playerid": 11157
+    "playerid": 11157,
+    "team-2014": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -31459,7 +32525,10 @@ db.players.insert({
     },
     "2015-07-value": 111,
     "name": "Melvin Upton",
-    "playerid": 5015
+    "playerid": 5015,
+    "team-2014": "Padres",
+    "team-2015-06": "Padres",
+    "team-2015-07": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -31547,7 +32616,10 @@ db.players.insert({
     },
     "2015-07-value": 104,
     "name": "Khris Davis",
-    "playerid": 9112
+    "playerid": 9112,
+    "team-2014": "Brewers",
+    "team-2015-05": "Brewers",
+    "team-2015-07": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -31663,7 +32735,11 @@ db.players.insert({
     },
     "2015-07-value": 71,
     "name": "Tim Hudson",
-    "playerid": 921
+    "playerid": 921,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2015-05": {
@@ -31751,7 +32827,10 @@ db.players.insert({
     },
     "2015-07-value": 60,
     "name": "Ramon Flores",
-    "playerid": 11165
+    "playerid": 11165,
+    "team-2015-05": "Mariners",
+    "team-2015-06": "Mariners",
+    "team-2015-07": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -31811,7 +32890,9 @@ db.players.insert({
     },
     "2015-07-value": 73,
     "name": "Josh Rutledge",
-    "playerid": 11167
+    "playerid": 11167,
+    "team-2014": "Red Sox",
+    "team-2015-07": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -31843,7 +32924,8 @@ db.players.insert({
     },
     "2014-value": 59,
     "name": "T.J. House",
-    "playerid": 9121
+    "playerid": 9121,
+    "team-2014": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -31959,7 +33041,11 @@ db.players.insert({
     },
     "2015-07-value": 106,
     "name": "Stephen Drew",
-    "playerid": 4251
+    "playerid": 4251,
+    "team-2014": "Yankees",
+    "team-2015-05": "Yankees",
+    "team-2015-06": "Yankees",
+    "team-2015-07": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -31991,7 +33077,8 @@ db.players.insert({
     },
     "2014-value": 54,
     "name": "Bo Schultz",
-    "playerid": 5028
+    "playerid": 5028,
+    "team-2014": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -32051,7 +33138,9 @@ db.players.insert({
     },
     "2015-07-value": 77,
     "name": "David Buchanan",
-    "playerid": 11176
+    "playerid": 11176,
+    "team-2014": "Phillies",
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -32167,7 +33256,11 @@ db.players.insert({
     },
     "2015-07-value": 121,
     "name": "Daniel Murphy",
-    "playerid": 4316
+    "playerid": 4316,
+    "team-2014": "Mets",
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -32227,7 +33320,9 @@ db.players.insert({
     },
     "2015-05-value": 56,
     "name": "Nathan Eovaldi",
-    "playerid": 9132
+    "playerid": 9132,
+    "team-2014": "Yankees",
+    "team-2015-05": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -32343,7 +33438,11 @@ db.players.insert({
     },
     "2015-07-value": 110,
     "name": "Tyler Flowers",
-    "playerid": 9134
+    "playerid": 9134,
+    "team-2014": "White Sox",
+    "team-2015-05": "White Sox",
+    "team-2015-06": "White Sox",
+    "team-2015-07": "White Sox"
 });
 db.players.insert({
     "2014": {
@@ -32459,7 +33558,11 @@ db.players.insert({
     },
     "2015-07-value": 107,
     "name": "Caleb Joseph",
-    "playerid": 7087
+    "playerid": 7087,
+    "team-2014": "Orioles",
+    "team-2015-05": "Orioles",
+    "team-2015-06": "Orioles",
+    "team-2015-07": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -32575,7 +33678,11 @@ db.players.insert({
     },
     "2015-07-value": 136,
     "name": "Marlon Byrd",
-    "playerid": 950
+    "playerid": 950,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -32691,7 +33798,11 @@ db.players.insert({
     },
     "2015-07-value": 61,
     "name": "Jose Quintana",
-    "playerid": 11423
+    "playerid": 11423,
+    "team-2014": "White Sox",
+    "team-2015-05": "White Sox",
+    "team-2015-06": "White Sox",
+    "team-2015-07": "White Sox"
 });
 db.players.insert({
     "2014": {
@@ -32807,7 +33918,11 @@ db.players.insert({
     },
     "2015-07-value": 83,
     "name": "Ian Kennedy",
-    "playerid": 6986
+    "playerid": 6986,
+    "team-2014": "Padres",
+    "team-2015-05": "Padres",
+    "team-2015-06": "Padres",
+    "team-2015-07": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -32923,7 +34038,11 @@ db.players.insert({
     },
     "2015-07-value": 147,
     "name": "Kole Calhoun",
-    "playerid": 11200
+    "playerid": 11200,
+    "team-2014": "Angels",
+    "team-2015-05": "Angels",
+    "team-2015-06": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -33011,7 +34130,10 @@ db.players.insert({
     },
     "2015-07-value": 53,
     "name": "Yohan Flande",
-    "playerid": 5057
+    "playerid": 5057,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -33127,7 +34249,11 @@ db.players.insert({
     },
     "2015-07-value": 147,
     "name": "Adam Eaton",
-    "playerid": 11205
+    "playerid": 11205,
+    "team-2014": "White Sox",
+    "team-2015-05": "White Sox",
+    "team-2015-06": "White Sox",
+    "team-2015-07": "White Sox"
 });
 db.players.insert({
     "2014": {
@@ -33243,7 +34369,11 @@ db.players.insert({
     },
     "2015-07-value": 94,
     "name": "Andrew Susac",
-    "playerid": 13132
+    "playerid": 13132,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -33359,7 +34489,11 @@ db.players.insert({
     },
     "2015-07-value": 133,
     "name": "Jimmy Rollins",
-    "playerid": 971
+    "playerid": 971,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -33475,7 +34609,11 @@ db.players.insert({
     },
     "2015-07-value": 135,
     "name": "Buster Posey",
-    "playerid": 9166
+    "playerid": 9166,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -33507,7 +34645,8 @@ db.players.insert({
     },
     "2014-value": 65,
     "name": "Randy Wolf",
-    "playerid": 976
+    "playerid": 976,
+    "team-2014": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -33623,7 +34762,11 @@ db.players.insert({
     },
     "2015-07-value": 114,
     "name": "Mike Zunino",
-    "playerid": 13265
+    "playerid": 13265,
+    "team-2014": "Mariners",
+    "team-2015-05": "Mariners",
+    "team-2015-06": "Mariners",
+    "team-2015-07": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -33655,7 +34798,8 @@ db.players.insert({
     },
     "2014-value": 84,
     "name": "Bronson Arroyo",
-    "playerid": 978
+    "playerid": 978,
+    "team-2014": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -33743,7 +34887,10 @@ db.players.insert({
     },
     "2015-07-value": 97,
     "name": "Michael Morse",
-    "playerid": 3035
+    "playerid": 3035,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -33775,7 +34922,8 @@ db.players.insert({
     },
     "2014-value": 52,
     "name": "T.J. McFarland",
-    "playerid": 3237
+    "playerid": 3237,
+    "team-2014": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -33807,7 +34955,8 @@ db.players.insert({
     },
     "2014-value": 77,
     "name": "Franklin Morales",
-    "playerid": 5088
+    "playerid": 5088,
+    "team-2014": "Royals"
 });
 db.players.insert({
     "2015-06": {
@@ -33839,7 +34988,8 @@ db.players.insert({
     },
     "2015-06-value": 92,
     "name": "Byron Buxton",
-    "playerid": 14161
+    "playerid": 14161,
+    "team-2015-06": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -33955,7 +35105,11 @@ db.players.insert({
     },
     "2015-07-value": 115,
     "name": "Anthony Gose",
-    "playerid": 5097
+    "playerid": 5097,
+    "team-2014": "Tigers",
+    "team-2015-05": "Tigers",
+    "team-2015-06": "Tigers",
+    "team-2015-07": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -34071,7 +35225,11 @@ db.players.insert({
     },
     "2015-07-value": 124,
     "name": "Aramis Ramirez",
-    "playerid": 1002
+    "playerid": 1002,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2015-06": {
@@ -34103,7 +35261,8 @@ db.players.insert({
     },
     "2015-06-value": 61,
     "name": "Daniel Coulombe",
-    "playerid": 13293
+    "playerid": 13293,
+    "team-2015-06": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -34219,7 +35378,11 @@ db.players.insert({
     },
     "2015-07-value": 121,
     "name": "Mike Napoli",
-    "playerid": 3057
+    "playerid": 3057,
+    "team-2014": "Rangers",
+    "team-2015-05": "Rangers",
+    "team-2015-06": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2015-07": {
@@ -34251,7 +35414,8 @@ db.players.insert({
     },
     "2015-07-value": 103,
     "name": "Jefry Marte",
-    "playerid": 5107
+    "playerid": 5107,
+    "team-2015-07": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -34367,7 +35531,11 @@ db.players.insert({
     },
     "2015-07-value": 111,
     "name": "Logan Morrison",
-    "playerid": 9205
+    "playerid": 9205,
+    "team-2014": "Mariners",
+    "team-2015-05": "Mariners",
+    "team-2015-06": "Mariners",
+    "team-2015-07": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -34455,7 +35623,10 @@ db.players.insert({
     },
     "2015-06-value": 55,
     "name": "Eric Young",
-    "playerid": 7158
+    "playerid": 7158,
+    "team-2014": "Mets",
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -34571,7 +35742,11 @@ db.players.insert({
     },
     "2015-07-value": 60,
     "name": "Matt Szczur",
-    "playerid": 11255
+    "playerid": 11255,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -34603,7 +35778,8 @@ db.players.insert({
     },
     "2014-value": 74,
     "name": "Jeurys Familia",
-    "playerid": 5114
+    "playerid": 5114,
+    "team-2014": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -34635,7 +35811,8 @@ db.players.insert({
     },
     "2014-value": 56,
     "name": "Brad Brach",
-    "playerid": 6627
+    "playerid": 6627,
+    "team-2014": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -34751,7 +35928,11 @@ db.players.insert({
     },
     "2015-07-value": 102,
     "name": "David Murphy",
-    "playerid": 6035
+    "playerid": 6035,
+    "team-2014": "Angels",
+    "team-2015-05": "Angels",
+    "team-2015-06": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -34783,7 +35964,8 @@ db.players.insert({
     },
     "2014-value": 85,
     "name": "Homer Bailey",
-    "playerid": 8362
+    "playerid": 8362,
+    "team-2014": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -34843,7 +36025,9 @@ db.players.insert({
     },
     "2015-05-value": 70,
     "name": "Juan Centeno",
-    "playerid": 7168
+    "playerid": 7168,
+    "team-2014": "Brewers",
+    "team-2015-05": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -34903,7 +36087,9 @@ db.players.insert({
     },
     "2015-07-value": 122,
     "name": "Jonathan Schoop",
-    "playerid": 11265
+    "playerid": 11265,
+    "team-2014": "Orioles",
+    "team-2015-07": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -35019,7 +36205,11 @@ db.players.insert({
     },
     "2015-07-value": 138,
     "name": "Paul Goldschmidt",
-    "playerid": 9218
+    "playerid": 9218,
+    "team-2014": "Diamondbacks",
+    "team-2015-05": "Diamondbacks",
+    "team-2015-06": "Diamondbacks",
+    "team-2015-07": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -35135,7 +36325,11 @@ db.players.insert({
     },
     "2015-07-value": 116,
     "name": "Danny Espinosa",
-    "playerid": 9219
+    "playerid": 9219,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -35167,7 +36361,8 @@ db.players.insert({
     },
     "2014-value": 62,
     "name": "Aaron Altherr",
-    "playerid": 11270
+    "playerid": 11270,
+    "team-2014": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -35283,7 +36478,11 @@ db.players.insert({
     },
     "2015-07-value": 140,
     "name": "Alexei Ramirez",
-    "playerid": 5133
+    "playerid": 5133,
+    "team-2014": "White Sox",
+    "team-2015-05": "White Sox",
+    "team-2015-06": "White Sox",
+    "team-2015-07": "White Sox"
 });
 db.players.insert({
     "2014": {
@@ -35399,7 +36598,11 @@ db.players.insert({
     },
     "2015-07-value": 115,
     "name": "Mitch Moreland",
-    "playerid": 3086
+    "playerid": 3086,
+    "team-2014": "Rangers",
+    "team-2015-05": "Rangers",
+    "team-2015-06": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -35487,7 +36690,10 @@ db.players.insert({
     },
     "2015-07-value": 125,
     "name": "Jake Lamb",
-    "playerid": 13329
+    "playerid": 13329,
+    "team-2014": "Diamondbacks",
+    "team-2015-06": "Diamondbacks",
+    "team-2015-07": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -35519,7 +36725,8 @@ db.players.insert({
     },
     "2014-value": 67,
     "name": "Jason Pridie",
-    "playerid": 4611
+    "playerid": 4611,
+    "team-2014": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -35635,7 +36842,11 @@ db.players.insert({
     },
     "2015-07-value": 82,
     "name": "A.J. Burnett",
-    "playerid": 512
+    "playerid": 512,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -35751,7 +36962,11 @@ db.players.insert({
     },
     "2015-07-value": 69,
     "name": "Bryan Holaday",
-    "playerid": 11287
+    "playerid": 11287,
+    "team-2014": "Tigers",
+    "team-2015-05": "Tigers",
+    "team-2015-06": "Tigers",
+    "team-2015-07": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -35783,7 +36998,8 @@ db.players.insert({
     },
     "2014-value": 51,
     "name": "Kenley Jansen",
-    "playerid": 3096
+    "playerid": 3096,
+    "team-2014": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -35899,7 +37115,11 @@ db.players.insert({
     },
     "2015-07-value": 134,
     "name": "Starling Marte",
-    "playerid": 9241
+    "playerid": 9241,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -35959,7 +37179,9 @@ db.players.insert({
     },
     "2015-07-value": 78,
     "name": "Jake Peavy",
-    "playerid": 1051
+    "playerid": 1051,
+    "team-2014": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -36075,7 +37297,11 @@ db.players.insert({
     },
     "2015-07-value": 126,
     "name": "Prince Fielder",
-    "playerid": 4613
+    "playerid": 4613,
+    "team-2014": "Rangers",
+    "team-2015-05": "Rangers",
+    "team-2015-06": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -36135,7 +37361,9 @@ db.players.insert({
     },
     "2015-07-value": 72,
     "name": "Carl Crawford",
-    "playerid": 1201
+    "playerid": 1201,
+    "team-2014": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -36251,7 +37479,11 @@ db.players.insert({
     },
     "2015-07-value": 147,
     "name": "A.J. Pollock",
-    "playerid": 9256
+    "playerid": 9256,
+    "team-2014": "Diamondbacks",
+    "team-2015-05": "Diamondbacks",
+    "team-2015-06": "Diamondbacks",
+    "team-2015-07": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -36367,7 +37599,11 @@ db.players.insert({
     },
     "2015-07-value": 95,
     "name": "David Lough",
-    "playerid": 7215
+    "playerid": 7215,
+    "team-2014": "Orioles",
+    "team-2015-05": "Orioles",
+    "team-2015-06": "Orioles",
+    "team-2015-07": "Orioles"
 });
 db.players.insert({
     "2015-06": {
@@ -36427,7 +37663,9 @@ db.players.insert({
     },
     "2015-07-value": 71,
     "name": "Steven Matz",
-    "playerid": 13361
+    "playerid": 13361,
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -36543,7 +37781,11 @@ db.players.insert({
     },
     "2015-07-value": 123,
     "name": "Gregor Blanco",
-    "playerid": 3123
+    "playerid": 3123,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2015-07": {
@@ -36575,7 +37817,8 @@ db.players.insert({
     },
     "2015-07-value": 99,
     "name": "Stephen Piscotty",
-    "playerid": 13367
+    "playerid": 13367,
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -36691,7 +37934,11 @@ db.players.insert({
     },
     "2015-07-value": 145,
     "name": "Chris Davis",
-    "playerid": 9272
+    "playerid": 9272,
+    "team-2014": "Orioles",
+    "team-2015-05": "Orioles",
+    "team-2015-06": "Orioles",
+    "team-2015-07": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -36723,7 +37970,8 @@ db.players.insert({
     },
     "2014-value": 66,
     "name": "Tony Watson",
-    "playerid": 3132
+    "playerid": 3132,
+    "team-2014": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -36783,7 +38031,9 @@ db.players.insert({
     },
     "2015-07-value": 64,
     "name": "Andrew Heaney",
-    "playerid": 15423
+    "playerid": 15423,
+    "team-2014": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -36899,7 +38149,11 @@ db.players.insert({
     },
     "2015-07-value": 51,
     "name": "Max Scherzer",
-    "playerid": 3137
+    "playerid": 3137,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -37015,7 +38269,11 @@ db.players.insert({
     },
     "2015-07-value": 57,
     "name": "Chris Herrmann",
-    "playerid": 9284
+    "playerid": 9284,
+    "team-2014": "Twins",
+    "team-2015-05": "Twins",
+    "team-2015-06": "Twins",
+    "team-2015-07": "Twins"
 });
 db.players.insert({
     "2015-05": {
@@ -37103,7 +38361,10 @@ db.players.insert({
     },
     "2015-07-value": 141,
     "name": "Kris Bryant",
-    "playerid": 15429
+    "playerid": 15429,
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -37219,7 +38480,11 @@ db.players.insert({
     },
     "2015-07-value": 109,
     "name": "Robinson Chirinos",
-    "playerid": 3142
+    "playerid": 3142,
+    "team-2014": "Rangers",
+    "team-2015-05": "Rangers",
+    "team-2015-06": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -37335,7 +38600,11 @@ db.players.insert({
     },
     "2015-07-value": 107,
     "name": "Jake Marisnick",
-    "playerid": 11339
+    "playerid": 11339,
+    "team-2014": "Astros",
+    "team-2015-05": "Astros",
+    "team-2015-06": "Astros",
+    "team-2015-07": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -37451,7 +38720,11 @@ db.players.insert({
     },
     "2015-07-value": 101,
     "name": "Tyler Moore",
-    "playerid": 7244
+    "playerid": 7244,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -37567,7 +38840,11 @@ db.players.insert({
     },
     "2015-07-value": 110,
     "name": "Ichiro Suzuki",
-    "playerid": 1101
+    "playerid": 1101,
+    "team-2014": "Marlins",
+    "team-2015-05": "Marlins",
+    "team-2015-06": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -37627,7 +38904,9 @@ db.players.insert({
     },
     "2015-07-value": 77,
     "name": "Jesus Aguilar",
-    "playerid": 11342
+    "playerid": 11342,
+    "team-2014": "Indians",
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -37715,7 +38994,10 @@ db.players.insert({
     },
     "2015-07-value": 126,
     "name": "Domonic Brown",
-    "playerid": 3154
+    "playerid": 3154,
+    "team-2014": "Phillies",
+    "team-2015-06": "Phillies",
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2015-05": {
@@ -37775,7 +39057,9 @@ db.players.insert({
     },
     "2015-06-value": 54,
     "name": "Mike Pelfrey",
-    "playerid": 5203
+    "playerid": 5203,
+    "team-2015-05": "Twins",
+    "team-2015-06": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -37807,7 +39091,8 @@ db.players.insert({
     },
     "2014-value": 93,
     "name": "Adam Wainwright",
-    "playerid": 2233
+    "playerid": 2233,
+    "team-2014": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -37923,7 +39208,11 @@ db.players.insert({
     },
     "2015-07-value": 106,
     "name": "Alex Gordon",
-    "playerid": 5209
+    "playerid": 5209,
+    "team-2014": "Royals",
+    "team-2015-05": "Royals",
+    "team-2015-06": "Royals",
+    "team-2015-07": "Royals"
 });
 db.players.insert({
     "2015-06": {
@@ -37983,7 +39272,9 @@ db.players.insert({
     },
     "2015-07-value": 65,
     "name": "Daniel Castro",
-    "playerid": 15450
+    "playerid": 15450,
+    "team-2015-06": "Braves",
+    "team-2015-07": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -38099,7 +39390,11 @@ db.players.insert({
     },
     "2015-07-value": 104,
     "name": "Josh Phegley",
-    "playerid": 9308
+    "playerid": 9308,
+    "team-2014": "Athletics",
+    "team-2015-05": "Athletics",
+    "team-2015-06": "Athletics",
+    "team-2015-07": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -38159,7 +39454,9 @@ db.players.insert({
     },
     "2015-06-value": 62,
     "name": "Marco Estrada",
-    "playerid": 1118
+    "playerid": 1118,
+    "team-2014": "Blue Jays",
+    "team-2015-06": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -38275,7 +39572,11 @@ db.players.insert({
     },
     "2015-07-value": 130,
     "name": "Shin-Soo Choo",
-    "playerid": 3174
+    "playerid": 3174,
+    "team-2014": "Rangers",
+    "team-2015-05": "Rangers",
+    "team-2015-06": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -38391,7 +39692,11 @@ db.players.insert({
     },
     "2015-07-value": 139,
     "name": "Cameron Maybin",
-    "playerid": 5223
+    "playerid": 5223,
+    "team-2014": "Braves",
+    "team-2015-05": "Braves",
+    "team-2015-06": "Braves",
+    "team-2015-07": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -38507,7 +39812,11 @@ db.players.insert({
     },
     "2015-07-value": 118,
     "name": "Yasmani Grandal",
-    "playerid": 11368
+    "playerid": 11368,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -38539,7 +39848,8 @@ db.players.insert({
     },
     "2014-value": 75,
     "name": "Craig Stammen",
-    "playerid": 7274
+    "playerid": 7274,
+    "team-2014": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -38599,7 +39909,9 @@ db.players.insert({
     },
     "2015-07-value": 71,
     "name": "Christian Walker",
-    "playerid": 13419
+    "playerid": 13419,
+    "team-2014": "Orioles",
+    "team-2015-07": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -38715,7 +40027,11 @@ db.players.insert({
     },
     "2015-07-value": 96,
     "name": "Peter Bourjos",
-    "playerid": 2578
+    "playerid": 2578,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -38803,7 +40119,10 @@ db.players.insert({
     },
     "2015-07-value": 114,
     "name": "Drew Stubbs",
-    "playerid": 9328
+    "playerid": 9328,
+    "team-2014": "Rangers",
+    "team-2015-05": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -38919,7 +40238,11 @@ db.players.insert({
     },
     "2015-07-value": 50,
     "name": "Jerome Williams",
-    "playerid": 1137
+    "playerid": 1137,
+    "team-2014": "Phillies",
+    "team-2015-05": "Phillies",
+    "team-2015-06": "Phillies",
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2015-05": {
@@ -39007,7 +40330,10 @@ db.players.insert({
     },
     "2015-07-value": 127,
     "name": "Delino Deshields",
-    "playerid": 11379
+    "playerid": 11379,
+    "team-2015-05": "Rangers",
+    "team-2015-06": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -39039,7 +40365,8 @@ db.players.insert({
     },
     "2014-value": 100,
     "name": "Nate McLouth",
-    "playerid": 3190
+    "playerid": 3190,
+    "team-2014": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -39155,7 +40482,11 @@ db.players.insert({
     },
     "2015-07-value": 149,
     "name": "Carlos Gonzalez",
-    "playerid": 7287
+    "playerid": 7287,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -39187,7 +40518,8 @@ db.players.insert({
     },
     "2014-value": 62,
     "name": "Tommy Kahnle",
-    "playerid": 11384
+    "playerid": 11384,
+    "team-2014": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -39275,7 +40607,10 @@ db.players.insert({
     },
     "2015-07-value": 96,
     "name": "Matt den Dekker",
-    "playerid": 11385
+    "playerid": 11385,
+    "team-2014": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -39391,7 +40726,11 @@ db.players.insert({
     },
     "2015-07-value": 84,
     "name": "Jake Elmore",
-    "playerid": 7290
+    "playerid": 7290,
+    "team-2014": "Rays",
+    "team-2015-05": "Rays",
+    "team-2015-06": "Rays",
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -39479,7 +40818,10 @@ db.players.insert({
     },
     "2015-07-value": 51,
     "name": "Chris Young",
-    "playerid": 3196
+    "playerid": 3196,
+    "team-2014": "Royals",
+    "team-2015-06": "Royals",
+    "team-2015-07": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -39511,7 +40853,8 @@ db.players.insert({
     },
     "2014-value": 57,
     "name": "Brad Ziegler",
-    "playerid": 7293
+    "playerid": 7293,
+    "team-2014": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -39627,7 +40970,11 @@ db.players.insert({
     },
     "2015-07-value": 121,
     "name": "Brett Lawrie",
-    "playerid": 5247
+    "playerid": 5247,
+    "team-2014": "Athletics",
+    "team-2015-05": "Athletics",
+    "team-2015-06": "Athletics",
+    "team-2015-07": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -39659,7 +41006,8 @@ db.players.insert({
     },
     "2014-value": 89,
     "name": "Ervin Santana",
-    "playerid": 3200
+    "playerid": 3200,
+    "team-2014": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -39775,7 +41123,11 @@ db.players.insert({
     },
     "2015-07-value": 113,
     "name": "Brock Holt",
-    "playerid": 9345
+    "playerid": 9345,
+    "team-2014": "Red Sox",
+    "team-2015-05": "Red Sox",
+    "team-2015-06": "Red Sox",
+    "team-2015-07": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -39835,7 +41187,9 @@ db.players.insert({
     },
     "2015-05-value": 56,
     "name": "Brandon Morrow",
-    "playerid": 9346
+    "playerid": 9346,
+    "team-2014": "Padres",
+    "team-2015-05": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -39895,7 +41249,9 @@ db.players.insert({
     },
     "2015-05-value": 76,
     "name": "Robbie Grossman",
-    "playerid": 5254
+    "playerid": 5254,
+    "team-2014": "Astros",
+    "team-2015-05": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -40011,7 +41367,11 @@ db.players.insert({
     },
     "2015-07-value": 91,
     "name": "Andrew Romine",
-    "playerid": 1159
+    "playerid": 1159,
+    "team-2014": "Tigers",
+    "team-2015-05": "Tigers",
+    "team-2015-06": "Tigers",
+    "team-2015-07": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -40127,7 +41487,11 @@ db.players.insert({
     },
     "2015-07-value": 113,
     "name": "Salvador Perez",
-    "playerid": 7304
+    "playerid": 7304,
+    "team-2014": "Royals",
+    "team-2015-05": "Royals",
+    "team-2015-06": "Royals",
+    "team-2015-07": "Royals"
 });
 db.players.insert({
     "2015-07": {
@@ -40159,7 +41523,8 @@ db.players.insert({
     },
     "2015-07-value": 69,
     "name": "Patrick Corbin",
-    "playerid": 9323
+    "playerid": 9323,
+    "team-2015-07": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -40275,7 +41640,11 @@ db.players.insert({
     },
     "2015-07-value": 71,
     "name": "Eddie Butler",
-    "playerid": 13453
+    "playerid": 13453,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -40363,7 +41732,10 @@ db.players.insert({
     },
     "2015-06-value": 65,
     "name": "Josh Collmenter",
-    "playerid": 7312
+    "playerid": 7312,
+    "team-2014": "Diamondbacks",
+    "team-2015-05": "Diamondbacks",
+    "team-2015-06": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -40395,7 +41767,8 @@ db.players.insert({
     },
     "2014-value": 78,
     "name": "Adam Moore",
-    "playerid": 9362
+    "playerid": 9362,
+    "team-2014": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -40483,7 +41856,10 @@ db.players.insert({
     },
     "2015-07-value": 51,
     "name": "Jean Machi",
-    "playerid": 3220
+    "playerid": 3220,
+    "team-2014": "Red Sox",
+    "team-2015-05": "Red Sox",
+    "team-2015-07": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -40599,7 +41975,11 @@ db.players.insert({
     },
     "2015-07-value": 135,
     "name": "Evan Longoria",
-    "playerid": 9368
+    "playerid": 9368,
+    "team-2014": "Rays",
+    "team-2015-05": "Rays",
+    "team-2015-06": "Rays",
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -40715,7 +42095,11 @@ db.players.insert({
     },
     "2015-07-value": 83,
     "name": "Sandy Leon",
-    "playerid": 5273
+    "playerid": 5273,
+    "team-2014": "Red Sox",
+    "team-2015-05": "Red Sox",
+    "team-2015-06": "Red Sox",
+    "team-2015-07": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -40831,7 +42215,11 @@ db.players.insert({
     },
     "2015-07-value": 119,
     "name": "Francisco Cervelli",
-    "playerid": 5275
+    "playerid": 5275,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -40891,7 +42279,9 @@ db.players.insert({
     },
     "2015-07-value": 68,
     "name": "Chris Gimenez",
-    "playerid": 7324
+    "playerid": 7324,
+    "team-2014": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -40951,7 +42341,9 @@ db.players.insert({
     },
     "2015-05-value": 110,
     "name": "Tuffy Gosewisch",
-    "playerid": 5277
+    "playerid": 5277,
+    "team-2014": "Diamondbacks",
+    "team-2015-05": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -41067,7 +42459,11 @@ db.players.insert({
     },
     "2015-07-value": 89,
     "name": "Pedro Ciriaco",
-    "playerid": 5278
+    "playerid": 5278,
+    "team-2014": "Braves",
+    "team-2015-05": "Braves",
+    "team-2015-06": "Braves",
+    "team-2015-07": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -41183,7 +42579,11 @@ db.players.insert({
     },
     "2015-07-value": 93,
     "name": "Brayan Pena",
-    "playerid": 3231
+    "playerid": 3231,
+    "team-2014": "Reds",
+    "team-2015-05": "Reds",
+    "team-2015-06": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -41243,7 +42643,9 @@ db.players.insert({
     },
     "2015-06-value": 58,
     "name": "Anthony Ranaudo",
-    "playerid": 11424
+    "playerid": 11424,
+    "team-2014": "Rangers",
+    "team-2015-06": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -41359,7 +42761,11 @@ db.players.insert({
     },
     "2015-07-value": 125,
     "name": "Seth Smith",
-    "playerid": 7331
+    "playerid": 7331,
+    "team-2014": "Mariners",
+    "team-2015-05": "Mariners",
+    "team-2015-06": "Mariners",
+    "team-2015-07": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -41391,7 +42797,8 @@ db.players.insert({
     },
     "2014-value": 63,
     "name": "Brandon Workman",
-    "playerid": 11428
+    "playerid": 11428,
+    "team-2014": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -41423,7 +42830,8 @@ db.players.insert({
     },
     "2014-value": 71,
     "name": "Samuel Deduno",
-    "playerid": 5285
+    "playerid": 5285,
+    "team-2014": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -41539,7 +42947,11 @@ db.players.insert({
     },
     "2015-07-value": 95,
     "name": "Chris Johnson",
-    "playerid": 1191
+    "playerid": 1191,
+    "team-2014": "Indians",
+    "team-2015-05": "Indians",
+    "team-2015-06": "Indians",
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -41571,7 +42983,8 @@ db.players.insert({
     },
     "2014-value": 59,
     "name": "Josh Tomlin",
-    "playerid": 9388
+    "playerid": 9388,
+    "team-2014": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -41687,7 +43100,11 @@ db.players.insert({
     },
     "2015-07-value": 144,
     "name": "Aaron Hicks",
-    "playerid": 5297
+    "playerid": 5297,
+    "team-2014": "Twins",
+    "team-2015-05": "Twins",
+    "team-2015-06": "Twins",
+    "team-2015-07": "Twins"
 });
 db.players.insert({
     "2015-07": {
@@ -41719,7 +43136,8 @@ db.players.insert({
     },
     "2015-07-value": 86,
     "name": "Oscar Hernandez",
-    "playerid": 13490
+    "playerid": 13490,
+    "team-2015-07": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -41835,7 +43253,11 @@ db.players.insert({
     },
     "2015-07-value": 90,
     "name": "Andres Blanco",
-    "playerid": 1907
+    "playerid": 1907,
+    "team-2014": "Phillies",
+    "team-2015-05": "Phillies",
+    "team-2015-06": "Phillies",
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2015-05": {
@@ -41923,7 +43345,10 @@ db.players.insert({
     },
     "2015-07-value": 105,
     "name": "Mark Canha",
-    "playerid": 11445
+    "playerid": 11445,
+    "team-2015-05": "Athletics",
+    "team-2015-06": "Athletics",
+    "team-2015-07": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -41983,7 +43408,9 @@ db.players.insert({
     },
     "2015-05-value": 64,
     "name": "Jeff Samardzija",
-    "playerid": 3254
+    "playerid": 3254,
+    "team-2014": "White Sox",
+    "team-2015-05": "White Sox"
 });
 db.players.insert({
     "2015-06": {
@@ -42043,7 +43470,9 @@ db.players.insert({
     },
     "2015-07-value": 113,
     "name": "Franklin Gutierrez",
-    "playerid": 3255
+    "playerid": 3255,
+    "team-2015-06": "Mariners",
+    "team-2015-07": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -42159,7 +43588,11 @@ db.players.insert({
     },
     "2015-07-value": 130,
     "name": "Welington Castillo",
-    "playerid": 3256
+    "playerid": 3256,
+    "team-2014": "Diamondbacks",
+    "team-2015-05": "Diamondbacks",
+    "team-2015-06": "Diamondbacks",
+    "team-2015-07": "Diamondbacks"
 });
 db.players.insert({
     "2015-06": {
@@ -42219,7 +43652,9 @@ db.players.insert({
     },
     "2015-07-value": 79,
     "name": "Kyle Kubitza",
-    "playerid": 12148
+    "playerid": 12148,
+    "team-2015-06": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -42307,7 +43742,10 @@ db.players.insert({
     },
     "2015-06-value": 86,
     "name": "Kristopher Negron",
-    "playerid": 5306
+    "playerid": 5306,
+    "team-2014": "Reds",
+    "team-2015-05": "Reds",
+    "team-2015-06": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -42339,7 +43777,8 @@ db.players.insert({
     },
     "2014-value": 64,
     "name": "Erik Johnson",
-    "playerid": 12520
+    "playerid": 12520,
+    "team-2014": "White Sox"
 });
 db.players.insert({
     "2014": {
@@ -42371,7 +43810,8 @@ db.players.insert({
     },
     "2014-value": 84,
     "name": "Michael Martinez",
-    "playerid": 7358
+    "playerid": 7358,
+    "team-2014": "Indians"
 });
 db.players.insert({
     "2015-05": {
@@ -42403,7 +43843,8 @@ db.players.insert({
     },
     "2015-05-value": 66,
     "name": "Sammy Solis",
-    "playerid": 11457
+    "playerid": 11457,
+    "team-2015-05": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -42519,7 +43960,11 @@ db.players.insert({
     },
     "2015-07-value": 148,
     "name": "Robinson Cano",
-    "playerid": 3269
+    "playerid": 3269,
+    "team-2014": "Mariners",
+    "team-2015-05": "Mariners",
+    "team-2015-06": "Mariners",
+    "team-2015-07": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -42635,7 +44080,11 @@ db.players.insert({
     },
     "2015-07-value": 63,
     "name": "Jose Ramirez",
-    "playerid": 13510
+    "playerid": 13510,
+    "team-2014": "Indians",
+    "team-2015-05": "Indians",
+    "team-2015-06": "Indians",
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2015-05": {
@@ -42667,7 +44116,8 @@ db.players.insert({
     },
     "2015-05-value": 59,
     "name": "A.J. Cole",
-    "playerid": 11467
+    "playerid": 11467,
+    "team-2015-05": "Nationals"
 });
 db.players.insert({
     "2015-07": {
@@ -42699,7 +44149,8 @@ db.players.insert({
     },
     "2015-07-value": 61,
     "name": "Zach Lee",
-    "playerid": 11468
+    "playerid": 11468,
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -42759,7 +44210,9 @@ db.players.insert({
     },
     "2015-07-value": 74,
     "name": "Dallas Beeler",
-    "playerid": 11471
+    "playerid": 11471,
+    "team-2014": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2015-05": {
@@ -42791,7 +44244,8 @@ db.players.insert({
     },
     "2015-05-value": 66,
     "name": "Dixon Machado",
-    "playerid": 11472
+    "playerid": 11472,
+    "team-2015-05": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -42907,7 +44361,11 @@ db.players.insert({
     },
     "2015-07-value": 69,
     "name": "Doug Fister",
-    "playerid": 9425
+    "playerid": 9425,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2015-05": {
@@ -42995,7 +44453,10 @@ db.players.insert({
     },
     "2015-07-value": 132,
     "name": "Odubel Herrera",
-    "playerid": 11476
+    "playerid": 11476,
+    "team-2015-05": "Phillies",
+    "team-2015-06": "Phillies",
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -43111,7 +44572,11 @@ db.players.insert({
     },
     "2015-07-value": 137,
     "name": "Christian Yelich",
-    "playerid": 11477
+    "playerid": 11477,
+    "team-2014": "Marlins",
+    "team-2015-05": "Marlins",
+    "team-2015-06": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -43143,7 +44608,8 @@ db.players.insert({
     },
     "2014-value": 69,
     "name": "Dallas Keuchel",
-    "playerid": 9434
+    "playerid": 9434,
+    "team-2014": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -43175,7 +44641,8 @@ db.players.insert({
     },
     "2014-value": 60,
     "name": "Ian Krol",
-    "playerid": 10066
+    "playerid": 10066,
+    "team-2014": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -43235,7 +44702,9 @@ db.players.insert({
     },
     "2015-06-value": 50,
     "name": "R.A. Dickey",
-    "playerid": 1245
+    "playerid": 1245,
+    "team-2014": "Blue Jays",
+    "team-2015-06": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -43351,7 +44820,11 @@ db.players.insert({
     },
     "2015-07-value": 61,
     "name": "Robbie Ray",
-    "playerid": 11486
+    "playerid": 11486,
+    "team-2014": "Diamondbacks",
+    "team-2015-05": "Diamondbacks",
+    "team-2015-06": "Diamondbacks",
+    "team-2015-07": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -43467,7 +44940,11 @@ db.players.insert({
     },
     "2015-07-value": 142,
     "name": "Brandon Crawford",
-    "playerid": 5343
+    "playerid": 5343,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -43583,7 +45060,11 @@ db.players.insert({
     },
     "2015-07-value": 132,
     "name": "Michael Taylor",
-    "playerid": 11489
+    "playerid": 11489,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -43615,7 +45096,8 @@ db.players.insert({
     },
     "2014-value": 52,
     "name": "Chris Hatcher",
-    "playerid": 3299
+    "playerid": 3299,
+    "team-2014": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -43731,7 +45213,11 @@ db.players.insert({
     },
     "2015-07-value": 141,
     "name": "Manny Machado",
-    "playerid": 11493
+    "playerid": 11493,
+    "team-2014": "Orioles",
+    "team-2015-05": "Orioles",
+    "team-2015-06": "Orioles",
+    "team-2015-07": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -43847,7 +45333,11 @@ db.players.insert({
     },
     "2015-07-value": 123,
     "name": "Billy Butler",
-    "playerid": 7399
+    "playerid": 7399,
+    "team-2014": "Athletics",
+    "team-2015-05": "Athletics",
+    "team-2015-06": "Athletics",
+    "team-2015-07": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -43963,7 +45453,11 @@ db.players.insert({
     },
     "2015-07-value": 133,
     "name": "Yangervis Solarte",
-    "playerid": 5352
+    "playerid": 5352,
+    "team-2014": "Padres",
+    "team-2015-05": "Padres",
+    "team-2015-06": "Padres",
+    "team-2015-07": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -43995,7 +45489,8 @@ db.players.insert({
     },
     "2014-value": 73,
     "name": "Colby Lewis",
-    "playerid": 1259
+    "playerid": 1259,
+    "team-2014": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -44027,7 +45522,8 @@ db.players.insert({
     },
     "2014-value": 72,
     "name": "Cristhian Adames",
-    "playerid": 6013
+    "playerid": 6013,
+    "team-2014": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -44143,7 +45639,11 @@ db.players.insert({
     },
     "2015-07-value": 101,
     "name": "Martin Prado",
-    "playerid": 3312
+    "playerid": 3312,
+    "team-2014": "Marlins",
+    "team-2015-05": "Marlins",
+    "team-2015-06": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -44259,7 +45759,11 @@ db.players.insert({
     },
     "2015-07-value": 96,
     "name": "Freddie Freeman",
-    "playerid": 5361
+    "playerid": 5361,
+    "team-2014": "Braves",
+    "team-2015-05": "Braves",
+    "team-2015-06": "Braves",
+    "team-2015-07": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -44319,7 +45823,9 @@ db.players.insert({
     },
     "2015-06-value": 56,
     "name": "J.A. Happ",
-    "playerid": 7410
+    "playerid": 7410,
+    "team-2014": "Pirates",
+    "team-2015-06": "Pirates"
 });
 db.players.insert({
     "2015-05": {
@@ -44407,7 +45913,10 @@ db.players.insert({
     },
     "2015-07-value": 85,
     "name": "Taylor Featherston",
-    "playerid": 12590
+    "playerid": 12590,
+    "team-2015-05": "Angels",
+    "team-2015-06": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -44439,7 +45948,8 @@ db.players.insert({
     },
     "2014-value": 59,
     "name": "Dan Straily",
-    "playerid": 9460
+    "playerid": 9460,
+    "team-2014": "Astros"
 });
 db.players.insert({
     "2015-07": {
@@ -44471,7 +45981,8 @@ db.players.insert({
     },
     "2015-07-value": 53,
     "name": "Manny Banuelos",
-    "playerid": 5365
+    "playerid": 5365,
+    "team-2015-07": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -44503,7 +46014,8 @@ db.players.insert({
     },
     "2014-value": 74,
     "name": "Anibal Sanchez",
-    "playerid": 3284
+    "playerid": 3284,
+    "team-2014": "Tigers"
 });
 db.players.insert({
     "2015-05": {
@@ -44591,7 +46103,10 @@ db.players.insert({
     },
     "2015-07-value": 146,
     "name": "Alex Rodriguez",
-    "playerid": 1274
+    "playerid": 1274,
+    "team-2015-05": "Yankees",
+    "team-2015-06": "Yankees",
+    "team-2015-07": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -44623,7 +46138,8 @@ db.players.insert({
     },
     "2014-value": 97,
     "name": "Juan Perez",
-    "playerid": 5371
+    "playerid": 5371,
+    "team-2014": "Giants"
 });
 db.players.insert({
     "2015-06": {
@@ -44683,7 +46199,9 @@ db.players.insert({
     },
     "2015-07-value": 97,
     "name": "Shane Peterson",
-    "playerid": 7423
+    "playerid": 7423,
+    "team-2015-06": "Brewers",
+    "team-2015-07": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -44799,7 +46317,11 @@ db.players.insert({
     },
     "2015-07-value": 148,
     "name": "Mark Teixeira",
-    "playerid": 1281
+    "playerid": 1281,
+    "team-2014": "Yankees",
+    "team-2015-05": "Yankees",
+    "team-2015-06": "Yankees",
+    "team-2015-07": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -44915,7 +46437,11 @@ db.players.insert({
     },
     "2015-07-value": 112,
     "name": "Juan Lagares",
-    "playerid": 5384
+    "playerid": 5384,
+    "team-2014": "Mets",
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -44975,7 +46501,9 @@ db.players.insert({
     },
     "2015-07-value": 88,
     "name": "Jose Fernandez",
-    "playerid": 11530
+    "playerid": 11530,
+    "team-2014": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -45091,7 +46619,11 @@ db.players.insert({
     },
     "2015-07-value": 118,
     "name": "Ben Zobrist",
-    "playerid": 7435
+    "playerid": 7435,
+    "team-2014": "Royals",
+    "team-2015-05": "Royals",
+    "team-2015-06": "Royals",
+    "team-2015-07": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -45207,7 +46739,11 @@ db.players.insert({
     },
     "2015-07-value": 66,
     "name": "Matt Garza",
-    "playerid": 3340
+    "playerid": 3340,
+    "team-2014": "Brewers",
+    "team-2015-05": "Brewers",
+    "team-2015-06": "Brewers",
+    "team-2015-07": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -45267,7 +46803,9 @@ db.players.insert({
     },
     "2015-07-value": 58,
     "name": "George Kontos",
-    "playerid": 9486
+    "playerid": 9486,
+    "team-2014": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -45383,7 +46921,11 @@ db.players.insert({
     },
     "2015-07-value": 99,
     "name": "A.J. Ellis",
-    "playerid": 5677
+    "playerid": 5677,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -45471,7 +47013,10 @@ db.players.insert({
     },
     "2015-06-value": 57,
     "name": "Bud Norris",
-    "playerid": 9492
+    "playerid": 9492,
+    "team-2014": "Padres",
+    "team-2015-05": "Padres",
+    "team-2015-06": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -45503,7 +47048,8 @@ db.players.insert({
     },
     "2014-value": 109,
     "name": "Darwin Barney",
-    "playerid": 2430
+    "playerid": 2430,
+    "team-2014": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -45619,7 +47165,11 @@ db.players.insert({
     },
     "2015-07-value": 73,
     "name": "Gio Gonzalez",
-    "playerid": 7448
+    "playerid": 7448,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -45735,7 +47285,11 @@ db.players.insert({
     },
     "2015-07-value": 91,
     "name": "Matt Joyce",
-    "playerid": 3353
+    "playerid": 3353,
+    "team-2014": "Angels",
+    "team-2015-05": "Angels",
+    "team-2015-06": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -45795,7 +47349,9 @@ db.players.insert({
     },
     "2015-06-value": 56,
     "name": "Phil Hughes",
-    "playerid": 7450
+    "playerid": 7450,
+    "team-2014": "Twins",
+    "team-2015-06": "Twins"
 });
 db.players.insert({
     "2015-07": {
@@ -45827,7 +47383,8 @@ db.players.insert({
     },
     "2015-07-value": 57,
     "name": "Deolis Guerra",
-    "playerid": 8410
+    "playerid": 8410,
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -45943,7 +47500,11 @@ db.players.insert({
     },
     "2015-07-value": 107,
     "name": "Jake Smolinski",
-    "playerid": 5408
+    "playerid": 5408,
+    "team-2014": "Athletics",
+    "team-2015-05": "Athletics",
+    "team-2015-06": "Athletics",
+    "team-2015-07": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -46059,7 +47620,11 @@ db.players.insert({
     },
     "2015-07-value": 115,
     "name": "Pablo Sandoval",
-    "playerid": 5409
+    "playerid": 5409,
+    "team-2014": "Red Sox",
+    "team-2015-05": "Red Sox",
+    "team-2015-06": "Red Sox",
+    "team-2015-07": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -46175,7 +47740,11 @@ db.players.insert({
     },
     "2015-07-value": 97,
     "name": "Miguel Montero",
-    "playerid": 3364
+    "playerid": 3364,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -46291,7 +47860,11 @@ db.players.insert({
     },
     "2015-07-value": 140,
     "name": "Trevor Plouffe",
-    "playerid": 7462
+    "playerid": 7462,
+    "team-2014": "Twins",
+    "team-2015-05": "Twins",
+    "team-2015-06": "Twins",
+    "team-2015-07": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -46407,7 +47980,11 @@ db.players.insert({
     },
     "2015-07-value": 146,
     "name": "Jose Altuve",
-    "playerid": 5417
+    "playerid": 5417,
+    "team-2014": "Astros",
+    "team-2015-05": "Astros",
+    "team-2015-06": "Astros",
+    "team-2015-07": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -46523,7 +48100,11 @@ db.players.insert({
     },
     "2015-07-value": 135,
     "name": "Mookie Betts",
-    "playerid": 13611
+    "playerid": 13611,
+    "team-2014": "Red Sox",
+    "team-2015-05": "Red Sox",
+    "team-2015-06": "Red Sox",
+    "team-2015-07": "Red Sox"
 });
 db.players.insert({
     "2015-07": {
@@ -46555,7 +48136,8 @@ db.players.insert({
     },
     "2015-07-value": 71,
     "name": "Ketel Marte",
-    "playerid": 13613
+    "playerid": 13613,
+    "team-2015-07": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -46643,7 +48225,10 @@ db.players.insert({
     },
     "2015-06-value": 70,
     "name": "Ubaldo Jimenez",
-    "playerid": 3374
+    "playerid": 3374,
+    "team-2014": "Orioles",
+    "team-2015-05": "Orioles",
+    "team-2015-06": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -46731,7 +48316,10 @@ db.players.insert({
     },
     "2015-07-value": 80,
     "name": "Jayson Werth",
-    "playerid": 1327
+    "playerid": 1327,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -46847,7 +48435,11 @@ db.players.insert({
     },
     "2015-07-value": 133,
     "name": "Nick Hundley",
-    "playerid": 3376
+    "playerid": 3376,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -46935,7 +48527,10 @@ db.players.insert({
     },
     "2015-06-value": 100,
     "name": "Jon Jay",
-    "playerid": 5227
+    "playerid": 5227,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -47023,7 +48618,10 @@ db.players.insert({
     },
     "2015-07-value": 102,
     "name": "Alex Avila",
-    "playerid": 7476
+    "playerid": 7476,
+    "team-2014": "Tigers",
+    "team-2015-05": "Tigers",
+    "team-2015-07": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -47139,7 +48737,11 @@ db.players.insert({
     },
     "2015-07-value": 88,
     "name": "Alex Guerrero",
-    "playerid": 15670
+    "playerid": 15670,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -47255,7 +48857,11 @@ db.players.insert({
     },
     "2015-07-value": 53,
     "name": "Elian Herrera",
-    "playerid": 5432
+    "playerid": 5432,
+    "team-2014": "Brewers",
+    "team-2015-05": "Brewers",
+    "team-2015-06": "Brewers",
+    "team-2015-07": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -47371,7 +48977,11 @@ db.players.insert({
     },
     "2015-07-value": 141,
     "name": "Bryce Harper",
-    "playerid": 11579
+    "playerid": 11579,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -47487,7 +49097,11 @@ db.players.insert({
     },
     "2015-07-value": 145,
     "name": "Jose Abreu",
-    "playerid": 15676
+    "playerid": 15676,
+    "team-2014": "White Sox",
+    "team-2015-05": "White Sox",
+    "team-2015-06": "White Sox",
+    "team-2015-07": "White Sox"
 });
 db.players.insert({
     "2014": {
@@ -47519,7 +49133,8 @@ db.players.insert({
     },
     "2014-value": 50,
     "name": "Sean Doolittle",
-    "playerid": 1581
+    "playerid": 1581,
+    "team-2014": "Athletics"
 });
 db.players.insert({
     "2015-05": {
@@ -47607,7 +49222,10 @@ db.players.insert({
     },
     "2015-07-value": 141,
     "name": "Preston Tucker",
-    "playerid": 13633
+    "playerid": 13633,
+    "team-2015-05": "Astros",
+    "team-2015-06": "Astros",
+    "team-2015-07": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -47639,7 +49257,8 @@ db.players.insert({
     },
     "2014-value": 80,
     "name": "Brandon McCarthy",
-    "playerid": 4662
+    "playerid": 4662,
+    "team-2014": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -47755,7 +49374,11 @@ db.players.insert({
     },
     "2015-07-value": 103,
     "name": "Cliff Pennington",
-    "playerid": 3395
+    "playerid": 3395,
+    "team-2014": "Blue Jays",
+    "team-2015-05": "Blue Jays",
+    "team-2015-06": "Blue Jays",
+    "team-2015-07": "Blue Jays"
 });
 db.players.insert({
     "2015-05": {
@@ -47815,7 +49438,9 @@ db.players.insert({
     },
     "2015-06-value": 67,
     "name": "Jose Urena",
-    "playerid": 11589
+    "playerid": 11589,
+    "team-2015-05": "Marlins",
+    "team-2015-06": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -47903,7 +49528,10 @@ db.players.insert({
     },
     "2015-06-value": 72,
     "name": "Steve Clevenger",
-    "playerid": 9542
+    "playerid": 9542,
+    "team-2014": "Orioles",
+    "team-2015-05": "Orioles",
+    "team-2015-06": "Orioles"
 });
 db.players.insert({
     "2015-06": {
@@ -47935,7 +49563,8 @@ db.players.insert({
     },
     "2015-06-value": 62,
     "name": "Mark Buehrle",
-    "playerid": 225
+    "playerid": 225,
+    "team-2015-06": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -47995,7 +49624,9 @@ db.players.insert({
     },
     "2015-07-value": 53,
     "name": "Jesse Chavez",
-    "playerid": 5448
+    "playerid": 5448,
+    "team-2014": "Athletics",
+    "team-2015-07": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -48083,7 +49714,10 @@ db.players.insert({
     },
     "2015-07-value": 67,
     "name": "Daniel Nava",
-    "playerid": 5450
+    "playerid": 5450,
+    "team-2014": "Rays",
+    "team-2015-05": "Rays",
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -48199,7 +49833,11 @@ db.players.insert({
     },
     "2015-07-value": 114,
     "name": "David Freese",
-    "playerid": 9549
+    "playerid": 9549,
+    "team-2014": "Angels",
+    "team-2015-05": "Angels",
+    "team-2015-06": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -48287,7 +49925,10 @@ db.players.insert({
     },
     "2015-06-value": 105,
     "name": "Zack Cozart",
-    "playerid": 2616
+    "playerid": 2616,
+    "team-2014": "Reds",
+    "team-2015-05": "Reds",
+    "team-2015-06": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -48403,7 +50044,11 @@ db.players.insert({
     },
     "2015-07-value": 132,
     "name": "Carlos Sanchez",
-    "playerid": 11602
+    "playerid": 11602,
+    "team-2014": "White Sox",
+    "team-2015-05": "White Sox",
+    "team-2015-06": "White Sox",
+    "team-2015-07": "White Sox"
 });
 db.players.insert({
     "2014": {
@@ -48519,7 +50164,11 @@ db.players.insert({
     },
     "2015-07-value": 82,
     "name": "Drew Butera",
-    "playerid": 3411
+    "playerid": 3411,
+    "team-2014": "Royals",
+    "team-2015-05": "Royals",
+    "team-2015-06": "Royals",
+    "team-2015-07": "Royals"
 });
 db.players.insert({
     "2015-06": {
@@ -48579,7 +50228,9 @@ db.players.insert({
     },
     "2015-07-value": 64,
     "name": "Ian Thomas",
-    "playerid": 13881
+    "playerid": 13881,
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -48611,7 +50262,8 @@ db.players.insert({
     },
     "2014-value": 92,
     "name": "Garin Cecchini",
-    "playerid": 11608
+    "playerid": 11608,
+    "team-2014": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -48643,7 +50295,8 @@ db.players.insert({
     },
     "2014-value": 88,
     "name": "Terrance Gore",
-    "playerid": 13658
+    "playerid": 13658,
+    "team-2014": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -48675,7 +50328,8 @@ db.players.insert({
     },
     "2014-value": 76,
     "name": "Brandon Cumpton",
-    "playerid": 11366
+    "playerid": 11366,
+    "team-2014": "Pirates"
 });
 db.players.insert({
     "2015-05": {
@@ -48735,7 +50389,9 @@ db.players.insert({
     },
     "2015-06-value": 58,
     "name": "Mike Foltynewicz",
-    "playerid": 10811
+    "playerid": 10811,
+    "team-2015-05": "Braves",
+    "team-2015-06": "Braves"
 });
 db.players.insert({
     "2015-06": {
@@ -48767,7 +50423,8 @@ db.players.insert({
     },
     "2015-06-value": 67,
     "name": "Jarrett Parker",
-    "playerid": 11624
+    "playerid": 11624,
+    "team-2015-06": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -48883,7 +50540,11 @@ db.players.insert({
     },
     "2015-07-value": 108,
     "name": "Jimmy Paredes",
-    "playerid": 5481
+    "playerid": 5481,
+    "team-2014": "Orioles",
+    "team-2015-05": "Orioles",
+    "team-2015-06": "Orioles",
+    "team-2015-07": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -48943,7 +50604,9 @@ db.players.insert({
     },
     "2015-06-value": 72,
     "name": "Collin McHugh",
-    "playerid": 7531
+    "playerid": 7531,
+    "team-2014": "Astros",
+    "team-2015-06": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -49059,7 +50722,11 @@ db.players.insert({
     },
     "2015-07-value": 75,
     "name": "Jose Pirela",
-    "playerid": 5485
+    "playerid": 5485,
+    "team-2014": "Yankees",
+    "team-2015-05": "Yankees",
+    "team-2015-06": "Yankees",
+    "team-2015-07": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -49175,7 +50842,11 @@ db.players.insert({
     },
     "2015-07-value": 79,
     "name": "Abraham Almonte",
-    "playerid": 5486
+    "playerid": 5486,
+    "team-2014": "Indians",
+    "team-2015-05": "Indians",
+    "team-2015-06": "Indians",
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -49291,7 +50962,11 @@ db.players.insert({
     },
     "2015-07-value": 108,
     "name": "Ezequiel Carrera",
-    "playerid": 9048
+    "playerid": 9048,
+    "team-2014": "Blue Jays",
+    "team-2015-05": "Blue Jays",
+    "team-2015-06": "Blue Jays",
+    "team-2015-07": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -49379,7 +51054,10 @@ db.players.insert({
     },
     "2015-07-value": 91,
     "name": "Nolan Reimold",
-    "playerid": 3441
+    "playerid": 3441,
+    "team-2014": "Orioles",
+    "team-2015-06": "Orioles",
+    "team-2015-07": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -49495,7 +51173,11 @@ db.players.insert({
     },
     "2015-07-value": 81,
     "name": "Dan Uggla",
-    "playerid": 3442
+    "playerid": 3442,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -49611,7 +51293,11 @@ db.players.insert({
     },
     "2015-07-value": 146,
     "name": "Neil Walker",
-    "playerid": 7539
+    "playerid": 7539,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -49671,7 +51357,9 @@ db.players.insert({
     },
     "2015-05-value": 55,
     "name": "Francisco Pena",
-    "playerid": 8298
+    "playerid": 8298,
+    "team-2014": "Royals",
+    "team-2015-05": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -49759,7 +51447,10 @@ db.players.insert({
     },
     "2015-07-value": 72,
     "name": "Jeff Mathis",
-    "playerid": 3448
+    "playerid": 3448,
+    "team-2014": "Marlins",
+    "team-2015-06": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -49875,7 +51566,11 @@ db.players.insert({
     },
     "2015-07-value": 118,
     "name": "Marwin Gonzalez",
-    "playerid": 5497
+    "playerid": 5497,
+    "team-2014": "Astros",
+    "team-2015-05": "Astros",
+    "team-2015-06": "Astros",
+    "team-2015-07": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -49991,7 +51686,11 @@ db.players.insert({
     },
     "2015-07-value": 70,
     "name": "Kyle Hendricks",
-    "playerid": 12049
+    "playerid": 12049,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -50079,7 +51778,10 @@ db.players.insert({
     },
     "2015-06-value": 94,
     "name": "Junior Lake",
-    "playerid": 4672
+    "playerid": 4672,
+    "team-2014": "Orioles",
+    "team-2015-05": "Orioles",
+    "team-2015-06": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -50111,7 +51813,8 @@ db.players.insert({
     },
     "2014-value": 57,
     "name": "Nick Vincent",
-    "playerid": 7555
+    "playerid": 7555,
+    "team-2014": "Padres"
 });
 db.players.insert({
     "2015-05": {
@@ -50143,7 +51846,8 @@ db.players.insert({
     },
     "2015-05-value": 61,
     "name": "Cody Martin",
-    "playerid": 12182
+    "playerid": 12182,
+    "team-2015-05": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -50203,7 +51907,9 @@ db.players.insert({
     },
     "2015-07-value": 92,
     "name": "Jesus Montero",
-    "playerid": 5514
+    "playerid": 5514,
+    "team-2014": "Mariners",
+    "team-2015-07": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -50263,7 +51969,9 @@ db.players.insert({
     },
     "2015-07-value": 103,
     "name": "Tommy Pham",
-    "playerid": 2967
+    "playerid": 2967,
+    "team-2014": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -50379,7 +52087,11 @@ db.players.insert({
     },
     "2015-07-value": 127,
     "name": "Ruben Tejada",
-    "playerid": 5519
+    "playerid": 5519,
+    "team-2014": "Mets",
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -50495,7 +52207,11 @@ db.players.insert({
     },
     "2015-07-value": 139,
     "name": "Anthony Rizzo",
-    "playerid": 3473
+    "playerid": 3473,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -50611,7 +52327,11 @@ db.players.insert({
     },
     "2015-07-value": 84,
     "name": "Lonnie Chisenhall",
-    "playerid": 7571
+    "playerid": 7571,
+    "team-2014": "Indians",
+    "team-2015-05": "Indians",
+    "team-2015-06": "Indians",
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -50727,7 +52447,11 @@ db.players.insert({
     },
     "2015-07-value": 88,
     "name": "Madison Bumgarner",
-    "playerid": 5524
+    "playerid": 5524,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2015-06": {
@@ -50759,7 +52483,8 @@ db.players.insert({
     },
     "2015-06-value": 52,
     "name": "Allen Webster",
-    "playerid": 3993
+    "playerid": 3993,
+    "team-2015-06": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -50875,7 +52600,11 @@ db.players.insert({
     },
     "2015-07-value": 107,
     "name": "Wilson Ramos",
-    "playerid": 1433
+    "playerid": 1433,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -50991,7 +52720,11 @@ db.players.insert({
     },
     "2015-07-value": 121,
     "name": "Yan Gomes",
-    "playerid": 9627
+    "playerid": 9627,
+    "team-2014": "Indians",
+    "team-2015-05": "Indians",
+    "team-2015-06": "Indians",
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -51107,7 +52840,11 @@ db.players.insert({
     },
     "2015-07-value": 76,
     "name": "Michael McKenry",
-    "playerid": 9628
+    "playerid": 9628,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -51139,7 +52876,8 @@ db.players.insert({
     },
     "2014-value": 85,
     "name": "Shawn O'Malley",
-    "playerid": 9629
+    "playerid": 9629,
+    "team-2014": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -51255,7 +52993,11 @@ db.players.insert({
     },
     "2015-07-value": 70,
     "name": "Carlos Martinez",
-    "playerid": 11682
+    "playerid": 11682,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -51315,7 +53057,9 @@ db.players.insert({
     },
     "2015-05-value": 55,
     "name": "Jordan Lyles",
-    "playerid": 7593
+    "playerid": 7593,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -51431,7 +53175,11 @@ db.players.insert({
     },
     "2015-07-value": 72,
     "name": "Aaron Harang",
-    "playerid": 1451
+    "playerid": 1451,
+    "team-2014": "Phillies",
+    "team-2015-05": "Phillies",
+    "team-2015-06": "Phillies",
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -51463,7 +53211,8 @@ db.players.insert({
     },
     "2014-value": 67,
     "name": "Tyler Chatwood",
-    "playerid": 4338
+    "playerid": 4338,
+    "team-2014": "Rockies"
 });
 db.players.insert({
     "2015-07": {
@@ -51495,7 +53244,8 @@ db.players.insert({
     },
     "2015-07-value": 53,
     "name": "Matt Harrison",
-    "playerid": 5551
+    "playerid": 5551,
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -51527,7 +53277,8 @@ db.players.insert({
     },
     "2014-value": 81,
     "name": "Jamie Romak",
-    "playerid": 5552
+    "playerid": 5552,
+    "team-2014": "Diamondbacks"
 });
 db.players.insert({
     "2015-07": {
@@ -51559,7 +53310,8 @@ db.players.insert({
     },
     "2015-07-value": 55,
     "name": "Austin Adams",
-    "playerid": 7411
+    "playerid": 7411,
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -51675,7 +53427,11 @@ db.players.insert({
     },
     "2015-07-value": 84,
     "name": "Jarrod Saltalamacchia",
-    "playerid": 5557
+    "playerid": 5557,
+    "team-2014": "Diamondbacks",
+    "team-2015-05": "Diamondbacks",
+    "team-2015-06": "Diamondbacks",
+    "team-2015-07": "Diamondbacks"
 });
 db.players.insert({
     "2015-05": {
@@ -51707,7 +53463,8 @@ db.players.insert({
     },
     "2015-05-value": 74,
     "name": "Michael Blazek",
-    "playerid": 9654
+    "playerid": 9654,
+    "team-2015-05": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -51795,7 +53552,10 @@ db.players.insert({
     },
     "2015-06-value": 71,
     "name": "Tim Lincecum",
-    "playerid": 5705
+    "playerid": 5705,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -51855,7 +53615,9 @@ db.players.insert({
     },
     "2015-06-value": 56,
     "name": "Tommy Milone",
-    "playerid": 7608
+    "playerid": 7608,
+    "team-2014": "Twins",
+    "team-2015-06": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -51971,7 +53733,11 @@ db.players.insert({
     },
     "2015-07-value": 147,
     "name": "Eric Hosmer",
-    "playerid": 3516
+    "playerid": 3516,
+    "team-2014": "Royals",
+    "team-2015-05": "Royals",
+    "team-2015-06": "Royals",
+    "team-2015-07": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -52059,7 +53825,10 @@ db.players.insert({
     },
     "2015-07-value": 92,
     "name": "Chris Taylor",
-    "playerid": 13757
+    "playerid": 13757,
+    "team-2014": "Mariners",
+    "team-2015-05": "Mariners",
+    "team-2015-07": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -52091,7 +53860,8 @@ db.players.insert({
     },
     "2014-value": 63,
     "name": "Sam Dyson",
-    "playerid": 11710
+    "playerid": 11710,
+    "team-2014": "Rangers"
 });
 db.players.insert({
     "2015-05": {
@@ -52179,7 +53949,10 @@ db.players.insert({
     },
     "2015-07-value": 94,
     "name": "Matt Harvey",
-    "playerid": 11713
+    "playerid": 11713,
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2015-07": {
@@ -52211,7 +53984,8 @@ db.players.insert({
     },
     "2015-07-value": 82,
     "name": "Tim Cooney",
-    "playerid": 13762
+    "playerid": 13762,
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -52327,7 +54101,11 @@ db.players.insert({
     },
     "2015-07-value": 120,
     "name": "Mark Reynolds",
-    "playerid": 7619
+    "playerid": 7619,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -52415,7 +54193,10 @@ db.players.insert({
     },
     "2015-06-value": 76,
     "name": "Justin Ruggiano",
-    "playerid": 7620
+    "playerid": 7620,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -52447,7 +54228,8 @@ db.players.insert({
     },
     "2014-value": 66,
     "name": "Felix Doubront",
-    "playerid": 1478
+    "playerid": 1478,
+    "team-2014": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -52507,7 +54289,9 @@ db.players.insert({
     },
     "2015-06-value": 58,
     "name": "Justin Grimm",
-    "playerid": 11720
+    "playerid": 11720,
+    "team-2014": "Cubs",
+    "team-2015-06": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -52539,7 +54323,8 @@ db.players.insert({
     },
     "2014-value": 53,
     "name": "Jeff Francis",
-    "playerid": 4684
+    "playerid": 4684,
+    "team-2014": "Blue Jays"
 });
 db.players.insert({
     "2015-07": {
@@ -52571,7 +54356,8 @@ db.players.insert({
     },
     "2015-07-value": 86,
     "name": "Rob Refsnyder",
-    "playerid": 13770
+    "playerid": 13770,
+    "team-2015-07": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -52687,7 +54473,11 @@ db.players.insert({
     },
     "2015-07-value": 135,
     "name": "Troy Tulowitzki",
-    "playerid": 3531
+    "playerid": 3531,
+    "team-2014": "Blue Jays",
+    "team-2015-05": "Blue Jays",
+    "team-2015-06": "Blue Jays",
+    "team-2015-07": "Blue Jays"
 });
 db.players.insert({
     "2015-05": {
@@ -52719,7 +54509,8 @@ db.players.insert({
     },
     "2015-05-value": 58,
     "name": "Shane Greene",
-    "playerid": 10756
+    "playerid": 10756,
+    "team-2015-05": "Tigers"
 });
 db.players.insert({
     "2015-05": {
@@ -52779,7 +54570,9 @@ db.players.insert({
     },
     "2015-07-value": 99,
     "name": "Adonis Garcia",
-    "playerid": 13777
+    "playerid": 13777,
+    "team-2015-05": "Braves",
+    "team-2015-07": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -52895,7 +54688,11 @@ db.players.insert({
     },
     "2015-07-value": 67,
     "name": "Carlos Corporan",
-    "playerid": 5587
+    "playerid": 5587,
+    "team-2014": "Rangers",
+    "team-2015-05": "Rangers",
+    "team-2015-06": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -53011,7 +54808,11 @@ db.players.insert({
     },
     "2015-07-value": 78,
     "name": "Alex Wood",
-    "playerid": 13781
+    "playerid": 13781,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -53043,7 +54844,8 @@ db.players.insert({
     },
     "2014-value": 66,
     "name": "Danny Duffy",
-    "playerid": 3542
+    "playerid": 3542,
+    "team-2014": "Royals"
 });
 db.players.insert({
     "2015-06": {
@@ -53075,7 +54877,8 @@ db.players.insert({
     },
     "2015-06-value": 50,
     "name": "Chris Capuano",
-    "playerid": 1701
+    "playerid": 1701,
+    "team-2015-06": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -53191,7 +54994,11 @@ db.players.insert({
     },
     "2015-07-value": 144,
     "name": "Nick Castellanos",
-    "playerid": 11737
+    "playerid": 11737,
+    "team-2014": "Tigers",
+    "team-2015-05": "Tigers",
+    "team-2015-06": "Tigers",
+    "team-2015-07": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -53307,7 +55114,11 @@ db.players.insert({
     },
     "2015-07-value": 132,
     "name": "J.T. Realmuto",
-    "playerid": 11739
+    "playerid": 11739,
+    "team-2014": "Marlins",
+    "team-2015-05": "Marlins",
+    "team-2015-06": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2015-06": {
@@ -53339,7 +55150,8 @@ db.players.insert({
     },
     "2015-06-value": 52,
     "name": "Liam Hendriks",
-    "playerid": 3548
+    "playerid": 3548,
+    "team-2015-06": "Blue Jays"
 });
 db.players.insert({
     "2015-07": {
@@ -53371,7 +55183,8 @@ db.players.insert({
     },
     "2015-07-value": 51,
     "name": "Clayton Richard",
-    "playerid": 3551
+    "playerid": 3551,
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -53403,7 +55216,8 @@ db.players.insert({
     },
     "2014-value": 104,
     "name": "Stefen Romero",
-    "playerid": 11746
+    "playerid": 11746,
+    "team-2014": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -53519,7 +55333,11 @@ db.players.insert({
     },
     "2015-07-value": 66,
     "name": "John Lackey",
-    "playerid": 1507
+    "playerid": 1507,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2015-05": {
@@ -53551,7 +55369,8 @@ db.players.insert({
     },
     "2015-05-value": 62,
     "name": "Tyler Wagner",
-    "playerid": 13796
+    "playerid": 13796,
+    "team-2015-05": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -53611,7 +55430,9 @@ db.players.insert({
     },
     "2015-05-value": 103,
     "name": "Matt Adams",
-    "playerid": 9393
+    "playerid": 9393,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals"
 });
 db.players.insert({
     "2015-06": {
@@ -53643,7 +55464,8 @@ db.players.insert({
     },
     "2015-06-value": 59,
     "name": "Justin Nicolino",
-    "playerid": 11754
+    "playerid": 11754,
+    "team-2015-06": "Marlins"
 });
 db.players.insert({
     "2015-05": {
@@ -53731,7 +55553,10 @@ db.players.insert({
     },
     "2015-07-value": 103,
     "name": "Kevin Plawecki",
-    "playerid": 13807
+    "playerid": 13807,
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -53763,7 +55588,8 @@ db.players.insert({
     },
     "2014-value": 63,
     "name": "Drew Smyly",
-    "playerid": 11760
+    "playerid": 11760,
+    "team-2014": "Rays"
 });
 db.players.insert({
     "2015-05": {
@@ -53795,7 +55621,8 @@ db.players.insert({
     },
     "2015-05-value": 93,
     "name": "Micah Johnson",
-    "playerid": 13809
+    "playerid": 13809,
+    "team-2015-05": "White Sox"
 });
 db.players.insert({
     "2015-05": {
@@ -53883,7 +55710,10 @@ db.players.insert({
     },
     "2015-07-value": 70,
     "name": "Noah Syndergaard",
-    "playerid": 11762
+    "playerid": 11762,
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -53943,7 +55773,9 @@ db.players.insert({
     },
     "2015-06-value": 67,
     "name": "Kyle Parker",
-    "playerid": 11763
+    "playerid": 11763,
+    "team-2014": "Rockies",
+    "team-2015-06": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -53975,7 +55807,8 @@ db.players.insert({
     },
     "2014-value": 60,
     "name": "Bryan Anderson",
-    "playerid": 9871
+    "playerid": 9871,
+    "team-2014": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -54063,7 +55896,10 @@ db.players.insert({
     },
     "2015-06-value": 63,
     "name": "C.J. Wilson",
-    "playerid": 3580
+    "playerid": 3580,
+    "team-2014": "Angels",
+    "team-2015-05": "Angels",
+    "team-2015-06": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -54151,7 +55987,10 @@ db.players.insert({
     },
     "2015-06-value": 93,
     "name": "Jason Rogers",
-    "playerid": 11773
+    "playerid": 11773,
+    "team-2014": "Brewers",
+    "team-2015-05": "Brewers",
+    "team-2015-06": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -54267,7 +56106,11 @@ db.players.insert({
     },
     "2015-07-value": 98,
     "name": "Michael Cuddyer",
-    "playerid": 1534
+    "playerid": 1534,
+    "team-2014": "Mets",
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -54383,7 +56226,11 @@ db.players.insert({
     },
     "2015-07-value": 140,
     "name": "Matt Kemp",
-    "playerid": 5631
+    "playerid": 5631,
+    "team-2014": "Padres",
+    "team-2015-05": "Padres",
+    "team-2015-06": "Padres",
+    "team-2015-07": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -54499,7 +56346,11 @@ db.players.insert({
     },
     "2015-07-value": 138,
     "name": "Matt Duffy",
-    "playerid": 13836
+    "playerid": 13836,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -54615,7 +56466,11 @@ db.players.insert({
     },
     "2015-07-value": 117,
     "name": "Ben Paulsen",
-    "playerid": 9741
+    "playerid": 9741,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -54731,7 +56586,11 @@ db.players.insert({
     },
     "2015-07-value": 88,
     "name": "David Ross",
-    "playerid": 1551
+    "playerid": 1551,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -54847,7 +56706,11 @@ db.players.insert({
     },
     "2015-07-value": 128,
     "name": "Justin Bour",
-    "playerid": 9744
+    "playerid": 9744,
+    "team-2014": "Marlins",
+    "team-2015-05": "Marlins",
+    "team-2015-06": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -54879,7 +56742,8 @@ db.players.insert({
     },
     "2014-value": 71,
     "name": "Marco Scutaro",
-    "playerid": 1555
+    "playerid": 1555,
+    "team-2014": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -54995,7 +56859,11 @@ db.players.insert({
     },
     "2015-07-value": 147,
     "name": "Josh Donaldson",
-    "playerid": 5038
+    "playerid": 5038,
+    "team-2014": "Blue Jays",
+    "team-2015-05": "Blue Jays",
+    "team-2015-06": "Blue Jays",
+    "team-2015-07": "Blue Jays"
 });
 db.players.insert({
     "2015-06": {
@@ -55027,7 +56895,8 @@ db.players.insert({
     },
     "2015-06-value": 69,
     "name": "Jon Moscot",
-    "playerid": 13849
+    "playerid": 13849,
+    "team-2015-06": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -55143,7 +57012,11 @@ db.players.insert({
     },
     "2015-07-value": 76,
     "name": "David Hale",
-    "playerid": 9756
+    "playerid": 9756,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -55203,7 +57076,9 @@ db.players.insert({
     },
     "2015-06-value": 73,
     "name": "Joe Kelly",
-    "playerid": 9761
+    "playerid": 9761,
+    "team-2014": "Red Sox",
+    "team-2015-06": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -55263,7 +57138,9 @@ db.players.insert({
     },
     "2015-05-value": 88,
     "name": "Devin Mesoraco",
-    "playerid": 5666
+    "playerid": 5666,
+    "team-2014": "Reds",
+    "team-2015-05": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -55379,7 +57256,11 @@ db.players.insert({
     },
     "2015-07-value": 101,
     "name": "Steven Souza",
-    "playerid": 5667
+    "playerid": 5667,
+    "team-2014": "Rays",
+    "team-2015-05": "Rays",
+    "team-2015-06": "Rays",
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -55439,7 +57320,9 @@ db.players.insert({
     },
     "2015-05-value": 83,
     "name": "Coco Crisp",
-    "playerid": 1572
+    "playerid": 1572,
+    "team-2014": "Athletics",
+    "team-2015-05": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -55499,7 +57382,9 @@ db.players.insert({
     },
     "2015-05-value": 70,
     "name": "Henderson Alvarez",
-    "playerid": 5669
+    "playerid": 5669,
+    "team-2014": "Marlins",
+    "team-2015-05": "Marlins"
 });
 db.players.insert({
     "2015-05": {
@@ -55587,7 +57472,10 @@ db.players.insert({
     },
     "2015-07-value": 128,
     "name": "Devon Travis",
-    "playerid": 13862
+    "playerid": 13862,
+    "team-2015-05": "Blue Jays",
+    "team-2015-06": "Blue Jays",
+    "team-2015-07": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -55675,7 +57563,10 @@ db.players.insert({
     },
     "2015-07-value": 58,
     "name": "James Jones",
-    "playerid": 9767
+    "playerid": 9767,
+    "team-2014": "Mariners",
+    "team-2015-06": "Mariners",
+    "team-2015-07": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -55735,7 +57626,9 @@ db.players.insert({
     },
     "2015-07-value": 73,
     "name": "David Holmberg",
-    "playerid": 7725
+    "playerid": 7725,
+    "team-2014": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -55767,7 +57660,8 @@ db.players.insert({
     },
     "2014-value": 105,
     "name": "Christian Vazquez",
-    "playerid": 9774
+    "playerid": 9774,
+    "team-2014": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -55799,7 +57693,8 @@ db.players.insert({
     },
     "2014-value": 55,
     "name": "Brooks Brown",
-    "playerid": 5679
+    "playerid": 5679,
+    "team-2014": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -55915,7 +57810,11 @@ db.players.insert({
     },
     "2015-07-value": 131,
     "name": "Jason Kipnis",
-    "playerid": 9776
+    "playerid": 9776,
+    "team-2014": "Indians",
+    "team-2015-05": "Indians",
+    "team-2015-06": "Indians",
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -56031,7 +57930,11 @@ db.players.insert({
     },
     "2015-07-value": 126,
     "name": "Nolan Arenado",
-    "playerid": 9777
+    "playerid": 9777,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -56063,7 +57966,8 @@ db.players.insert({
     },
     "2014-value": 79,
     "name": "Juan Nicasio",
-    "playerid": 7731
+    "playerid": 7731,
+    "team-2014": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -56095,7 +57999,8 @@ db.players.insert({
     },
     "2014-value": 63,
     "name": "James Paxton",
-    "playerid": 11828
+    "playerid": 11828,
+    "team-2014": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -56127,7 +58032,8 @@ db.players.insert({
     },
     "2014-value": 60,
     "name": "Garrett Richards",
-    "playerid": 9784
+    "playerid": 9784,
+    "team-2014": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -56243,7 +58149,11 @@ db.players.insert({
     },
     "2015-07-value": 141,
     "name": "Kyle Seager",
-    "playerid": 9785
+    "playerid": 9785,
+    "team-2014": "Mariners",
+    "team-2015-05": "Mariners",
+    "team-2015-06": "Mariners",
+    "team-2015-07": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -56331,7 +58241,10 @@ db.players.insert({
     },
     "2015-07-value": 56,
     "name": "Wily Peralta",
-    "playerid": 7738
+    "playerid": 7738,
+    "team-2014": "Brewers",
+    "team-2015-05": "Brewers",
+    "team-2015-07": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -56419,7 +58332,10 @@ db.players.insert({
     },
     "2015-07-value": 56,
     "name": "Travis d'Arnaud",
-    "playerid": 7739
+    "playerid": 7739,
+    "team-2014": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2015-06": {
@@ -56479,7 +58395,9 @@ db.players.insert({
     },
     "2015-07-value": 62,
     "name": "Taijuan Walker",
-    "playerid": 11836
+    "playerid": 11836,
+    "team-2015-06": "Mariners",
+    "team-2015-07": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -56539,7 +58457,9 @@ db.players.insert({
     },
     "2015-05-value": 53,
     "name": "Andrew Lambo",
-    "playerid": 5386
+    "playerid": 5386,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -56655,7 +58575,11 @@ db.players.insert({
     },
     "2015-07-value": 101,
     "name": "Rene Rivera",
-    "playerid": 3648
+    "playerid": 3648,
+    "team-2014": "Rays",
+    "team-2015-05": "Rays",
+    "team-2015-06": "Rays",
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -56743,7 +58667,10 @@ db.players.insert({
     },
     "2015-06-value": 100,
     "name": "Nick Franklin",
-    "playerid": 10166
+    "playerid": 10166,
+    "team-2014": "Rays",
+    "team-2015-05": "Rays",
+    "team-2015-06": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -56859,7 +58786,11 @@ db.players.insert({
     },
     "2015-07-value": 95,
     "name": "Leonys Martin",
-    "playerid": 11846
+    "playerid": 11846,
+    "team-2014": "Rangers",
+    "team-2015-05": "Rangers",
+    "team-2015-06": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -56891,7 +58822,8 @@ db.players.insert({
     },
     "2014-value": 52,
     "name": "Jim Johnson",
-    "playerid": 3656
+    "playerid": 3656,
+    "team-2014": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -57007,7 +58939,11 @@ db.players.insert({
     },
     "2015-07-value": 126,
     "name": "Omar Infante",
-    "playerid": 1609
+    "playerid": 1609,
+    "team-2014": "Royals",
+    "team-2015-05": "Royals",
+    "team-2015-06": "Royals",
+    "team-2015-07": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -57123,7 +59059,11 @@ db.players.insert({
     },
     "2015-07-value": 68,
     "name": "Mike Fiers",
-    "playerid": 7754
+    "playerid": 7754,
+    "team-2014": "Astros",
+    "team-2015-05": "Astros",
+    "team-2015-06": "Astros",
+    "team-2015-07": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -57155,7 +59095,8 @@ db.players.insert({
     },
     "2014-value": 78,
     "name": "Steven Moya",
-    "playerid": 11854
+    "playerid": 11854,
+    "team-2014": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -57271,7 +59212,11 @@ db.players.insert({
     },
     "2015-07-value": 93,
     "name": "Ryan Goins",
-    "playerid": 9807
+    "playerid": 9807,
+    "team-2014": "Blue Jays",
+    "team-2015-05": "Blue Jays",
+    "team-2015-06": "Blue Jays",
+    "team-2015-07": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -57387,7 +59332,11 @@ db.players.insert({
     },
     "2015-07-value": 142,
     "name": "Brian Dozier",
-    "playerid": 9810
+    "playerid": 9810,
+    "team-2014": "Twins",
+    "team-2015-05": "Twins",
+    "team-2015-06": "Twins",
+    "team-2015-07": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -57503,7 +59452,11 @@ db.players.insert({
     },
     "2015-07-value": 73,
     "name": "Kyle Kendrick",
-    "playerid": 6230
+    "playerid": 6230,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2015-05": {
@@ -57563,7 +59516,9 @@ db.players.insert({
     },
     "2015-07-value": 58,
     "name": "Sergio Romo",
-    "playerid": 9817
+    "playerid": 9817,
+    "team-2015-05": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -57595,7 +59550,8 @@ db.players.insert({
     },
     "2014-value": 58,
     "name": "Matt Hague",
-    "playerid": 7772
+    "playerid": 7772,
+    "team-2014": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -57627,7 +59583,8 @@ db.players.insert({
     },
     "2014-value": 82,
     "name": "Cliff Lee",
-    "playerid": 1636
+    "playerid": 1636,
+    "team-2014": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -57715,7 +59672,10 @@ db.players.insert({
     },
     "2015-07-value": 54,
     "name": "Jake Odorizzi",
-    "playerid": 6397
+    "playerid": 6397,
+    "team-2014": "Rays",
+    "team-2015-05": "Rays",
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -57831,7 +59791,11 @@ db.players.insert({
     },
     "2015-07-value": 59,
     "name": "Stephen Strasburg",
-    "playerid": 10131
+    "playerid": 10131,
+    "team-2014": "Nationals",
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -57947,7 +59911,11 @@ db.players.insert({
     },
     "2015-07-value": 146,
     "name": "Andrew McCutchen",
-    "playerid": 9847
+    "playerid": 9847,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -58063,7 +60031,11 @@ db.players.insert({
     },
     "2015-07-value": 94,
     "name": "Skip Schumaker",
-    "playerid": 3704
+    "playerid": 3704,
+    "team-2014": "Reds",
+    "team-2015-05": "Reds",
+    "team-2015-06": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -58151,7 +60123,10 @@ db.players.insert({
     },
     "2015-07-value": 92,
     "name": "Miguel Rojas",
-    "playerid": 7802
+    "playerid": 7802,
+    "team-2014": "Marlins",
+    "team-2015-06": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -58267,7 +60242,11 @@ db.players.insert({
     },
     "2015-07-value": 105,
     "name": "Geovany Soto",
-    "playerid": 3707
+    "playerid": 3707,
+    "team-2014": "White Sox",
+    "team-2015-05": "White Sox",
+    "team-2015-06": "White Sox",
+    "team-2015-07": "White Sox"
 });
 db.players.insert({
     "2014": {
@@ -58383,7 +60362,11 @@ db.players.insert({
     },
     "2015-07-value": 101,
     "name": "Rajai Davis",
-    "playerid": 3708
+    "playerid": 3708,
+    "team-2014": "Tigers",
+    "team-2015-05": "Tigers",
+    "team-2015-06": "Tigers",
+    "team-2015-07": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -58499,7 +60482,11 @@ db.players.insert({
     },
     "2015-07-value": 69,
     "name": "Efren Navarro",
-    "playerid": 9854
+    "playerid": 9854,
+    "team-2014": "Angels",
+    "team-2015-05": "Angels",
+    "team-2015-06": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2015-07": {
@@ -58531,7 +60518,8 @@ db.players.insert({
     },
     "2015-07-value": 50,
     "name": "Javier Lopez",
-    "playerid": 1663
+    "playerid": 1663,
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -58647,7 +60635,11 @@ db.players.insert({
     },
     "2015-07-value": 116,
     "name": "Avisail Garcia",
-    "playerid": 5760
+    "playerid": 5760,
+    "team-2014": "White Sox",
+    "team-2015-05": "White Sox",
+    "team-2015-06": "White Sox",
+    "team-2015-07": "White Sox"
 });
 db.players.insert({
     "2015-05": {
@@ -58679,7 +60671,8 @@ db.players.insert({
     },
     "2015-05-value": 60,
     "name": "Orlando Calixte",
-    "playerid": 11905
+    "playerid": 11905,
+    "team-2015-05": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -58739,7 +60732,9 @@ db.players.insert({
     },
     "2015-06-value": 58,
     "name": "Michael Choice",
-    "playerid": 11376
+    "playerid": 11376,
+    "team-2014": "Indians",
+    "team-2015-06": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -58827,7 +60822,10 @@ db.players.insert({
     },
     "2015-07-value": 98,
     "name": "Shane Victorino",
-    "playerid": 1677
+    "playerid": 1677,
+    "team-2014": "Angels",
+    "team-2015-05": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -58915,7 +60913,10 @@ db.players.insert({
     },
     "2015-06-value": 97,
     "name": "Chase Utley",
-    "playerid": 1679
+    "playerid": 1679,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -59031,7 +61032,11 @@ db.players.insert({
     },
     "2015-07-value": 65,
     "name": "Odrisamer Despaigne",
-    "playerid": 16017
+    "playerid": 16017,
+    "team-2014": "Padres",
+    "team-2015-05": "Padres",
+    "team-2015-06": "Padres",
+    "team-2015-07": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -59147,7 +61152,11 @@ db.players.insert({
     },
     "2015-07-value": 143,
     "name": "DJ LeMahieu",
-    "playerid": 9874
+    "playerid": 9874,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -59179,7 +61188,8 @@ db.players.insert({
     },
     "2014-value": 55,
     "name": "Brad Peacock",
-    "playerid": 5401
+    "playerid": 5401,
+    "team-2014": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -59295,7 +61305,11 @@ db.players.insert({
     },
     "2015-07-value": 58,
     "name": "Travis Wood",
-    "playerid": 9884
+    "playerid": 9884,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2015-06": {
@@ -59355,7 +61369,9 @@ db.players.insert({
     },
     "2015-07-value": 107,
     "name": "Ivan De Jesus",
-    "playerid": 9886
+    "playerid": 9886,
+    "team-2015-06": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -59471,7 +61487,11 @@ db.players.insert({
     },
     "2015-07-value": 122,
     "name": "Joe Panik",
-    "playerid": 11936
+    "playerid": 11936,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -59587,7 +61607,11 @@ db.players.insert({
     },
     "2015-07-value": 145,
     "name": "Jay Bruce",
-    "playerid": 9892
+    "playerid": 9892,
+    "team-2014": "Reds",
+    "team-2015-05": "Reds",
+    "team-2015-06": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -59703,7 +61727,11 @@ db.players.insert({
     },
     "2015-07-value": 116,
     "name": "Colby Rasmus",
-    "playerid": 9893
+    "playerid": 9893,
+    "team-2014": "Astros",
+    "team-2015-05": "Astros",
+    "team-2015-06": "Astros",
+    "team-2015-07": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -59819,7 +61847,11 @@ db.players.insert({
     },
     "2015-07-value": 89,
     "name": "Chris Rusin",
-    "playerid": 9895
+    "playerid": 9895,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -59851,7 +61883,8 @@ db.players.insert({
     },
     "2014-value": 58,
     "name": "Jenrry Mejia",
-    "playerid": 8476
+    "playerid": 8476,
+    "team-2014": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -59883,7 +61916,8 @@ db.players.insert({
     },
     "2014-value": 52,
     "name": "Cesar Ramos",
-    "playerid": 3357
+    "playerid": 3357,
+    "team-2014": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -59943,7 +61977,9 @@ db.players.insert({
     },
     "2015-07-value": 58,
     "name": "Pedro Villarreal",
-    "playerid": 9904
+    "playerid": 9904,
+    "team-2014": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -59975,7 +62011,8 @@ db.players.insert({
     },
     "2014-value": 52,
     "name": "Cesar Jimenez",
-    "playerid": 3762
+    "playerid": 3762,
+    "team-2014": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -60091,7 +62128,11 @@ db.players.insert({
     },
     "2015-07-value": 145,
     "name": "Charlie Blackmon",
-    "playerid": 7859
+    "playerid": 7859,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -60207,7 +62248,11 @@ db.players.insert({
     },
     "2015-07-value": 105,
     "name": "Chris Carter",
-    "playerid": 9911
+    "playerid": 9911,
+    "team-2014": "Astros",
+    "team-2015-05": "Astros",
+    "team-2015-06": "Astros",
+    "team-2015-07": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -60295,7 +62340,10 @@ db.players.insert({
     },
     "2015-06-value": 59,
     "name": "Yordano Ventura",
-    "playerid": 11855
+    "playerid": 11855,
+    "team-2014": "Royals",
+    "team-2015-05": "Royals",
+    "team-2015-06": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -60383,7 +62431,10 @@ db.players.insert({
     },
     "2015-07-value": 135,
     "name": "Jonathan Lucroy",
-    "playerid": 7870
+    "playerid": 7870,
+    "team-2014": "Brewers",
+    "team-2015-06": "Brewers",
+    "team-2015-07": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -60499,7 +62550,11 @@ db.players.insert({
     },
     "2015-07-value": 85,
     "name": "Tyson Ross",
-    "playerid": 7872
+    "playerid": 7872,
+    "team-2014": "Padres",
+    "team-2015-05": "Padres",
+    "team-2015-06": "Padres",
+    "team-2015-07": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -60531,7 +62586,8 @@ db.players.insert({
     },
     "2014-value": 85,
     "name": "Yorman Rodriguez",
-    "playerid": 9922
+    "playerid": 9922,
+    "team-2014": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -60647,7 +62703,11 @@ db.players.insert({
     },
     "2015-07-value": 119,
     "name": "Wilmer Flores",
-    "playerid": 5827
+    "playerid": 5827,
+    "team-2014": "Mets",
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -60763,7 +62823,11 @@ db.players.insert({
     },
     "2015-07-value": 125,
     "name": "Brett Gardner",
-    "playerid": 9927
+    "playerid": 9927,
+    "team-2014": "Yankees",
+    "team-2015-05": "Yankees",
+    "team-2015-06": "Yankees",
+    "team-2015-07": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -60879,7 +62943,11 @@ db.players.insert({
     },
     "2015-07-value": 138,
     "name": "Jose Reyes",
-    "playerid": 1736
+    "playerid": 1736,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -60995,7 +63063,11 @@ db.players.insert({
     },
     "2015-07-value": 100,
     "name": "Darin Ruf",
-    "playerid": 9929
+    "playerid": 9929,
+    "team-2014": "Phillies",
+    "team-2015-05": "Phillies",
+    "team-2015-06": "Phillies",
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -61111,7 +63183,11 @@ db.players.insert({
     },
     "2015-07-value": 138,
     "name": "Jhonny Peralta",
-    "playerid": 1738
+    "playerid": 1738,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -61227,7 +63303,11 @@ db.players.insert({
     },
     "2015-07-value": 102,
     "name": "Hernan Perez",
-    "playerid": 5751
+    "playerid": 5751,
+    "team-2014": "Brewers",
+    "team-2015-05": "Brewers",
+    "team-2015-06": "Brewers",
+    "team-2015-07": "Brewers"
 });
 db.players.insert({
     "2015-05": {
@@ -61315,7 +63395,10 @@ db.players.insert({
     },
     "2015-07-value": 79,
     "name": "Travis Shaw",
-    "playerid": 11982
+    "playerid": 11982,
+    "team-2015-05": "Red Sox",
+    "team-2015-06": "Red Sox",
+    "team-2015-07": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -61431,7 +63514,11 @@ db.players.insert({
     },
     "2015-07-value": 80,
     "name": "Miguel Cabrera",
-    "playerid": 1744
+    "playerid": 1744,
+    "team-2014": "Tigers",
+    "team-2015-05": "Tigers",
+    "team-2015-06": "Tigers",
+    "team-2015-07": "Tigers"
 });
 db.players.insert({
     "2014": {
@@ -61547,7 +63634,11 @@ db.players.insert({
     },
     "2015-07-value": 139,
     "name": "Austin Jackson",
-    "playerid": 9848
+    "playerid": 9848,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2015-05": {
@@ -61607,7 +63698,9 @@ db.players.insert({
     },
     "2015-07-value": 67,
     "name": "Chad Billingsley",
-    "playerid": 5842
+    "playerid": 5842,
+    "team-2015-05": "Phillies",
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -61723,7 +63816,11 @@ db.players.insert({
     },
     "2015-07-value": 129,
     "name": "J.J. Hardy",
-    "playerid": 3797
+    "playerid": 3797,
+    "team-2014": "Orioles",
+    "team-2015-05": "Orioles",
+    "team-2015-06": "Orioles",
+    "team-2015-07": "Orioles"
 });
 db.players.insert({
     "2015-07": {
@@ -61755,7 +63852,8 @@ db.players.insert({
     },
     "2015-07-value": 69,
     "name": "Mike Dunn",
-    "playerid": 9948
+    "playerid": 9948,
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -61871,7 +63969,11 @@ db.players.insert({
     },
     "2015-07-value": 80,
     "name": "Dan Haren",
-    "playerid": 1757
+    "playerid": 1757,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2015-05": {
@@ -61959,7 +64061,10 @@ db.players.insert({
     },
     "2015-07-value": 77,
     "name": "Darrell Ceciliani",
-    "playerid": 9954
+    "playerid": 9954,
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -62075,7 +64180,11 @@ db.players.insert({
     },
     "2015-07-value": 110,
     "name": "Joc Pederson",
-    "playerid": 11899
+    "playerid": 11899,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -62191,7 +64300,11 @@ db.players.insert({
     },
     "2015-07-value": 97,
     "name": "Steve Pearce",
-    "playerid": 9957
+    "playerid": 9957,
+    "team-2014": "Orioles",
+    "team-2015-05": "Orioles",
+    "team-2015-06": "Orioles",
+    "team-2015-07": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -62307,7 +64420,11 @@ db.players.insert({
     },
     "2015-07-value": 66,
     "name": "Mat Latos",
-    "playerid": 3815
+    "playerid": 3815,
+    "team-2014": "Angels",
+    "team-2015-05": "Angels",
+    "team-2015-06": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -62367,7 +64484,9 @@ db.players.insert({
     },
     "2015-07-value": 54,
     "name": "Danny Salazar",
-    "playerid": 5867
+    "playerid": 5867,
+    "team-2014": "Indians",
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -62427,7 +64546,9 @@ db.players.insert({
     },
     "2015-07-value": 54,
     "name": "Gonzalez Germen",
-    "playerid": 5876
+    "playerid": 5876,
+    "team-2014": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2015-05": {
@@ -62515,7 +64636,10 @@ db.players.insert({
     },
     "2015-07-value": 62,
     "name": "Hanser Alberto",
-    "playerid": 11902
+    "playerid": 11902,
+    "team-2015-05": "Rangers",
+    "team-2015-06": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2015-06": {
@@ -62547,7 +64671,8 @@ db.players.insert({
     },
     "2015-06-value": 59,
     "name": "Matt Andriese",
-    "playerid": 12022
+    "playerid": 12022,
+    "team-2015-06": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -62663,7 +64788,11 @@ db.players.insert({
     },
     "2015-07-value": 92,
     "name": "Eric Sogard",
-    "playerid": 7927
+    "playerid": 7927,
+    "team-2014": "Athletics",
+    "team-2015-05": "Athletics",
+    "team-2015-06": "Athletics",
+    "team-2015-07": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -62695,7 +64824,8 @@ db.players.insert({
     },
     "2014-value": 64,
     "name": "Brian Flynn",
-    "playerid": 12027
+    "playerid": 12027,
+    "team-2014": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -62755,7 +64885,9 @@ db.players.insert({
     },
     "2015-05-value": 83,
     "name": "Michael Saunders",
-    "playerid": 9981
+    "playerid": 9981,
+    "team-2014": "Blue Jays",
+    "team-2015-05": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -62871,7 +65003,11 @@ db.players.insert({
     },
     "2015-07-value": 80,
     "name": "Michael Wacha",
-    "playerid": 14078
+    "playerid": 14078,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -62931,7 +65067,9 @@ db.players.insert({
     },
     "2015-07-value": 112,
     "name": "John Jaso",
-    "playerid": 5887
+    "playerid": 5887,
+    "team-2014": "Rays",
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -63019,7 +65157,10 @@ db.players.insert({
     },
     "2015-07-value": 124,
     "name": "Cole Gillespie",
-    "playerid": 5888
+    "playerid": 5888,
+    "team-2014": "Marlins",
+    "team-2015-06": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -63107,7 +65248,10 @@ db.players.insert({
     },
     "2015-07-value": 56,
     "name": "Logan Schafer",
-    "playerid": 7937
+    "playerid": 7937,
+    "team-2014": "Brewers",
+    "team-2015-05": "Brewers",
+    "team-2015-07": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -63223,7 +65367,11 @@ db.players.insert({
     },
     "2015-07-value": 117,
     "name": "Alejandro De Aza",
-    "playerid": 3371
+    "playerid": 3371,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -63283,7 +65431,9 @@ db.players.insert({
     },
     "2015-07-value": 56,
     "name": "Christian Friedrich",
-    "playerid": 7942
+    "playerid": 7942,
+    "team-2014": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -63343,7 +65493,9 @@ db.players.insert({
     },
     "2015-07-value": 86,
     "name": "Jaff Decker",
-    "playerid": 7945
+    "playerid": 7945,
+    "team-2014": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2015-05": {
@@ -63403,7 +65555,9 @@ db.players.insert({
     },
     "2015-07-value": 104,
     "name": "Tim Beckham",
-    "playerid": 7949
+    "playerid": 7949,
+    "team-2015-05": "Rays",
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2015-06": {
@@ -63435,7 +65589,8 @@ db.players.insert({
     },
     "2015-06-value": 52,
     "name": "Brett Oberholtzer",
-    "playerid": 3855
+    "playerid": 3855,
+    "team-2015-06": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -63551,7 +65706,11 @@ db.players.insert({
     },
     "2015-07-value": 87,
     "name": "Tucker Barnhart",
-    "playerid": 10200
+    "playerid": 10200,
+    "team-2014": "Reds",
+    "team-2015-05": "Reds",
+    "team-2015-06": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2015-07": {
@@ -63583,7 +65742,8 @@ db.players.insert({
     },
     "2015-07-value": 78,
     "name": "Aaron Nola",
-    "playerid": 16149
+    "playerid": 16149,
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -63699,7 +65859,11 @@ db.players.insert({
     },
     "2015-07-value": 67,
     "name": "Rubby de la Rosa",
-    "playerid": 3862
+    "playerid": 3862,
+    "team-2014": "Diamondbacks",
+    "team-2015-05": "Diamondbacks",
+    "team-2015-06": "Diamondbacks",
+    "team-2015-07": "Diamondbacks"
 });
 db.players.insert({
     "2015-07": {
@@ -63731,7 +65895,8 @@ db.players.insert({
     },
     "2015-07-value": 61,
     "name": "Josh Osich",
-    "playerid": 11528
+    "playerid": 11528,
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -63791,7 +65956,9 @@ db.players.insert({
     },
     "2015-07-value": 68,
     "name": "Leury Garcia",
-    "playerid": 5913
+    "playerid": 5913,
+    "team-2014": "White Sox",
+    "team-2015-07": "White Sox"
 });
 db.players.insert({
     "2015-05": {
@@ -63879,7 +66046,10 @@ db.players.insert({
     },
     "2015-07-value": 114,
     "name": "Addison Russell",
-    "playerid": 14106
+    "playerid": 14106,
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -63911,7 +66081,8 @@ db.players.insert({
     },
     "2014-value": 65,
     "name": "Kevin Gausman",
-    "playerid": 14107
+    "playerid": 14107,
+    "team-2014": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -64027,7 +66198,11 @@ db.players.insert({
     },
     "2015-07-value": 98,
     "name": "David DeJesus",
-    "playerid": 1825
+    "playerid": 1825,
+    "team-2014": "Angels",
+    "team-2015-05": "Angels",
+    "team-2015-06": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -64059,7 +66234,8 @@ db.players.insert({
     },
     "2014-value": 91,
     "name": "Mike Minor",
-    "playerid": 10021
+    "playerid": 10021,
+    "team-2014": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -64175,7 +66351,11 @@ db.players.insert({
     },
     "2015-07-value": 90,
     "name": "Chris Stewart",
-    "playerid": 3878
+    "playerid": 3878,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates",
+    "team-2015-07": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -64291,7 +66471,11 @@ db.players.insert({
     },
     "2015-07-value": 132,
     "name": "Nick Markakis",
-    "playerid": 5930
+    "playerid": 5930,
+    "team-2014": "Braves",
+    "team-2015-05": "Braves",
+    "team-2015-06": "Braves",
+    "team-2015-07": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -64379,7 +66563,10 @@ db.players.insert({
     },
     "2015-06-value": 91,
     "name": "Christian Bethancourt",
-    "playerid": 10028
+    "playerid": 10028,
+    "team-2014": "Braves",
+    "team-2015-05": "Braves",
+    "team-2015-06": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -64495,7 +66682,11 @@ db.players.insert({
     },
     "2015-07-value": 127,
     "name": "Jean Segura",
-    "playerid": 5933
+    "playerid": 5933,
+    "team-2014": "Brewers",
+    "team-2015-05": "Brewers",
+    "team-2015-06": "Brewers",
+    "team-2015-07": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -64611,7 +66802,11 @@ db.players.insert({
     },
     "2015-07-value": 122,
     "name": "Chris Owings",
-    "playerid": 10030
+    "playerid": 10030,
+    "team-2014": "Diamondbacks",
+    "team-2015-05": "Diamondbacks",
+    "team-2015-06": "Diamondbacks",
+    "team-2015-07": "Diamondbacks"
 });
 db.players.insert({
     "2015-06": {
@@ -64643,7 +66838,8 @@ db.players.insert({
     },
     "2015-06-value": 136,
     "name": "Joey Gallo",
-    "playerid": 14128
+    "playerid": 14128,
+    "team-2015-06": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -64675,7 +66871,8 @@ db.players.insert({
     },
     "2014-value": 84,
     "name": "Edwin Jackson",
-    "playerid": 1841
+    "playerid": 1841,
+    "team-2014": "Braves"
 });
 db.players.insert({
     "2015-06": {
@@ -64707,7 +66904,8 @@ db.players.insert({
     },
     "2015-06-value": 93,
     "name": "Mason Williams",
-    "playerid": 11859
+    "playerid": 11859,
+    "team-2015-06": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -64823,7 +67021,11 @@ db.players.insert({
     },
     "2015-07-value": 130,
     "name": "Josh Reddick",
-    "playerid": 3892
+    "playerid": 3892,
+    "team-2014": "Athletics",
+    "team-2015-05": "Athletics",
+    "team-2015-06": "Athletics",
+    "team-2015-07": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -64939,7 +67141,11 @@ db.players.insert({
     },
     "2015-07-value": 95,
     "name": "Jonny Gomes",
-    "playerid": 1845
+    "playerid": 1845,
+    "team-2014": "Royals",
+    "team-2015-05": "Royals",
+    "team-2015-06": "Royals",
+    "team-2015-07": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -65055,7 +67261,11 @@ db.players.insert({
     },
     "2015-07-value": 85,
     "name": "Jesus Sucre",
-    "playerid": 5942
+    "playerid": 5942,
+    "team-2014": "Mariners",
+    "team-2015-05": "Mariners",
+    "team-2015-06": "Mariners",
+    "team-2015-07": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -65143,7 +67353,10 @@ db.players.insert({
     },
     "2015-06-value": 79,
     "name": "Wil Myers",
-    "playerid": 10047
+    "playerid": 10047,
+    "team-2014": "Padres",
+    "team-2015-05": "Padres",
+    "team-2015-06": "Padres"
 });
 db.players.insert({
     "2014": {
@@ -65259,7 +67472,11 @@ db.players.insert({
     },
     "2015-07-value": 133,
     "name": "Hanley Ramirez",
-    "playerid": 8001
+    "playerid": 8001,
+    "team-2014": "Red Sox",
+    "team-2015-05": "Red Sox",
+    "team-2015-06": "Red Sox",
+    "team-2015-07": "Red Sox"
 });
 db.players.insert({
     "2014": {
@@ -65375,7 +67592,11 @@ db.players.insert({
     },
     "2015-07-value": 97,
     "name": "Wilin Rosario",
-    "playerid": 8002
+    "playerid": 8002,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -65491,7 +67712,11 @@ db.players.insert({
     },
     "2015-07-value": 70,
     "name": "Kennys Vargas",
-    "playerid": 12101
+    "playerid": 12101,
+    "team-2014": "Twins",
+    "team-2015-05": "Twins",
+    "team-2015-06": "Twins",
+    "team-2015-07": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -65551,7 +67776,9 @@ db.players.insert({
     },
     "2015-05-value": 57,
     "name": "Tyler Matzek",
-    "playerid": 10058
+    "playerid": 10058,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies"
 });
 db.players.insert({
     "2014": {
@@ -65583,7 +67810,8 @@ db.players.insert({
     },
     "2014-value": 88,
     "name": "Max Stassi",
-    "playerid": 10059
+    "playerid": 10059,
+    "team-2014": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -65699,7 +67927,11 @@ db.players.insert({
     },
     "2015-07-value": 98,
     "name": "Matt Holliday",
-    "playerid": 1873
+    "playerid": 1873,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2015-06": {
@@ -65759,7 +67991,9 @@ db.players.insert({
     },
     "2015-07-value": 142,
     "name": "Carlos Correa",
-    "playerid": 14162
+    "playerid": 14162,
+    "team-2015-06": "Astros",
+    "team-2015-07": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -65875,7 +68109,11 @@ db.players.insert({
     },
     "2015-07-value": 118,
     "name": "Josh Hamilton",
-    "playerid": 1875
+    "playerid": 1875,
+    "team-2014": "Rangers",
+    "team-2015-05": "Rangers",
+    "team-2015-06": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -65963,7 +68201,10 @@ db.players.insert({
     },
     "2015-06-value": 90,
     "name": "Jonathan Villar",
-    "playerid": 10071
+    "playerid": 10071,
+    "team-2014": "Astros",
+    "team-2015-05": "Astros",
+    "team-2015-06": "Astros"
 });
 db.players.insert({
     "2014": {
@@ -66079,7 +68320,11 @@ db.players.insert({
     },
     "2015-07-value": 136,
     "name": "Adam Lind",
-    "playerid": 8027
+    "playerid": 8027,
+    "team-2014": "Brewers",
+    "team-2015-05": "Brewers",
+    "team-2015-06": "Brewers",
+    "team-2015-07": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -66195,7 +68440,11 @@ db.players.insert({
     },
     "2015-07-value": 143,
     "name": "Jose Bautista",
-    "playerid": 1887
+    "playerid": 1887,
+    "team-2014": "Blue Jays",
+    "team-2015-05": "Blue Jays",
+    "team-2015-06": "Blue Jays",
+    "team-2015-07": "Blue Jays"
 });
 db.players.insert({
     "2014": {
@@ -66255,7 +68504,9 @@ db.players.insert({
     },
     "2015-05-value": 53,
     "name": "Randall Delgado",
-    "playerid": 5985
+    "playerid": 5985,
+    "team-2014": "Diamondbacks",
+    "team-2015-05": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -66371,7 +68622,11 @@ db.players.insert({
     },
     "2015-07-value": 96,
     "name": "Mike Aviles",
-    "playerid": 5986
+    "playerid": 5986,
+    "team-2014": "Indians",
+    "team-2015-05": "Indians",
+    "team-2015-06": "Indians",
+    "team-2015-07": "Indians"
 });
 db.players.insert({
     "2014": {
@@ -66403,7 +68658,8 @@ db.players.insert({
     },
     "2014-value": 85,
     "name": "Andy Wilkins",
-    "playerid": 11251
+    "playerid": 11251,
+    "team-2014": "Orioles"
 });
 db.players.insert({
     "2014": {
@@ -66463,7 +68719,9 @@ db.players.insert({
     },
     "2015-06-value": 60,
     "name": "Jesse Hahn",
-    "playerid": 13287
+    "playerid": 13287,
+    "team-2014": "Athletics",
+    "team-2015-06": "Athletics"
 });
 db.players.insert({
     "2014": {
@@ -66579,7 +68837,11 @@ db.players.insert({
     },
     "2015-07-value": 103,
     "name": "Adam LaRoche",
-    "playerid": 1904
+    "playerid": 1904,
+    "team-2014": "White Sox",
+    "team-2015-05": "White Sox",
+    "team-2015-06": "White Sox",
+    "team-2015-07": "White Sox"
 });
 db.players.insert({
     "2015-06": {
@@ -66639,7 +68901,9 @@ db.players.insert({
     },
     "2015-07-value": 60,
     "name": "Tyler Cravy",
-    "playerid": 10770
+    "playerid": 10770,
+    "team-2015-06": "Brewers",
+    "team-2015-07": "Brewers"
 });
 db.players.insert({
     "2014": {
@@ -66755,7 +69019,11 @@ db.players.insert({
     },
     "2015-07-value": 108,
     "name": "Dustin Ackley",
-    "playerid": 10099
+    "playerid": 10099,
+    "team-2014": "Yankees",
+    "team-2015-05": "Yankees",
+    "team-2015-06": "Yankees",
+    "team-2015-07": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -66871,7 +69139,11 @@ db.players.insert({
     },
     "2015-07-value": 144,
     "name": "Adrian Gonzalez",
-    "playerid": 1908
+    "playerid": 1908,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2015-05": {
@@ -66903,7 +69175,8 @@ db.players.insert({
     },
     "2015-05-value": 86,
     "name": "Reynaldo Navarro",
-    "playerid": 6008
+    "playerid": 6008,
+    "team-2015-05": "Orioles"
 });
 db.players.insert({
     "2015-05": {
@@ -66991,7 +69264,10 @@ db.players.insert({
     },
     "2015-07-value": 142,
     "name": "Eddie Rosario",
-    "playerid": 12155
+    "playerid": 12155,
+    "team-2015-05": "Twins",
+    "team-2015-06": "Twins",
+    "team-2015-07": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -67107,7 +69383,11 @@ db.players.insert({
     },
     "2015-07-value": 131,
     "name": "Didi Gregorius",
-    "playerid": 6012
+    "playerid": 6012,
+    "team-2014": "Yankees",
+    "team-2015-05": "Yankees",
+    "team-2015-06": "Yankees",
+    "team-2015-07": "Yankees"
 });
 db.players.insert({
     "2015-05": {
@@ -67139,7 +69419,8 @@ db.players.insert({
     },
     "2015-05-value": 54,
     "name": "Daniel Hudson",
-    "playerid": 7146
+    "playerid": 7146,
+    "team-2015-05": "Diamondbacks"
 });
 db.players.insert({
     "2015-05": {
@@ -67227,7 +69508,10 @@ db.players.insert({
     },
     "2015-07-value": 81,
     "name": "Austin Barnes",
-    "playerid": 12158
+    "playerid": 12158,
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2015-07": {
@@ -67259,7 +69543,8 @@ db.players.insert({
     },
     "2015-07-value": 50,
     "name": "Matt Moore",
-    "playerid": 1890
+    "playerid": 1890,
+    "team-2015-07": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -67375,7 +69660,11 @@ db.players.insert({
     },
     "2015-07-value": 143,
     "name": "Xander Bogaerts",
-    "playerid": 12161
+    "playerid": 12161,
+    "team-2014": "Red Sox",
+    "team-2015-05": "Red Sox",
+    "team-2015-06": "Red Sox",
+    "team-2015-07": "Red Sox"
 });
 db.players.insert({
     "2015-07": {
@@ -67407,7 +69696,8 @@ db.players.insert({
     },
     "2015-07-value": 136,
     "name": "Miguel Sano",
-    "playerid": 12164
+    "playerid": 12164,
+    "team-2015-07": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -67495,7 +69785,10 @@ db.players.insert({
     },
     "2015-06-value": 82,
     "name": "Chris Heisey",
-    "playerid": 3978
+    "playerid": 3978,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -67555,7 +69848,9 @@ db.players.insert({
     },
     "2015-06-value": 66,
     "name": "Kyle Gibson",
-    "playerid": 10123
+    "playerid": 10123,
+    "team-2014": "Twins",
+    "team-2015-06": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -67671,7 +69966,11 @@ db.players.insert({
     },
     "2015-07-value": 125,
     "name": "Jorge Soler",
-    "playerid": 14221
+    "playerid": 14221,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -67703,7 +70002,8 @@ db.players.insert({
     },
     "2014-value": 83,
     "name": "Yovani Gallardo",
-    "playerid": 8173
+    "playerid": 8173,
+    "team-2014": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -67791,7 +70091,10 @@ db.players.insert({
     },
     "2015-07-value": 130,
     "name": "Yasiel Puig",
-    "playerid": 14225
+    "playerid": 14225,
+    "team-2014": "Dodgers",
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -67907,7 +70210,11 @@ db.players.insert({
     },
     "2015-07-value": 85,
     "name": "Mike Leake",
-    "playerid": 10130
+    "playerid": 10130,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -68023,7 +70330,11 @@ db.players.insert({
     },
     "2015-07-value": 126,
     "name": "Maikel Franco",
-    "playerid": 12179
+    "playerid": 12179,
+    "team-2014": "Phillies",
+    "team-2015-05": "Phillies",
+    "team-2015-06": "Phillies",
+    "team-2015-07": "Phillies"
 });
 db.players.insert({
     "2014": {
@@ -68055,7 +70366,8 @@ db.players.insert({
     },
     "2014-value": 60,
     "name": "Brad Boxberger",
-    "playerid": 10133
+    "playerid": 10133,
+    "team-2014": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -68143,7 +70455,10 @@ db.players.insert({
     },
     "2015-06-value": 52,
     "name": "Edinson Volquez",
-    "playerid": 3990
+    "playerid": 3990,
+    "team-2014": "Royals",
+    "team-2015-05": "Royals",
+    "team-2015-06": "Royals"
 });
 db.players.insert({
     "2014": {
@@ -68259,7 +70574,11 @@ db.players.insert({
     },
     "2015-07-value": 75,
     "name": "Zack Greinke",
-    "playerid": 1943
+    "playerid": 1943,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -68347,7 +70666,10 @@ db.players.insert({
     },
     "2015-06-value": 85,
     "name": "Corey Hart",
-    "playerid": 1945
+    "playerid": 1945,
+    "team-2014": "Pirates",
+    "team-2015-05": "Pirates",
+    "team-2015-06": "Pirates"
 });
 db.players.insert({
     "2014": {
@@ -68463,7 +70785,11 @@ db.players.insert({
     },
     "2015-07-value": 143,
     "name": "Matt Carpenter",
-    "playerid": 8090
+    "playerid": 8090,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2015-05": {
@@ -68495,7 +70821,8 @@ db.players.insert({
     },
     "2015-05-value": 55,
     "name": "Hunter Strickland",
-    "playerid": 7836
+    "playerid": 7836,
+    "team-2015-05": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -68611,7 +70938,11 @@ db.players.insert({
     },
     "2015-07-value": 149,
     "name": "Mike Trout",
-    "playerid": 10155
+    "playerid": 10155,
+    "team-2014": "Angels",
+    "team-2015-05": "Angels",
+    "team-2015-06": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -68643,7 +70974,8 @@ db.players.insert({
     },
     "2014-value": 132,
     "name": "Desmond Jennings",
-    "playerid": 1965
+    "playerid": 1965,
+    "team-2014": "Rays"
 });
 db.players.insert({
     "2014": {
@@ -68703,7 +71035,9 @@ db.players.insert({
     },
     "2015-05-value": 82,
     "name": "Jerry Sands",
-    "playerid": 4016
+    "playerid": 4016,
+    "team-2014": "Indians",
+    "team-2015-05": "Indians"
 });
 db.players.insert({
     "2015-05": {
@@ -68791,7 +71125,10 @@ db.players.insert({
     },
     "2015-07-value": 61,
     "name": "Williams Perez",
-    "playerid": 11592
+    "playerid": 11592,
+    "team-2015-05": "Braves",
+    "team-2015-06": "Braves",
+    "team-2015-07": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -68907,7 +71244,11 @@ db.players.insert({
     },
     "2015-07-value": 65,
     "name": "Ryan Vogelsong",
-    "playerid": 1011
+    "playerid": 1011,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants",
+    "team-2015-07": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -68995,7 +71336,10 @@ db.players.insert({
     },
     "2015-06-value": 64,
     "name": "Yusmeiro Petit",
-    "playerid": 4020
+    "playerid": 4020,
+    "team-2014": "Giants",
+    "team-2015-05": "Giants",
+    "team-2015-06": "Giants"
 });
 db.players.insert({
     "2014": {
@@ -69111,7 +71455,11 @@ db.players.insert({
     },
     "2015-07-value": 149,
     "name": "Melky Cabrera",
-    "playerid": 4022
+    "playerid": 4022,
+    "team-2014": "White Sox",
+    "team-2015-05": "White Sox",
+    "team-2015-06": "White Sox",
+    "team-2015-07": "White Sox"
 });
 db.players.insert({
     "2014": {
@@ -69199,7 +71547,10 @@ db.players.insert({
     },
     "2015-07-value": 99,
     "name": "Brendan Ryan",
-    "playerid": 6073
+    "playerid": 6073,
+    "team-2014": "Yankees",
+    "team-2015-06": "Yankees",
+    "team-2015-07": "Yankees"
 });
 db.players.insert({
     "2014": {
@@ -69315,7 +71666,11 @@ db.players.insert({
     },
     "2015-07-value": 51,
     "name": "Hector Santiago",
-    "playerid": 4026
+    "playerid": 4026,
+    "team-2014": "Angels",
+    "team-2015-05": "Angels",
+    "team-2015-06": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2015-05": {
@@ -69375,7 +71730,9 @@ db.players.insert({
     },
     "2015-07-value": 65,
     "name": "Raisel Iglesias",
-    "playerid": 17130
+    "playerid": 17130,
+    "team-2015-05": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2015-05": {
@@ -69435,7 +71792,9 @@ db.players.insert({
     },
     "2015-06-value": 87,
     "name": "Max Muncy",
-    "playerid": 13301
+    "playerid": 13301,
+    "team-2015-05": "Athletics",
+    "team-2015-06": "Athletics"
 });
 db.players.insert({
     "2015-06": {
@@ -69467,7 +71826,8 @@ db.players.insert({
     },
     "2015-06-value": 68,
     "name": "Scott Schebler",
-    "playerid": 12225
+    "playerid": 12225,
+    "team-2015-06": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -69499,7 +71859,8 @@ db.players.insert({
     },
     "2014-value": 65,
     "name": "Hisashi Iwakuma",
-    "playerid": 13048
+    "playerid": 13048,
+    "team-2014": "Mariners"
 });
 db.players.insert({
     "2014": {
@@ -69615,7 +71976,11 @@ db.players.insert({
     },
     "2015-07-value": 102,
     "name": "Casey McGehee",
-    "playerid": 6086
+    "playerid": 6086,
+    "team-2014": "Marlins",
+    "team-2015-05": "Marlins",
+    "team-2015-06": "Marlins",
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -69731,7 +72096,11 @@ db.players.insert({
     },
     "2015-07-value": 56,
     "name": "Jaime Garcia",
-    "playerid": 8137
+    "playerid": 8137,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals",
+    "team-2015-06": "Cardinals",
+    "team-2015-07": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -69791,7 +72160,9 @@ db.players.insert({
     },
     "2015-05-value": 61,
     "name": "Seth Maness",
-    "playerid": 12235
+    "playerid": 12235,
+    "team-2014": "Cardinals",
+    "team-2015-05": "Cardinals"
 });
 db.players.insert({
     "2014": {
@@ -69823,7 +72194,8 @@ db.players.insert({
     },
     "2014-value": 61,
     "name": "Bryan Morris",
-    "playerid": 10234
+    "playerid": 10234,
+    "team-2014": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -69855,7 +72227,8 @@ db.players.insert({
     },
     "2014-value": 60,
     "name": "Tyler Skaggs",
-    "playerid": 10190
+    "playerid": 10190,
+    "team-2014": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -69915,7 +72288,9 @@ db.players.insert({
     },
     "2015-07-value": 86,
     "name": "Eric Fryer",
-    "playerid": 8145
+    "playerid": 8145,
+    "team-2014": "Twins",
+    "team-2015-07": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -70031,7 +72406,11 @@ db.players.insert({
     },
     "2015-07-value": 69,
     "name": "Shelby Miller",
-    "playerid": 10197
+    "playerid": 10197,
+    "team-2014": "Braves",
+    "team-2015-05": "Braves",
+    "team-2015-06": "Braves",
+    "team-2015-07": "Braves"
 });
 db.players.insert({
     "2014": {
@@ -70147,7 +72526,11 @@ db.players.insert({
     },
     "2015-07-value": 127,
     "name": "Billy Hamilton",
-    "playerid": 10199
+    "playerid": 10199,
+    "team-2014": "Reds",
+    "team-2015-05": "Reds",
+    "team-2015-06": "Reds",
+    "team-2015-07": "Reds"
 });
 db.players.insert({
     "2014": {
@@ -70263,7 +72646,11 @@ db.players.insert({
     },
     "2015-07-value": 102,
     "name": "Aaron Hill",
-    "playerid": 6104
+    "playerid": 6104,
+    "team-2014": "Diamondbacks",
+    "team-2015-05": "Diamondbacks",
+    "team-2015-06": "Diamondbacks",
+    "team-2015-07": "Diamondbacks"
 });
 db.players.insert({
     "2014": {
@@ -70295,7 +72682,8 @@ db.players.insert({
     },
     "2014-value": 66,
     "name": "Buddy Carlyle",
-    "playerid": 2010
+    "playerid": 2010,
+    "team-2014": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -70355,7 +72743,9 @@ db.players.insert({
     },
     "2015-05-value": 53,
     "name": "Joe Wieland",
-    "playerid": 6109
+    "playerid": 6109,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers"
 });
 db.players.insert({
     "2014": {
@@ -70471,7 +72861,11 @@ db.players.insert({
     },
     "2015-07-value": 136,
     "name": "Dexter Fowler",
-    "playerid": 4062
+    "playerid": 4062,
+    "team-2014": "Cubs",
+    "team-2015-05": "Cubs",
+    "team-2015-06": "Cubs",
+    "team-2015-07": "Cubs"
 });
 db.players.insert({
     "2014": {
@@ -70587,7 +72981,11 @@ db.players.insert({
     },
     "2015-07-value": 51,
     "name": "Anthony Recker",
-    "playerid": 4063
+    "playerid": 4063,
+    "team-2014": "Mets",
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets",
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2015-06": {
@@ -70619,7 +73017,8 @@ db.players.insert({
     },
     "2015-06-value": 52,
     "name": "Brian Duensing",
-    "playerid": 4064
+    "playerid": 4064,
+    "team-2015-06": "Twins"
 });
 db.players.insert({
     "2014": {
@@ -70651,7 +73050,8 @@ db.players.insert({
     },
     "2014-value": 84,
     "name": "Jackson Williams",
-    "playerid": 8524
+    "playerid": 8524,
+    "team-2014": "Giants"
 });
 db.players.insert({
     "2015-07": {
@@ -70683,7 +73083,8 @@ db.players.insert({
     },
     "2015-07-value": 64,
     "name": "Adam Conley",
-    "playerid": 14457
+    "playerid": 14457,
+    "team-2015-07": "Marlins"
 });
 db.players.insert({
     "2014": {
@@ -70799,7 +73200,11 @@ db.players.insert({
     },
     "2015-07-value": 142,
     "name": "Ryan Braun",
-    "playerid": 3410
+    "playerid": 3410,
+    "team-2014": "Brewers",
+    "team-2015-05": "Brewers",
+    "team-2015-06": "Brewers",
+    "team-2015-07": "Brewers"
 });
 db.players.insert({
     "2015-05": {
@@ -70887,7 +73292,10 @@ db.players.insert({
     },
     "2015-07-value": 64,
     "name": "Wilmer Difo",
-    "playerid": 14320
+    "playerid": 14320,
+    "team-2015-05": "Nationals",
+    "team-2015-06": "Nationals",
+    "team-2015-07": "Nationals"
 });
 db.players.insert({
     "2014": {
@@ -71003,7 +73411,11 @@ db.players.insert({
     },
     "2015-07-value": 136,
     "name": "Erick Aybar",
-    "playerid": 4082
+    "playerid": 4082,
+    "team-2014": "Angels",
+    "team-2015-05": "Angels",
+    "team-2015-06": "Angels",
+    "team-2015-07": "Angels"
 });
 db.players.insert({
     "2014": {
@@ -71119,7 +73531,11 @@ db.players.insert({
     },
     "2015-07-value": 66,
     "name": "Clayton Kershaw",
-    "playerid": 2036
+    "playerid": 2036,
+    "team-2014": "Dodgers",
+    "team-2015-05": "Dodgers",
+    "team-2015-06": "Dodgers",
+    "team-2015-07": "Dodgers"
 });
 db.players.insert({
     "2015-05": {
@@ -71207,7 +73623,10 @@ db.players.insert({
     },
     "2015-07-value": 137,
     "name": "Jose Iglesias",
-    "playerid": 10231
+    "playerid": 10231,
+    "team-2015-05": "Tigers",
+    "team-2015-06": "Tigers",
+    "team-2015-07": "Tigers"
 });
 db.players.insert({
     "2015-07": {
@@ -71239,7 +73658,8 @@ db.players.insert({
     },
     "2015-07-value": 93,
     "name": "Michael Conforto",
-    "playerid": 16376
+    "playerid": 16376,
+    "team-2015-07": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -71355,7 +73775,11 @@ db.players.insert({
     },
     "2015-07-value": 147,
     "name": "Rougned Odor",
-    "playerid": 12282
+    "playerid": 12282,
+    "team-2014": "Rangers",
+    "team-2015-05": "Rangers",
+    "team-2015-06": "Rangers",
+    "team-2015-07": "Rangers"
 });
 db.players.insert({
     "2014": {
@@ -71443,7 +73867,10 @@ db.players.insert({
     },
     "2015-06-value": 96,
     "name": "Dilson Herrera",
-    "playerid": 14335
+    "playerid": 14335,
+    "team-2014": "Mets",
+    "team-2015-05": "Mets",
+    "team-2015-06": "Mets"
 });
 db.players.insert({
     "2014": {
@@ -71559,7 +73986,11 @@ db.players.insert({
     },
     "2015-07-value": 66,
     "name": "Jorge de la Rosa",
-    "playerid": 2047
+    "playerid": 2047,
+    "team-2014": "Rockies",
+    "team-2015-05": "Rockies",
+    "team-2015-06": "Rockies",
+    "team-2015-07": "Rockies"
 });
 db.players.count();
 db.players.count();

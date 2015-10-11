@@ -24,9 +24,10 @@ if ( $u != NULL) {
 }
 //echo "<!-- " . var_dump($user_mongo) . " -->";
 
-function getPlayersByTeam($team = "Cardinals" ) {
+function getPlayersByTeam($team) {
    global $db;
-   $key = array( '2015-07.Team' => $team, '2014.type' => 'batter' );
+   if ($team == null) { $team = "Cardinals"; }
+   $key = array( '2015-07.Team' => $team, "2014.type" => 'batter' );
    $sort = array( '2014-value' => -1 );
    $cursor = $db->players->find($key)->sort($sort);
    $retval = array();
@@ -39,7 +40,7 @@ function getPlayersByTeam($team = "Cardinals" ) {
 function getPicks() {
    global $db,$user_mongo,$event;
    $key = array( 'user' => $user_mongo, 'event' => $event );
-   $sort = array( 'player_sort' => 1 );
+   $sort = array( 'player_sort' => -1 );
    $cursor = $db->picks->find($key)->sort($sort);
    $retval = array();
    foreach ($cursor as $document) {
@@ -48,15 +49,15 @@ function getPicks() {
    return $retval;
 }
 
-function findPlayerByName($name) {
+function findPlayerByName($player) {
    // Find the player by name
-   $d = $db->players;
-   $p = $d->findOne(array('name' => $player));
+   global $db;
+   $p = $db->players->findOne(array('name' => $player, '2014.type' => 'batter'));
    if ($p == NULL) {
        echo "player '$player' not found";
        die();
    }
-  return $p;
+  return array($p);
 }
 
 function removePick($player) {

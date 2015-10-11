@@ -85,6 +85,7 @@ for fn in sys.argv[1:]:
              x[ id ]['name'] = r['Name']
              x[ id ]['playerid'] = id
       x[ id ][ mon ] = r
+      x[ id ][ 'team-' + mon ] = r['Team']
   normalize(100.,points,x,mon)
 
 print "db.players.count();"
