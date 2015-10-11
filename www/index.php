@@ -168,7 +168,7 @@
     .login-center{
         top: 10px;
         height: 35px;
-        padding-right: 5px;
+        padding-right: 10px;
 
     }
 
