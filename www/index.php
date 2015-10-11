@@ -104,6 +104,7 @@
         float: right;
         background-color: #2BADD4;
         color: white;
+        padding-right: 5px;
 
     }
 
@@ -129,6 +130,7 @@
         width: 15%;
         top: 20px;
         float:right;
+        padding-right: 5px;
 
     }
 
