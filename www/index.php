@@ -24,7 +24,7 @@
     }
 
     .login-class{
-        
+
         vertical-align: middle;
 
     }
@@ -32,6 +32,7 @@
     .form-control{
         width: 15%;
         float:right;
+        vertical-align: middle;
 
     }
 
@@ -56,7 +57,7 @@
 <body style="background-color: #30C2CF">
     <nav class="login-box">
     <form class="login-class" role="form">
-        <div>
+        <div class="login-class">
             <button href="#" class="btn btn-info" role="button" >Login</button>
             <input type="password" class="form-control" id="pwd" placeholder="Enter password">
             <input type="email" class="form-control" id="email" placeholder=" email">
