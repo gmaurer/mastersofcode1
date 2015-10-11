@@ -31,7 +31,7 @@
 
     .form-control{
         width: 15%;
-        float:right;
+
         vertical-align: middle;
 
     }
@@ -40,10 +40,10 @@
 
         position:absolute;
         top:50%;
+        float:right;
 
 
-        margin-top:-25%;
-        
+
     }
 
     .images{
