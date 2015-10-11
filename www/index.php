@@ -174,7 +174,7 @@
 
     .create-center{
         height: 400px;
-        width: 450px ;
+        width: 500px ;
         margin-left: auto ;
         margin-right: auto ;
         padding: 20px;
