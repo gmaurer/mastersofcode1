@@ -269,7 +269,7 @@
 
             <h3 class="headerstuff" >New User</h3>
             <br>
-            <p class="headerstuff"> Text goes here stuff</p>
+            <p class="headerstuff"> Sign up and support Save the Puppies. Join the exciting fantasy baseball league and thank you for helping Save the Puppies</p>
             <br>
 
             <input  type="email" class="form-control form-control1" name="email" id="email" placeholder=" Enter email">
