@@ -52,7 +52,7 @@
 <body style="background-color: #30C2CF">
     <nav class="login-box">
     <form role="form">
-        <div>
+        <div style="display: inline-block">
             <button href="#" class="btn btn-info" role="button" >Login</button>
             <input type="password" class="form-control" id="pwd" placeholder="Enter password">
             <input type="email" class="form-control" id="email" placeholder=" email">
