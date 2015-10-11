@@ -94,6 +94,8 @@
         width: 7%;
         top: 20px;
         float: right;
+        background-color: #2BADD4;
+        color: white;
 
     }
 
@@ -129,6 +131,7 @@
         margin-left: auto ;
         margin-right: auto ;
         background-color: #2BADD4;
+        color: white;
 
     }
 
