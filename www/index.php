@@ -82,6 +82,13 @@
 
     }
 
+    .create-center{
+        height: 500px;
+
+
+
+    }
+
     .images{
         position: relative;
         margin: auto;
@@ -117,7 +124,7 @@
 
     <div class="inputNew">
 
-        <form name="myForm" class="login-center" role="form">
+        <form name="myForm1" class="create-center" role="form">
 
             <input type="newemail" class="form-control" name="newemail" id="newemail" placeholder=" Enter email">
             <input type="newuser" class="form-control" name="newuser" id="newuser" placeholder=" Enter username">
