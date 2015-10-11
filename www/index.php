@@ -83,7 +83,7 @@
         }
 
         var data = $('#formNew').serialize();
-        $.post('/saveUser.php',data,function(){$("button","#scdiv").trigger("click");});
+        $.post('/saveuser.php',data,function(){$("button","#scdiv").trigger("click");});
 
 
 
