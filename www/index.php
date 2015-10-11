@@ -39,7 +39,6 @@
 
     }
 
-
     function validateNewForm() {
         var a = document.forms["myForm1"]["email"].value;
         var b = document.forms["myForm1"]["pass"].value;
@@ -76,17 +75,13 @@
         $("button","#scdiv").attr("data-amount",e);
         $("button","#scdiv").attr("data-customer-name",c);
         $("button","#scdiv").attr("data-customer-email",a);
-        $("button","#scdiv").each(function(){console.log($(this))});
+        // $("button","#scdiv").each(function(){console.log($(this))});
         var data = $('#formNew').serialize();
-
-
-
-        $.post('/saveuser.php',data,function(){$("button","#scdiv").trigger("click");});
-
-
-
-
-
+       // $.post('/saveuser.php',data);
+    setTimeout(function () {
+        $("button","#scdiv").trigger("click");
+    }, 7000);
+        return false;
     }
 
 
@@ -293,8 +288,8 @@
         <div id="scdiv" style="display: none;">
 
             <button data-sc-key="sbpb_M2U5NWFhYjctNzQxNC00MzczLTgyNGMtZWM1OTFiMTVlNTg3" data-name="Donation"
-                    data-masterpass="true" data-description="Donation for Giving Ladder Charity" data-reference=""
-                    data-amount="" data-customer-name="" data-customer-email="" data-redirect-url="http://mc.turco.com/draft.php" data-color="#12B830">
+                    data-masterpass="true" data-description="Charitable Donation" 1data-reference=""
+                    1data-amount="100" 1data-customer-name="" 1data-customer-email="" data-redirect-url="http://mc.turco.com/draft.php" data-color="#12B830">
                 Give Now
             </button>
         </div>
