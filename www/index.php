@@ -71,7 +71,8 @@
     }
 
     .inputNew{
-
+        top: 38px;
+        height: 500px;
 
     }
 
