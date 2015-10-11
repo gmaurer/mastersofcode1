@@ -261,6 +261,8 @@
 
 
     </form>
+
+        <h3>Save the Puppies</h3>
     </nav>
 
     <div class="inputNew">
