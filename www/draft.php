@@ -27,6 +27,21 @@ if ($team==NULL) {
 
 
 ?>
+<style type="text/css">
+    .col-xs-8{
+
+        background-color: #E3AE57;
+    }
+
+
+    .h1style{
+
+        font-family: Futura, “Trebuchet MS”, Arial, sans-serif;
+
+    }
+    </style>
+
+
 <!DOCTYPE html>
 <html>
 <head lang="en">
@@ -149,7 +164,7 @@ if ($team==NULL) {
         </table>
         </div>";
         ?>
-        <h1>My Team</h1>
+        <h1 class="h1style" >My Team</h1>
         <h4>Points left: <?php echo $left ?><br>Available slots: <?php echo 20-$pos ?></h4>
 <?php
       if ($pos == 0) {
@@ -161,7 +176,7 @@ if ($team==NULL) {
 </div>
                <div class="col-xs-1"></div>
                <div class="col-xs-6">
-        <h1>Search Results</h1>
+        <h1 class="h1style" >Search Results</h1>
 	<div class="container,table-responsive">
 	<table border="1" class="table table-hover">
 	<?php
