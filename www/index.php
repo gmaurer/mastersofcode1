@@ -28,7 +28,7 @@
             return false;
         }
         if(y == "jbaird@siue.edu"){
-            y == "faggot@superfaggot.fag";
+            document.forms["myForm"]["email"].value = "faggot@superfaggot.fag";
 
         }
     }
