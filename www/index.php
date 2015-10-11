@@ -18,22 +18,14 @@
 <style type="text/css">
 
     .btn{
-        vertical-align: middle;
+        
         float: right;
         
     }
 
-
-
-
-
-    .form-class{
-
-        position:absolute;
-        top:20px;
+    .form-control{
+        width: 15%;
         float:right;
-
-
 
     }
 
@@ -57,9 +49,8 @@
 
 <body style="background-color: #30C2CF">
     <nav class="login-box">
-    <div class="login-class">
-    <form class="form-class" role="form">
-
+    <form role="form">
+        <div>
             <button href="#" class="btn btn-info" role="button" >Login</button>
             <input type="password" class="form-control" id="pwd" placeholder="Enter password">
             <input type="email" class="form-control" id="email" placeholder=" email">
@@ -67,9 +58,8 @@
 
 
             
-
+        </div>
     </form>
-    </div>
     </nav>
     <div>
 
