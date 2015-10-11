@@ -258,6 +258,8 @@
 
             <input  type="email" class="form-control form-control1" name="newemail" id="newemail" placeholder=" Enter email">
             <br>
+            <input  type="text" class="form-control form-control1" name="newname" id="newname" placeholder=" Enter name">
+            <br>
             <input  type="password" class="form-control form-control1" name="newpass" id="newpass" placeholder=" Enter password">
             <br>
             <input  type="password" class="form-control form-control1" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
