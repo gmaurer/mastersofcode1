@@ -127,7 +127,7 @@
 
     }
 
-    .btn-info{
+    .btn-info1{
 
         width: 7%;
         top: 20px;
@@ -251,7 +251,7 @@
     <nav class="login-box">
     <form action="payment.php" method="post" name="myForm" class="login-center" role="form">
 
-            <button href="#" onclick="validateForm()" class="btn btn-info" role="button" >Login</button>
+            <button href="#" onclick="validateForm()" class="btn btn-info1" role="button" >Login</button>
             <input type="password" class="form-control form1" name="pass" id="pwd" placeholder="Enter password">
             <input type="email" class="form-control form1" name="email" id="email" placeholder=" Enter email">
             <input type="hidden" name="method" value="li"/>
