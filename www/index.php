@@ -184,6 +184,13 @@
 
 
     }
+    
+    .form-control-num{
+        height: 40px;
+        
+        
+        
+    }
 
 
 
@@ -217,7 +224,7 @@
             <br>
             <input  type="password" class="form-control form-control1" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
             <br>
-            <input  type="number" class="form-control form-control1" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
+            <input  type="number" class="form-control form-control-num" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
             <br>
             <button href="#" class="btn form-control1-btn" role="button" >Login</button>
 
