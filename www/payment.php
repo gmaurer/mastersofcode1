@@ -1,5 +1,5 @@
 <?php
-if(isset($_POST['method'])&&isset($_POST['email'])&&isset($_POST['pass']){
+if(isset($_POST['method'])&&isset($_POST['email'])&&isset($_POST['pass'])){
     $method = $_POST['method'];
     include 'getuser.php';
     $email = $_POST['email'];
