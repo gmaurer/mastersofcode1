@@ -46,9 +46,6 @@
         var c = document.forms["myForm1"]["name"].value;
         var d = document.forms["myForm1"]["newreenterpass"].value;
         var e = document.forms["myForm1"]["donateamt"].value;
-        document.getElementById("SCbtn").setAttribute("data-amount",e);
-        document.getElementById("SCbtn").setAttribute("data-customer-name",c);
-        document.getElementById("SCbtn").setAttribute("data-customer-email",a);
 
         var minValVar = 50;
 
