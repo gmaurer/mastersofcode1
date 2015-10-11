@@ -1,0 +1,69 @@
+<?php
+
+include ('func.php');
+
+if (!isset($_SESSION['user'])) {
+  header ("Location: http://mc.turco.com");
+  die();
+}
+
+?>
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+      <meta charset="UTF-8">
+      <title>Charity Draft</title>
+      <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jq\
+  uery-ui.css">
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+      <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+      <script>
+        $(function() {
+	    var availableTags = [
+	    <?php
+	    $m = new MongoClient();
+	    $db = $m->bb;
+	    $collection = $db->players;
+	    $cursor = $collection->find(array(),array('name' => 1, 'playerid' => 1))->sort(\
+	    array('name' => 1));
+	    foreach ($cursor as $document) {
+	        echo '"'.$document["name"] .'",' . "\n";   // ,"' . $document["playerid"];
+    	}
+	?>
+	];
+            $( "#search" ).autocomplete({
+             source: availableTags,
+                   minLength: 2
+                       });
+		       });
+      </script>
+      //<link href="GABES CSS" rel="stylesheet">
+</head>
+<body>
+	<header>
+	</header>
+	<div class="ui-widget">
+  	  <label for="search">Tags: </label>
+    	  <input id="search">
+    	</div>
+	<table>
+	<?php
+
+	$row = count($players);
+	
+	$tabledata = "
+	<tr>
+	<th>Player</th>
+	<th>Value</th>
+	</tr>
+	for($i = 0; $i < $row; i++){
+	  <tr>
+	  <td>{$players['name']}</td>
+	  <td>{$players['value']}</td>
+	  </tr>
+	}";
+	?>
+	return $tabledata;
+	</table>
+</body>
