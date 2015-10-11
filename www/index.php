@@ -70,6 +70,11 @@
 
     }
 
+    .inputNew{
+
+
+    }
+
     .login-center{
         top: 10px;
         height: 100px;
@@ -109,6 +114,27 @@
 
     </form>
     </nav>
+
+    <div class="inputNew">
+
+        <form name="myForm" class="login-center" role="form">
+
+            <input type="newemail" class="form-control" name="newemail" id="newemail" placeholder=" Enter email">
+            <input type="newuser" class="form-control" name="newuser" id="newuser" placeholder=" Enter username">
+            <input type="newpass" class="form-control" name="newpass" id="newpass" placeholder=" Enter password">
+            <input type="newreenterpass" class="form-control" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
+            <input type="donateamt" class="form-control" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
+
+
+
+
+        </form>
+
+
+    </div>
+
+
+
     <div>
         <div class="center"><img src="images/header-charitable-works.jpg" class="images" style="width:300px;height:286px;"></div>
 
