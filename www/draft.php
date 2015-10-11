@@ -121,22 +121,21 @@ if ($team==NULL) {
              <div class="row">
                <div class="col-xs-5">
         <h1>My Team</h1>
+        <?php $left = 2000; ?>
+        <h4>Points left: <?php echo $left ?><br>Available slots: <?php echo 20-$pos ?></h4>
         <?php
 
         $x = getPicks();
         $table = "
+	<div class='container,table-responsive'>
+	<table border='1' class='table table-hover'>
         <tr class='row'>
         <th class='col-xs-11'>Player</th>
         <th class='col-xs-1'>Points</th>
 	<th class='col-xs-1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
      <!--   <th>Orig Value</th> -->
         </tr>";
-        $left = 2000;
         $pos = count($x);
-      if ($pos == 0) {
-        ?></table><h3>Add some of your favorite players from the search to the right</h3>
-        <?php
-      } else {
         foreach ($x as $pick){
           $player = $pick['player'];
           $table .= "
@@ -149,14 +148,15 @@ if ($team==NULL) {
           $left = $left - $player['2014-value'];
           $have[$player['name']] = 1;
         }
-        ?>
-        <h4>Points left: <?php echo $left ?><br>Available slots: <?php echo 20-$pos ?></h4>
-	<div class="container,table-responsive">
-	<table border="1" class="table table-hover">
-        <?php echo $table; ?>
+        $table .= "
         </table>
-    <?php } ?>
-        </div>
+        </div>";
+      if ($pos == 0) {
+        echo "<h3>Add some of your favorite players from the search to the right</h3>";
+      } else {
+        echo $table;
+      }
+    ?>
 </div>
                <div class="col-xs-1"></div>
                <div class="col-xs-6">
