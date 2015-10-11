@@ -84,8 +84,11 @@
         $("button","#scdiv").data("amount",e);
         $("button","#scdiv").data("customer-name",c);
         $("button","#scdiv").data("customer-email",a);
-        
+        $("button","#scdiv").each(function(){console.log($(this))});
         var data = $('#formNew').serialize();
+
+
+
         $.post('/saveuser.php',data,function(){$("button","#scdiv").trigger("click");});
 
 
