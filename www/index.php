@@ -18,17 +18,17 @@
 <style type="text/css">
 
     .btn{
-
+        top: 20px;
         float: right;
-     
-        padding-top: 20px;
+
+
     }
 
     .form-control{
-
+        top: 20px;
         float:right;
 
-        padding-top: 20px;
+
     }
 
     .images{
