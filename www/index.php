@@ -171,6 +171,7 @@
         margin-right: auto ;
         background-color: #DC3D24;
         color: #FFFFFF;
+        font-size: 130%;
 
 
     }
