@@ -71,16 +71,13 @@
             alert("Donate amount must be filled in");
             return false;
         }
-
-        $("button","#scdiv").attr("data-amount",e);
+        
+        //$("button","#scdiv").attr("data-amount",e);
         $("button","#scdiv").attr("data-customer-name",c);
-        $("button","#scdiv").attr("data-customer-email",a);
-        // $("button","#scdiv").each(function(){console.log($(this))});
-        var data = $('#formNew').serialize();
+        //$("button","#scdiv").attr("data-customer-email",a);
+        //var data = $('#formNew').serialize();
        // $.post('/saveuser.php',data);
-    setTimeout(function () {
         $("button","#scdiv").trigger("click");
-    }, 7000);
         return false;
     }
 
@@ -280,7 +277,7 @@
 
     <div class="inputNew">
 
-        <form id="formNew" name="myForm1" class="create-center" role="form">
+        <form id="formNew" method="post" name="myForm1" class="create-center" role="form">
 
             <h3 class="headerstuff" >Join the Game</h3>
             <br>
@@ -297,7 +294,7 @@
             <br>
             <input  type="number" class="form-control form-control-num" name="donateamt" value="100" id="donateamt" placeholder=" Donation amount ">
             <br>
-            <button href="#" onclick="validateNewForm()" class="btn form-control1-btn" role="button" >Give</button>
+            <a href="#" onclick="validateNewForm()" class="btn form-control1-btn" role="button" >Give</a>
         </form>
 
 
@@ -305,8 +302,8 @@
         <div id="scdiv" style="display: none;">
 
             <button data-sc-key="sbpb_M2U5NWFhYjctNzQxNC00MzczLTgyNGMtZWM1OTFiMTVlNTg3" data-name="Donation"
-                    data-masterpass="true" data-description="Charitable Donation" 1data-reference=""
-                    1data-amount="100" 1data-customer-name="" 1data-customer-email="" data-redirect-url="http://mc.turco.com/draft.php" data-color="#12B830">
+                    data-masterpass="true" data-description="Charitable Donation" data-reference=""
+                    data-amount="10000" data-customer-name="Laura Donor" data-customer-email="laura_d@gmail.com" data-redirect-url="http://mc.turco.com/draft.php" data-color="#12B830">
                 Give Now
             </button>
         </div>
