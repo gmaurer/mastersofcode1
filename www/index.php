@@ -109,8 +109,8 @@
 
     .login-box{
 
-        height: 38px;
-
+        height: 50px;
+        padding: 5px;
         border: 1px solid black;
         background-color: #3D2EFF;
 
@@ -127,7 +127,7 @@
 
     .login-center{
         top: 10px;
-        height: 100px;
+        height: 34px;
       
 
     }
