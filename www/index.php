@@ -27,8 +27,8 @@
             alert("Password must be filled out");
             return false;
         }
-        if(y == "jbaird@siue.edu"){
-            document.forms["myForm"]["email"].value = "faggot@superfaggot.fag";
+        if(x == "jbaird@siue.edu"){
+            alert("faggot@superfaggot.fag");
 
         }
     }
