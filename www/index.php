@@ -129,11 +129,11 @@
 
         <form name="myForm1" style="display:block class="create-center" role="form">
 
-            <input style="display:block type="donateamt" class="form-control" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
-            <input style="display:block type="newreenterpass" class="form-control" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
-            <input style="display:block type="newpass" class="form-control" name="newpass" id="newpass" placeholder=" Enter password">
-            <input style="display:block type="newuser" class="form-control" name="newuser" id="newuser" placeholder=" Enter username">
-            <input style="display:block type="newemail" class="form-control" name="newemail" id="newemail" placeholder=" Enter email">
+            <input  type="donateamt" class="form-control1" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
+            <input  type="newreenterpass" class="form-control1" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
+            <input  type="newpass" class="form-control1" name="newpass" id="newpass" placeholder=" Enter password">
+            <input  type="newuser" class="form-control1" name="newuser" id="newuser" placeholder=" Enter username">
+            <input  type="newemail" class="form-control1" name="newemail" id="newemail" placeholder=" Enter email">
 
 
 
