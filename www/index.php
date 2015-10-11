@@ -269,6 +269,8 @@
 
             <h3 class="headerstuff" >New User</h3>
             <br>
+            <p class="headerstuff"> Text goes here stuff</p>
+            <br>
 
             <input  type="email" class="form-control form-control1" name="email" id="email" placeholder=" Enter email">
             <br>
