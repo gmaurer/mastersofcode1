@@ -230,6 +230,9 @@
 
         <form name="myForm1" class="create-center" role="form">
 
+            <h2 class="form-control form-control1">New User</h2>
+            <br>
+
             <input  type="email" class="form-control form-control1" name="newemail" id="newemail" placeholder=" Enter email">
             <br>
             <input  type="text" class="form-control form-control1" name="newuser" id="newuser" placeholder=" Enter username">
