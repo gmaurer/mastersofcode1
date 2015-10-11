@@ -20,15 +20,15 @@
     .btn{
 
         float: right;
-        vertical-align: middle;
-        
+     
+        padding-top: 20px;
     }
 
     .form-control{
-        width: 15%;
-        float:right;
-        vertical-align: middle;
 
+        float:right;
+
+        padding-top: 20px;
     }
 
     .images{
