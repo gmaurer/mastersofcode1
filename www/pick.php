@@ -6,8 +6,7 @@ $player = $_GET["player"];
 
 if ( $player == NULL ) {
   echo "Please pass in player";
-  die();
-}
+} else {
 ?>
 Inserting a new pick set for:
 <br>
@@ -18,5 +17,12 @@ player: <?php echo $player ?><br>
    echo "db in file:";
    echo var_dump($db);
    addPick($player);
+}
+
+// Show picks
+
+$x = getPicks();
+foreach ($x as $pick){
+echo var_dump($pick) . "<hr>\n";
+}
 ?>
-</body>

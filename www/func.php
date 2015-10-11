@@ -13,17 +13,19 @@ if (null === $event) {
    $event = "event1";
 }
 
-if ( $user and $event ) {
-   $users = $db->users;
-   $u = $users->findOne(array('user' => $user, 'event' => $event));
-   if ( $u ) {
-     $user = $u;
-   }
+$user_mongo = NULL;
+
+$criteria = array('user' => $user, 'event' => $event);
+$u = $db->users->findOne($criteria);
+if ( $u != NULL) {
+     $user_mongo = $u;
+} else {
+     $user_mongo = $db->users->insert($criteria);
 }
+//echo "<!-- " . var_dump($user_mongo) . " -->";
 
 function getPlayersByTeam($team = "Cardinals" ) {
    global $db;
-   // db.players.find({"2015-07.Team": /Cardinal/, "2014.type": "pitcher"},{'name':1 /*,'2014':1*/})
    $key = array( '2015-07.Team' => $team, '2014.type' => 'batter' );
    $sort = array( '2014-value' => -1 );
    $cursor = $db->players->find($key)->sort($sort);
@@ -35,12 +37,18 @@ function getPlayersByTeam($team = "Cardinals" ) {
 }
 
 function getPicks() {
-   global $db,$user,$event;
-   $key = array( 'user' => $user, 'event' => $event );
+   global $db,$user_mongo,$event;
+   $key = array( 'user' => $user_mongo, 'event' => $event );
+   $sort = array( 'player_sort' => 1 );
+   $cursor = $db->picks->find($key)->sort($sort);
+   $retval = array();
+   foreach ($cursor as $document) {
+      array_push($retval, $document);
+   }
+   return $retval;
 }
 
-function addPick($player) {
-   global $db,$user,$event;
+function findPlayerByName($name) {
    // Find the player by name
    $d = $db->players;
    $p = $d->findOne(array('name' => $player));
@@ -48,7 +56,25 @@ function addPick($player) {
        echo "player '$player' not found";
        die();
    }
-   $x = array('user' => $user, 'event' => $event, 'player' => $p["_id"]);
+  return $p;
+}
+
+function removePick($player) {
+   global $db,$user,$event,$user_mongo;
+   $x = array('user' => $user_mongo, 'event' => $event, 'player.name' => $player);
+   $db->picks->remove($x,array('just_one' => TRUE ) );
+}
+
+function addPick($player) {
+   global $db,$user,$event,$user_mongo;
+   // Find the player by name
+   $d = $db->players;
+   $p = $d->findOne(array('name' => $player));
+   if ($p == NULL) {
+       echo "player '$player' not found";
+       die();
+   }
+   $x = array('user' => $user_mongo, 'event' => $event, 'player_sort' => $p["2014-value"], 'player' => $p);
    if ( ! $retval=$db->picks->findOne($x) ) {
      $retval = $db->picks->insert($x);
    }
@@ -56,4 +82,3 @@ function addPick($player) {
 }
 
 ?>
-

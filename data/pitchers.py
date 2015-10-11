@@ -18,7 +18,8 @@ def normalize(midval,points,players,mon):
     mid = float(len(points))
     c = 0.
     for q in points:
-        players[q[1]][mon+'-value'] = int ( gaussian(c/mid, 0.5, 0.4) * midval )
+        players[q[1]][mon+'-value'] = int( c/mid * midval + 50) 
+        # players[q[1]][mon+'-value'] = int ( gaussian(c/mid, 0.5, 0.4) * midval )
         c = c + 1.
 
 def calc_k(k):

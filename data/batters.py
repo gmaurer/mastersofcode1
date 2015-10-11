@@ -18,8 +18,9 @@ def normalize(midval,points,players,mon):
     mid = float(len(points))
     c = 0.
     for q in points:
-        players[q[1]][mon+'-value'] = int( gaussian(c/mid, 0.5, 0.4) * midval )
+        players[q[1]][mon+'-value'] = int(c/mid * midval + 50)
         c = c + 1.
+# int( gaussian(c/mid, 0.5, 0.3) * midval )
 
 def calc_k(k):
   if k > 50:
@@ -77,12 +78,12 @@ for fn in sys.argv[1:]:
       r['type'] = 'batter'
       r['points'] = r['1B']*1 + r['2B']*2 + r['3B']*3 + r['HR']*4 + r['R']*1 + r['RBI']*1 + r['SB']*2
       id = r['playerid']
-      q = [r['points'], r['playerid']]
+      q = [r['points'], id ]
       points.append(q)
       if not x.get( id, False ):
              x[ id ] = { }
              x[ id ]['name'] = r['Name']
-             x[ id ]['playerid'] = r['playerid']
+             x[ id ]['playerid'] = id
       x[ id ][ mon ] = r
   normalize(100.,points,x,mon)
 

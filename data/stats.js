@@ -33,7 +33,7 @@ db.players.insert({
         "points": 63,
         "type": "batter"
     },
-    "2014-value": 151,
+    "2014-value": 101,
     "2015-05": {
         "1B": 7,
         "2B": 6,
@@ -61,7 +61,7 @@ db.players.insert({
         "points": 42,
         "type": "batter"
     },
-    "2015-05-value": 139,
+    "2015-05-value": 110,
     "2015-06": {
         "1B": 11,
         "2B": 5,
@@ -89,7 +89,7 @@ db.players.insert({
         "points": 83,
         "type": "batter"
     },
-    "2015-06-value": 101,
+    "2015-06-value": 144,
     "2015-07": {
         "1B": 13,
         "2B": 7,
@@ -117,7 +117,7 @@ db.players.insert({
         "points": 76,
         "type": "batter"
     },
-    "2015-07-value": 101,
+    "2015-07-value": 143,
     "name": "Randal Grichuk",
     "playerid": 10243
 });
@@ -177,7 +177,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-05-value": 125,
+    "2015-05-value": 119,
     "2015-06": {
         "1B": 16,
         "2B": 4,
@@ -205,7 +205,7 @@ db.players.insert({
         "points": 46,
         "type": "batter"
     },
-    "2015-06-value": 128,
+    "2015-06-value": 117,
     "name": "Cory Spangenberg",
     "playerid": 12294
 });
@@ -237,7 +237,7 @@ db.players.insert({
         "points": 267,
         "type": "batter"
     },
-    "2014-value": 115,
+    "2014-value": 127,
     "2015-05": {
         "1B": 15,
         "2B": 5,
@@ -265,7 +265,7 @@ db.players.insert({
         "points": 47,
         "type": "batter"
     },
-    "2015-05-value": 133,
+    "2015-05-value": 113,
     "2015-06": {
         "1B": 8,
         "2B": 4,
@@ -293,7 +293,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-06-value": 126,
+    "2015-06-value": 118,
     "2015-07": {
         "1B": 4,
         "2B": 2,
@@ -321,7 +321,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-07-value": 98,
+    "2015-07-value": 92,
     "name": "Eduardo Escobar",
     "playerid": 6153
 });
@@ -353,7 +353,7 @@ db.players.insert({
         "points": 420,
         "type": "batter"
     },
-    "2014-value": 101,
+    "2014-value": 142,
     "2015-05": {
         "1B": 22,
         "2B": 7,
@@ -381,7 +381,7 @@ db.players.insert({
         "points": 80,
         "type": "batter"
     },
-    "2015-05-value": 102,
+    "2015-05-value": 140,
     "2015-06": {
         "1B": 26,
         "2B": 4,
@@ -409,7 +409,7 @@ db.players.insert({
         "points": 54,
         "type": "batter"
     },
-    "2015-06-value": 117,
+    "2015-06-value": 125,
     "2015-07": {
         "1B": 4,
         "2B": 3,
@@ -437,7 +437,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 96,
     "name": "Josh Harrison",
     "playerid": 8202
 });
@@ -469,7 +469,7 @@ db.players.insert({
         "points": 484,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 147,
     "2015-05": {
         "1B": 34,
         "2B": 5,
@@ -497,7 +497,7 @@ db.players.insert({
         "points": 92,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 145,
     "2015-06": {
         "1B": 27,
         "2B": 6,
@@ -525,7 +525,7 @@ db.players.insert({
         "points": 75,
         "type": "batter"
     },
-    "2015-06-value": 102,
+    "2015-06-value": 140,
     "2015-07": {
         "1B": 9,
         "2B": 0,
@@ -553,7 +553,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2015-07-value": 130,
+    "2015-07-value": 115,
     "name": "Dee Gordon",
     "playerid": 8203
 });
@@ -585,7 +585,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 64,
+    "2015-07-value": 62,
     "name": "Chris Bassitt",
     "playerid": 12304
 });
@@ -617,7 +617,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 54,
+    "2015-05-value": 55,
     "name": "Adam Warren",
     "playerid": 9029
 });
@@ -649,7 +649,7 @@ db.players.insert({
         "points": 159,
         "type": "batter"
     },
-    "2014-value": 133,
+    "2014-value": 113,
     "2015-05": {
         "1B": 16,
         "2B": 13,
@@ -677,7 +677,7 @@ db.players.insert({
         "points": 113,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 148,
     "2015-06": {
         "1B": 10,
         "2B": 3,
@@ -705,7 +705,7 @@ db.players.insert({
         "points": 54,
         "type": "batter"
     },
-    "2015-06-value": 117,
+    "2015-06-value": 125,
     "2015-07": {
         "1B": 16,
         "2B": 8,
@@ -733,7 +733,7 @@ db.players.insert({
         "points": 63,
         "type": "batter"
     },
-    "2015-07-value": 107,
+    "2015-07-value": 134,
     "name": "Brandon Belt",
     "playerid": 10264
 });
@@ -765,7 +765,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2014-value": 86,
+    "2014-value": 78,
     "2015-05": {
         "1B": 0,
         "2B": 1,
@@ -793,7 +793,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 81,
+    "2015-05-value": 74,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -821,7 +821,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 84,
+    "2015-06-value": 76,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -881,7 +881,7 @@ db.players.insert({
         "points": 43,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 97,
     "name": "Tony Sanchez",
     "playerid": 6178
 });
@@ -913,7 +913,7 @@ db.players.insert({
         "points": 13,
         "type": "batter"
     },
-    "2014-value": 94,
+    "2014-value": 87,
     "2015-05": {
         "1B": 23,
         "2B": 3,
@@ -941,7 +941,7 @@ db.players.insert({
         "points": 76,
         "type": "batter"
     },
-    "2015-05-value": 104,
+    "2015-05-value": 138,
     "2015-06": {
         "1B": 14,
         "2B": 10,
@@ -969,7 +969,7 @@ db.players.insert({
         "points": 71,
         "type": "batter"
     },
-    "2015-06-value": 104,
+    "2015-06-value": 138,
     "2015-07": {
         "1B": 12,
         "2B": 4,
@@ -997,7 +997,7 @@ db.players.insert({
         "points": 34,
         "type": "batter"
     },
-    "2015-07-value": 138,
+    "2015-07-value": 110,
     "name": "Jace Peterson",
     "playerid": 12325
 });
@@ -1029,7 +1029,7 @@ db.players.insert({
         "points": 389,
         "type": "batter"
     },
-    "2014-value": 102,
+    "2014-value": 140,
     "2015-05": {
         "1B": 19,
         "2B": 5,
@@ -1057,7 +1057,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-05-value": 111,
+    "2015-05-value": 129,
     "2015-06": {
         "1B": 13,
         "2B": 3,
@@ -1085,7 +1085,7 @@ db.players.insert({
         "points": 105,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 148,
     "2015-07": {
         "1B": 20,
         "2B": 4,
@@ -1113,7 +1113,7 @@ db.players.insert({
         "points": 104,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 149,
     "name": "J.D. Martinez",
     "playerid": 6184
 });
@@ -1145,7 +1145,7 @@ db.players.insert({
         "points": 338,
         "type": "batter"
     },
-    "2014-value": 105,
+    "2014-value": 135,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -1173,7 +1173,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 46,
+    "2015-05-value": 50,
     "2015-06": {
         "1B": 15,
         "2B": 2,
@@ -1201,7 +1201,7 @@ db.players.insert({
         "points": 31,
         "type": "batter"
     },
-    "2015-06-value": 147,
+    "2015-06-value": 104,
     "2015-07": {
         "1B": 20,
         "2B": 6,
@@ -1229,7 +1229,7 @@ db.players.insert({
         "points": 64,
         "type": "batter"
     },
-    "2015-07-value": 106,
+    "2015-07-value": 134,
     "name": "Alex Rios",
     "playerid": 2090
 });
@@ -1261,7 +1261,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2014-value": 78,
+    "2014-value": 72,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -1289,7 +1289,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 54,
+    "2015-05-value": 56,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -1317,7 +1317,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 78,
+    "2015-06-value": 72,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -1377,7 +1377,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2014-value": 96,
+    "2014-value": 89,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -1405,7 +1405,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 48,
+    "2015-05-value": 52,
     "name": "Jonathan Diaz",
     "playerid": 4142
 });
@@ -1437,7 +1437,7 @@ db.players.insert({
         "points": 85,
         "type": "batter"
     },
-    "2014-value": 146,
+    "2014-value": 105,
     "2015-05": {
         "1B": 1,
         "2B": 1,
@@ -1465,7 +1465,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 82,
+    "2015-05-value": 75,
     "2015-07": {
         "1B": 0,
         "2B": 1,
@@ -1493,7 +1493,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2015-07-value": 97,
+    "2015-07-value": 90,
     "name": "Hector Sanchez",
     "playerid": 10289
 });
@@ -1525,7 +1525,7 @@ db.players.insert({
         "points": 509,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 148,
     "2015-05": {
         "1B": 19,
         "2B": 7,
@@ -1553,7 +1553,7 @@ db.players.insert({
         "points": 70,
         "type": "batter"
     },
-    "2015-05-value": 107,
+    "2015-05-value": 134,
     "2015-06": {
         "1B": 19,
         "2B": 4,
@@ -1581,7 +1581,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2015-06-value": 115,
+    "2015-06-value": 126,
     "2015-07": {
         "1B": 27,
         "2B": 9,
@@ -1609,7 +1609,7 @@ db.players.insert({
         "points": 96,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 148,
     "name": "Ian Kinsler",
     "playerid": 6195
 });
@@ -1641,7 +1641,7 @@ db.players.insert({
         "points": 37,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 95,
     "2015-06": {
         "1B": 6,
         "2B": 1,
@@ -1669,7 +1669,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-06-value": 97,
+    "2015-06-value": 90,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -1697,7 +1697,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 78,
+    "2015-07-value": 72,
     "name": "Josh Wilson",
     "playerid": 2102
 });
@@ -1729,7 +1729,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2014-value": 97,
+    "2014-value": 90,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -1757,7 +1757,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 49,
+    "2015-05-value": 52,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -1785,7 +1785,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 67,
+    "2015-06-value": 64,
     "2015-07": {
         "1B": 3,
         "2B": 0,
@@ -1813,7 +1813,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-07-value": 95,
+    "2015-07-value": 87,
     "name": "Jake Arrieta",
     "playerid": 4153
 });
@@ -1845,7 +1845,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2014-value": 88,
+    "2014-value": 80,
     "2015-06": {
         "1B": 7,
         "2B": 1,
@@ -1873,7 +1873,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-06-value": 96,
+    "2015-06-value": 88,
     "2015-07": {
         "1B": 13,
         "2B": 3,
@@ -1901,7 +1901,7 @@ db.players.insert({
         "points": 30,
         "type": "batter"
     },
-    "2015-07-value": 141,
+    "2015-07-value": 108,
     "name": "Eury Perez",
     "playerid": 10299
 });
@@ -1933,7 +1933,7 @@ db.players.insert({
         "points": 495,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 147,
     "2015-05": {
         "1B": 10,
         "2B": 3,
@@ -1961,7 +1961,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-05-value": 126,
+    "2015-05-value": 118,
     "2015-06": {
         "1B": 3,
         "2B": 1,
@@ -1989,7 +1989,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-06-value": 92,
+    "2015-06-value": 84,
     "2015-07": {
         "1B": 12,
         "2B": 7,
@@ -2017,7 +2017,7 @@ db.players.insert({
         "points": 63,
         "type": "batter"
     },
-    "2015-07-value": 107,
+    "2015-07-value": 134,
     "name": "Hunter Pence",
     "playerid": 8252
 });
@@ -2049,7 +2049,7 @@ db.players.insert({
         "points": 546,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 149,
     "2015-05": {
         "1B": 17,
         "2B": 10,
@@ -2077,7 +2077,7 @@ db.players.insert({
         "points": 103,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 147,
     "2015-06": {
         "1B": 21,
         "2B": 6,
@@ -2105,7 +2105,7 @@ db.players.insert({
         "points": 53,
         "type": "batter"
     },
-    "2015-06-value": 119,
+    "2015-06-value": 123,
     "2015-07": {
         "1B": 18,
         "2B": 7,
@@ -2133,7 +2133,7 @@ db.players.insert({
         "points": 82,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 144,
     "name": "Michael Brantley",
     "playerid": 4106
 });
@@ -2165,7 +2165,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 62,
+    "2014-value": 61,
     "2015-05": {
         "1B": 1,
         "2B": 1,
@@ -2193,7 +2193,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-05-value": 85,
+    "2015-05-value": 77,
     "2015-06": {
         "1B": 4,
         "2B": 0,
@@ -2221,7 +2221,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-06-value": 91,
+    "2015-06-value": 82,
     "2015-07": {
         "1B": 1,
         "2B": 1,
@@ -2249,7 +2249,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 85,
+    "2015-07-value": 77,
     "name": "Chris Heston",
     "playerid": 10302
 });
@@ -2281,7 +2281,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2014-value": 86,
+    "2014-value": 78,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -2309,7 +2309,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 77,
+    "2015-05-value": 71,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -2369,7 +2369,7 @@ db.players.insert({
         "points": 273,
         "type": "batter"
     },
-    "2014-value": 113,
+    "2014-value": 128,
     "2015-05": {
         "1B": 3,
         "2B": 0,
@@ -2397,7 +2397,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-05-value": 87,
+    "2015-05-value": 79,
     "name": "Oswaldo Arcia",
     "playerid": 10306
 });
@@ -2429,7 +2429,7 @@ db.players.insert({
         "points": 271,
         "type": "batter"
     },
-    "2014-value": 114,
+    "2014-value": 127,
     "2015-05": {
         "1B": 11,
         "2B": 6,
@@ -2457,7 +2457,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-05-value": 146,
+    "2015-05-value": 105,
     "2015-06": {
         "1B": 14,
         "2B": 3,
@@ -2485,7 +2485,7 @@ db.players.insert({
         "points": 38,
         "type": "batter"
     },
-    "2015-06-value": 137,
+    "2015-06-value": 111,
     "2015-07": {
         "1B": 13,
         "2B": 2,
@@ -2513,7 +2513,7 @@ db.players.insert({
         "points": 27,
         "type": "batter"
     },
-    "2015-07-value": 145,
+    "2015-07-value": 105,
     "name": "Kurt Suzuki",
     "playerid": 8259
 });
@@ -2545,7 +2545,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2014-value": 91,
+    "2014-value": 83,
     "name": "Zack Wheeler",
     "playerid": 10310
 });
@@ -2577,7 +2577,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 62,
+    "2014-value": 61,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -2637,7 +2637,7 @@ db.players.insert({
         "points": 210,
         "type": "batter"
     },
-    "2014-value": 124,
+    "2014-value": 119,
     "2015-05": {
         "1B": 8,
         "2B": 3,
@@ -2665,7 +2665,7 @@ db.players.insert({
         "points": 45,
         "type": "batter"
     },
-    "2015-05-value": 135,
+    "2015-05-value": 112,
     "2015-06": {
         "1B": 8,
         "2B": 0,
@@ -2693,7 +2693,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-06-value": 95,
+    "2015-06-value": 88,
     "2015-07": {
         "1B": 6,
         "2B": 1,
@@ -2721,7 +2721,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-07-value": 122,
+    "2015-07-value": 121,
     "name": "Chris Iannetta",
     "playerid": 8267
 });
@@ -2753,7 +2753,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 62,
+    "2015-06-value": 61,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -2781,7 +2781,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 82,
+    "2015-07-value": 75,
     "name": "Deven Marrero",
     "playerid": 13325
 });
@@ -2813,7 +2813,7 @@ db.players.insert({
         "points": 193,
         "type": "batter"
     },
-    "2014-value": 127,
+    "2014-value": 117,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -2841,7 +2841,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 63,
+    "2015-05-value": 62,
     "2015-06": {
         "1B": 3,
         "2B": 0,
@@ -2869,7 +2869,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-06-value": 96,
+    "2015-06-value": 89,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -2897,7 +2897,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 86,
+    "2015-07-value": 78,
     "name": "Jackie Bradley Jr.",
     "playerid": 12984
 });
@@ -2929,7 +2929,7 @@ db.players.insert({
         "points": 341,
         "type": "batter"
     },
-    "2014-value": 105,
+    "2014-value": 136,
     "2015-05": {
         "1B": 10,
         "2B": 4,
@@ -2957,7 +2957,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-05-value": 125,
+    "2015-05-value": 119,
     "2015-06": {
         "1B": 4,
         "2B": 0,
@@ -2985,7 +2985,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-06-value": 94,
+    "2015-06-value": 86,
     "2015-07": {
         "1B": 8,
         "2B": 3,
@@ -3013,7 +3013,7 @@ db.players.insert({
         "points": 38,
         "type": "batter"
     },
-    "2015-07-value": 134,
+    "2015-07-value": 113,
     "name": "Danny Santana",
     "playerid": 10322
 });
@@ -3045,7 +3045,7 @@ db.players.insert({
         "points": 157,
         "type": "batter"
     },
-    "2014-value": 134,
+    "2014-value": 113,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -3073,7 +3073,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 81,
+    "2015-05-value": 74,
     "name": "Craig Gentry",
     "playerid": 9571
 });
@@ -3105,7 +3105,7 @@ db.players.insert({
         "points": 420,
         "type": "batter"
     },
-    "2014-value": 101,
+    "2014-value": 143,
     "2015-05": {
         "1B": 22,
         "2B": 5,
@@ -3133,7 +3133,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-05-value": 111,
+    "2015-05-value": 130,
     "2015-06": {
         "1B": 19,
         "2B": 5,
@@ -3221,7 +3221,7 @@ db.players.insert({
         "points": 47,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 98,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -3249,7 +3249,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-05-value": 84,
+    "2015-05-value": 76,
     "2015-06": {
         "1B": 4,
         "2B": 0,
@@ -3277,7 +3277,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-06-value": 90,
+    "2015-06-value": 82,
     "2015-07": {
         "1B": 8,
         "2B": 3,
@@ -3305,7 +3305,7 @@ db.players.insert({
         "points": 29,
         "type": "batter"
     },
-    "2015-07-value": 143,
+    "2015-07-value": 107,
     "name": "Jonathan Herrera",
     "playerid": 4182
 });
@@ -3337,7 +3337,7 @@ db.players.insert({
         "points": 130,
         "type": "batter"
     },
-    "2014-value": 139,
+    "2014-value": 109,
     "name": "J.P. Arencibia",
     "playerid": 697
 });
@@ -3369,7 +3369,7 @@ db.players.insert({
         "points": 236,
         "type": "batter"
     },
-    "2014-value": 119,
+    "2014-value": 123,
     "2015-05": {
         "1B": 11,
         "2B": 6,
@@ -3397,7 +3397,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-05-value": 116,
+    "2015-05-value": 125,
     "2015-06": {
         "1B": 17,
         "2B": 4,
@@ -3425,7 +3425,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2015-06-value": 114,
+    "2015-06-value": 127,
     "2015-07": {
         "1B": 13,
         "2B": 4,
@@ -3453,7 +3453,7 @@ db.players.insert({
         "points": 80,
         "type": "batter"
     },
-    "2015-07-value": 101,
+    "2015-07-value": 144,
     "name": "David Peralta",
     "playerid": 2136
 });
@@ -3485,7 +3485,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 55,
+    "2014-value": 56,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -3513,7 +3513,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 53,
+    "2015-06-value": 55,
     "name": "Chris Archer",
     "playerid": 6345
 });
@@ -3545,7 +3545,7 @@ db.players.insert({
         "points": 25,
         "type": "batter"
     },
-    "2015-06-value": 153,
+    "2015-06-value": 100,
     "2015-07": {
         "1B": 9,
         "2B": 2,
@@ -3573,7 +3573,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-07-value": 136,
+    "2015-07-value": 111,
     "name": "Kyle Schwarber",
     "playerid": 16478
 });
@@ -3605,7 +3605,7 @@ db.players.insert({
         "points": 236,
         "type": "batter"
     },
-    "2014-value": 119,
+    "2014-value": 123,
     "2015-05": {
         "1B": 30,
         "2B": 3,
@@ -3633,7 +3633,7 @@ db.players.insert({
         "points": 68,
         "type": "batter"
     },
-    "2015-05-value": 108,
+    "2015-05-value": 132,
     "2015-06": {
         "1B": 25,
         "2B": 4,
@@ -3661,7 +3661,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-06-value": 108,
+    "2015-06-value": 133,
     "2015-07": {
         "1B": 14,
         "2B": 7,
@@ -3689,7 +3689,7 @@ db.players.insert({
         "points": 45,
         "type": "batter"
     },
-    "2015-07-value": 128,
+    "2015-07-value": 117,
     "name": "Yunel Escobar",
     "playerid": 4191
 });
@@ -3721,7 +3721,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2015-05-value": 98,
+    "2015-05-value": 92,
     "name": "Slade Heathcott",
     "playerid": 10336
 });
@@ -3753,7 +3753,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 67,
+    "2014-value": 64,
     "name": "Nicholas Tropeano",
     "playerid": 12385
 });
@@ -3785,7 +3785,7 @@ db.players.insert({
         "points": 312,
         "type": "batter"
     },
-    "2014-value": 108,
+    "2014-value": 132,
     "2015-05": {
         "1B": 3,
         "2B": 0,
@@ -3813,7 +3813,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-05-value": 93,
+    "2015-05-value": 85,
     "2015-06": {
         "1B": 8,
         "2B": 3,
@@ -3841,7 +3841,7 @@ db.players.insert({
         "points": 40,
         "type": "batter"
     },
-    "2015-06-value": 134,
+    "2015-06-value": 113,
     "2015-07": {
         "1B": 18,
         "2B": 6,
@@ -3869,7 +3869,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2015-07-value": 112,
+    "2015-07-value": 128,
     "name": "Scooter Gennett",
     "playerid": 10339
 });
@@ -3901,7 +3901,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 54,
+    "2014-value": 55,
     "name": "Tom Gorzelanny",
     "playerid": 6244
 });
@@ -3933,7 +3933,7 @@ db.players.insert({
         "points": 438,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 145,
     "2015-05": {
         "1B": 10,
         "2B": 5,
@@ -3961,7 +3961,7 @@ db.players.insert({
         "points": 95,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 145,
     "2015-06": {
         "1B": 12,
         "2B": 7,
@@ -3989,7 +3989,7 @@ db.players.insert({
         "points": 72,
         "type": "batter"
     },
-    "2015-06-value": 104,
+    "2015-06-value": 138,
     "2015-07": {
         "1B": 12,
         "2B": 4,
@@ -4017,7 +4017,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-07-value": 123,
+    "2015-07-value": 120,
     "name": "Edwin Encarnacion",
     "playerid": 2151
 });
@@ -4049,7 +4049,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2014-value": 81,
+    "2014-value": 74,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -4077,7 +4077,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 68,
+    "2015-05-value": 65,
     "name": "Trevor Cahill",
     "playerid": 6249
 });
@@ -4109,7 +4109,7 @@ db.players.insert({
         "points": 46,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 97,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -4137,7 +4137,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-05-value": 91,
+    "2015-05-value": 83,
     "2015-06": {
         "1B": 8,
         "2B": 1,
@@ -4165,7 +4165,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-06-value": 97,
+    "2015-06-value": 90,
     "2015-07": {
         "1B": 8,
         "2B": 1,
@@ -4193,7 +4193,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-07-value": 149,
+    "2015-07-value": 102,
     "name": "JR Murphy",
     "playerid": 10346
 });
@@ -4225,7 +4225,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2014-value": 95,
+    "2014-value": 87,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -4253,7 +4253,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 46,
+    "2015-05-value": 50,
     "name": "Alfredo Simon",
     "playerid": 2155
 });
@@ -4285,7 +4285,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 74,
+    "2014-value": 69,
     "2015-06": {
         "1B": 5,
         "2B": 2,
@@ -4313,7 +4313,7 @@ db.players.insert({
         "points": 32,
         "type": "batter"
     },
-    "2015-06-value": 145,
+    "2015-06-value": 105,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -4341,7 +4341,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-07-value": 87,
+    "2015-07-value": 79,
     "name": "Domingo Santana",
     "playerid": 10348
 });
@@ -4373,7 +4373,7 @@ db.players.insert({
         "points": 102,
         "type": "batter"
     },
-    "2014-value": 143,
+    "2014-value": 107,
     "name": "Kevin Frandsen",
     "playerid": 7528
 });
@@ -4405,7 +4405,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2014-value": 83,
+    "2014-value": 75,
     "name": "Robbie Erlin",
     "playerid": 10354
 });
@@ -4437,7 +4437,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 72,
+    "2015-05-value": 68,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -4465,7 +4465,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 85,
+    "2015-06-value": 77,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -4493,7 +4493,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 67,
+    "2015-07-value": 64,
     "name": "Severino Gonzalez",
     "playerid": 14697
 });
@@ -4525,7 +4525,7 @@ db.players.insert({
         "points": 201,
         "type": "batter"
     },
-    "2014-value": 126,
+    "2014-value": 118,
     "2015-05": {
         "1B": 18,
         "2B": 4,
@@ -4553,7 +4553,7 @@ db.players.insert({
         "points": 63,
         "type": "batter"
     },
-    "2015-05-value": 113,
+    "2015-05-value": 128,
     "2015-06": {
         "1B": 11,
         "2B": 1,
@@ -4581,7 +4581,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2015-06-value": 115,
+    "2015-06-value": 127,
     "2015-07": {
         "1B": 13,
         "2B": 3,
@@ -4609,7 +4609,7 @@ db.players.insert({
         "points": 31,
         "type": "batter"
     },
-    "2015-07-value": 141,
+    "2015-07-value": 108,
     "name": "Andre Ethier",
     "playerid": 6265
 });
@@ -4641,7 +4641,7 @@ db.players.insert({
         "points": 115,
         "type": "batter"
     },
-    "2014-value": 141,
+    "2014-value": 108,
     "2015-06": {
         "1B": 6,
         "2B": 0,
@@ -4669,7 +4669,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-06-value": 95,
+    "2015-06-value": 88,
     "2015-07": {
         "1B": 13,
         "2B": 2,
@@ -4697,7 +4697,7 @@ db.players.insert({
         "points": 28,
         "type": "batter"
     },
-    "2015-07-value": 143,
+    "2015-07-value": 106,
     "name": "Daniel Robertson",
     "playerid": 6266
 });
@@ -4729,7 +4729,7 @@ db.players.insert({
         "points": 160,
         "type": "batter"
     },
-    "2014-value": 133,
+    "2014-value": 114,
     "2015-05": {
         "1B": 15,
         "2B": 5,
@@ -4757,7 +4757,7 @@ db.players.insert({
         "points": 69,
         "type": "batter"
     },
-    "2015-05-value": 108,
+    "2015-05-value": 133,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -4785,7 +4785,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 77,
+    "2015-06-value": 71,
     "2015-07": {
         "1B": 1,
         "2B": 2,
@@ -4813,7 +4813,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-07-value": 96,
+    "2015-07-value": 88,
     "name": "Ryan Zimmerman",
     "playerid": 4220
 });
@@ -4845,7 +4845,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 72,
+    "2014-value": 67,
     "name": "Chris Tillman",
     "playerid": 5279
 });
@@ -4877,7 +4877,7 @@ db.players.insert({
         "points": 433,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 144,
     "2015-05": {
         "1B": 25,
         "2B": 5,
@@ -4905,7 +4905,7 @@ db.players.insert({
         "points": 59,
         "type": "batter"
     },
-    "2015-05-value": 117,
+    "2015-05-value": 125,
     "2015-06": {
         "1B": 26,
         "2B": 3,
@@ -4933,7 +4933,7 @@ db.players.insert({
         "points": 70,
         "type": "batter"
     },
-    "2015-06-value": 105,
+    "2015-06-value": 136,
     "2015-07": {
         "1B": 20,
         "2B": 2,
@@ -4961,7 +4961,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2015-07-value": 112,
+    "2015-07-value": 129,
     "name": "Howie Kendrick",
     "playerid": 4229
 });
@@ -4993,7 +4993,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 51,
+    "2014-value": 53,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -5021,7 +5021,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 49,
+    "2015-05-value": 52,
     "name": "Jered Weaver",
     "playerid": 4235
 });
@@ -5053,7 +5053,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 46,
+    "2014-value": 50,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -5081,7 +5081,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 47,
+    "2015-06-value": 51,
     "name": "Jeremy Guthrie",
     "playerid": 2072
 });
@@ -5113,7 +5113,7 @@ db.players.insert({
         "points": 74,
         "type": "batter"
     },
-    "2014-value": 149,
+    "2014-value": 103,
     "2015-05": {
         "1B": 14,
         "2B": 3,
@@ -5141,7 +5141,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2015-05-value": 118,
+    "2015-05-value": 124,
     "2015-06": {
         "1B": 27,
         "2B": 4,
@@ -5169,7 +5169,7 @@ db.players.insert({
         "points": 92,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 147,
     "2015-07": {
         "1B": 19,
         "2B": 5,
@@ -5197,7 +5197,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2015-07-value": 112,
+    "2015-07-value": 129,
     "name": "Kevin Pillar",
     "playerid": 12434
 });
@@ -5229,7 +5229,7 @@ db.players.insert({
         "points": 95,
         "type": "batter"
     },
-    "2014-value": 144,
+    "2014-value": 106,
     "2015-05": {
         "1B": 3,
         "2B": 0,
@@ -5257,7 +5257,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-05-value": 94,
+    "2015-05-value": 86,
     "2015-06": {
         "1B": 5,
         "2B": 1,
@@ -5285,7 +5285,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2015-06-value": 98,
+    "2015-06-value": 92,
     "2015-07": {
         "1B": 3,
         "2B": 0,
@@ -5313,7 +5313,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 83,
+    "2015-07-value": 75,
     "name": "Jose Lobaton",
     "playerid": 4243
 });
@@ -5345,7 +5345,7 @@ db.players.insert({
         "points": 197,
         "type": "batter"
     },
-    "2014-value": 126,
+    "2014-value": 118,
     "2015-05": {
         "1B": 15,
         "2B": 4,
@@ -5373,7 +5373,7 @@ db.players.insert({
         "points": 31,
         "type": "batter"
     },
-    "2015-05-value": 150,
+    "2015-05-value": 102,
     "2015-06": {
         "1B": 2,
         "2B": 1,
@@ -5401,7 +5401,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-06-value": 95,
+    "2015-06-value": 88,
     "2015-07": {
         "1B": 6,
         "2B": 1,
@@ -5429,7 +5429,7 @@ db.players.insert({
         "points": 23,
         "type": "batter"
     },
-    "2015-07-value": 152,
+    "2015-07-value": 100,
     "name": "Grady Sizemore",
     "playerid": 2197
 });
@@ -5461,7 +5461,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 85,
+    "2015-06-value": 77,
     "name": "Daniel Fields",
     "playerid": 10390
 });
@@ -5493,7 +5493,7 @@ db.players.insert({
         "points": 19,
         "type": "batter"
     },
-    "2014-value": 97,
+    "2014-value": 91,
     "2015-05": {
         "1B": 6,
         "2B": 1,
@@ -5521,7 +5521,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2015-05-value": 98,
+    "2015-05-value": 93,
     "2015-06": {
         "1B": 5,
         "2B": 1,
@@ -5549,7 +5549,7 @@ db.players.insert({
         "points": 22,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 96,
     "2015-07": {
         "1B": 2,
         "2B": 1,
@@ -5577,7 +5577,7 @@ db.players.insert({
         "points": 13,
         "type": "batter"
     },
-    "2015-07-value": 97,
+    "2015-07-value": 90,
     "name": "Shane Robinson",
     "playerid": 4249
 });
@@ -5609,7 +5609,7 @@ db.players.insert({
         "points": 447,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 145,
     "2015-05": {
         "1B": 20,
         "2B": 7,
@@ -5637,7 +5637,7 @@ db.players.insert({
         "points": 71,
         "type": "batter"
     },
-    "2015-05-value": 106,
+    "2015-05-value": 134,
     "2015-06": {
         "1B": 22,
         "2B": 4,
@@ -5665,7 +5665,7 @@ db.players.insert({
         "points": 62,
         "type": "batter"
     },
-    "2015-06-value": 109,
+    "2015-06-value": 131,
     "2015-07": {
         "1B": 3,
         "2B": 0,
@@ -5693,7 +5693,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-07-value": 94,
+    "2015-07-value": 86,
     "name": "Denard Span",
     "playerid": 8347
 });
@@ -5725,7 +5725,7 @@ db.players.insert({
         "points": 13,
         "type": "batter"
     },
-    "2014-value": 94,
+    "2014-value": 86,
     "name": "Dean Anna",
     "playerid": 8353
 });
@@ -5785,7 +5785,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2015-05-value": 96,
+    "2015-05-value": 89,
     "2015-06": {
         "1B": 2,
         "2B": 0,
@@ -5813,7 +5813,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 79,
+    "2015-06-value": 72,
     "name": "Josh Thole",
     "playerid": 9689
 });
@@ -5845,7 +5845,7 @@ db.players.insert({
         "points": 404,
         "type": "batter"
     },
-    "2014-value": 102,
+    "2014-value": 141,
     "2015-05": {
         "1B": 17,
         "2B": 2,
@@ -5873,7 +5873,7 @@ db.players.insert({
         "points": 54,
         "type": "batter"
     },
-    "2015-05-value": 122,
+    "2015-05-value": 121,
     "2015-06": {
         "1B": 24,
         "2B": 5,
@@ -5901,7 +5901,7 @@ db.players.insert({
         "points": 68,
         "type": "batter"
     },
-    "2015-06-value": 105,
+    "2015-06-value": 136,
     "2015-07": {
         "1B": 29,
         "2B": 4,
@@ -5929,7 +5929,7 @@ db.players.insert({
         "points": 67,
         "type": "batter"
     },
-    "2015-07-value": 105,
+    "2015-07-value": 137,
     "name": "Alcides Escobar",
     "playerid": 6310
 });
@@ -5961,7 +5961,7 @@ db.players.insert({
         "points": 90,
         "type": "batter"
     },
-    "2014-value": 145,
+    "2014-value": 105,
     "name": "Don Kelly",
     "playerid": 2216
 });
@@ -5993,7 +5993,7 @@ db.players.insert({
         "points": 98,
         "type": "batter"
     },
-    "2014-value": 144,
+    "2014-value": 106,
     "2015-05": {
         "1B": 4,
         "2B": 4,
@@ -6021,7 +6021,7 @@ db.players.insert({
         "points": 34,
         "type": "batter"
     },
-    "2015-05-value": 147,
+    "2015-05-value": 104,
     "2015-06": {
         "1B": 6,
         "2B": 2,
@@ -6049,7 +6049,7 @@ db.players.insert({
         "points": 23,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 97,
     "2015-07": {
         "1B": 2,
         "2B": 1,
@@ -6077,7 +6077,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-07-value": 93,
+    "2015-07-value": 85,
     "name": "Ryan Raburn",
     "playerid": 2218
 });
@@ -6109,7 +6109,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 54,
+    "2014-value": 56,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -6137,7 +6137,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 68,
+    "2015-05-value": 65,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -6165,7 +6165,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 53,
+    "2015-06-value": 54,
     "2015-07": {
         "1B": 3,
         "2B": 0,
@@ -6193,7 +6193,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 83,
+    "2015-07-value": 76,
     "name": "David Phelps",
     "playerid": 6316
 });
@@ -6225,7 +6225,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 63,
+    "2014-value": 61,
     "name": "Wilfredo Tovar",
     "playerid": 10416
 });
@@ -6257,7 +6257,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2014-value": 96,
+    "2014-value": 89,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -6285,7 +6285,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 47,
+    "2015-06-value": 51,
     "2015-07": {
         "1B": 7,
         "2B": 0,
@@ -6313,7 +6313,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-07-value": 97,
+    "2015-07-value": 91,
     "name": "Jason Bourgeois",
     "playerid": 2225
 });
@@ -6345,7 +6345,7 @@ db.players.insert({
         "points": 344,
         "type": "batter"
     },
-    "2014-value": 105,
+    "2014-value": 136,
     "2015-05": {
         "1B": 26,
         "2B": 4,
@@ -6373,7 +6373,7 @@ db.players.insert({
         "points": 67,
         "type": "batter"
     },
-    "2015-05-value": 109,
+    "2015-05-value": 132,
     "2015-06": {
         "1B": 20,
         "2B": 6,
@@ -6401,7 +6401,7 @@ db.players.insert({
         "points": 67,
         "type": "batter"
     },
-    "2015-06-value": 106,
+    "2015-06-value": 135,
     "2015-07": {
         "1B": 0,
         "2B": 1,
@@ -6429,7 +6429,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-07-value": 87,
+    "2015-07-value": 79,
     "name": "Dustin Pedroia",
     "playerid": 8370
 });
@@ -6461,7 +6461,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2014-value": 89,
+    "2014-value": 81,
     "name": "Austin Romine",
     "playerid": 5491
 });
@@ -6493,7 +6493,7 @@ db.players.insert({
         "points": 393,
         "type": "batter"
     },
-    "2014-value": 102,
+    "2014-value": 140,
     "2015-05": {
         "1B": 3,
         "2B": 3,
@@ -6521,7 +6521,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2015-05-value": 98,
+    "2015-05-value": 93,
     "name": "Justin Morneau",
     "playerid": 1737
 });
@@ -6553,7 +6553,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 72,
+    "2014-value": 67,
     "name": "John Danks",
     "playerid": 6329
 });
@@ -6585,7 +6585,7 @@ db.players.insert({
         "points": 156,
         "type": "batter"
     },
-    "2014-value": 134,
+    "2014-value": 112,
     "2015-05": {
         "1B": 5,
         "2B": 1,
@@ -6613,7 +6613,7 @@ db.players.insert({
         "points": 32,
         "type": "batter"
     },
-    "2015-05-value": 149,
+    "2015-05-value": 103,
     "2015-06": {
         "1B": 14,
         "2B": 1,
@@ -6641,7 +6641,7 @@ db.players.insert({
         "points": 22,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 96,
     "2015-07": {
         "1B": 11,
         "2B": 1,
@@ -6669,7 +6669,7 @@ db.players.insert({
         "points": 53,
         "type": "batter"
     },
-    "2015-07-value": 115,
+    "2015-07-value": 126,
     "name": "Kelly Johnson",
     "playerid": 2234
 });
@@ -6701,7 +6701,7 @@ db.players.insert({
         "points": 333,
         "type": "batter"
     },
-    "2014-value": 106,
+    "2014-value": 135,
     "2015-05": {
         "1B": 13,
         "2B": 2,
@@ -6729,7 +6729,7 @@ db.players.insert({
         "points": 75,
         "type": "batter"
     },
-    "2015-05-value": 104,
+    "2015-05-value": 137,
     "2015-06": {
         "1B": 15,
         "2B": 3,
@@ -6757,7 +6757,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-06-value": 112,
+    "2015-06-value": 129,
     "2015-07": {
         "1B": 8,
         "2B": 2,
@@ -6785,7 +6785,7 @@ db.players.insert({
         "points": 50,
         "type": "batter"
     },
-    "2015-07-value": 119,
+    "2015-07-value": 123,
     "name": "Brian McCann",
     "playerid": 4810
 });
@@ -6817,7 +6817,7 @@ db.players.insert({
         "points": 30,
         "type": "batter"
     },
-    "2014-value": 98,
+    "2014-value": 94,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -6845,7 +6845,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 80,
+    "2015-07-value": 73,
     "name": "Pedro Florimon",
     "playerid": 8385
 });
@@ -6877,7 +6877,7 @@ db.players.insert({
         "points": 333,
         "type": "batter"
     },
-    "2014-value": 106,
+    "2014-value": 135,
     "name": "David Wright",
     "playerid": 3787
 });
@@ -6909,7 +6909,7 @@ db.players.insert({
         "points": 82,
         "type": "batter"
     },
-    "2014-value": 147,
+    "2014-value": 104,
     "2015-05": {
         "1B": 9,
         "2B": 1,
@@ -6937,7 +6937,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-05-value": 146,
+    "2015-05-value": 105,
     "2015-06": {
         "1B": 5,
         "2B": 0,
@@ -6965,7 +6965,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-06-value": 90,
+    "2015-06-value": 82,
     "2015-07": {
         "1B": 2,
         "2B": 1,
@@ -6993,7 +6993,7 @@ db.players.insert({
         "points": 22,
         "type": "batter"
     },
-    "2015-07-value": 153,
+    "2015-07-value": 100,
     "name": "Daniel Descalso",
     "playerid": 8392
 });
@@ -7025,7 +7025,7 @@ db.players.insert({
         "points": 194,
         "type": "batter"
     },
-    "2014-value": 126,
+    "2014-value": 118,
     "2015-06": {
         "1B": 0,
         "2B": 1,
@@ -7053,7 +7053,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-06-value": 87,
+    "2015-06-value": 79,
     "2015-07": {
         "1B": 6,
         "2B": 1,
@@ -7081,7 +7081,7 @@ db.players.insert({
         "points": 22,
         "type": "batter"
     },
-    "2015-07-value": 153,
+    "2015-07-value": 100,
     "name": "Jon Singleton",
     "playerid": 10441
 });
@@ -7113,7 +7113,7 @@ db.players.insert({
         "points": 83,
         "type": "batter"
     },
-    "2014-value": 147,
+    "2014-value": 104,
     "2015-06": {
         "1B": 6,
         "2B": 5,
@@ -7141,7 +7141,7 @@ db.players.insert({
         "points": 50,
         "type": "batter"
     },
-    "2015-06-value": 123,
+    "2015-06-value": 120,
     "2015-07": {
         "1B": 13,
         "2B": 4,
@@ -7169,7 +7169,7 @@ db.players.insert({
         "points": 32,
         "type": "batter"
     },
-    "2015-07-value": 140,
+    "2015-07-value": 109,
     "name": "Matt Wieters",
     "playerid": 4298
 });
@@ -7201,7 +7201,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 63,
+    "2015-05-value": 61,
     "name": "Tyler Wilson",
     "playerid": 12691
 });
@@ -7233,7 +7233,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 51,
+    "2014-value": 53,
     "name": "Justin Wilson",
     "playerid": 4301
 });
@@ -7265,7 +7265,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2014-value": 97,
+    "2014-value": 90,
     "name": "Antoan Richardson",
     "playerid": 209
 });
@@ -7297,7 +7297,7 @@ db.players.insert({
         "points": 234,
         "type": "batter"
     },
-    "2014-value": 120,
+    "2014-value": 123,
     "2015-05": {
         "1B": 17,
         "2B": 2,
@@ -7325,7 +7325,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-05-value": 128,
+    "2015-05-value": 116,
     "2015-06": {
         "1B": 15,
         "2B": 6,
@@ -7353,7 +7353,7 @@ db.players.insert({
         "points": 64,
         "type": "batter"
     },
-    "2015-06-value": 109,
+    "2015-06-value": 132,
     "2015-07": {
         "1B": 11,
         "2B": 1,
@@ -7381,7 +7381,7 @@ db.players.insert({
         "points": 37,
         "type": "batter"
     },
-    "2015-07-value": 136,
+    "2015-07-value": 112,
     "name": "Will Venable",
     "playerid": 211
 });
@@ -7413,7 +7413,7 @@ db.players.insert({
         "points": 147,
         "type": "batter"
     },
-    "2014-value": 136,
+    "2014-value": 112,
     "2015-05": {
         "1B": 18,
         "2B": 4,
@@ -7441,7 +7441,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2015-05-value": 119,
+    "2015-05-value": 123,
     "2015-06": {
         "1B": 17,
         "2B": 5,
@@ -7469,7 +7469,7 @@ db.players.insert({
         "points": 81,
         "type": "batter"
     },
-    "2015-06-value": 101,
+    "2015-06-value": 143,
     "2015-07": {
         "1B": 22,
         "2B": 7,
@@ -7497,7 +7497,7 @@ db.players.insert({
         "points": 89,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 146,
     "name": "Joey Votto",
     "playerid": 4314
 });
@@ -7529,7 +7529,7 @@ db.players.insert({
         "points": 292,
         "type": "batter"
     },
-    "2014-value": 111,
+    "2014-value": 130,
     "2015-05": {
         "1B": 24,
         "2B": 4,
@@ -7557,7 +7557,7 @@ db.players.insert({
         "points": 45,
         "type": "batter"
     },
-    "2015-05-value": 134,
+    "2015-05-value": 112,
     "2015-06": {
         "1B": 18,
         "2B": 2,
@@ -7585,7 +7585,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-06-value": 112,
+    "2015-06-value": 129,
     "2015-07": {
         "1B": 19,
         "2B": 4,
@@ -7613,7 +7613,7 @@ db.players.insert({
         "points": 47,
         "type": "batter"
     },
-    "2015-07-value": 124,
+    "2015-07-value": 120,
     "name": "Adeiny Hechavarria",
     "playerid": 10459
 });
@@ -7645,7 +7645,7 @@ db.players.insert({
         "points": 150,
         "type": "batter"
     },
-    "2014-value": 135,
+    "2014-value": 112,
     "2015-05": {
         "1B": 8,
         "2B": 3,
@@ -7673,7 +7673,7 @@ db.players.insert({
         "points": 30,
         "type": "batter"
     },
-    "2015-05-value": 150,
+    "2015-05-value": 102,
     "2015-06": {
         "1B": 3,
         "2B": 4,
@@ -7701,7 +7701,7 @@ db.players.insert({
         "points": 42,
         "type": "batter"
     },
-    "2015-06-value": 131,
+    "2015-06-value": 114,
     "2015-07": {
         "1B": 10,
         "2B": 2,
@@ -7729,7 +7729,7 @@ db.players.insert({
         "points": 44,
         "type": "batter"
     },
-    "2015-07-value": 128,
+    "2015-07-value": 117,
     "name": "Danny Valencia",
     "playerid": 6364
 });
@@ -7761,7 +7761,7 @@ db.players.insert({
         "points": 28,
         "type": "batter"
     },
-    "2014-value": 98,
+    "2014-value": 93,
     "2015-06": {
         "1B": 3,
         "2B": 1,
@@ -7789,7 +7789,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-06-value": 96,
+    "2015-06-value": 89,
     "2015-07": {
         "1B": 2,
         "2B": 2,
@@ -7817,7 +7817,7 @@ db.players.insert({
         "points": 47,
         "type": "batter"
     },
-    "2015-07-value": 123,
+    "2015-07-value": 120,
     "name": "Curt Casali",
     "playerid": 12510
 });
@@ -7849,7 +7849,7 @@ db.players.insert({
         "points": 500,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 148,
     "2015-05": {
         "1B": 23,
         "2B": 2,
@@ -7877,7 +7877,7 @@ db.players.insert({
         "points": 49,
         "type": "batter"
     },
-    "2015-05-value": 130,
+    "2015-05-value": 116,
     "2015-06": {
         "1B": 11,
         "2B": 2,
@@ -7905,7 +7905,7 @@ db.players.insert({
         "points": 63,
         "type": "batter"
     },
-    "2015-06-value": 109,
+    "2015-06-value": 132,
     "2015-07": {
         "1B": 15,
         "2B": 8,
@@ -7933,7 +7933,7 @@ db.players.insert({
         "points": 88,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 145,
     "name": "Adam Jones",
     "playerid": 6368
 });
@@ -7965,7 +7965,7 @@ db.players.insert({
         "points": 167,
         "type": "batter"
     },
-    "2014-value": 132,
+    "2014-value": 114,
     "2015-05": {
         "1B": 3,
         "2B": 1,
@@ -7993,7 +7993,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2015-05-value": 93,
+    "2015-05-value": 84,
     "2015-06": {
         "1B": 17,
         "2B": 1,
@@ -8021,7 +8021,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-06-value": 112,
+    "2015-06-value": 129,
     "2015-07": {
         "1B": 4,
         "2B": 1,
@@ -8049,7 +8049,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2015-07-value": 98,
+    "2015-07-value": 93,
     "name": "Ryan Flaherty",
     "playerid": 7888
 });
@@ -8081,7 +8081,7 @@ db.players.insert({
         "points": 46,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 97,
     "2015-07": {
         "1B": 2,
         "2B": 1,
@@ -8109,7 +8109,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2015-07-value": 95,
+    "2015-07-value": 87,
     "name": "Ehire Adrianza",
     "playerid": 8418
 });
@@ -8141,7 +8141,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 76,
+    "2014-value": 70,
     "name": "Taylor Hill",
     "playerid": 12515
 });
@@ -8173,7 +8173,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 67,
+    "2014-value": 64,
     "name": "Rafael Montero",
     "playerid": 12760
 });
@@ -8205,7 +8205,7 @@ db.players.insert({
         "points": 78,
         "type": "batter"
     },
-    "2014-value": 148,
+    "2014-value": 104,
     "2015-05": {
         "1B": 3,
         "2B": 3,
@@ -8233,7 +8233,7 @@ db.players.insert({
         "points": 22,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 97,
     "2015-06": {
         "1B": 8,
         "2B": 2,
@@ -8261,7 +8261,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-06-value": 141,
+    "2015-06-value": 108,
     "2015-07": {
         "1B": 7,
         "2B": 3,
@@ -8289,7 +8289,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-07-value": 149,
+    "2015-07-value": 103,
     "name": "Enrique Hernandez",
     "playerid": 10472
 });
@@ -8321,7 +8321,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2015-07-value": 98,
+    "2015-07-value": 93,
     "name": "Cheslor Cuthbert",
     "playerid": 10473
 });
@@ -8353,7 +8353,7 @@ db.players.insert({
         "points": 34,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 95,
     "2015-07": {
         "1B": 2,
         "2B": 0,
@@ -8381,7 +8381,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-07-value": 89,
+    "2015-07-value": 81,
     "name": "Tomas Telis",
     "playerid": 10067
 });
@@ -8413,7 +8413,7 @@ db.players.insert({
         "points": 230,
         "type": "batter"
     },
-    "2014-value": 120,
+    "2014-value": 122,
     "2015-05": {
         "1B": 3,
         "2B": 3,
@@ -8441,7 +8441,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 94,
     "2015-06": {
         "1B": 3,
         "2B": 3,
@@ -8469,7 +8469,7 @@ db.players.insert({
         "points": 20,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 95,
     "2015-07": {
         "1B": 5,
         "2B": 2,
@@ -8497,7 +8497,7 @@ db.players.insert({
         "points": 13,
         "type": "batter"
     },
-    "2015-07-value": 97,
+    "2015-07-value": 91,
     "name": "Ike Davis",
     "playerid": 8433
 });
@@ -8529,7 +8529,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-06-value": 89,
+    "2015-06-value": 81,
     "2015-07": {
         "1B": 6,
         "2B": 1,
@@ -8557,7 +8557,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 96,
     "name": "Brett Wallace",
     "playerid": 8434
 });
@@ -8589,7 +8589,7 @@ db.players.insert({
         "points": 265,
         "type": "batter"
     },
-    "2014-value": 115,
+    "2014-value": 126,
     "2015-05": {
         "1B": 18,
         "2B": 3,
@@ -8617,7 +8617,7 @@ db.players.insert({
         "points": 50,
         "type": "batter"
     },
-    "2015-05-value": 129,
+    "2015-05-value": 116,
     "2015-06": {
         "1B": 10,
         "2B": 1,
@@ -8645,7 +8645,7 @@ db.players.insert({
         "points": 19,
         "type": "batter"
     },
-    "2015-06-value": 98,
+    "2015-06-value": 94,
     "2015-07": {
         "1B": 14,
         "2B": 4,
@@ -8673,7 +8673,7 @@ db.players.insert({
         "points": 45,
         "type": "batter"
     },
-    "2015-07-value": 127,
+    "2015-07-value": 117,
     "name": "Michael Bourn",
     "playerid": 6387
 });
@@ -8705,7 +8705,7 @@ db.players.insert({
         "points": 290,
         "type": "batter"
     },
-    "2014-value": 111,
+    "2014-value": 130,
     "2015-05": {
         "1B": 24,
         "2B": 6,
@@ -8733,7 +8733,7 @@ db.players.insert({
         "points": 97,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 146,
     "2015-06": {
         "1B": 12,
         "2B": 8,
@@ -8761,7 +8761,7 @@ db.players.insert({
         "points": 70,
         "type": "batter"
     },
-    "2015-06-value": 104,
+    "2015-06-value": 137,
     "2015-07": {
         "1B": 20,
         "2B": 2,
@@ -8789,7 +8789,7 @@ db.players.insert({
         "points": 63,
         "type": "batter"
     },
-    "2015-07-value": 107,
+    "2015-07-value": 134,
     "name": "Kolten Wong",
     "playerid": 12532
 });
@@ -8821,7 +8821,7 @@ db.players.insert({
         "points": 150,
         "type": "batter"
     },
-    "2014-value": 135,
+    "2014-value": 112,
     "2015-05": {
         "1B": 24,
         "2B": 3,
@@ -8849,7 +8849,7 @@ db.players.insert({
         "points": 78,
         "type": "batter"
     },
-    "2015-05-value": 103,
+    "2015-05-value": 139,
     "2015-06": {
         "1B": 12,
         "2B": 7,
@@ -8877,7 +8877,7 @@ db.players.insert({
         "points": 36,
         "type": "batter"
     },
-    "2015-06-value": 139,
+    "2015-06-value": 109,
     "2015-07": {
         "1B": 12,
         "2B": 1,
@@ -8905,7 +8905,7 @@ db.players.insert({
         "points": 34,
         "type": "batter"
     },
-    "2015-07-value": 137,
+    "2015-07-value": 110,
     "name": "Marcus Semien",
     "playerid": 12533
 });
@@ -8937,7 +8937,7 @@ db.players.insert({
         "points": 32,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 94,
     "2015-05": {
         "1B": 15,
         "2B": 3,
@@ -8965,7 +8965,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-05-value": 115,
+    "2015-05-value": 126,
     "2015-06": {
         "1B": 14,
         "2B": 3,
@@ -8993,7 +8993,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-06-value": 111,
+    "2015-06-value": 129,
     "2015-07": {
         "1B": 10,
         "2B": 3,
@@ -9021,7 +9021,7 @@ db.players.insert({
         "points": 31,
         "type": "batter"
     },
-    "2015-07-value": 140,
+    "2015-07-value": 109,
     "name": "Nick Ahmed",
     "playerid": 12147
 });
@@ -9053,7 +9053,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 50,
+    "2014-value": 53,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -9081,7 +9081,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 48,
+    "2015-05-value": 51,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -9109,7 +9109,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 50,
+    "2015-06-value": 53,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -9137,7 +9137,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 48,
+    "2015-07-value": 52,
     "name": "Carlos Villanueva",
     "playerid": 4138
 });
@@ -9169,7 +9169,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 53,
+    "2015-06-value": 55,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -9197,7 +9197,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 52,
+    "2015-07-value": 54,
     "name": "Trevor May",
     "playerid": 6398
 });
@@ -9229,7 +9229,7 @@ db.players.insert({
         "points": 94,
         "type": "batter"
     },
-    "2014-value": 144,
+    "2014-value": 106,
     "2015-05": {
         "1B": 0,
         "2B": 2,
@@ -9257,7 +9257,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-05-value": 94,
+    "2015-05-value": 86,
     "2015-06": {
         "1B": 1,
         "2B": 1,
@@ -9285,7 +9285,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-06-value": 88,
+    "2015-06-value": 80,
     "2015-07": {
         "1B": 6,
         "2B": 4,
@@ -9313,7 +9313,7 @@ db.players.insert({
         "points": 46,
         "type": "batter"
     },
-    "2015-07-value": 126,
+    "2015-07-value": 118,
     "name": "Kirk Nieuwenhuis",
     "playerid": 6400
 });
@@ -9345,7 +9345,7 @@ db.players.insert({
         "points": 174,
         "type": "batter"
     },
-    "2014-value": 130,
+    "2014-value": 115,
     "2015-05": {
         "1B": 5,
         "2B": 0,
@@ -9373,7 +9373,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-05-value": 89,
+    "2015-05-value": 81,
     "2015-06": {
         "1B": 2,
         "2B": 0,
@@ -9401,7 +9401,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2015-06-value": 93,
+    "2015-06-value": 85,
     "2015-07": {
         "1B": 15,
         "2B": 5,
@@ -9429,7 +9429,7 @@ db.players.insert({
         "points": 63,
         "type": "batter"
     },
-    "2015-07-value": 107,
+    "2015-07-value": 134,
     "name": "C.J. Cron",
     "playerid": 12546
 });
@@ -9461,7 +9461,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 63,
+    "2014-value": 61,
     "name": "Preston Claiborne",
     "playerid": 10500
 });
@@ -9493,7 +9493,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 67,
+    "2014-value": 64,
     "name": "Roenis Elias",
     "playerid": 12673
 });
@@ -9525,7 +9525,7 @@ db.players.insert({
         "points": 144,
         "type": "batter"
     },
-    "2014-value": 136,
+    "2014-value": 111,
     "2015-06": {
         "1B": 15,
         "2B": 3,
@@ -9553,7 +9553,7 @@ db.players.insert({
         "points": 49,
         "type": "batter"
     },
-    "2015-06-value": 124,
+    "2015-06-value": 119,
     "2015-07": {
         "1B": 18,
         "2B": 2,
@@ -9581,7 +9581,7 @@ db.players.insert({
         "points": 53,
         "type": "batter"
     },
-    "2015-07-value": 114,
+    "2015-07-value": 127,
     "name": "Eugenio Suarez",
     "playerid": 12552
 });
@@ -9613,7 +9613,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2014-value": 83,
+    "2014-value": 75,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -9641,7 +9641,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 81,
+    "2015-07-value": 74,
     "name": "Tony Cingrani",
     "playerid": 12555
 });
@@ -9673,7 +9673,7 @@ db.players.insert({
         "points": 180,
         "type": "batter"
     },
-    "2014-value": 129,
+    "2014-value": 116,
     "2015-05": {
         "1B": 9,
         "2B": 2,
@@ -9701,7 +9701,7 @@ db.players.insert({
         "points": 27,
         "type": "batter"
     },
-    "2015-05-value": 154,
+    "2015-05-value": 100,
     "2015-06": {
         "1B": 0,
         "2B": 2,
@@ -9729,7 +9729,7 @@ db.players.insert({
         "points": 21,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 95,
     "2015-07": {
         "1B": 3,
         "2B": 2,
@@ -9757,7 +9757,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2015-07-value": 96,
+    "2015-07-value": 89,
     "name": "Scott Van Slyke",
     "playerid": 4365
 });
@@ -9789,7 +9789,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-05-value": 91,
+    "2015-05-value": 83,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -9817,7 +9817,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 77,
+    "2015-06-value": 71,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -9845,7 +9845,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 49,
+    "2015-07-value": 52,
     "name": "Jeremy Hellickson",
     "playerid": 4371
 });
@@ -9877,7 +9877,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 76,
+    "2014-value": 70,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -9905,7 +9905,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 62,
+    "2015-05-value": 61,
     "name": "Blake Treinen",
     "playerid": 12572
 });
@@ -9937,7 +9937,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 72,
+    "2014-value": 68,
     "name": "Tim Stauffer",
     "playerid": 6432
 });
@@ -9969,7 +9969,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2014-value": 83,
+    "2014-value": 76,
     "2015-05": {
         "1B": 1,
         "2B": 1,
@@ -9997,7 +9997,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-05-value": 84,
+    "2015-05-value": 77,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -10025,7 +10025,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 53,
+    "2015-06-value": 55,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -10053,7 +10053,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 52,
+    "2015-07-value": 54,
     "name": "Vance Worley",
     "playerid": 6435
 });
@@ -10113,7 +10113,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-07-value": 88,
+    "2015-07-value": 80,
     "name": "Adam Morgan",
     "playerid": 12580
 });
@@ -10145,7 +10145,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 96,
     "2015-05": {
         "1B": 12,
         "2B": 4,
@@ -10173,7 +10173,7 @@ db.players.insert({
         "points": 50,
         "type": "batter"
     },
-    "2015-05-value": 130,
+    "2015-05-value": 116,
     "2015-06": {
         "1B": 1,
         "2B": 1,
@@ -10201,7 +10201,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 81,
+    "2015-06-value": 74,
     "name": "Kyle Blanks",
     "playerid": 49
 });
@@ -10233,7 +10233,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 71,
+    "2015-05-value": 67,
     "name": "Mike Wright",
     "playerid": 12586
 });
@@ -10265,7 +10265,7 @@ db.players.insert({
         "points": 111,
         "type": "batter"
     },
-    "2014-value": 142,
+    "2014-value": 107,
     "2015-06": {
         "1B": 4,
         "2B": 3,
@@ -10293,7 +10293,7 @@ db.players.insert({
         "points": 34,
         "type": "batter"
     },
-    "2015-06-value": 143,
+    "2015-06-value": 107,
     "2015-07": {
         "1B": 8,
         "2B": 3,
@@ -10321,7 +10321,7 @@ db.players.insert({
         "points": 37,
         "type": "batter"
     },
-    "2015-07-value": 135,
+    "2015-07-value": 112,
     "name": "Derek Dietrich",
     "playerid": 10542
 });
@@ -10353,7 +10353,7 @@ db.players.insert({
         "points": 244,
         "type": "batter"
     },
-    "2014-value": 118,
+    "2014-value": 124,
     "2015-05": {
         "1B": 6,
         "2B": 1,
@@ -10381,7 +10381,7 @@ db.players.insert({
         "points": 13,
         "type": "batter"
     },
-    "2015-05-value": 97,
+    "2015-05-value": 90,
     "2015-06": {
         "1B": 14,
         "2B": 6,
@@ -10409,7 +10409,7 @@ db.players.insert({
         "points": 43,
         "type": "batter"
     },
-    "2015-06-value": 131,
+    "2015-06-value": 115,
     "2015-07": {
         "1B": 10,
         "2B": 5,
@@ -10437,7 +10437,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-07-value": 117,
+    "2015-07-value": 125,
     "name": "Cody Asche",
     "playerid": 11997
 });
@@ -10469,7 +10469,7 @@ db.players.insert({
         "points": 180,
         "type": "batter"
     },
-    "2014-value": 128,
+    "2014-value": 117,
     "2015-05": {
         "1B": 4,
         "2B": 0,
@@ -10497,7 +10497,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-05-value": 86,
+    "2015-05-value": 78,
     "2015-06": {
         "1B": 12,
         "2B": 4,
@@ -10525,7 +10525,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-06-value": 142,
+    "2015-06-value": 107,
     "2015-07": {
         "1B": 11,
         "2B": 3,
@@ -10553,7 +10553,7 @@ db.players.insert({
         "points": 28,
         "type": "batter"
     },
-    "2015-07-value": 145,
+    "2015-07-value": 106,
     "name": "Chris Denorfia",
     "playerid": 4400
 });
@@ -10585,7 +10585,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2014-value": 86,
+    "2014-value": 78,
     "2015-05": {
         "1B": 1,
         "2B": 1,
@@ -10613,7 +10613,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-05-value": 85,
+    "2015-05-value": 78,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -10641,7 +10641,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 71,
+    "2015-06-value": 66,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -10669,7 +10669,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 85,
+    "2015-07-value": 77,
     "name": "Jimmy Nelson",
     "playerid": 10547
 });
@@ -10761,7 +10761,7 @@ db.players.insert({
         "points": 37,
         "type": "batter"
     },
-    "2015-05-value": 144,
+    "2015-05-value": 106,
     "2015-06": {
         "1B": 17,
         "2B": 5,
@@ -10789,7 +10789,7 @@ db.players.insert({
         "points": 63,
         "type": "batter"
     },
-    "2015-06-value": 109,
+    "2015-06-value": 132,
     "2015-07": {
         "1B": 23,
         "2B": 2,
@@ -10817,7 +10817,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-07-value": 105,
+    "2015-07-value": 136,
     "name": "Cesar Hernandez",
     "playerid": 10556
 });
@@ -10849,7 +10849,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2014-value": 83,
+    "2014-value": 75,
     "name": "Rafael Lopez",
     "playerid": 12606
 });
@@ -10881,7 +10881,7 @@ db.players.insert({
         "points": 287,
         "type": "batter"
     },
-    "2014-value": 112,
+    "2014-value": 129,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -10909,7 +10909,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 71,
+    "2015-07-value": 67,
     "name": "Jed Lowrie",
     "playerid": 4418
 });
@@ -10941,7 +10941,7 @@ db.players.insert({
         "points": 13,
         "type": "batter"
     },
-    "2014-value": 94,
+    "2014-value": 86,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -10969,7 +10969,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 80,
+    "2015-05-value": 73,
     "2015-06": {
         "1B": 0,
         "2B": 1,
@@ -10997,7 +10997,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 83,
+    "2015-06-value": 75,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -11025,7 +11025,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 79,
+    "2015-07-value": 72,
     "name": "Jon Niese",
     "playerid": 4424
 });
@@ -11057,7 +11057,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 63,
+    "2015-06-value": 62,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -11085,7 +11085,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 68,
+    "2015-07-value": 65,
     "name": "Carlos Rodon",
     "playerid": 16137
 });
@@ -11117,7 +11117,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 50,
+    "2014-value": 53,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -11145,7 +11145,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 47,
+    "2015-05-value": 51,
     "name": "Ricky Nolasco",
     "playerid": 3830
 });
@@ -11177,7 +11177,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 57,
+    "2015-05-value": 58,
     "name": "Addison Reed",
     "playerid": 10586
 });
@@ -11209,7 +11209,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 63,
+    "2014-value": 61,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -11237,7 +11237,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 70,
+    "2015-05-value": 66,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -11325,7 +11325,7 @@ db.players.insert({
         "points": 394,
         "type": "batter"
     },
-    "2014-value": 102,
+    "2014-value": 141,
     "2015-05": {
         "1B": 11,
         "2B": 4,
@@ -11353,7 +11353,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-05-value": 112,
+    "2015-05-value": 129,
     "2015-06": {
         "1B": 9,
         "2B": 6,
@@ -11381,7 +11381,7 @@ db.players.insert({
         "points": 49,
         "type": "batter"
     },
-    "2015-06-value": 125,
+    "2015-06-value": 119,
     "2015-07": {
         "1B": 12,
         "2B": 7,
@@ -11409,7 +11409,7 @@ db.players.insert({
         "points": 71,
         "type": "batter"
     },
-    "2015-07-value": 103,
+    "2015-07-value": 139,
     "name": "Carlos Santana",
     "playerid": 2396
 });
@@ -11441,7 +11441,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-07-value": 91,
+    "2015-07-value": 83,
     "name": "Nate Karns",
     "playerid": 12638
 });
@@ -11473,7 +11473,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2014-value": 90,
+    "2014-value": 82,
     "2015-06": {
         "1B": 3,
         "2B": 0,
@@ -11501,7 +11501,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-06-value": 94,
+    "2015-06-value": 86,
     "2015-07": {
         "1B": 0,
         "2B": 1,
@@ -11529,7 +11529,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 80,
+    "2015-07-value": 73,
     "name": "Joey Terdoslavich",
     "playerid": 10593
 });
@@ -11561,7 +11561,7 @@ db.players.insert({
         "points": 317,
         "type": "batter"
     },
-    "2014-value": 107,
+    "2014-value": 133,
     "2015-05": {
         "1B": 16,
         "2B": 5,
@@ -11589,7 +11589,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-05-value": 116,
+    "2015-05-value": 126,
     "2015-06": {
         "1B": 23,
         "2B": 7,
@@ -11617,7 +11617,7 @@ db.players.insert({
         "points": 78,
         "type": "batter"
     },
-    "2015-06-value": 102,
+    "2015-06-value": 141,
     "2015-07": {
         "1B": 24,
         "2B": 6,
@@ -11645,7 +11645,7 @@ db.players.insert({
         "points": 102,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 148,
     "name": "Gerardo Parra",
     "playerid": 8553
 });
@@ -11677,7 +11677,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 63,
+    "2014-value": 61,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -11733,7 +11733,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 80,
+    "2015-06-value": 73,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -11761,7 +11761,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 60,
+    "2015-07-value": 59,
     "name": "Chris Sale",
     "playerid": 10603
 });
@@ -11793,7 +11793,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2014-value": 97,
+    "2014-value": 90,
     "name": "Bryce Brentz",
     "playerid": 10607
 });
@@ -11825,7 +11825,7 @@ db.players.insert({
         "points": 372,
         "type": "batter"
     },
-    "2014-value": 103,
+    "2014-value": 138,
     "2015-05": {
         "1B": 13,
         "2B": 7,
@@ -11853,7 +11853,7 @@ db.players.insert({
         "points": 68,
         "type": "batter"
     },
-    "2015-05-value": 108,
+    "2015-05-value": 132,
     "2015-06": {
         "1B": 11,
         "2B": 5,
@@ -11881,7 +11881,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2015-06-value": 115,
+    "2015-06-value": 126,
     "2015-07": {
         "1B": 9,
         "2B": 1,
@@ -11909,7 +11909,7 @@ db.players.insert({
         "points": 44,
         "type": "batter"
     },
-    "2015-07-value": 129,
+    "2015-07-value": 116,
     "name": "Brandon Moss",
     "playerid": 4467
 });
@@ -11941,7 +11941,7 @@ db.players.insert({
         "points": 238,
         "type": "batter"
     },
-    "2014-value": 118,
+    "2014-value": 124,
     "2015-05": {
         "1B": 4,
         "2B": 2,
@@ -11969,7 +11969,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-05-value": 97,
+    "2015-05-value": 91,
     "2015-06": {
         "1B": 8,
         "2B": 4,
@@ -11997,7 +11997,7 @@ db.players.insert({
         "points": 33,
         "type": "batter"
     },
-    "2015-06-value": 144,
+    "2015-06-value": 106,
     "2015-07": {
         "1B": 2,
         "2B": 1,
@@ -12025,7 +12025,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2015-07-value": 96,
+    "2015-07-value": 89,
     "name": "Sam Fuld",
     "playerid": 8254
 });
@@ -12057,7 +12057,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2014-value": 87,
+    "2014-value": 79,
     "2015-05": {
         "1B": 1,
         "2B": 1,
@@ -12085,7 +12085,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-05-value": 83,
+    "2015-05-value": 76,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -12113,7 +12113,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 64,
+    "2015-06-value": 62,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -12141,7 +12141,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 69,
+    "2015-07-value": 65,
     "name": "Bartolo Colon",
     "playerid": 375
 });
@@ -12173,7 +12173,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 77,
+    "2014-value": 71,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -12201,7 +12201,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 63,
+    "2015-06-value": 61,
     "name": "Masahiro Tanaka",
     "playerid": 15764
 });
@@ -12233,7 +12233,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 70,
+    "2014-value": 66,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -12261,7 +12261,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 46,
+    "2015-07-value": 50,
     "name": "Corey Kluber",
     "playerid": 2429
 });
@@ -12293,7 +12293,7 @@ db.players.insert({
         "points": 89,
         "type": "batter"
     },
-    "2014-value": 145,
+    "2014-value": 105,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -12321,7 +12321,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 78,
+    "2015-05-value": 71,
     "2015-06": {
         "1B": 3,
         "2B": 0,
@@ -12349,7 +12349,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-06-value": 89,
+    "2015-06-value": 81,
     "name": "Zach Walters",
     "playerid": 10622
 });
@@ -12409,7 +12409,7 @@ db.players.insert({
         "points": 13,
         "type": "batter"
     },
-    "2015-05-value": 96,
+    "2015-05-value": 89,
     "2015-06": {
         "1B": 8,
         "2B": 7,
@@ -12437,7 +12437,7 @@ db.players.insert({
         "points": 40,
         "type": "batter"
     },
-    "2015-06-value": 135,
+    "2015-06-value": 112,
     "2015-07": {
         "1B": 4,
         "2B": 1,
@@ -12465,7 +12465,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 94,
     "name": "Clint Barmes",
     "playerid": 1830
 });
@@ -12497,7 +12497,7 @@ db.players.insert({
         "points": 525,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 149,
     "2015-05": {
         "1B": 25,
         "2B": 4,
@@ -12525,7 +12525,7 @@ db.players.insert({
         "points": 99,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 146,
     "2015-06": {
         "1B": 17,
         "2B": 3,
@@ -12553,7 +12553,7 @@ db.players.insert({
         "points": 40,
         "type": "batter"
     },
-    "2015-06-value": 135,
+    "2015-06-value": 112,
     "2015-07": {
         "1B": 23,
         "2B": 6,
@@ -12581,7 +12581,7 @@ db.players.insert({
         "points": 102,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 148,
     "name": "Nelson Cruz",
     "playerid": 2434
 });
@@ -12613,7 +12613,7 @@ db.players.insert({
         "points": 31,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 94,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -12669,7 +12669,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 81,
+    "2015-07-value": 74,
     "name": "Tyler Holt",
     "playerid": 11391
 });
@@ -12701,7 +12701,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 55,
+    "2015-06-value": 56,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -12729,7 +12729,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 56,
+    "2015-07-value": 57,
     "name": "Justin Miller",
     "playerid": 8580
 });
@@ -12761,7 +12761,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2014-value": 96,
+    "2014-value": 90,
     "name": "Maicer Izturis",
     "playerid": 2437
 });
@@ -12793,7 +12793,7 @@ db.players.insert({
         "points": 513,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 148,
     "2015-05": {
         "1B": 6,
         "2B": 2,
@@ -12821,7 +12821,7 @@ db.players.insert({
         "points": 23,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 97,
     "2015-06": {
         "1B": 9,
         "2B": 4,
@@ -12849,7 +12849,7 @@ db.players.insert({
         "points": 38,
         "type": "batter"
     },
-    "2015-06-value": 138,
+    "2015-06-value": 110,
     "2015-07": {
         "1B": 19,
         "2B": 6,
@@ -12877,7 +12877,7 @@ db.players.insert({
         "points": 69,
         "type": "batter"
     },
-    "2015-07-value": 104,
+    "2015-07-value": 138,
     "name": "Victor Martinez",
     "playerid": 393
 });
@@ -12909,7 +12909,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2014-value": 88,
+    "2014-value": 80,
     "name": "Marco Gonzales",
     "playerid": 15467
 });
@@ -12973,7 +12973,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-05-value": 145,
+    "2015-05-value": 105,
     "2015-06": {
         "1B": 10,
         "2B": 1,
@@ -13001,7 +13001,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2015-06-value": 97,
+    "2015-06-value": 91,
     "2015-07": {
         "1B": 4,
         "2B": 1,
@@ -13029,7 +13029,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-07-value": 96,
+    "2015-07-value": 89,
     "name": "Carlos Perez",
     "playerid": 10642
 });
@@ -13061,7 +13061,7 @@ db.players.insert({
         "points": 315,
         "type": "batter"
     },
-    "2014-value": 108,
+    "2014-value": 133,
     "2015-05": {
         "1B": 9,
         "2B": 4,
@@ -13089,7 +13089,7 @@ db.players.insert({
         "points": 31,
         "type": "batter"
     },
-    "2015-05-value": 149,
+    "2015-05-value": 102,
     "2015-06": {
         "1B": 18,
         "2B": 8,
@@ -13117,7 +13117,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-06-value": 112,
+    "2015-06-value": 129,
     "2015-07": {
         "1B": 11,
         "2B": 2,
@@ -13145,7 +13145,7 @@ db.players.insert({
         "points": 21,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 98,
     "name": "Jordy Mercer",
     "playerid": 6547
 });
@@ -13177,7 +13177,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 45,
+    "2014-value": 50,
     "name": "CC Sabathia",
     "playerid": 404
 });
@@ -13209,7 +13209,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2014-value": 95,
+    "2014-value": 88,
     "2015-05": {
         "1B": 0,
         "2B": 1,
@@ -13237,7 +13237,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 74,
+    "2015-05-value": 69,
     "2015-06": {
         "1B": 2,
         "2B": 0,
@@ -13265,7 +13265,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 83,
+    "2015-06-value": 75,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -13293,7 +13293,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 49,
+    "2015-07-value": 52,
     "name": "Jordan Zimmermann",
     "playerid": 4505
 });
@@ -13325,7 +13325,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2014-value": 93,
+    "2014-value": 85,
     "2015-05": {
         "1B": 29,
         "2B": 4,
@@ -13353,7 +13353,7 @@ db.players.insert({
         "points": 86,
         "type": "batter"
     },
-    "2015-05-value": 101,
+    "2015-05-value": 142,
     "2015-06": {
         "1B": 28,
         "2B": 4,
@@ -13381,7 +13381,7 @@ db.players.insert({
         "points": 86,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 145,
     "2015-07": {
         "1B": 20,
         "2B": 4,
@@ -13409,7 +13409,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2015-07-value": 111,
+    "2015-07-value": 129,
     "name": "Billy Burns",
     "playerid": 12701
 });
@@ -13441,7 +13441,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 67,
+    "2014-value": 64,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -13469,7 +13469,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 73,
+    "2015-06-value": 68,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -13497,7 +13497,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 64,
+    "2015-07-value": 62,
     "name": "Trevor Bauer",
     "playerid": 12703
 });
@@ -13529,7 +13529,7 @@ db.players.insert({
         "points": 194,
         "type": "batter"
     },
-    "2014-value": 127,
+    "2014-value": 118,
     "2015-05": {
         "1B": 16,
         "2B": 8,
@@ -13557,7 +13557,7 @@ db.players.insert({
         "points": 78,
         "type": "batter"
     },
-    "2015-05-value": 103,
+    "2015-05-value": 138,
     "2015-06": {
         "1B": 14,
         "2B": 5,
@@ -13585,7 +13585,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-06-value": 120,
+    "2015-06-value": 123,
     "2015-07": {
         "1B": 17,
         "2B": 8,
@@ -13613,7 +13613,7 @@ db.players.insert({
         "points": 77,
         "type": "batter"
     },
-    "2015-07-value": 101,
+    "2015-07-value": 143,
     "name": "Kendrys Morales",
     "playerid": 8610
 });
@@ -13645,7 +13645,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 73,
+    "2014-value": 68,
     "2015-05": {
         "1B": 5,
         "2B": 0,
@@ -13673,7 +13673,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-05-value": 94,
+    "2015-05-value": 87,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -13701,7 +13701,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 54,
+    "2015-06-value": 55,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -13729,7 +13729,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 53,
+    "2015-07-value": 55,
     "name": "Bobby Wilson",
     "playerid": 6564
 });
@@ -13761,7 +13761,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 64,
+    "2014-value": 62,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -13817,7 +13817,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-06-value": 91,
+    "2015-06-value": 83,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -13845,7 +13845,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 62,
+    "2015-07-value": 61,
     "name": "Tyler Lyons",
     "playerid": 11334
 });
@@ -13877,7 +13877,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2014-value": 82,
+    "2014-value": 74,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -13905,7 +13905,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 51,
+    "2015-05-value": 54,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -13933,7 +13933,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 68,
+    "2015-06-value": 65,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -13961,7 +13961,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 53,
+    "2015-07-value": 55,
     "name": "Tom Koehler",
     "playerid": 6570
 });
@@ -13993,7 +13993,7 @@ db.players.insert({
         "points": 156,
         "type": "batter"
     },
-    "2014-value": 134,
+    "2014-value": 113,
     "2015-05": {
         "1B": 3,
         "2B": 2,
@@ -14021,7 +14021,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-05-value": 97,
+    "2015-05-value": 91,
     "2015-06": {
         "1B": 2,
         "2B": 0,
@@ -14049,7 +14049,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 78,
+    "2015-06-value": 72,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -14077,7 +14077,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 56,
+    "2015-07-value": 57,
     "name": "Donovan Solano",
     "playerid": 8623
 });
@@ -14109,7 +14109,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 50,
+    "2015-06-value": 53,
     "name": "Mitchell Harris",
     "playerid": 4530
 });
@@ -14141,7 +14141,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2014-value": 96,
+    "2014-value": 89,
     "2015-05": {
         "1B": 5,
         "2B": 1,
@@ -14169,7 +14169,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-05-value": 95,
+    "2015-05-value": 88,
     "2015-06": {
         "1B": 4,
         "2B": 0,
@@ -14197,7 +14197,7 @@ db.players.insert({
         "points": 30,
         "type": "batter"
     },
-    "2015-06-value": 148,
+    "2015-06-value": 104,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -14225,7 +14225,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 64,
+    "2015-07-value": 62,
     "name": "Tyler Collins",
     "playerid": 12723
 });
@@ -14257,7 +14257,7 @@ db.players.insert({
         "points": 30,
         "type": "batter"
     },
-    "2015-05-value": 150,
+    "2015-05-value": 102,
     "2015-07": {
         "1B": 5,
         "2B": 1,
@@ -14285,7 +14285,7 @@ db.players.insert({
         "points": 37,
         "type": "batter"
     },
-    "2015-07-value": 135,
+    "2015-07-value": 112,
     "name": "Paulo Orlando",
     "playerid": 8628
 });
@@ -14317,7 +14317,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 46,
+    "2015-05-value": 50,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -14345,7 +14345,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 65,
+    "2015-06-value": 63,
     "name": "Edward Easley",
     "playerid": 2487
 });
@@ -14377,7 +14377,7 @@ db.players.insert({
         "points": 34,
         "type": "batter"
     },
-    "2015-06-value": 143,
+    "2015-06-value": 107,
     "2015-07": {
         "1B": 14,
         "2B": 4,
@@ -14405,7 +14405,7 @@ db.players.insert({
         "points": 40,
         "type": "batter"
     },
-    "2015-07-value": 132,
+    "2015-07-value": 114,
     "name": "Giovanny Urshela",
     "playerid": 10681
 });
@@ -14437,7 +14437,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2014-value": 92,
+    "2014-value": 83,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -14465,7 +14465,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 80,
+    "2015-05-value": 73,
     "2015-06": {
         "1B": 2,
         "2B": 0,
@@ -14493,7 +14493,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-06-value": 86,
+    "2015-06-value": 78,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -14521,7 +14521,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 49,
+    "2015-07-value": 52,
     "name": "Jason Hammel",
     "playerid": 4538
 });
@@ -14553,7 +14553,7 @@ db.players.insert({
         "points": 180,
         "type": "batter"
     },
-    "2014-value": 128,
+    "2014-value": 117,
     "2015-05": {
         "1B": 6,
         "2B": 2,
@@ -14581,7 +14581,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2015-05-value": 98,
+    "2015-05-value": 94,
     "2015-06": {
         "1B": 6,
         "2B": 1,
@@ -14609,7 +14609,7 @@ db.players.insert({
         "points": 20,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 95,
     "2015-07": {
         "1B": 5,
         "2B": 1,
@@ -14637,7 +14637,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2015-07-value": 96,
+    "2015-07-value": 89,
     "name": "Sean Rodriguez",
     "playerid": 6589
 });
@@ -14669,7 +14669,7 @@ db.players.insert({
         "points": 279,
         "type": "batter"
     },
-    "2014-value": 112,
+    "2014-value": 129,
     "2015-05": {
         "1B": 12,
         "2B": 5,
@@ -14697,7 +14697,7 @@ db.players.insert({
         "points": 71,
         "type": "batter"
     },
-    "2015-05-value": 107,
+    "2015-05-value": 134,
     "2015-06": {
         "1B": 11,
         "2B": 5,
@@ -14725,7 +14725,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2015-06-value": 133,
+    "2015-06-value": 113,
     "2015-07": {
         "1B": 10,
         "2B": 2,
@@ -14753,7 +14753,7 @@ db.players.insert({
         "points": 63,
         "type": "batter"
     },
-    "2015-07-value": 107,
+    "2015-07-value": 133,
     "name": "Pedro Alvarez",
     "playerid": 2495
 });
@@ -14785,7 +14785,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 63,
+    "2014-value": 62,
     "name": "Tyler Thornburg",
     "playerid": 10688
 });
@@ -14817,7 +14817,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 76,
+    "2014-value": 70,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -14845,7 +14845,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 72,
+    "2015-05-value": 67,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -14873,7 +14873,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 61,
+    "2015-06-value": 60,
     "name": "Tsuyoshi Wada",
     "playerid": 13046
 });
@@ -14905,7 +14905,7 @@ db.players.insert({
         "points": 260,
         "type": "batter"
     },
-    "2014-value": 116,
+    "2014-value": 125,
     "2015-05": {
         "1B": 7,
         "2B": 1,
@@ -14933,7 +14933,7 @@ db.players.insert({
         "points": 30,
         "type": "batter"
     },
-    "2015-05-value": 151,
+    "2015-05-value": 102,
     "2015-06": {
         "1B": 20,
         "2B": 3,
@@ -14961,7 +14961,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-06-value": 127,
+    "2015-06-value": 117,
     "2015-07": {
         "1B": 11,
         "2B": 2,
@@ -14989,7 +14989,7 @@ db.players.insert({
         "points": 47,
         "type": "batter"
     },
-    "2015-07-value": 125,
+    "2015-07-value": 119,
     "name": "Juan Uribe",
     "playerid": 454
 });
@@ -15021,7 +15021,7 @@ db.players.insert({
         "points": 124,
         "type": "batter"
     },
-    "2014-value": 140,
+    "2014-value": 108,
     "2015-05": {
         "1B": 3,
         "2B": 1,
@@ -15049,7 +15049,7 @@ db.players.insert({
         "points": 13,
         "type": "batter"
     },
-    "2015-05-value": 96,
+    "2015-05-value": 89,
     "2015-06": {
         "1B": 7,
         "2B": 4,
@@ -15077,7 +15077,7 @@ db.players.insert({
         "points": 37,
         "type": "batter"
     },
-    "2015-06-value": 139,
+    "2015-06-value": 110,
     "2015-07": {
         "1B": 4,
         "2B": 2,
@@ -15105,7 +15105,7 @@ db.players.insert({
         "points": 27,
         "type": "batter"
     },
-    "2015-07-value": 146,
+    "2015-07-value": 105,
     "name": "Hank Conger",
     "playerid": 2505
 });
@@ -15137,7 +15137,7 @@ db.players.insert({
         "points": 136,
         "type": "batter"
     },
-    "2014-value": 137,
+    "2014-value": 110,
     "name": "Mike Olt",
     "playerid": 10698
 });
@@ -15169,7 +15169,7 @@ db.players.insert({
         "points": 364,
         "type": "batter"
     },
-    "2014-value": 104,
+    "2014-value": 137,
     "2015-05": {
         "1B": 18,
         "2B": 3,
@@ -15197,7 +15197,7 @@ db.players.insert({
         "points": 43,
         "type": "batter"
     },
-    "2015-05-value": 138,
+    "2015-05-value": 110,
     "2015-07": {
         "1B": 15,
         "2B": 1,
@@ -15225,7 +15225,7 @@ db.players.insert({
         "points": 32,
         "type": "batter"
     },
-    "2015-07-value": 140,
+    "2015-07-value": 109,
     "name": "James Loney",
     "playerid": 4556
 });
@@ -15257,7 +15257,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2014-value": 81,
+    "2014-value": 74,
     "name": "Alex Cobb",
     "playerid": 6562
 });
@@ -15289,7 +15289,7 @@ db.players.insert({
         "points": 66,
         "type": "batter"
     },
-    "2014-value": 151,
+    "2014-value": 102,
     "2015-05": {
         "1B": 21,
         "2B": 2,
@@ -15317,7 +15317,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-05-value": 128,
+    "2015-05-value": 117,
     "2015-06": {
         "1B": 13,
         "2B": 3,
@@ -15345,7 +15345,7 @@ db.players.insert({
         "points": 34,
         "type": "batter"
     },
-    "2015-06-value": 144,
+    "2015-06-value": 106,
     "2015-07": {
         "1B": 19,
         "2B": 5,
@@ -15373,7 +15373,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-07-value": 106,
+    "2015-07-value": 135,
     "name": "Freddy Galvis",
     "playerid": 6609
 });
@@ -15405,7 +15405,7 @@ db.players.insert({
         "points": 178,
         "type": "batter"
     },
-    "2014-value": 129,
+    "2014-value": 116,
     "name": "Arismendy Alcantara",
     "playerid": 10711
 });
@@ -15437,7 +15437,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2014-value": 93,
+    "2014-value": 84,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -15465,7 +15465,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 74,
+    "2015-05-value": 68,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -15493,7 +15493,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 65,
+    "2015-06-value": 63,
     "2015-07": {
         "1B": 2,
         "2B": 1,
@@ -15521,7 +15521,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-07-value": 91,
+    "2015-07-value": 82,
     "name": "Lance Lynn",
     "playerid": 2520
 });
@@ -15553,7 +15553,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 68,
+    "2014-value": 64,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -15581,7 +15581,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 76,
+    "2015-07-value": 70,
     "name": "Sonny Gray",
     "playerid": 12768
 });
@@ -15613,7 +15613,7 @@ db.players.insert({
         "points": 172,
         "type": "batter"
     },
-    "2014-value": 131,
+    "2014-value": 115,
     "2015-05": {
         "1B": 4,
         "2B": 2,
@@ -15641,7 +15641,7 @@ db.players.insert({
         "points": 13,
         "type": "batter"
     },
-    "2015-05-value": 96,
+    "2015-05-value": 89,
     "2015-06": {
         "1B": 21,
         "2B": 5,
@@ -15669,7 +15669,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2015-06-value": 116,
+    "2015-06-value": 126,
     "2015-07": {
         "1B": 13,
         "2B": 3,
@@ -15697,7 +15697,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2015-07-value": 131,
+    "2015-07-value": 115,
     "name": "Yonder Alonso",
     "playerid": 2530
 });
@@ -15729,7 +15729,7 @@ db.players.insert({
         "points": 134,
         "type": "batter"
     },
-    "2014-value": 138,
+    "2014-value": 110,
     "2015-05": {
         "1B": 24,
         "2B": 7,
@@ -15757,7 +15757,7 @@ db.players.insert({
         "points": 85,
         "type": "batter"
     },
-    "2015-05-value": 101,
+    "2015-05-value": 142,
     "2015-06": {
         "1B": 20,
         "2B": 5,
@@ -15785,7 +15785,7 @@ db.players.insert({
         "points": 72,
         "type": "batter"
     },
-    "2015-06-value": 103,
+    "2015-06-value": 138,
     "2015-07": {
         "1B": 7,
         "2B": 1,
@@ -15813,7 +15813,7 @@ db.players.insert({
         "points": 38,
         "type": "batter"
     },
-    "2015-07-value": 133,
+    "2015-07-value": 113,
     "name": "Chris Colabello",
     "playerid": 13051
 });
@@ -15845,7 +15845,7 @@ db.players.insert({
         "points": 225,
         "type": "batter"
     },
-    "2014-value": 121,
+    "2014-value": 122,
     "2015-05": {
         "1B": 5,
         "2B": 5,
@@ -15873,7 +15873,7 @@ db.players.insert({
         "points": 55,
         "type": "batter"
     },
-    "2015-05-value": 121,
+    "2015-05-value": 122,
     "2015-06": {
         "1B": 15,
         "2B": 3,
@@ -15901,7 +15901,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-06-value": 121,
+    "2015-06-value": 122,
     "2015-07": {
         "1B": 14,
         "2B": 3,
@@ -15929,7 +15929,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-07-value": 121,
+    "2015-07-value": 122,
     "name": "Brad Miller",
     "playerid": 12775
 });
@@ -15961,7 +15961,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 55,
+    "2014-value": 56,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -15989,7 +15989,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 72,
+    "2015-07-value": 68,
     "name": "Carlos Carrasco",
     "playerid": 6632
 });
@@ -16021,7 +16021,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2014-value": 86,
+    "2014-value": 78,
     "name": "Quintin Berry",
     "playerid": 9414
 });
@@ -16053,7 +16053,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2014-value": 95,
+    "2014-value": 87,
     "2015-05": {
         "1B": 3,
         "2B": 0,
@@ -16081,7 +16081,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-05-value": 90,
+    "2015-05-value": 81,
     "2015-06": {
         "1B": 4,
         "2B": 0,
@@ -16109,7 +16109,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-06-value": 91,
+    "2015-06-value": 83,
     "2015-07": {
         "1B": 2,
         "2B": 0,
@@ -16137,7 +16137,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-07-value": 92,
+    "2015-07-value": 84,
     "name": "Pete Kozma",
     "playerid": 2539
 });
@@ -16169,7 +16169,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2014-value": 79,
+    "2014-value": 72,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -16197,7 +16197,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 60,
+    "2015-07-value": 59,
     "name": "Drew Hutchison",
     "playerid": 10732
 });
@@ -16229,7 +16229,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 76,
+    "2015-07-value": 71,
     "name": "Sean Gilmartin",
     "playerid": 12781
 });
@@ -16261,7 +16261,7 @@ db.players.insert({
         "points": 158,
         "type": "batter"
     },
-    "2014-value": 133,
+    "2014-value": 113,
     "name": "Tommy La Stella",
     "playerid": 12371
 });
@@ -16293,7 +16293,7 @@ db.players.insert({
         "points": 194,
         "type": "batter"
     },
-    "2014-value": 127,
+    "2014-value": 118,
     "2015-05": {
         "1B": 12,
         "2B": 4,
@@ -16321,7 +16321,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2015-05-value": 140,
+    "2015-05-value": 108,
     "2015-06": {
         "1B": 2,
         "2B": 0,
@@ -16349,7 +16349,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 83,
+    "2015-06-value": 76,
     "name": "Nick Swisher",
     "playerid": 4599
 });
@@ -16381,7 +16381,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 64,
+    "2014-value": 62,
     "name": "Trevor Rosenthal",
     "playerid": 10745
 });
@@ -16413,7 +16413,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 73,
+    "2015-05-value": 68,
     "2015-06": {
         "1B": 3,
         "2B": 0,
@@ -16441,7 +16441,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-06-value": 95,
+    "2015-06-value": 87,
     "2015-07": {
         "1B": 3,
         "2B": 0,
@@ -16469,7 +16469,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-07-value": 90,
+    "2015-07-value": 82,
     "name": "Michael Lorenzen",
     "playerid": 14843
 });
@@ -16501,7 +16501,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2014-value": 82,
+    "2014-value": 75,
     "name": "Justin Verlander",
     "playerid": 8700
 });
@@ -16533,7 +16533,7 @@ db.players.insert({
         "points": 28,
         "type": "batter"
     },
-    "2014-value": 98,
+    "2014-value": 93,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -16561,7 +16561,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 63,
+    "2015-05-value": 61,
     "name": "Dalton Pompey",
     "playerid": 12797
 });
@@ -16593,7 +16593,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 65,
+    "2015-07-value": 63,
     "name": "Cody Anderson",
     "playerid": 12799
 });
@@ -16625,7 +16625,7 @@ db.players.insert({
         "points": 58,
         "type": "batter"
     },
-    "2014-value": 152,
+    "2014-value": 100,
     "2015-07": {
         "1B": 4,
         "2B": 0,
@@ -16653,7 +16653,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-07-value": 89,
+    "2015-07-value": 81,
     "name": "L.J. Hoes",
     "playerid": 6656
 });
@@ -16685,7 +16685,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 50,
+    "2014-value": 53,
     "name": "Zach Duke",
     "playerid": 3840
 });
@@ -16717,7 +16717,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 63,
+    "2015-05-value": 61,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -16745,7 +16745,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 73,
+    "2015-06-value": 68,
     "name": "Carter Capps",
     "playerid": 12803
 });
@@ -16777,7 +16777,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 61,
+    "2015-06-value": 60,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -16805,7 +16805,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 82,
+    "2015-07-value": 74,
     "name": "Matthew Wisler",
     "playerid": 12804
 });
@@ -16837,7 +16837,7 @@ db.players.insert({
         "points": 373,
         "type": "batter"
     },
-    "2014-value": 103,
+    "2014-value": 138,
     "2015-05": {
         "1B": 19,
         "2B": 6,
@@ -16865,7 +16865,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-05-value": 111,
+    "2015-05-value": 130,
     "2015-06": {
         "1B": 20,
         "2B": 4,
@@ -16893,7 +16893,7 @@ db.players.insert({
         "points": 61,
         "type": "batter"
     },
-    "2015-06-value": 110,
+    "2015-06-value": 130,
     "2015-07": {
         "1B": 18,
         "2B": 6,
@@ -16921,7 +16921,7 @@ db.players.insert({
         "points": 59,
         "type": "batter"
     },
-    "2015-07-value": 110,
+    "2015-07-value": 131,
     "name": "Elvis Andrus",
     "playerid": 8709
 });
@@ -16953,7 +16953,7 @@ db.players.insert({
         "points": 283,
         "type": "batter"
     },
-    "2014-value": 112,
+    "2014-value": 129,
     "2015-05": {
         "1B": 20,
         "2B": 7,
@@ -16981,7 +16981,7 @@ db.players.insert({
         "points": 81,
         "type": "batter"
     },
-    "2015-05-value": 102,
+    "2015-05-value": 140,
     "2015-06": {
         "1B": 9,
         "2B": 3,
@@ -17009,7 +17009,7 @@ db.players.insert({
         "points": 68,
         "type": "batter"
     },
-    "2015-06-value": 105,
+    "2015-06-value": 136,
     "2015-07": {
         "1B": 11,
         "2B": 5,
@@ -17037,7 +17037,7 @@ db.players.insert({
         "points": 61,
         "type": "batter"
     },
-    "2015-07-value": 109,
+    "2015-07-value": 132,
     "name": "Russell Martin",
     "playerid": 4616
 });
@@ -17069,7 +17069,7 @@ db.players.insert({
         "points": 413,
         "type": "batter"
     },
-    "2014-value": 101,
+    "2014-value": 142,
     "2015-05": {
         "1B": 7,
         "2B": 1,
@@ -17097,7 +17097,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2015-05-value": 98,
+    "2015-05-value": 92,
     "2015-06": {
         "1B": 1,
         "2B": 3,
@@ -17125,7 +17125,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-06-value": 91,
+    "2015-06-value": 83,
     "2015-07": {
         "1B": 7,
         "2B": 1,
@@ -17153,7 +17153,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2015-07-value": 97,
+    "2015-07-value": 90,
     "name": "Corey Dickerson",
     "playerid": 10762
 });
@@ -17185,7 +17185,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 67,
+    "2015-07-value": 64,
     "name": "Zachary Godley",
     "playerid": 14862
 });
@@ -17217,7 +17217,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 75,
+    "2014-value": 69,
     "name": "Lane Adams",
     "playerid": 10767
 });
@@ -17281,7 +17281,7 @@ db.players.insert({
         "points": 271,
         "type": "batter"
     },
-    "2014-value": 113,
+    "2014-value": 128,
     "2015-05": {
         "1B": 10,
         "2B": 5,
@@ -17309,7 +17309,7 @@ db.players.insert({
         "points": 46,
         "type": "batter"
     },
-    "2015-05-value": 134,
+    "2015-05-value": 113,
     "2015-06": {
         "1B": 6,
         "2B": 2,
@@ -17337,7 +17337,7 @@ db.players.insert({
         "points": 32,
         "type": "batter"
     },
-    "2015-06-value": 146,
+    "2015-06-value": 105,
     "2015-07": {
         "1B": 6,
         "2B": 3,
@@ -17365,7 +17365,7 @@ db.players.insert({
         "points": 33,
         "type": "batter"
     },
-    "2015-07-value": 139,
+    "2015-07-value": 109,
     "name": "Jason Castro",
     "playerid": 8722
 });
@@ -17397,7 +17397,7 @@ db.players.insert({
         "points": 223,
         "type": "batter"
     },
-    "2014-value": 122,
+    "2014-value": 121,
     "2015-05": {
         "1B": 14,
         "2B": 5,
@@ -17425,7 +17425,7 @@ db.players.insert({
         "points": 36,
         "type": "batter"
     },
-    "2015-05-value": 145,
+    "2015-05-value": 106,
     "2015-06": {
         "1B": 5,
         "2B": 0,
@@ -17453,7 +17453,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2015-06-value": 98,
+    "2015-06-value": 92,
     "2015-07": {
         "1B": 4,
         "2B": 4,
@@ -17481,7 +17481,7 @@ db.players.insert({
         "points": 27,
         "type": "batter"
     },
-    "2015-07-value": 146,
+    "2015-07-value": 105,
     "name": "Carlos Ruiz",
     "playerid": 2579
 });
@@ -17513,7 +17513,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 98,
     "2015-05": {
         "1B": 10,
         "2B": 1,
@@ -17541,7 +17541,7 @@ db.players.insert({
         "points": 27,
         "type": "batter"
     },
-    "2015-05-value": 153,
+    "2015-05-value": 100,
     "2015-06": {
         "1B": 5,
         "2B": 1,
@@ -17569,7 +17569,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-06-value": 92,
+    "2015-06-value": 83,
     "2015-07": {
         "1B": 2,
         "2B": 4,
@@ -17629,7 +17629,7 @@ db.players.insert({
         "points": 499,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 147,
     "2015-05": {
         "1B": 17,
         "2B": 4,
@@ -17657,7 +17657,7 @@ db.players.insert({
         "points": 87,
         "type": "batter"
     },
-    "2015-05-value": 101,
+    "2015-05-value": 142,
     "2015-06": {
         "1B": 13,
         "2B": 4,
@@ -17685,7 +17685,7 @@ db.players.insert({
         "points": 122,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 149,
     "2015-07": {
         "1B": 13,
         "2B": 3,
@@ -17713,7 +17713,7 @@ db.players.insert({
         "points": 72,
         "type": "batter"
     },
-    "2015-07-value": 102,
+    "2015-07-value": 140,
     "name": "Albert Pujols",
     "playerid": 1177
 });
@@ -17745,7 +17745,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 52,
+    "2015-05-value": 54,
     "name": "Miguel Socolovich",
     "playerid": 6697
 });
@@ -17777,7 +17777,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 64,
+    "2014-value": 62,
     "name": "Josh Edgin",
     "playerid": 10796
 });
@@ -17809,7 +17809,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2014-value": 90,
+    "2014-value": 81,
     "name": "Jhoulys Chacin",
     "playerid": 2608
 });
@@ -17841,7 +17841,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2014-value": 90,
+    "2014-value": 82,
     "2015-05": {
         "1B": 1,
         "2B": 1,
@@ -17869,7 +17869,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 81,
+    "2015-05-value": 74,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -17897,7 +17897,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 69,
+    "2015-06-value": 66,
     "2015-07": {
         "1B": 0,
         "2B": 1,
@@ -17925,7 +17925,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 84,
+    "2015-07-value": 76,
     "name": "Tanner Roark",
     "playerid": 8753
 });
@@ -17957,7 +17957,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 49,
+    "2014-value": 52,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -17985,7 +17985,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 48,
+    "2015-06-value": 51,
     "name": "Andre Rienzo",
     "playerid": 3507
 });
@@ -18017,7 +18017,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 65,
+    "2015-07-value": 63,
     "name": "Elvis Araujo",
     "playerid": 12854
 });
@@ -18049,7 +18049,7 @@ db.players.insert({
         "points": 50,
         "type": "batter"
     },
-    "2015-07-value": 119,
+    "2015-07-value": 123,
     "name": "Tyler Saladino",
     "playerid": 10807
 });
@@ -18081,7 +18081,7 @@ db.players.insert({
         "points": 244,
         "type": "batter"
     },
-    "2014-value": 118,
+    "2014-value": 124,
     "2015-05": {
         "1B": 10,
         "2B": 5,
@@ -18109,7 +18109,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-05-value": 115,
+    "2015-05-value": 126,
     "2015-06": {
         "1B": 26,
         "2B": 4,
@@ -18137,7 +18137,7 @@ db.players.insert({
         "points": 93,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 147,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -18165,7 +18165,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-07-value": 88,
+    "2015-07-value": 80,
     "name": "George Springer",
     "playerid": 12856
 });
@@ -18197,7 +18197,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2014-value": 91,
+    "2014-value": 82,
     "2015-05": {
         "1B": 15,
         "2B": 5,
@@ -18225,7 +18225,7 @@ db.players.insert({
         "points": 42,
         "type": "batter"
     },
-    "2015-05-value": 138,
+    "2015-05-value": 110,
     "2015-06": {
         "1B": 9,
         "2B": 5,
@@ -18253,7 +18253,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-06-value": 141,
+    "2015-06-value": 108,
     "2015-07": {
         "1B": 15,
         "2B": 3,
@@ -18281,7 +18281,7 @@ db.players.insert({
         "points": 47,
         "type": "batter"
     },
-    "2015-07-value": 123,
+    "2015-07-value": 120,
     "name": "James McCann",
     "playerid": 12859
 });
@@ -18313,7 +18313,7 @@ db.players.insert({
         "points": 518,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 149,
     "2015-06": {
         "1B": 15,
         "2B": 5,
@@ -18341,7 +18341,7 @@ db.players.insert({
         "points": 39,
         "type": "batter"
     },
-    "2015-06-value": 136,
+    "2015-06-value": 112,
     "2015-07": {
         "1B": 4,
         "2B": 1,
@@ -18369,7 +18369,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-07-value": 93,
+    "2015-07-value": 85,
     "name": "Anthony Rendon",
     "playerid": 12861
 });
@@ -18401,7 +18401,7 @@ db.players.insert({
         "points": 227,
         "type": "batter"
     },
-    "2014-value": 121,
+    "2014-value": 122,
     "2015-05": {
         "1B": 11,
         "2B": 4,
@@ -18429,7 +18429,7 @@ db.players.insert({
         "points": 42,
         "type": "batter"
     },
-    "2015-05-value": 139,
+    "2015-05-value": 110,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -18457,7 +18457,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 71,
+    "2015-06-value": 67,
     "2015-07": {
         "1B": 17,
         "2B": 3,
@@ -18485,7 +18485,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-07-value": 121,
+    "2015-07-value": 122,
     "name": "Jedd Gyorko",
     "playerid": 10816
 });
@@ -18517,7 +18517,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2014-value": 83,
+    "2014-value": 76,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -18545,7 +18545,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 67,
+    "2015-05-value": 64,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -18573,7 +18573,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 67,
+    "2015-06-value": 64,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -18601,7 +18601,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 49,
+    "2015-07-value": 52,
     "name": "Charlie Morton",
     "playerid": 4676
 });
@@ -18633,7 +18633,7 @@ db.players.insert({
         "points": 22,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 97,
     "2015-06": {
         "1B": 6,
         "2B": 1,
@@ -18661,7 +18661,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2015-06-value": 97,
+    "2015-06-value": 91,
     "name": "Todd Cunningham",
     "playerid": 10822
 });
@@ -18693,7 +18693,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 45,
+    "2015-06-value": 50,
     "name": "Jeremy Affeldt",
     "playerid": 583
 });
@@ -18725,7 +18725,7 @@ db.players.insert({
         "points": 13,
         "type": "batter"
     },
-    "2014-value": 94,
+    "2014-value": 86,
     "name": "Wade Miley",
     "playerid": 8779
 });
@@ -18757,7 +18757,7 @@ db.players.insert({
         "points": 170,
         "type": "batter"
     },
-    "2014-value": 131,
+    "2014-value": 115,
     "2015-05": {
         "1B": 19,
         "2B": 4,
@@ -18785,7 +18785,7 @@ db.players.insert({
         "points": 54,
         "type": "batter"
     },
-    "2015-05-value": 123,
+    "2015-05-value": 120,
     "2015-06": {
         "1B": 7,
         "2B": 1,
@@ -18813,7 +18813,7 @@ db.players.insert({
         "points": 27,
         "type": "batter"
     },
-    "2015-06-value": 152,
+    "2015-06-value": 101,
     "2015-07": {
         "1B": 4,
         "2B": 0,
@@ -18873,7 +18873,7 @@ db.players.insert({
         "points": 263,
         "type": "batter"
     },
-    "2014-value": 116,
+    "2014-value": 126,
     "2015-05": {
         "1B": 17,
         "2B": 7,
@@ -18901,7 +18901,7 @@ db.players.insert({
         "points": 70,
         "type": "batter"
     },
-    "2015-05-value": 108,
+    "2015-05-value": 133,
     "2015-06": {
         "1B": 15,
         "2B": 6,
@@ -18929,7 +18929,7 @@ db.players.insert({
         "points": 55,
         "type": "batter"
     },
-    "2015-06-value": 117,
+    "2015-06-value": 125,
     "2015-07": {
         "1B": 4,
         "2B": 4,
@@ -18957,7 +18957,7 @@ db.players.insert({
         "points": 23,
         "type": "batter"
     },
-    "2015-07-value": 153,
+    "2015-07-value": 100,
     "name": "Carlos Beltran",
     "playerid": 589
 });
@@ -18989,7 +18989,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2014-value": 95,
+    "2014-value": 87,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -19017,7 +19017,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 69,
+    "2015-05-value": 65,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -19045,7 +19045,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 84,
+    "2015-06-value": 76,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -19105,7 +19105,7 @@ db.players.insert({
         "points": 25,
         "type": "batter"
     },
-    "2014-value": 98,
+    "2014-value": 93,
     "2015-05": {
         "1B": 16,
         "2B": 5,
@@ -19133,7 +19133,7 @@ db.players.insert({
         "points": 47,
         "type": "batter"
     },
-    "2015-05-value": 133,
+    "2015-05-value": 114,
     "2015-06": {
         "1B": 18,
         "2B": 3,
@@ -19161,7 +19161,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-06-value": 122,
+    "2015-06-value": 121,
     "2015-07": {
         "1B": 20,
         "2B": 5,
@@ -19189,7 +19189,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-07-value": 110,
+    "2015-07-value": 131,
     "name": "Johnny Giavotella",
     "playerid": 6740
 });
@@ -19221,7 +19221,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 52,
+    "2014-value": 54,
     "name": "Brandon Maurer",
     "playerid": 4878
 });
@@ -19253,7 +19253,7 @@ db.players.insert({
         "points": 25,
         "type": "batter"
     },
-    "2014-value": 98,
+    "2014-value": 93,
     "name": "Matthew Clark",
     "playerid": 8793
 });
@@ -19285,7 +19285,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 68,
+    "2014-value": 65,
     "name": "Wei-Yin Chen",
     "playerid": 13071
 });
@@ -19317,7 +19317,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 76,
+    "2014-value": 70,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -19345,7 +19345,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 81,
+    "2015-07-value": 74,
     "name": "Nick Martinez",
     "playerid": 12730
 });
@@ -19377,7 +19377,7 @@ db.players.insert({
         "points": 277,
         "type": "batter"
     },
-    "2014-value": 113,
+    "2014-value": 128,
     "2015-05": {
         "1B": 21,
         "2B": 6,
@@ -19405,7 +19405,7 @@ db.players.insert({
         "points": 75,
         "type": "batter"
     },
-    "2015-05-value": 104,
+    "2015-05-value": 137,
     "2015-06": {
         "1B": 23,
         "2B": 3,
@@ -19433,7 +19433,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-06-value": 125,
+    "2015-06-value": 119,
     "2015-07": {
         "1B": 16,
         "2B": 1,
@@ -19461,7 +19461,7 @@ db.players.insert({
         "points": 25,
         "type": "batter"
     },
-    "2015-07-value": 147,
+    "2015-07-value": 104,
     "name": "Andrelton Simmons",
     "playerid": 10847
 });
@@ -19493,7 +19493,7 @@ db.players.insert({
         "points": 473,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 146,
     "2015-05": {
         "1B": 27,
         "2B": 4,
@@ -19521,7 +19521,7 @@ db.players.insert({
         "points": 119,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 148,
     "2015-06": {
         "1B": 14,
         "2B": 3,
@@ -19549,7 +19549,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2015-06-value": 114,
+    "2015-06-value": 127,
     "2015-07": {
         "1B": 7,
         "2B": 0,
@@ -19577,7 +19577,7 @@ db.players.insert({
         "points": 45,
         "type": "batter"
     },
-    "2015-07-value": 128,
+    "2015-07-value": 117,
     "name": "Justin Upton",
     "playerid": 5222
 });
@@ -19609,7 +19609,7 @@ db.players.insert({
         "points": 482,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 147,
     "2015-05": {
         "1B": 16,
         "2B": 7,
@@ -19637,7 +19637,7 @@ db.players.insert({
         "points": 107,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 148,
     "2015-06": {
         "1B": 15,
         "2B": 11,
@@ -19665,7 +19665,7 @@ db.players.insert({
         "points": 120,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 149,
     "2015-07": {
         "1B": 11,
         "2B": 8,
@@ -19693,7 +19693,7 @@ db.players.insert({
         "points": 59,
         "type": "batter"
     },
-    "2015-07-value": 111,
+    "2015-07-value": 130,
     "name": "Todd Frazier",
     "playerid": 785
 });
@@ -19725,7 +19725,7 @@ db.players.insert({
         "points": 414,
         "type": "batter"
     },
-    "2014-value": 101,
+    "2014-value": 142,
     "2015-05": {
         "1B": 28,
         "2B": 5,
@@ -19753,7 +19753,7 @@ db.players.insert({
         "points": 75,
         "type": "batter"
     },
-    "2015-05-value": 104,
+    "2015-05-value": 137,
     "2015-06": {
         "1B": 28,
         "2B": 5,
@@ -19781,7 +19781,7 @@ db.players.insert({
         "points": 89,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 146,
     "2015-07": {
         "1B": 21,
         "2B": 1,
@@ -19809,7 +19809,7 @@ db.players.insert({
         "points": 47,
         "type": "batter"
     },
-    "2015-07-value": 125,
+    "2015-07-value": 119,
     "name": "Ben Revere",
     "playerid": 4712
 });
@@ -19841,7 +19841,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 65,
+    "2015-07-value": 63,
     "name": "Logan Verrett",
     "playerid": 12905
 });
@@ -19873,7 +19873,7 @@ db.players.insert({
         "points": 206,
         "type": "batter"
     },
-    "2014-value": 125,
+    "2014-value": 119,
     "2015-05": {
         "1B": 15,
         "2B": 3,
@@ -19901,7 +19901,7 @@ db.players.insert({
         "points": 64,
         "type": "batter"
     },
-    "2015-05-value": 112,
+    "2015-05-value": 129,
     "2015-06": {
         "1B": 13,
         "2B": 3,
@@ -19929,7 +19929,7 @@ db.players.insert({
         "points": 44,
         "type": "batter"
     },
-    "2015-06-value": 129,
+    "2015-06-value": 116,
     "2015-07": {
         "1B": 15,
         "2B": 10,
@@ -19957,7 +19957,7 @@ db.players.insert({
         "points": 70,
         "type": "batter"
     },
-    "2015-07-value": 103,
+    "2015-07-value": 139,
     "name": "Gregory Polanco",
     "playerid": 12907
 });
@@ -19989,7 +19989,7 @@ db.players.insert({
         "points": 293,
         "type": "batter"
     },
-    "2014-value": 110,
+    "2014-value": 130,
     "2015-05": {
         "1B": 20,
         "2B": 5,
@@ -20017,7 +20017,7 @@ db.players.insert({
         "points": 67,
         "type": "batter"
     },
-    "2015-05-value": 109,
+    "2015-05-value": 131,
     "2015-06": {
         "1B": 20,
         "2B": 3,
@@ -20045,7 +20045,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2015-06-value": 115,
+    "2015-06-value": 126,
     "2015-07": {
         "1B": 23,
         "2B": 6,
@@ -20073,7 +20073,7 @@ db.players.insert({
         "points": 68,
         "type": "batter"
     },
-    "2015-07-value": 104,
+    "2015-07-value": 137,
     "name": "Chase Headley",
     "playerid": 4720
 });
@@ -20105,7 +20105,7 @@ db.players.insert({
         "points": 66,
         "type": "batter"
     },
-    "2015-05-value": 110,
+    "2015-05-value": 131,
     "2015-06": {
         "1B": 19,
         "2B": 5,
@@ -20133,7 +20133,7 @@ db.players.insert({
         "points": 67,
         "type": "batter"
     },
-    "2015-06-value": 106,
+    "2015-06-value": 135,
     "2015-07": {
         "1B": 14,
         "2B": 5,
@@ -20161,7 +20161,7 @@ db.players.insert({
         "points": 55,
         "type": "batter"
     },
-    "2015-07-value": 113,
+    "2015-07-value": 128,
     "name": "Yasmany Tomas",
     "playerid": 17171
 });
@@ -20193,7 +20193,7 @@ db.players.insert({
         "points": 27,
         "type": "batter"
     },
-    "2015-06-value": 150,
+    "2015-06-value": 102,
     "2015-07": {
         "1B": 23,
         "2B": 4,
@@ -20221,7 +20221,7 @@ db.players.insert({
         "points": 74,
         "type": "batter"
     },
-    "2015-07-value": 101,
+    "2015-07-value": 142,
     "name": "Francisco Lindor",
     "playerid": 12916
 });
@@ -20253,7 +20253,7 @@ db.players.insert({
         "points": 198,
         "type": "batter"
     },
-    "2014-value": 126,
+    "2014-value": 118,
     "2015-05": {
         "1B": 5,
         "2B": 5,
@@ -20309,7 +20309,7 @@ db.players.insert({
         "points": 42,
         "type": "batter"
     },
-    "2015-06-value": 132,
+    "2015-06-value": 114,
     "2015-07": {
         "1B": 11,
         "2B": 3,
@@ -20337,7 +20337,7 @@ db.players.insert({
         "points": 32,
         "type": "batter"
     },
-    "2015-07-value": 140,
+    "2015-07-value": 109,
     "name": "Brandon Barnes",
     "playerid": 629
 });
@@ -20369,7 +20369,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 71,
+    "2015-05-value": 67,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -20397,7 +20397,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 61,
+    "2015-06-value": 60,
     "name": "Archie Bradley",
     "playerid": 12918
 });
@@ -20429,7 +20429,7 @@ db.players.insert({
         "points": 460,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 146,
     "2015-05": {
         "1B": 19,
         "2B": 2,
@@ -20457,7 +20457,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-05-value": 128,
+    "2015-05-value": 117,
     "2015-07": {
         "1B": 11,
         "2B": 3,
@@ -20485,7 +20485,7 @@ db.players.insert({
         "points": 50,
         "type": "batter"
     },
-    "2015-07-value": 120,
+    "2015-07-value": 123,
     "name": "Jacoby Ellsbury",
     "playerid": 4727
 });
@@ -20517,7 +20517,7 @@ db.players.insert({
         "points": 37,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 95,
     "2015-05": {
         "1B": 7,
         "2B": 0,
@@ -20545,7 +20545,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-05-value": 95,
+    "2015-05-value": 88,
     "2015-06": {
         "1B": 8,
         "2B": 1,
@@ -20573,7 +20573,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 98,
     "2015-07": {
         "1B": 3,
         "2B": 1,
@@ -20601,7 +20601,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-07-value": 98,
+    "2015-07-value": 93,
     "name": "Rusney Castillo",
     "playerid": 17016
 });
@@ -20633,7 +20633,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2014-value": 85,
+    "2014-value": 77,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -20661,7 +20661,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 50,
+    "2015-07-value": 52,
     "name": "Matt Cain",
     "playerid": 4732
 });
@@ -20693,7 +20693,7 @@ db.players.insert({
         "points": 376,
         "type": "batter"
     },
-    "2014-value": 103,
+    "2014-value": 139,
     "2015-05": {
         "1B": 14,
         "2B": 7,
@@ -20721,7 +20721,7 @@ db.players.insert({
         "points": 80,
         "type": "batter"
     },
-    "2015-05-value": 103,
+    "2015-05-value": 140,
     "2015-06": {
         "1B": 8,
         "2B": 6,
@@ -20749,7 +20749,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-06-value": 121,
+    "2015-06-value": 122,
     "2015-07": {
         "1B": 12,
         "2B": 3,
@@ -20777,7 +20777,7 @@ db.players.insert({
         "points": 72,
         "type": "batter"
     },
-    "2015-07-value": 102,
+    "2015-07-value": 140,
     "name": "Ryan Howard",
     "playerid": 2154
 });
@@ -20809,7 +20809,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 51,
+    "2014-value": 54,
     "name": "Sergio Santos",
     "playerid": 4734
 });
@@ -20841,7 +20841,7 @@ db.players.insert({
         "points": 428,
         "type": "batter"
     },
-    "2014-value": 101,
+    "2014-value": 143,
     "2015-05": {
         "1B": 25,
         "2B": 6,
@@ -20869,7 +20869,7 @@ db.players.insert({
         "points": 89,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 144,
     "2015-06": {
         "1B": 7,
         "2B": 1,
@@ -20897,7 +20897,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2015-06-value": 97,
+    "2015-06-value": 90,
     "2015-07": {
         "1B": 17,
         "2B": 6,
@@ -20925,7 +20925,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2015-07-value": 112,
+    "2015-07-value": 129,
     "name": "Adrian Beltre",
     "playerid": 639
 });
@@ -20957,7 +20957,7 @@ db.players.insert({
         "points": 305,
         "type": "batter"
     },
-    "2014-value": 109,
+    "2014-value": 132,
     "2015-06": {
         "1B": 7,
         "2B": 1,
@@ -20985,7 +20985,7 @@ db.players.insert({
         "points": 27,
         "type": "batter"
     },
-    "2015-06-value": 151,
+    "2015-06-value": 101,
     "2015-07": {
         "1B": 3,
         "2B": 1,
@@ -21013,7 +21013,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 94,
     "name": "Dioner Navarro",
     "playerid": 3179
 });
@@ -21045,7 +21045,7 @@ db.players.insert({
         "points": 158,
         "type": "batter"
     },
-    "2014-value": 133,
+    "2014-value": 113,
     "2015-05": {
         "1B": 3,
         "2B": 0,
@@ -21073,7 +21073,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-05-value": 93,
+    "2015-05-value": 85,
     "name": "Collin Cowgill",
     "playerid": 7250
 });
@@ -21105,7 +21105,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2014-value": 96,
+    "2014-value": 88,
     "name": "Hyun-Jin Ryu",
     "playerid": 14444
 });
@@ -21137,7 +21137,7 @@ db.players.insert({
         "points": 374,
         "type": "batter"
     },
-    "2014-value": 103,
+    "2014-value": 139,
     "2015-05": {
         "1B": 15,
         "2B": 3,
@@ -21165,7 +21165,7 @@ db.players.insert({
         "points": 67,
         "type": "batter"
     },
-    "2015-05-value": 109,
+    "2015-05-value": 131,
     "2015-06": {
         "1B": 18,
         "2B": 5,
@@ -21193,7 +21193,7 @@ db.players.insert({
         "points": 84,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 144,
     "2015-07": {
         "1B": 14,
         "2B": 7,
@@ -21221,7 +21221,7 @@ db.players.insert({
         "points": 71,
         "type": "batter"
     },
-    "2015-07-value": 103,
+    "2015-07-value": 139,
     "name": "Curtis Granderson",
     "playerid": 4747
 });
@@ -21281,7 +21281,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 55,
+    "2015-06-value": 56,
     "name": "Antonio Bastardo",
     "playerid": 8844
 });
@@ -21313,7 +21313,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2014-value": 95,
+    "2014-value": 88,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -21341,7 +21341,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 80,
+    "2015-05-value": 73,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -21369,7 +21369,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 54,
+    "2015-06-value": 55,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -21397,7 +21397,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 53,
+    "2015-07-value": 55,
     "name": "Julio Teheran",
     "playerid": 6797
 });
@@ -21461,7 +21461,7 @@ db.players.insert({
         "points": 124,
         "type": "batter"
     },
-    "2014-value": 140,
+    "2014-value": 109,
     "name": "Javier Baez",
     "playerid": 12979
 });
@@ -21493,7 +21493,7 @@ db.players.insert({
         "points": 109,
         "type": "batter"
     },
-    "2014-value": 142,
+    "2014-value": 107,
     "name": "Josmil Pinto",
     "playerid": 6806
 });
@@ -21525,7 +21525,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 76,
+    "2014-value": 70,
     "name": "Nick Tepesch",
     "playerid": 11716
 });
@@ -21557,7 +21557,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 46,
+    "2014-value": 50,
     "name": "Rick Porcello",
     "playerid": 2717
 });
@@ -21589,7 +21589,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 48,
+    "2014-value": 51,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -21617,7 +21617,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 46,
+    "2015-05-value": 50,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -21645,7 +21645,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 48,
+    "2015-06-value": 51,
     "name": "David Price",
     "playerid": 3184
 });
@@ -21677,7 +21677,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 55,
+    "2014-value": 56,
     "name": "Robbie Ross",
     "playerid": 6819
 });
@@ -21709,7 +21709,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 51,
+    "2014-value": 54,
     "name": "Felix Hernandez",
     "playerid": 4772
 });
@@ -21741,7 +21741,7 @@ db.players.insert({
         "points": 419,
         "type": "batter"
     },
-    "2014-value": 101,
+    "2014-value": 142,
     "2015-05": {
         "1B": 11,
         "2B": 9,
@@ -21769,7 +21769,7 @@ db.players.insert({
         "points": 88,
         "type": "batter"
     },
-    "2015-05-value": 101,
+    "2015-05-value": 144,
     "2015-06": {
         "1B": 12,
         "2B": 4,
@@ -21797,7 +21797,7 @@ db.players.insert({
         "points": 38,
         "type": "batter"
     },
-    "2015-06-value": 137,
+    "2015-06-value": 110,
     "2015-07": {
         "1B": 4,
         "2B": 4,
@@ -21825,7 +21825,7 @@ db.players.insert({
         "points": 69,
         "type": "batter"
     },
-    "2015-07-value": 103,
+    "2015-07-value": 138,
     "name": "Lucas Duda",
     "playerid": 2502
 });
@@ -21857,7 +21857,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 52,
+    "2014-value": 54,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -21885,7 +21885,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 50,
+    "2015-07-value": 53,
     "name": "Matt Shoemaker",
     "playerid": 4776
 });
@@ -21917,7 +21917,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2014-value": 154,
+    "2014-value": 100,
     "name": "Rymer Liriano",
     "playerid": 4779
 });
@@ -21949,7 +21949,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 74,
+    "2015-06-value": 69,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -21977,7 +21977,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 66,
+    "2015-07-value": 63,
     "name": "Joe Ross",
     "playerid": 12972
 });
@@ -22009,7 +22009,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 75,
+    "2014-value": 69,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -22069,7 +22069,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-05-value": 87,
+    "2015-05-value": 79,
     "2015-06": {
         "1B": 0,
         "2B": 1,
@@ -22097,7 +22097,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-06-value": 92,
+    "2015-06-value": 84,
     "2015-07": {
         "1B": 5,
         "2B": 0,
@@ -22125,7 +22125,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-07-value": 98,
+    "2015-07-value": 92,
     "name": "Austin Hedges",
     "playerid": 12976
 });
@@ -22157,7 +22157,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 57,
+    "2014-value": 58,
     "name": "Carlos Torres",
     "playerid": 7624
 });
@@ -22189,7 +22189,7 @@ db.players.insert({
         "points": 243,
         "type": "batter"
     },
-    "2014-value": 118,
+    "2014-value": 124,
     "2015-05": {
         "1B": 13,
         "2B": 4,
@@ -22217,7 +22217,7 @@ db.players.insert({
         "points": 66,
         "type": "batter"
     },
-    "2015-05-value": 110,
+    "2015-05-value": 131,
     "2015-06": {
         "1B": 17,
         "2B": 5,
@@ -22245,7 +22245,7 @@ db.players.insert({
         "points": 87,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 145,
     "2015-07": {
         "1B": 13,
         "2B": 8,
@@ -22273,7 +22273,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-07-value": 118,
+    "2015-07-value": 124,
     "name": "Justin Turner",
     "playerid": 5235
 });
@@ -22305,7 +22305,7 @@ db.players.insert({
         "points": 229,
         "type": "batter"
     },
-    "2014-value": 121,
+    "2014-value": 122,
     "2015-05": {
         "1B": 12,
         "2B": 3,
@@ -22333,7 +22333,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2015-05-value": 140,
+    "2015-05-value": 109,
     "2015-06": {
         "1B": 17,
         "2B": 6,
@@ -22361,7 +22361,7 @@ db.players.insert({
         "points": 71,
         "type": "batter"
     },
-    "2015-06-value": 104,
+    "2015-06-value": 137,
     "2015-07": {
         "1B": 7,
         "2B": 5,
@@ -22389,7 +22389,7 @@ db.players.insert({
         "points": 46,
         "type": "batter"
     },
-    "2015-07-value": 125,
+    "2015-07-value": 119,
     "name": "Kevin Kiermaier",
     "playerid": 11038
 });
@@ -22421,7 +22421,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2014-value": 85,
+    "2014-value": 77,
     "2015-05": {
         "1B": 10,
         "2B": 3,
@@ -22449,7 +22449,7 @@ db.players.insert({
         "points": 37,
         "type": "batter"
     },
-    "2015-05-value": 144,
+    "2015-05-value": 106,
     "2015-06": {
         "1B": 11,
         "2B": 3,
@@ -22477,7 +22477,7 @@ db.players.insert({
         "points": 38,
         "type": "batter"
     },
-    "2015-06-value": 137,
+    "2015-06-value": 111,
     "2015-07": {
         "1B": 6,
         "2B": 3,
@@ -22505,7 +22505,7 @@ db.players.insert({
         "points": 46,
         "type": "batter"
     },
-    "2015-07-value": 126,
+    "2015-07-value": 118,
     "name": "Jeff Francoeur",
     "playerid": 4792
 });
@@ -22537,7 +22537,7 @@ db.players.insert({
         "points": 69,
         "type": "batter"
     },
-    "2014-value": 150,
+    "2014-value": 102,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -22565,7 +22565,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 67,
+    "2015-06-value": 64,
     "2015-07": {
         "1B": 3,
         "2B": 3,
@@ -22593,7 +22593,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-07-value": 151,
+    "2015-07-value": 101,
     "name": "Travis Ishikawa",
     "playerid": 4793
 });
@@ -22625,7 +22625,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2014-value": 80,
+    "2014-value": 73,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -22653,7 +22653,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 64,
+    "2015-05-value": 62,
     "name": "Andrew Chafin",
     "playerid": 12988
 });
@@ -22685,7 +22685,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2014-value": 82,
+    "2014-value": 75,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -22713,7 +22713,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 55,
+    "2015-05-value": 56,
     "name": "Vidal Nuno",
     "playerid": 9674
 });
@@ -22745,7 +22745,7 @@ db.players.insert({
         "points": 236,
         "type": "batter"
     },
-    "2014-value": 119,
+    "2014-value": 123,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -22773,7 +22773,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-05-value": 91,
+    "2015-05-value": 82,
     "name": "Allen Craig",
     "playerid": 3433
 });
@@ -22805,7 +22805,7 @@ db.players.insert({
         "points": 146,
         "type": "batter"
     },
-    "2014-value": 136,
+    "2014-value": 111,
     "2015-05": {
         "1B": 1,
         "2B": 1,
@@ -22833,7 +22833,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-05-value": 95,
+    "2015-05-value": 87,
     "2015-06": {
         "1B": 8,
         "2B": 7,
@@ -22861,7 +22861,7 @@ db.players.insert({
         "points": 49,
         "type": "batter"
     },
-    "2015-06-value": 124,
+    "2015-06-value": 119,
     "2015-07": {
         "1B": 5,
         "2B": 0,
@@ -22889,7 +22889,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-07-value": 94,
+    "2015-07-value": 86,
     "name": "Eduardo Nunez",
     "playerid": 6848
 });
@@ -22921,7 +22921,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 71,
+    "2015-06-value": 67,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -22949,7 +22949,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 61,
+    "2015-07-value": 60,
     "name": "Josh Smith",
     "playerid": 10946
 });
@@ -22981,7 +22981,7 @@ db.players.insert({
         "points": 38,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 96,
     "name": "Adam Duvall",
     "playerid": 10950
 });
@@ -23013,7 +23013,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2014-value": 88,
+    "2014-value": 80,
     "2015-06": {
         "1B": 3,
         "2B": 1,
@@ -23041,7 +23041,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-06-value": 96,
+    "2015-06-value": 88,
     "2015-07": {
         "1B": 0,
         "2B": 1,
@@ -23069,7 +23069,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 85,
+    "2015-07-value": 77,
     "name": "Greg Garcia",
     "playerid": 10951
 });
@@ -23101,7 +23101,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2014-value": 151,
+    "2014-value": 101,
     "2015-05": {
         "1B": 6,
         "2B": 3,
@@ -23129,7 +23129,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2015-05-value": 98,
+    "2015-05-value": 92,
     "name": "Phil Gosselin",
     "playerid": 10953
 });
@@ -23161,7 +23161,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2014-value": 97,
+    "2014-value": 90,
     "2015-05": {
         "1B": 5,
         "2B": 0,
@@ -23189,7 +23189,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-05-value": 90,
+    "2015-05-value": 82,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -23217,7 +23217,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 80,
+    "2015-06-value": 73,
     "2015-07": {
         "1B": 1,
         "2B": 1,
@@ -23245,7 +23245,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-07-value": 90,
+    "2015-07-value": 81,
     "name": "Jacob deGrom",
     "playerid": 10954
 });
@@ -23277,7 +23277,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2014-value": 80,
+    "2014-value": 73,
     "name": "Marcus Stroman",
     "playerid": 13431
 });
@@ -23309,7 +23309,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 55,
+    "2014-value": 56,
     "name": "Jeff Manship",
     "playerid": 6865
 });
@@ -23341,7 +23341,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2014-value": 89,
+    "2014-value": 81,
     "name": "Jacob Turner",
     "playerid": 10185
 });
@@ -23373,7 +23373,7 @@ db.players.insert({
         "points": 260,
         "type": "batter"
     },
-    "2014-value": 116,
+    "2014-value": 126,
     "2015-05": {
         "1B": 15,
         "2B": 8,
@@ -23401,7 +23401,7 @@ db.players.insert({
         "points": 83,
         "type": "batter"
     },
-    "2015-05-value": 102,
+    "2015-05-value": 141,
     "2015-06": {
         "1B": 6,
         "2B": 3,
@@ -23429,7 +23429,7 @@ db.players.insert({
         "points": 69,
         "type": "batter"
     },
-    "2015-06-value": 105,
+    "2015-06-value": 136,
     "2015-07": {
         "1B": 15,
         "2B": 1,
@@ -23457,7 +23457,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-07-value": 136,
+    "2015-07-value": 111,
     "name": "Derek Norris",
     "playerid": 6867
 });
@@ -23489,7 +23489,7 @@ db.players.insert({
         "points": 71,
         "type": "batter"
     },
-    "2014-value": 150,
+    "2014-value": 102,
     "2015-06": {
         "1B": 2,
         "2B": 1,
@@ -23517,7 +23517,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-06-value": 96,
+    "2015-06-value": 89,
     "2015-07": {
         "1B": 2,
         "2B": 3,
@@ -23545,7 +23545,7 @@ db.players.insert({
         "points": 33,
         "type": "batter"
     },
-    "2015-07-value": 138,
+    "2015-07-value": 110,
     "name": "Ryan Rua",
     "playerid": 12409
 });
@@ -23577,7 +23577,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 45,
+    "2014-value": 50,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -23605,7 +23605,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 45,
+    "2015-07-value": 50,
     "name": "LaTroy Hawkins",
     "playerid": 729
 });
@@ -23637,7 +23637,7 @@ db.players.insert({
         "points": 407,
         "type": "batter"
     },
-    "2014-value": 102,
+    "2014-value": 141,
     "2015-05": {
         "1B": 22,
         "2B": 5,
@@ -23665,7 +23665,7 @@ db.players.insert({
         "points": 100,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 146,
     "2015-06": {
         "1B": 14,
         "2B": 5,
@@ -23693,7 +23693,7 @@ db.players.insert({
         "points": 71,
         "type": "batter"
     },
-    "2015-06-value": 104,
+    "2015-06-value": 137,
     "2015-07": {
         "1B": 12,
         "2B": 0,
@@ -23721,7 +23721,7 @@ db.players.insert({
         "points": 47,
         "type": "batter"
     },
-    "2015-07-value": 125,
+    "2015-07-value": 119,
     "name": "Torii Hunter",
     "playerid": 731
 });
@@ -23753,7 +23753,7 @@ db.players.insert({
         "points": 238,
         "type": "batter"
     },
-    "2014-value": 119,
+    "2014-value": 123,
     "2015-05": {
         "1B": 9,
         "2B": 6,
@@ -23781,7 +23781,7 @@ db.players.insert({
         "points": 77,
         "type": "batter"
     },
-    "2015-05-value": 103,
+    "2015-05-value": 138,
     "2015-06": {
         "1B": 9,
         "2B": 1,
@@ -23809,7 +23809,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 98,
     "2015-07": {
         "1B": 20,
         "2B": 5,
@@ -23837,7 +23837,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2015-07-value": 113,
+    "2015-07-value": 128,
     "name": "Mark Trumbo",
     "playerid": 6876
 });
@@ -23869,7 +23869,7 @@ db.players.insert({
         "points": 279,
         "type": "batter"
     },
-    "2014-value": 112,
+    "2014-value": 129,
     "2015-05": {
         "1B": 10,
         "2B": 3,
@@ -23897,7 +23897,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2015-05-value": 118,
+    "2015-05-value": 124,
     "2015-06": {
         "1B": 17,
         "2B": 8,
@@ -23925,7 +23925,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2015-06-value": 113,
+    "2015-06-value": 128,
     "2015-07": {
         "1B": 10,
         "2B": 3,
@@ -23953,7 +23953,7 @@ db.players.insert({
         "points": 50,
         "type": "batter"
     },
-    "2015-07-value": 119,
+    "2015-07-value": 123,
     "name": "Chris Coghlan",
     "playerid": 6878
 });
@@ -23985,7 +23985,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-05-value": 86,
+    "2015-05-value": 78,
     "2015-06": {
         "1B": 3,
         "2B": 0,
@@ -24013,7 +24013,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-06-value": 86,
+    "2015-06-value": 78,
     "2015-07": {
         "1B": 3,
         "2B": 1,
@@ -24041,7 +24041,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-07-value": 95,
+    "2015-07-value": 87,
     "name": "Johnny Monell",
     "playerid": 2783
 });
@@ -24073,7 +24073,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2014-value": 95,
+    "2014-value": 87,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -24101,7 +24101,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 65,
+    "2015-05-value": 63,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -24129,7 +24129,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 76,
+    "2015-06-value": 70,
     "2015-07": {
         "1B": 5,
         "2B": 0,
@@ -24157,7 +24157,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-07-value": 92,
+    "2015-07-value": 84,
     "name": "Kyle Lohse",
     "playerid": 739
 });
@@ -24189,7 +24189,7 @@ db.players.insert({
         "points": 161,
         "type": "batter"
     },
-    "2014-value": 132,
+    "2014-value": 114,
     "2015-05": {
         "1B": 19,
         "2B": 8,
@@ -24217,7 +24217,7 @@ db.players.insert({
         "points": 74,
         "type": "batter"
     },
-    "2015-05-value": 105,
+    "2015-05-value": 136,
     "2015-06": {
         "1B": 23,
         "2B": 2,
@@ -24245,7 +24245,7 @@ db.players.insert({
         "points": 68,
         "type": "batter"
     },
-    "2015-06-value": 105,
+    "2015-06-value": 136,
     "2015-07": {
         "1B": 13,
         "2B": 4,
@@ -24273,7 +24273,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-07-value": 116,
+    "2015-07-value": 125,
     "name": "Logan Forsythe",
     "playerid": 7185
 });
@@ -24305,7 +24305,7 @@ db.players.insert({
         "points": 467,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 146,
     "2015-05": {
         "1B": 18,
         "2B": 9,
@@ -24333,7 +24333,7 @@ db.players.insert({
         "points": 72,
         "type": "batter"
     },
-    "2015-05-value": 106,
+    "2015-05-value": 134,
     "2015-06": {
         "1B": 11,
         "2B": 1,
@@ -24361,7 +24361,7 @@ db.players.insert({
         "points": 44,
         "type": "batter"
     },
-    "2015-06-value": 130,
+    "2015-06-value": 115,
     "2015-07": {
         "1B": 9,
         "2B": 0,
@@ -24389,7 +24389,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-07-value": 109,
+    "2015-07-value": 131,
     "name": "Ian Desmond",
     "playerid": 6885
 });
@@ -24421,7 +24421,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 75,
+    "2014-value": 70,
     "name": "Chase Whitley",
     "playerid": 10982
 });
@@ -24453,7 +24453,7 @@ db.players.insert({
         "points": 73,
         "type": "batter"
     },
-    "2014-value": 149,
+    "2014-value": 103,
     "2015-05": {
         "1B": 12,
         "2B": 2,
@@ -24481,7 +24481,7 @@ db.players.insert({
         "points": 39,
         "type": "batter"
     },
-    "2015-05-value": 142,
+    "2015-05-value": 107,
     "2015-06": {
         "1B": 2,
         "2B": 0,
@@ -24509,7 +24509,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-06-value": 89,
+    "2015-06-value": 80,
     "2015-07": {
         "1B": 3,
         "2B": 0,
@@ -24537,7 +24537,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 83,
+    "2015-07-value": 76,
     "name": "Martin Maldonado",
     "playerid": 6887
 });
@@ -24569,7 +24569,7 @@ db.players.insert({
         "points": 431,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 144,
     "2015-05": {
         "1B": 13,
         "2B": 6,
@@ -24597,7 +24597,7 @@ db.players.insert({
         "points": 44,
         "type": "batter"
     },
-    "2015-05-value": 137,
+    "2015-05-value": 111,
     "2015-06": {
         "1B": 12,
         "2B": 3,
@@ -24625,7 +24625,7 @@ db.players.insert({
         "points": 75,
         "type": "batter"
     },
-    "2015-06-value": 103,
+    "2015-06-value": 139,
     "2015-07": {
         "1B": 12,
         "2B": 6,
@@ -24653,7 +24653,7 @@ db.players.insert({
         "points": 89,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 146,
     "name": "David Ortiz",
     "playerid": 745
 });
@@ -24685,7 +24685,7 @@ db.players.insert({
         "points": 176,
         "type": "batter"
     },
-    "2014-value": 130,
+    "2014-value": 115,
     "2015-05": {
         "1B": 6,
         "2B": 3,
@@ -24713,7 +24713,7 @@ db.players.insert({
         "points": 20,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 95,
     "2015-06": {
         "1B": 14,
         "2B": 6,
@@ -24741,7 +24741,7 @@ db.players.insert({
         "points": 50,
         "type": "batter"
     },
-    "2015-06-value": 124,
+    "2015-06-value": 120,
     "2015-07": {
         "1B": 21,
         "2B": 5,
@@ -24769,7 +24769,7 @@ db.players.insert({
         "points": 49,
         "type": "batter"
     },
-    "2015-07-value": 120,
+    "2015-07-value": 122,
     "name": "A.J. Pierzynski",
     "playerid": 746
 });
@@ -24829,7 +24829,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2015-05-value": 120,
+    "2015-05-value": 123,
     "2015-06": {
         "1B": 22,
         "2B": 4,
@@ -24857,7 +24857,7 @@ db.players.insert({
         "points": 75,
         "type": "batter"
     },
-    "2015-06-value": 103,
+    "2015-06-value": 139,
     "2015-07": {
         "1B": 7,
         "2B": 1,
@@ -24885,7 +24885,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 95,
     "name": "Joey Butler",
     "playerid": 7799
 });
@@ -24917,7 +24917,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2014-value": 95,
+    "2014-value": 88,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -24945,7 +24945,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 81,
+    "2015-05-value": 74,
     "2015-06": {
         "1B": 2,
         "2B": 0,
@@ -24973,7 +24973,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 77,
+    "2015-06-value": 71,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -25001,7 +25001,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 73,
+    "2015-07-value": 68,
     "name": "Johnny Cueto",
     "playerid": 6893
 });
@@ -25033,7 +25033,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 73,
+    "2014-value": 68,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -25061,7 +25061,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-05-value": 85,
+    "2015-05-value": 77,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -25089,7 +25089,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 68,
+    "2015-06-value": 65,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -25117,7 +25117,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 73,
+    "2015-07-value": 68,
     "name": "Chase Anderson",
     "playerid": 6895
 });
@@ -25149,7 +25149,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 50,
+    "2015-06-value": 53,
     "name": "Joe Blanton",
     "playerid": 4849
 });
@@ -25181,7 +25181,7 @@ db.players.insert({
         "points": 63,
         "type": "batter"
     },
-    "2014-value": 152,
+    "2014-value": 101,
     "2015-05": {
         "1B": 2,
         "2B": 1,
@@ -25209,7 +25209,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-05-value": 88,
+    "2015-05-value": 80,
     "2015-06": {
         "1B": 4,
         "2B": 0,
@@ -25237,7 +25237,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-06-value": 86,
+    "2015-06-value": 78,
     "2015-07": {
         "1B": 2,
         "2B": 0,
@@ -25265,7 +25265,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 82,
+    "2015-07-value": 75,
     "name": "Tony Cruz",
     "playerid": 2802
 });
@@ -25325,7 +25325,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 53,
+    "2015-07-value": 55,
     "name": "Martin Perez",
     "playerid": 6902
 });
@@ -25357,7 +25357,7 @@ db.players.insert({
         "points": 121,
         "type": "batter"
     },
-    "2014-value": 141,
+    "2014-value": 108,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -25385,7 +25385,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 72,
+    "2015-05-value": 67,
     "2015-06": {
         "1B": 0,
         "2B": 2,
@@ -25413,7 +25413,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-06-value": 91,
+    "2015-06-value": 83,
     "name": "Munenori Kawasaki",
     "playerid": 13047
 });
@@ -25445,7 +25445,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2014-value": 79,
+    "2014-value": 72,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -25473,7 +25473,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 69,
+    "2015-05-value": 66,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -25501,7 +25501,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 70,
+    "2015-06-value": 66,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -25561,7 +25561,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2014-value": 84,
+    "2014-value": 76,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -25589,7 +25589,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 78,
+    "2015-05-value": 72,
     "2015-06": {
         "1B": 4,
         "2B": 0,
@@ -25617,7 +25617,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-06-value": 89,
+    "2015-06-value": 81,
     "2015-07": {
         "1B": 0,
         "2B": 1,
@@ -25645,7 +25645,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 86,
+    "2015-07-value": 78,
     "name": "Anthony DeSclafani",
     "playerid": 13050
 });
@@ -25677,7 +25677,7 @@ db.players.insert({
         "points": 275,
         "type": "batter"
     },
-    "2014-value": 113,
+    "2014-value": 128,
     "2015-05": {
         "1B": 12,
         "2B": 6,
@@ -25705,7 +25705,7 @@ db.players.insert({
         "points": 107,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 148,
     "2015-06": {
         "1B": 19,
         "2B": 3,
@@ -25733,7 +25733,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-06-value": 107,
+    "2015-06-value": 134,
     "2015-07": {
         "1B": 16,
         "2B": 1,
@@ -25761,7 +25761,7 @@ db.players.insert({
         "points": 59,
         "type": "batter"
     },
-    "2015-07-value": 110,
+    "2015-07-value": 131,
     "name": "Evan Gattis",
     "playerid": 11003
 });
@@ -25793,7 +25793,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2014-value": 90,
+    "2014-value": 82,
     "2015-05": {
         "1B": 3,
         "2B": 2,
@@ -25821,7 +25821,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-05-value": 95,
+    "2015-05-value": 87,
     "2015-06": {
         "1B": 13,
         "2B": 3,
@@ -25849,7 +25849,7 @@ db.players.insert({
         "points": 53,
         "type": "batter"
     },
-    "2015-06-value": 118,
+    "2015-06-value": 124,
     "2015-07": {
         "1B": 11,
         "2B": 6,
@@ -25877,7 +25877,7 @@ db.players.insert({
         "points": 43,
         "type": "batter"
     },
-    "2015-07-value": 129,
+    "2015-07-value": 116,
     "name": "Clint Robinson",
     "playerid": 6908
 });
@@ -25909,7 +25909,7 @@ db.players.insert({
         "points": 219,
         "type": "batter"
     },
-    "2014-value": 122,
+    "2014-value": 121,
     "2015-05": {
         "1B": 4,
         "2B": 2,
@@ -25937,7 +25937,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2015-05-value": 98,
+    "2015-05-value": 93,
     "2015-06": {
         "1B": 14,
         "2B": 3,
@@ -25965,7 +25965,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-06-value": 108,
+    "2015-06-value": 133,
     "2015-07": {
         "1B": 7,
         "2B": 8,
@@ -25993,7 +25993,7 @@ db.players.insert({
         "points": 54,
         "type": "batter"
     },
-    "2015-07-value": 114,
+    "2015-07-value": 127,
     "name": "Chris Young",
     "playerid": 3882
 });
@@ -26025,7 +26025,7 @@ db.players.insert({
         "points": 214,
         "type": "batter"
     },
-    "2014-value": 124,
+    "2014-value": 120,
     "2015-05": {
         "1B": 4,
         "2B": 1,
@@ -26053,7 +26053,7 @@ db.players.insert({
         "points": 20,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 95,
     "2015-06": {
         "1B": 5,
         "2B": 4,
@@ -26081,7 +26081,7 @@ db.players.insert({
         "points": 27,
         "type": "batter"
     },
-    "2015-06-value": 151,
+    "2015-06-value": 101,
     "2015-07": {
         "1B": 6,
         "2B": 0,
@@ -26109,7 +26109,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-07-value": 118,
+    "2015-07-value": 124,
     "name": "Jarrod Dyson",
     "playerid": 4866
 });
@@ -26141,7 +26141,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 51,
+    "2015-06-value": 53,
     "name": "Michael Montgomery",
     "playerid": 4869
 });
@@ -26173,7 +26173,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2014-value": 87,
+    "2014-value": 79,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -26201,7 +26201,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 66,
+    "2015-05-value": 63,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -26229,7 +26229,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 65,
+    "2015-06-value": 63,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -26257,7 +26257,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 82,
+    "2015-07-value": 75,
     "name": "Francisco Liriano",
     "playerid": 3201
 });
@@ -26289,7 +26289,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 71,
+    "2014-value": 67,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -26317,7 +26317,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 48,
+    "2015-06-value": 51,
     "name": "Clay Buchholz",
     "playerid": 3543
 });
@@ -26349,7 +26349,7 @@ db.players.insert({
         "points": 218,
         "type": "batter"
     },
-    "2014-value": 123,
+    "2014-value": 120,
     "2015-05": {
         "1B": 11,
         "2B": 3,
@@ -26377,7 +26377,7 @@ db.players.insert({
         "points": 22,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 96,
     "2015-06": {
         "1B": 12,
         "2B": 4,
@@ -26405,7 +26405,7 @@ db.players.insert({
         "points": 53,
         "type": "batter"
     },
-    "2015-06-value": 119,
+    "2015-06-value": 123,
     "2015-07": {
         "1B": 3,
         "2B": 0,
@@ -26433,7 +26433,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-07-value": 89,
+    "2015-07-value": 81,
     "name": "Travis Snider",
     "playerid": 2830
 });
@@ -26465,7 +26465,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 46,
+    "2014-value": 50,
     "name": "Matt Belisle",
     "playerid": 1837
 });
@@ -26497,7 +26497,7 @@ db.players.insert({
         "points": 49,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 98,
     "2015-05": {
         "1B": 10,
         "2B": 2,
@@ -26525,7 +26525,7 @@ db.players.insert({
         "points": 21,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 96,
     "2015-06": {
         "1B": 4,
         "2B": 0,
@@ -26553,7 +26553,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-06-value": 93,
+    "2015-06-value": 85,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -26581,7 +26581,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 47,
+    "2015-07-value": 50,
     "name": "Rafael Ynoa",
     "playerid": 2832
 });
@@ -26613,7 +26613,7 @@ db.players.insert({
         "points": 510,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 148,
     "2015-05": {
         "1B": 16,
         "2B": 6,
@@ -26641,7 +26641,7 @@ db.players.insert({
         "points": 89,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 144,
     "2015-06": {
         "1B": 17,
         "2B": 5,
@@ -26669,7 +26669,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-06-value": 126,
+    "2015-06-value": 118,
     "2015-07": {
         "1B": 10,
         "2B": 5,
@@ -26697,7 +26697,7 @@ db.players.insert({
         "points": 59,
         "type": "batter"
     },
-    "2015-07-value": 110,
+    "2015-07-value": 130,
     "name": "Carlos Gomez",
     "playerid": 4881
 });
@@ -26729,7 +26729,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2014-value": 80,
+    "2014-value": 73,
     "name": "Yu Darvish",
     "playerid": 13074
 });
@@ -26761,7 +26761,7 @@ db.players.insert({
         "points": 317,
         "type": "batter"
     },
-    "2014-value": 107,
+    "2014-value": 133,
     "2015-05": {
         "1B": 27,
         "2B": 3,
@@ -26789,7 +26789,7 @@ db.players.insert({
         "points": 77,
         "type": "batter"
     },
-    "2015-05-value": 103,
+    "2015-05-value": 138,
     "2015-06": {
         "1B": 22,
         "2B": 1,
@@ -26817,7 +26817,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2015-06-value": 132,
+    "2015-06-value": 114,
     "2015-07": {
         "1B": 2,
         "2B": 1,
@@ -26845,7 +26845,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-07-value": 90,
+    "2015-07-value": 82,
     "name": "Nori Aoki",
     "playerid": 13075
 });
@@ -26877,7 +26877,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2014-value": 77,
+    "2014-value": 71,
     "name": "Gavin Floyd",
     "playerid": 3886
 });
@@ -26909,7 +26909,7 @@ db.players.insert({
         "points": 271,
         "type": "batter"
     },
-    "2014-value": 114,
+    "2014-value": 127,
     "2015-05": {
         "1B": 22,
         "2B": 2,
@@ -26937,7 +26937,7 @@ db.players.insert({
         "points": 71,
         "type": "batter"
     },
-    "2015-05-value": 107,
+    "2015-05-value": 134,
     "2015-06": {
         "1B": 18,
         "2B": 4,
@@ -26965,7 +26965,7 @@ db.players.insert({
         "points": 68,
         "type": "batter"
     },
-    "2015-06-value": 106,
+    "2015-06-value": 135,
     "2015-07": {
         "1B": 21,
         "2B": 4,
@@ -26993,7 +26993,7 @@ db.players.insert({
         "points": 68,
         "type": "batter"
     },
-    "2015-07-value": 104,
+    "2015-07-value": 137,
     "name": "Brandon Phillips",
     "playerid": 791
 });
@@ -27025,7 +27025,7 @@ db.players.insert({
         "points": 106,
         "type": "batter"
     },
-    "2014-value": 143,
+    "2014-value": 107,
     "2015-05": {
         "1B": 3,
         "2B": 2,
@@ -27053,7 +27053,7 @@ db.players.insert({
         "points": 13,
         "type": "batter"
     },
-    "2015-05-value": 97,
+    "2015-05-value": 90,
     "2015-06": {
         "1B": 5,
         "2B": 1,
@@ -27109,7 +27109,7 @@ db.players.insert({
         "points": 20,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 98,
     "name": "Eric Campbell",
     "playerid": 6938
 });
@@ -27141,7 +27141,7 @@ db.players.insert({
         "points": 266,
         "type": "batter"
     },
-    "2014-value": 115,
+    "2014-value": 126,
     "2015-05": {
         "1B": 16,
         "2B": 5,
@@ -27169,7 +27169,7 @@ db.players.insert({
         "points": 53,
         "type": "batter"
     },
-    "2015-05-value": 124,
+    "2015-05-value": 119,
     "2015-06": {
         "1B": 22,
         "2B": 5,
@@ -27197,7 +27197,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-06-value": 107,
+    "2015-06-value": 133,
     "2015-07": {
         "1B": 12,
         "2B": 1,
@@ -27225,7 +27225,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2015-07-value": 131,
+    "2015-07-value": 115,
     "name": "Mike Moustakas",
     "playerid": 4892
 });
@@ -27257,7 +27257,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-05-value": 111,
+    "2015-05-value": 130,
     "2015-06": {
         "1B": 14,
         "2B": 2,
@@ -27285,7 +27285,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2015-06-value": 132,
+    "2015-06-value": 114,
     "2015-07": {
         "1B": 20,
         "2B": 8,
@@ -27313,7 +27313,7 @@ db.players.insert({
         "points": 81,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 144,
     "name": "Jung-ho Kang",
     "playerid": 17182
 });
@@ -27345,7 +27345,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 52,
+    "2014-value": 54,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -27373,7 +27373,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 83,
+    "2015-06-value": 76,
     "name": "Scott Kazmir",
     "playerid": 4897
 });
@@ -27405,7 +27405,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 49,
+    "2014-value": 52,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -27433,7 +27433,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 67,
+    "2015-05-value": 64,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -27461,7 +27461,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 66,
+    "2015-06-value": 63,
     "name": "Carlos Frias",
     "playerid": 3547
 });
@@ -27493,7 +27493,7 @@ db.players.insert({
         "points": 294,
         "type": "batter"
     },
-    "2014-value": 110,
+    "2014-value": 131,
     "name": "Matt Dominguez",
     "playerid": 4903
 });
@@ -27525,7 +27525,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 70,
+    "2014-value": 66,
     "name": "Ross Detwiler",
     "playerid": 2859
 });
@@ -27557,7 +27557,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 45,
+    "2015-05-value": 50,
     "name": "Randy Choate",
     "playerid": 813
 });
@@ -27589,7 +27589,7 @@ db.players.insert({
         "points": 473,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 147,
     "2015-05": {
         "1B": 18,
         "2B": 9,
@@ -27617,7 +27617,7 @@ db.players.insert({
         "points": 81,
         "type": "batter"
     },
-    "2015-05-value": 102,
+    "2015-05-value": 140,
     "2015-06": {
         "1B": 21,
         "2B": 5,
@@ -27645,7 +27645,7 @@ db.players.insert({
         "points": 77,
         "type": "batter"
     },
-    "2015-06-value": 102,
+    "2015-06-value": 141,
     "2015-07": {
         "1B": 18,
         "2B": 6,
@@ -27673,7 +27673,7 @@ db.players.insert({
         "points": 100,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 148,
     "name": "Yoenis Cespedes",
     "playerid": 13110
 });
@@ -27705,7 +27705,7 @@ db.players.insert({
         "points": 258,
         "type": "batter"
     },
-    "2014-value": 116,
+    "2014-value": 125,
     "2015-05": {
         "1B": 10,
         "2B": 3,
@@ -27733,7 +27733,7 @@ db.players.insert({
         "points": 39,
         "type": "batter"
     },
-    "2015-05-value": 142,
+    "2015-05-value": 108,
     "2015-06": {
         "1B": 6,
         "2B": 2,
@@ -27761,7 +27761,7 @@ db.players.insert({
         "points": 21,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 95,
     "2015-07": {
         "1B": 1,
         "2B": 2,
@@ -27789,7 +27789,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-07-value": 95,
+    "2015-07-value": 88,
     "name": "Gordon Beckham",
     "playerid": 9015
 });
@@ -27821,7 +27821,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 47,
+    "2014-value": 50,
     "name": "Santiago Casilla",
     "playerid": 2873
 });
@@ -27853,7 +27853,7 @@ db.players.insert({
         "points": 269,
         "type": "batter"
     },
-    "2014-value": 114,
+    "2014-value": 127,
     "2015-05": {
         "1B": 26,
         "2B": 5,
@@ -27881,7 +27881,7 @@ db.players.insert({
         "points": 74,
         "type": "batter"
     },
-    "2015-05-value": 105,
+    "2015-05-value": 136,
     "2015-06": {
         "1B": 12,
         "2B": 1,
@@ -27909,7 +27909,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-06-value": 142,
+    "2015-06-value": 108,
     "2015-07": {
         "1B": 12,
         "2B": 6,
@@ -27937,7 +27937,7 @@ db.players.insert({
         "points": 39,
         "type": "batter"
     },
-    "2015-07-value": 133,
+    "2015-07-value": 113,
     "name": "Ender Inciarte",
     "playerid": 4922
 });
@@ -27969,7 +27969,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 74,
+    "2015-06-value": 69,
     "2015-07": {
         "1B": 3,
         "2B": 1,
@@ -27997,7 +27997,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-07-value": 92,
+    "2015-07-value": 83,
     "name": "Taylor Jungmann",
     "playerid": 13119
 });
@@ -28029,7 +28029,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 52,
+    "2014-value": 54,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -28057,7 +28057,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 49,
+    "2015-05-value": 52,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -28085,7 +28085,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 51,
+    "2015-06-value": 53,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -28113,7 +28113,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 71,
+    "2015-07-value": 67,
     "name": "Jon Lester",
     "playerid": 4930
 });
@@ -28145,7 +28145,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 54,
+    "2014-value": 55,
     "name": "Scott Feldman",
     "playerid": 6283
 });
@@ -28177,7 +28177,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2014-value": 96,
+    "2014-value": 89,
     "2015-05": {
         "1B": 3,
         "2B": 0,
@@ -28205,7 +28205,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 83,
+    "2015-05-value": 75,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -28233,7 +28233,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 85,
+    "2015-06-value": 77,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -28261,7 +28261,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 66,
+    "2015-07-value": 63,
     "name": "Gerrit Cole",
     "playerid": 13125
 });
@@ -28293,7 +28293,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 73,
+    "2014-value": 68,
     "name": "Jeanmar Gomez",
     "playerid": 9033
 });
@@ -28325,7 +28325,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-06-value": 92,
+    "2015-06-value": 84,
     "2015-07": {
         "1B": 1,
         "2B": 1,
@@ -28353,7 +28353,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-07-value": 92,
+    "2015-07-value": 83,
     "name": "Mikie Mahtook",
     "playerid": 13130
 });
@@ -28385,7 +28385,7 @@ db.players.insert({
         "points": 392,
         "type": "batter"
     },
-    "2014-value": 102,
+    "2014-value": 140,
     "2015-05": {
         "1B": 17,
         "2B": 5,
@@ -28413,7 +28413,7 @@ db.players.insert({
         "points": 73,
         "type": "batter"
     },
-    "2015-05-value": 106,
+    "2015-05-value": 135,
     "2015-06": {
         "1B": 20,
         "2B": 5,
@@ -28441,7 +28441,7 @@ db.players.insert({
         "points": 78,
         "type": "batter"
     },
-    "2015-06-value": 102,
+    "2015-06-value": 141,
     "2015-07": {
         "1B": 21,
         "2B": 6,
@@ -28469,7 +28469,7 @@ db.players.insert({
         "points": 71,
         "type": "batter"
     },
-    "2015-07-value": 103,
+    "2015-07-value": 140,
     "name": "Jason Heyward",
     "playerid": 4940
 });
@@ -28501,7 +28501,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 74,
+    "2014-value": 69,
     "name": "J.J. Hoover",
     "playerid": 9037
 });
@@ -28533,7 +28533,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 70,
+    "2014-value": 66,
     "name": "Zach McAllister",
     "playerid": 2895
 });
@@ -28565,7 +28565,7 @@ db.players.insert({
         "points": 362,
         "type": "batter"
     },
-    "2014-value": 104,
+    "2014-value": 137,
     "2015-05": {
         "1B": 21,
         "2B": 3,
@@ -28593,7 +28593,7 @@ db.players.insert({
         "points": 55,
         "type": "batter"
     },
-    "2015-05-value": 121,
+    "2015-05-value": 122,
     "2015-06": {
         "1B": 20,
         "2B": 2,
@@ -28621,7 +28621,7 @@ db.players.insert({
         "points": 54,
         "type": "batter"
     },
-    "2015-06-value": 117,
+    "2015-06-value": 124,
     "2015-07": {
         "1B": 13,
         "2B": 3,
@@ -28649,7 +28649,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-07-value": 137,
+    "2015-07-value": 111,
     "name": "Starlin Castro",
     "playerid": 4579
 });
@@ -28681,7 +28681,7 @@ db.players.insert({
         "points": 45,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 97,
     "2015-05": {
         "1B": 4,
         "2B": 1,
@@ -28737,7 +28737,7 @@ db.players.insert({
         "points": 23,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 97,
     "2015-07": {
         "1B": 3,
         "2B": 1,
@@ -28765,7 +28765,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2015-07-value": 94,
+    "2015-07-value": 87,
     "name": "Roberto Perez",
     "playerid": 2900
 });
@@ -28797,7 +28797,7 @@ db.players.insert({
         "points": 519,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 149,
     "2015-05": {
         "1B": 9,
         "2B": 2,
@@ -28825,7 +28825,7 @@ db.players.insert({
         "points": 87,
         "type": "batter"
     },
-    "2015-05-value": 101,
+    "2015-05-value": 143,
     "2015-06": {
         "1B": 14,
         "2B": 5,
@@ -28853,7 +28853,7 @@ db.players.insert({
         "points": 115,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 148,
     "name": "Giancarlo Stanton",
     "playerid": 4949
 });
@@ -28885,7 +28885,7 @@ db.players.insert({
         "points": 127,
         "type": "batter"
     },
-    "2014-value": 140,
+    "2014-value": 109,
     "2015-05": {
         "1B": 0,
         "2B": 1,
@@ -28913,7 +28913,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 74,
+    "2015-05-value": 69,
     "2015-07": {
         "1B": 9,
         "2B": 3,
@@ -28941,7 +28941,7 @@ db.players.insert({
         "points": 26,
         "type": "batter"
     },
-    "2015-07-value": 147,
+    "2015-07-value": 104,
     "name": "Ryan Hanigan",
     "playerid": 4952
 });
@@ -28973,7 +28973,7 @@ db.players.insert({
         "points": 92,
         "type": "batter"
     },
-    "2014-value": 145,
+    "2014-value": 105,
     "2015-05": {
         "1B": 13,
         "2B": 3,
@@ -29001,7 +29001,7 @@ db.players.insert({
         "points": 54,
         "type": "batter"
     },
-    "2015-05-value": 122,
+    "2015-05-value": 121,
     "2015-06": {
         "1B": 10,
         "2B": 1,
@@ -29029,7 +29029,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-06-value": 141,
+    "2015-06-value": 108,
     "2015-07": {
         "1B": 2,
         "2B": 0,
@@ -29057,7 +29057,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 84,
+    "2015-07-value": 76,
     "name": "Will Middlebrooks",
     "playerid": 7002
 });
@@ -29089,7 +29089,7 @@ db.players.insert({
         "points": 142,
         "type": "batter"
     },
-    "2014-value": 137,
+    "2014-value": 111,
     "2015-05": {
         "1B": 7,
         "2B": 1,
@@ -29117,7 +29117,7 @@ db.players.insert({
         "points": 21,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 96,
     "2015-06": {
         "1B": 3,
         "2B": 4,
@@ -29145,7 +29145,7 @@ db.players.insert({
         "points": 37,
         "type": "batter"
     },
-    "2015-06-value": 138,
+    "2015-06-value": 110,
     "2015-07": {
         "1B": 4,
         "2B": 1,
@@ -29173,7 +29173,7 @@ db.players.insert({
         "points": 39,
         "type": "batter"
     },
-    "2015-07-value": 133,
+    "2015-07-value": 114,
     "name": "Justin Smoak",
     "playerid": 9054
 });
@@ -29205,7 +29205,7 @@ db.players.insert({
         "points": 236,
         "type": "batter"
     },
-    "2014-value": 119,
+    "2014-value": 123,
     "2015-05": {
         "1B": 27,
         "2B": 5,
@@ -29233,7 +29233,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-05-value": 126,
+    "2015-05-value": 118,
     "2015-06": {
         "1B": 18,
         "2B": 6,
@@ -29261,7 +29261,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2015-06-value": 113,
+    "2015-06-value": 128,
     "2015-07": {
         "1B": 23,
         "2B": 3,
@@ -29289,7 +29289,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-07-value": 117,
+    "2015-07-value": 124,
     "name": "Yadier Molina",
     "playerid": 7007
 });
@@ -29321,7 +29321,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2014-value": 92,
+    "2014-value": 84,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -29349,7 +29349,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 74,
+    "2015-06-value": 69,
     "2015-07": {
         "1B": 2,
         "2B": 0,
@@ -29377,7 +29377,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-07-value": 92,
+    "2015-07-value": 84,
     "name": "Jorge Polanco",
     "playerid": 13152
 });
@@ -29409,7 +29409,7 @@ db.players.insert({
         "points": 66,
         "type": "batter"
     },
-    "2014-value": 151,
+    "2014-value": 102,
     "2015-05": {
         "1B": 13,
         "2B": 0,
@@ -29437,7 +29437,7 @@ db.players.insert({
         "points": 23,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 98,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -29465,7 +29465,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 80,
+    "2015-06-value": 73,
     "name": "Luis Sardinas",
     "playerid": 13153
 });
@@ -29497,7 +29497,7 @@ db.players.insert({
         "points": 369,
         "type": "batter"
     },
-    "2014-value": 104,
+    "2014-value": 138,
     "2015-05": {
         "1B": 10,
         "2B": 5,
@@ -29525,7 +29525,7 @@ db.players.insert({
         "points": 45,
         "type": "batter"
     },
-    "2015-05-value": 135,
+    "2015-05-value": 112,
     "2015-06": {
         "1B": 16,
         "2B": 4,
@@ -29553,7 +29553,7 @@ db.players.insert({
         "points": 61,
         "type": "batter"
     },
-    "2015-06-value": 111,
+    "2015-06-value": 130,
     "2015-07": {
         "1B": 5,
         "2B": 6,
@@ -29581,7 +29581,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-07-value": 137,
+    "2015-07-value": 111,
     "name": "Asdrubal Cabrera",
     "playerid": 4962
 });
@@ -29613,7 +29613,7 @@ db.players.insert({
         "points": 264,
         "type": "batter"
     },
-    "2014-value": 115,
+    "2014-value": 126,
     "2015-05": {
         "1B": 24,
         "2B": 2,
@@ -29641,7 +29641,7 @@ db.players.insert({
         "points": 53,
         "type": "batter"
     },
-    "2015-05-value": 125,
+    "2015-05-value": 119,
     "2015-06": {
         "1B": 15,
         "2B": 2,
@@ -29669,7 +29669,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-06-value": 142,
+    "2015-06-value": 107,
     "2015-07": {
         "1B": 21,
         "2B": 3,
@@ -29697,7 +29697,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-07-value": 123,
+    "2015-07-value": 121,
     "name": "Angel Pagan",
     "playerid": 2918
 });
@@ -29729,7 +29729,7 @@ db.players.insert({
         "points": 236,
         "type": "batter"
     },
-    "2014-value": 119,
+    "2014-value": 123,
     "2015-05": {
         "1B": 9,
         "2B": 2,
@@ -29757,7 +29757,7 @@ db.players.insert({
         "points": 28,
         "type": "batter"
     },
-    "2015-05-value": 152,
+    "2015-05-value": 101,
     "2015-06": {
         "1B": 12,
         "2B": 3,
@@ -29785,7 +29785,7 @@ db.players.insert({
         "points": 43,
         "type": "batter"
     },
-    "2015-06-value": 131,
+    "2015-06-value": 115,
     "2015-07": {
         "1B": 5,
         "2B": 0,
@@ -29813,7 +29813,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2015-07-value": 96,
+    "2015-07-value": 90,
     "name": "Alexi Amarista",
     "playerid": 9063
 });
@@ -29845,7 +29845,7 @@ db.players.insert({
         "points": 329,
         "type": "batter"
     },
-    "2014-value": 107,
+    "2014-value": 134,
     "2015-05": {
         "1B": 9,
         "2B": 2,
@@ -29873,7 +29873,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2015-05-value": 120,
+    "2015-05-value": 122,
     "2015-06": {
         "1B": 9,
         "2B": 1,
@@ -29901,7 +29901,7 @@ db.players.insert({
         "points": 79,
         "type": "batter"
     },
-    "2015-06-value": 101,
+    "2015-06-value": 142,
     "2015-07": {
         "1B": 9,
         "2B": 4,
@@ -29929,7 +29929,7 @@ db.players.insert({
         "points": 28,
         "type": "batter"
     },
-    "2015-07-value": 144,
+    "2015-07-value": 106,
     "name": "Luis Valbuena",
     "playerid": 4969
 });
@@ -29961,7 +29961,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2014-value": 96,
+    "2014-value": 89,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -29989,7 +29989,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 75,
+    "2015-05-value": 69,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -30017,7 +30017,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 51,
+    "2015-06-value": 54,
     "2015-07": {
         "1B": 1,
         "2B": 1,
@@ -30045,7 +30045,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-07-value": 87,
+    "2015-07-value": 78,
     "name": "Cole Hamels",
     "playerid": 4972
 });
@@ -30077,7 +30077,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 62,
+    "2014-value": 61,
     "name": "Carlos Contreras",
     "playerid": 10386
 });
@@ -30109,7 +30109,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 56,
+    "2014-value": 57,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -30137,7 +30137,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 52,
+    "2015-05-value": 54,
     "name": "Miguel Gonzalez",
     "playerid": 7024
 });
@@ -30169,7 +30169,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2014-value": 90,
+    "2014-value": 81,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -30197,7 +30197,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 66,
+    "2015-05-value": 63,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -30225,7 +30225,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 47,
+    "2015-06-value": 51,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -30253,7 +30253,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 79,
+    "2015-07-value": 72,
     "name": "Jeff Locke",
     "playerid": 2929
 });
@@ -30285,7 +30285,7 @@ db.players.insert({
         "points": 358,
         "type": "batter"
     },
-    "2014-value": 105,
+    "2014-value": 137,
     "2015-05": {
         "1B": 19,
         "2B": 3,
@@ -30313,7 +30313,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-05-value": 111,
+    "2015-05-value": 130,
     "2015-06": {
         "1B": 14,
         "2B": 6,
@@ -30341,7 +30341,7 @@ db.players.insert({
         "points": 78,
         "type": "batter"
     },
-    "2015-06-value": 102,
+    "2015-06-value": 141,
     "2015-07": {
         "1B": 18,
         "2B": 8,
@@ -30369,7 +30369,7 @@ db.players.insert({
         "points": 103,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 149,
     "name": "Lorenzo Cain",
     "playerid": 9077
 });
@@ -30401,7 +30401,7 @@ db.players.insert({
         "points": 37,
         "type": "batter"
     },
-    "2015-05-value": 143,
+    "2015-05-value": 107,
     "2015-06": {
         "1B": 10,
         "2B": 5,
@@ -30429,7 +30429,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-06-value": 140,
+    "2015-06-value": 108,
     "2015-07": {
         "1B": 4,
         "2B": 2,
@@ -30457,7 +30457,7 @@ db.players.insert({
         "points": 19,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 97,
     "name": "Blake Swihart",
     "playerid": 13176
 });
@@ -30489,7 +30489,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 66,
+    "2014-value": 64,
     "name": "Yimi Garcia",
     "playerid": 12095
 });
@@ -30521,7 +30521,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2014-value": 83,
+    "2014-value": 76,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -30577,7 +30577,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 85,
+    "2015-06-value": 77,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -30605,7 +30605,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 61,
+    "2015-07-value": 60,
     "name": "Mike Bolsinger",
     "playerid": 11137
 });
@@ -30637,7 +30637,7 @@ db.players.insert({
         "points": 290,
         "type": "batter"
     },
-    "2014-value": 111,
+    "2014-value": 130,
     "2015-05": {
         "1B": 17,
         "2B": 5,
@@ -30665,7 +30665,7 @@ db.players.insert({
         "points": 68,
         "type": "batter"
     },
-    "2015-05-value": 109,
+    "2015-05-value": 132,
     "2015-06": {
         "1B": 17,
         "2B": 3,
@@ -30693,7 +30693,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-06-value": 121,
+    "2015-06-value": 122,
     "2015-07": {
         "1B": 20,
         "2B": 6,
@@ -30721,7 +30721,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2015-07-value": 113,
+    "2015-07-value": 128,
     "name": "Joe Mauer",
     "playerid": 1857
 });
@@ -30753,7 +30753,7 @@ db.players.insert({
         "points": 179,
         "type": "batter"
     },
-    "2014-value": 129,
+    "2014-value": 116,
     "2015-05": {
         "1B": 14,
         "2B": 3,
@@ -30781,7 +30781,7 @@ db.players.insert({
         "points": 88,
         "type": "batter"
     },
-    "2015-05-value": 101,
+    "2015-05-value": 144,
     "2015-06": {
         "1B": 17,
         "2B": 5,
@@ -30809,7 +30809,7 @@ db.players.insert({
         "points": 64,
         "type": "batter"
     },
-    "2015-06-value": 108,
+    "2015-06-value": 132,
     "2015-07": {
         "1B": 10,
         "2B": 2,
@@ -30837,7 +30837,7 @@ db.players.insert({
         "points": 28,
         "type": "batter"
     },
-    "2015-07-value": 144,
+    "2015-07-value": 106,
     "name": "Stephen Vogt",
     "playerid": 5000
 });
@@ -30869,7 +30869,7 @@ db.players.insert({
         "points": 40,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 96,
     "2015-05": {
         "1B": 8,
         "2B": 2,
@@ -30897,7 +30897,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2015-05-value": 98,
+    "2015-05-value": 92,
     "2015-06": {
         "1B": 0,
         "2B": 1,
@@ -30925,7 +30925,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 85,
+    "2015-06-value": 77,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -30953,7 +30953,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 61,
+    "2015-07-value": 60,
     "name": "Christian Colon",
     "playerid": 11145
 });
@@ -30985,7 +30985,7 @@ db.players.insert({
         "points": 25,
         "type": "batter"
     },
-    "2014-value": 98,
+    "2014-value": 93,
     "2015-05": {
         "1B": 4,
         "2B": 3,
@@ -31013,7 +31013,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2015-05-value": 96,
+    "2015-05-value": 89,
     "2015-06": {
         "1B": 10,
         "2B": 1,
@@ -31041,7 +31041,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 98,
     "2015-07": {
         "1B": 7,
         "2B": 2,
@@ -31069,7 +31069,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2015-07-value": 98,
+    "2015-07-value": 94,
     "name": "Cameron Rupp",
     "playerid": 11146
 });
@@ -31101,7 +31101,7 @@ db.players.insert({
         "points": 168,
         "type": "batter"
     },
-    "2014-value": 131,
+    "2014-value": 114,
     "name": "Tommy Medica",
     "playerid": 11147
 });
@@ -31133,7 +31133,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 47,
+    "2014-value": 51,
     "name": "Luis Avilan",
     "playerid": 2882
 });
@@ -31165,7 +31165,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 96,
     "2015-05": {
         "1B": 3,
         "2B": 0,
@@ -31193,7 +31193,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-05-value": 88,
+    "2015-05-value": 79,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -31221,7 +31221,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 64,
+    "2015-06-value": 62,
     "name": "Brennan Boesch",
     "playerid": 914
 });
@@ -31253,7 +31253,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2014-value": 85,
+    "2014-value": 77,
     "2015-05": {
         "1B": 1,
         "2B": 1,
@@ -31281,7 +31281,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-05-value": 85,
+    "2015-05-value": 77,
     "2015-06": {
         "1B": 3,
         "2B": 0,
@@ -31309,7 +31309,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-06-value": 90,
+    "2015-06-value": 81,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -31337,7 +31337,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 54,
+    "2015-07-value": 55,
     "name": "James Shields",
     "playerid": 7059
 });
@@ -31369,7 +31369,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 64,
+    "2014-value": 62,
     "name": "Eric Jokisch",
     "playerid": 11157
 });
@@ -31401,7 +31401,7 @@ db.players.insert({
         "points": 315,
         "type": "batter"
     },
-    "2014-value": 108,
+    "2014-value": 133,
     "2015-06": {
         "1B": 3,
         "2B": 0,
@@ -31429,7 +31429,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 97,
     "2015-07": {
         "1B": 10,
         "2B": 1,
@@ -31457,7 +31457,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-07-value": 137,
+    "2015-07-value": 111,
     "name": "Melvin Upton",
     "playerid": 5015
 });
@@ -31489,7 +31489,7 @@ db.players.insert({
         "points": 376,
         "type": "batter"
     },
-    "2014-value": 103,
+    "2014-value": 139,
     "2015-05": {
         "1B": 9,
         "2B": 4,
@@ -31517,7 +31517,7 @@ db.players.insert({
         "points": 61,
         "type": "batter"
     },
-    "2015-05-value": 114,
+    "2015-05-value": 127,
     "2015-07": {
         "1B": 5,
         "2B": 1,
@@ -31545,7 +31545,7 @@ db.players.insert({
         "points": 26,
         "type": "batter"
     },
-    "2015-07-value": 147,
+    "2015-07-value": 104,
     "name": "Khris Davis",
     "playerid": 9112
 });
@@ -31577,7 +31577,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2014-value": 80,
+    "2014-value": 73,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -31605,7 +31605,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 73,
+    "2015-05-value": 68,
     "2015-06": {
         "1B": 1,
         "2B": 1,
@@ -31633,7 +31633,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-06-value": 88,
+    "2015-06-value": 80,
     "2015-07": {
         "1B": 0,
         "2B": 1,
@@ -31661,7 +31661,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 78,
+    "2015-07-value": 71,
     "name": "Tim Hudson",
     "playerid": 921
 });
@@ -31693,7 +31693,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 70,
+    "2015-05-value": 66,
     "2015-06": {
         "1B": 5,
         "2B": 1,
@@ -31721,7 +31721,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-06-value": 94,
+    "2015-06-value": 87,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -31749,7 +31749,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 61,
+    "2015-07-value": 60,
     "name": "Ramon Flores",
     "playerid": 11165
 });
@@ -31781,7 +31781,7 @@ db.players.insert({
         "points": 206,
         "type": "batter"
     },
-    "2014-value": 125,
+    "2014-value": 119,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -31809,7 +31809,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 80,
+    "2015-07-value": 73,
     "name": "Josh Rutledge",
     "playerid": 11167
 });
@@ -31873,7 +31873,7 @@ db.players.insert({
         "points": 127,
         "type": "batter"
     },
-    "2014-value": 140,
+    "2014-value": 109,
     "2015-05": {
         "1B": 8,
         "2B": 4,
@@ -31901,7 +31901,7 @@ db.players.insert({
         "points": 29,
         "type": "batter"
     },
-    "2015-05-value": 152,
+    "2015-05-value": 101,
     "2015-06": {
         "1B": 8,
         "2B": 3,
@@ -31929,7 +31929,7 @@ db.players.insert({
         "points": 59,
         "type": "batter"
     },
-    "2015-06-value": 113,
+    "2015-06-value": 128,
     "2015-07": {
         "1B": 8,
         "2B": 2,
@@ -31957,7 +31957,7 @@ db.players.insert({
         "points": 28,
         "type": "batter"
     },
-    "2015-07-value": 145,
+    "2015-07-value": 106,
     "name": "Stephen Drew",
     "playerid": 4251
 });
@@ -31989,7 +31989,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 52,
+    "2014-value": 54,
     "name": "Bo Schultz",
     "playerid": 5028
 });
@@ -32021,7 +32021,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2014-value": 90,
+    "2014-value": 82,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -32049,7 +32049,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 85,
+    "2015-07-value": 77,
     "name": "David Buchanan",
     "playerid": 11176
 });
@@ -32081,7 +32081,7 @@ db.players.insert({
         "points": 402,
         "type": "batter"
     },
-    "2014-value": 102,
+    "2014-value": 141,
     "2015-05": {
         "1B": 27,
         "2B": 6,
@@ -32109,7 +32109,7 @@ db.players.insert({
         "points": 63,
         "type": "batter"
     },
-    "2015-05-value": 113,
+    "2015-05-value": 128,
     "2015-06": {
         "1B": 3,
         "2B": 3,
@@ -32137,7 +32137,7 @@ db.players.insert({
         "points": 19,
         "type": "batter"
     },
-    "2015-06-value": 98,
+    "2015-06-value": 93,
     "2015-07": {
         "1B": 18,
         "2B": 4,
@@ -32165,7 +32165,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-07-value": 122,
+    "2015-07-value": 121,
     "name": "Daniel Murphy",
     "playerid": 4316
 });
@@ -32197,7 +32197,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2014-value": 88,
+    "2014-value": 80,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -32225,7 +32225,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 55,
+    "2015-05-value": 56,
     "name": "Nathan Eovaldi",
     "playerid": 9132
 });
@@ -32257,7 +32257,7 @@ db.players.insert({
         "points": 253,
         "type": "batter"
     },
-    "2014-value": 117,
+    "2014-value": 125,
     "2015-05": {
         "1B": 8,
         "2B": 3,
@@ -32285,7 +32285,7 @@ db.players.insert({
         "points": 27,
         "type": "batter"
     },
-    "2015-05-value": 153,
+    "2015-05-value": 100,
     "2015-06": {
         "1B": 8,
         "2B": 1,
@@ -32313,7 +32313,7 @@ db.players.insert({
         "points": 36,
         "type": "batter"
     },
-    "2015-06-value": 140,
+    "2015-06-value": 109,
     "2015-07": {
         "1B": 12,
         "2B": 2,
@@ -32341,7 +32341,7 @@ db.players.insert({
         "points": 33,
         "type": "batter"
     },
-    "2015-07-value": 139,
+    "2015-07-value": 110,
     "name": "Tyler Flowers",
     "playerid": 9134
 });
@@ -32373,7 +32373,7 @@ db.players.insert({
         "points": 137,
         "type": "batter"
     },
-    "2014-value": 137,
+    "2014-value": 111,
     "2015-05": {
         "1B": 10,
         "2B": 3,
@@ -32401,7 +32401,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-05-value": 131,
+    "2015-05-value": 115,
     "2015-06": {
         "1B": 6,
         "2B": 2,
@@ -32429,7 +32429,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 98,
     "2015-07": {
         "1B": 5,
         "2B": 1,
@@ -32457,7 +32457,7 @@ db.players.insert({
         "points": 28,
         "type": "batter"
     },
-    "2015-07-value": 143,
+    "2015-07-value": 107,
     "name": "Caleb Joseph",
     "playerid": 7087
 });
@@ -32489,7 +32489,7 @@ db.players.insert({
         "points": 425,
         "type": "batter"
     },
-    "2014-value": 101,
+    "2014-value": 143,
     "2015-05": {
         "1B": 9,
         "2B": 3,
@@ -32517,7 +32517,7 @@ db.players.insert({
         "points": 83,
         "type": "batter"
     },
-    "2015-05-value": 102,
+    "2015-05-value": 141,
     "2015-06": {
         "1B": 11,
         "2B": 1,
@@ -32545,7 +32545,7 @@ db.players.insert({
         "points": 37,
         "type": "batter"
     },
-    "2015-06-value": 139,
+    "2015-06-value": 109,
     "2015-07": {
         "1B": 15,
         "2B": 4,
@@ -32573,7 +32573,7 @@ db.players.insert({
         "points": 66,
         "type": "batter"
     },
-    "2015-07-value": 105,
+    "2015-07-value": 136,
     "name": "Marlon Byrd",
     "playerid": 950
 });
@@ -32605,7 +32605,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 65,
+    "2014-value": 63,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -32633,7 +32633,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 60,
+    "2015-05-value": 59,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -32689,7 +32689,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 62,
+    "2015-07-value": 61,
     "name": "Jose Quintana",
     "playerid": 11423
 });
@@ -32721,7 +32721,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2014-value": 97,
+    "2014-value": 91,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -32749,7 +32749,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 76,
+    "2015-05-value": 70,
     "2015-06": {
         "1B": 0,
         "2B": 1,
@@ -32777,7 +32777,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 78,
+    "2015-06-value": 71,
     "2015-07": {
         "1B": 0,
         "2B": 2,
@@ -32805,7 +32805,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-07-value": 91,
+    "2015-07-value": 83,
     "name": "Ian Kennedy",
     "playerid": 6986
 });
@@ -32837,7 +32837,7 @@ db.players.insert({
         "points": 380,
         "type": "batter"
     },
-    "2014-value": 103,
+    "2014-value": 139,
     "2015-05": {
         "1B": 19,
         "2B": 6,
@@ -32865,7 +32865,7 @@ db.players.insert({
         "points": 66,
         "type": "batter"
     },
-    "2015-05-value": 110,
+    "2015-05-value": 131,
     "2015-06": {
         "1B": 20,
         "2B": 3,
@@ -32893,7 +32893,7 @@ db.players.insert({
         "points": 55,
         "type": "batter"
     },
-    "2015-06-value": 116,
+    "2015-06-value": 126,
     "2015-07": {
         "1B": 20,
         "2B": 6,
@@ -32921,7 +32921,7 @@ db.players.insert({
         "points": 94,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 147,
     "name": "Kole Calhoun",
     "playerid": 11200
 });
@@ -32953,7 +32953,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2014-value": 77,
+    "2014-value": 71,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -32981,7 +32981,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 49,
+    "2015-05-value": 52,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -33009,7 +33009,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 50,
+    "2015-07-value": 53,
     "name": "Yohan Flande",
     "playerid": 5057
 });
@@ -33041,7 +33041,7 @@ db.players.insert({
         "points": 336,
         "type": "batter"
     },
-    "2014-value": 106,
+    "2014-value": 135,
     "2015-05": {
         "1B": 19,
         "2B": 5,
@@ -33069,7 +33069,7 @@ db.players.insert({
         "points": 69,
         "type": "batter"
     },
-    "2015-05-value": 108,
+    "2015-05-value": 133,
     "2015-06": {
         "1B": 18,
         "2B": 3,
@@ -33097,7 +33097,7 @@ db.players.insert({
         "points": 74,
         "type": "batter"
     },
-    "2015-06-value": 103,
+    "2015-06-value": 139,
     "2015-07": {
         "1B": 20,
         "2B": 5,
@@ -33125,7 +33125,7 @@ db.players.insert({
         "points": 92,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 147,
     "name": "Adam Eaton",
     "playerid": 11205
 });
@@ -33157,7 +33157,7 @@ db.players.insert({
         "points": 73,
         "type": "batter"
     },
-    "2014-value": 149,
+    "2014-value": 103,
     "2015-05": {
         "1B": 4,
         "2B": 1,
@@ -33185,7 +33185,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-05-value": 94,
+    "2015-05-value": 86,
     "2015-06": {
         "1B": 7,
         "2B": 4,
@@ -33213,7 +33213,7 @@ db.players.insert({
         "points": 34,
         "type": "batter"
     },
-    "2015-06-value": 143,
+    "2015-06-value": 107,
     "2015-07": {
         "1B": 2,
         "2B": 0,
@@ -33241,7 +33241,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 94,
     "name": "Andrew Susac",
     "playerid": 13132
 });
@@ -33273,7 +33273,7 @@ db.players.insert({
         "points": 401,
         "type": "batter"
     },
-    "2014-value": 102,
+    "2014-value": 141,
     "2015-05": {
         "1B": 15,
         "2B": 4,
@@ -33301,7 +33301,7 @@ db.players.insert({
         "points": 59,
         "type": "batter"
     },
-    "2015-05-value": 117,
+    "2015-05-value": 125,
     "2015-06": {
         "1B": 17,
         "2B": 2,
@@ -33329,7 +33329,7 @@ db.players.insert({
         "points": 49,
         "type": "batter"
     },
-    "2015-06-value": 125,
+    "2015-06-value": 119,
     "2015-07": {
         "1B": 8,
         "2B": 5,
@@ -33357,7 +33357,7 @@ db.players.insert({
         "points": 63,
         "type": "batter"
     },
-    "2015-07-value": 107,
+    "2015-07-value": 133,
     "name": "Jimmy Rollins",
     "playerid": 971
 });
@@ -33389,7 +33389,7 @@ db.players.insert({
         "points": 429,
         "type": "batter"
     },
-    "2014-value": 101,
+    "2014-value": 144,
     "2015-05": {
         "1B": 22,
         "2B": 4,
@@ -33417,7 +33417,7 @@ db.players.insert({
         "points": 84,
         "type": "batter"
     },
-    "2015-05-value": 102,
+    "2015-05-value": 141,
     "2015-06": {
         "1B": 17,
         "2B": 9,
@@ -33445,7 +33445,7 @@ db.players.insert({
         "points": 98,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 147,
     "2015-07": {
         "1B": 26,
         "2B": 2,
@@ -33473,7 +33473,7 @@ db.players.insert({
         "points": 64,
         "type": "batter"
     },
-    "2015-07-value": 106,
+    "2015-07-value": 135,
     "name": "Buster Posey",
     "playerid": 9166
 });
@@ -33505,7 +33505,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 69,
+    "2014-value": 65,
     "name": "Randy Wolf",
     "playerid": 976
 });
@@ -33537,7 +33537,7 @@ db.players.insert({
         "points": 288,
         "type": "batter"
     },
-    "2014-value": 111,
+    "2014-value": 129,
     "2015-05": {
         "1B": 8,
         "2B": 5,
@@ -33565,7 +33565,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2015-05-value": 119,
+    "2015-05-value": 123,
     "2015-06": {
         "1B": 8,
         "2B": 0,
@@ -33593,7 +33593,7 @@ db.players.insert({
         "points": 26,
         "type": "batter"
     },
-    "2015-06-value": 152,
+    "2015-06-value": 101,
     "2015-07": {
         "1B": 12,
         "2B": 5,
@@ -33621,7 +33621,7 @@ db.players.insert({
         "points": 39,
         "type": "batter"
     },
-    "2015-07-value": 132,
+    "2015-07-value": 114,
     "name": "Mike Zunino",
     "playerid": 13265
 });
@@ -33653,7 +33653,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2014-value": 92,
+    "2014-value": 84,
     "name": "Bronson Arroyo",
     "playerid": 978
 });
@@ -33685,7 +33685,7 @@ db.players.insert({
         "points": 317,
         "type": "batter"
     },
-    "2014-value": 108,
+    "2014-value": 133,
     "2015-05": {
         "1B": 8,
         "2B": 2,
@@ -33713,7 +33713,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-05-value": 97,
+    "2015-05-value": 90,
     "2015-07": {
         "1B": 5,
         "2B": 0,
@@ -33741,7 +33741,7 @@ db.players.insert({
         "points": 19,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 97,
     "name": "Michael Morse",
     "playerid": 3035
 });
@@ -33773,7 +33773,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 48,
+    "2014-value": 52,
     "name": "T.J. McFarland",
     "playerid": 3237
 });
@@ -33805,7 +33805,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2014-value": 85,
+    "2014-value": 77,
     "name": "Franklin Morales",
     "playerid": 5088
 });
@@ -33837,7 +33837,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2015-06-value": 98,
+    "2015-06-value": 92,
     "name": "Byron Buxton",
     "playerid": 14161
 });
@@ -33869,7 +33869,7 @@ db.players.insert({
         "points": 144,
         "type": "batter"
     },
-    "2014-value": 136,
+    "2014-value": 111,
     "2015-05": {
         "1B": 24,
         "2B": 7,
@@ -33897,7 +33897,7 @@ db.players.insert({
         "points": 70,
         "type": "batter"
     },
-    "2015-05-value": 107,
+    "2015-05-value": 133,
     "2015-06": {
         "1B": 11,
         "2B": 1,
@@ -33925,7 +33925,7 @@ db.players.insert({
         "points": 31,
         "type": "batter"
     },
-    "2015-06-value": 147,
+    "2015-06-value": 104,
     "2015-07": {
         "1B": 8,
         "2B": 5,
@@ -33953,7 +33953,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2015-07-value": 131,
+    "2015-07-value": 115,
     "name": "Anthony Gose",
     "playerid": 5097
 });
@@ -33985,7 +33985,7 @@ db.players.insert({
         "points": 330,
         "type": "batter"
     },
-    "2014-value": 106,
+    "2014-value": 134,
     "2015-05": {
         "1B": 8,
         "2B": 4,
@@ -34013,7 +34013,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-05-value": 132,
+    "2015-05-value": 114,
     "2015-06": {
         "1B": 8,
         "2B": 8,
@@ -34041,7 +34041,7 @@ db.players.insert({
         "points": 61,
         "type": "batter"
     },
-    "2015-06-value": 111,
+    "2015-06-value": 130,
     "2015-07": {
         "1B": 17,
         "2B": 4,
@@ -34069,7 +34069,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-07-value": 118,
+    "2015-07-value": 124,
     "name": "Aramis Ramirez",
     "playerid": 1002
 });
@@ -34101,7 +34101,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 62,
+    "2015-06-value": 61,
     "name": "Daniel Coulombe",
     "playerid": 13293
 });
@@ -34133,7 +34133,7 @@ db.players.insert({
         "points": 284,
         "type": "batter"
     },
-    "2014-value": 112,
+    "2014-value": 129,
     "2015-05": {
         "1B": 11,
         "2B": 4,
@@ -34161,7 +34161,7 @@ db.players.insert({
         "points": 75,
         "type": "batter"
     },
-    "2015-05-value": 105,
+    "2015-05-value": 137,
     "2015-06": {
         "1B": 9,
         "2B": 5,
@@ -34189,7 +34189,7 @@ db.players.insert({
         "points": 45,
         "type": "batter"
     },
-    "2015-06-value": 129,
+    "2015-06-value": 116,
     "2015-07": {
         "1B": 7,
         "2B": 6,
@@ -34217,7 +34217,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-07-value": 122,
+    "2015-07-value": 121,
     "name": "Mike Napoli",
     "playerid": 3057
 });
@@ -34249,7 +34249,7 @@ db.players.insert({
         "points": 25,
         "type": "batter"
     },
-    "2015-07-value": 148,
+    "2015-07-value": 103,
     "name": "Jefry Marte",
     "playerid": 5107
 });
@@ -34281,7 +34281,7 @@ db.players.insert({
         "points": 230,
         "type": "batter"
     },
-    "2014-value": 120,
+    "2014-value": 122,
     "2015-05": {
         "1B": 17,
         "2B": 3,
@@ -34309,7 +34309,7 @@ db.players.insert({
         "points": 74,
         "type": "batter"
     },
-    "2015-05-value": 105,
+    "2015-05-value": 136,
     "2015-06": {
         "1B": 18,
         "2B": 3,
@@ -34337,7 +34337,7 @@ db.players.insert({
         "points": 66,
         "type": "batter"
     },
-    "2015-06-value": 106,
+    "2015-06-value": 135,
     "2015-07": {
         "1B": 6,
         "2B": 0,
@@ -34365,7 +34365,7 @@ db.players.insert({
         "points": 36,
         "type": "batter"
     },
-    "2015-07-value": 136,
+    "2015-07-value": 111,
     "name": "Logan Morrison",
     "playerid": 9205
 });
@@ -34397,7 +34397,7 @@ db.players.insert({
         "points": 212,
         "type": "batter"
     },
-    "2014-value": 124,
+    "2014-value": 119,
     "2015-05": {
         "1B": 3,
         "2B": 0,
@@ -34425,7 +34425,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-05-value": 85,
+    "2015-05-value": 77,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -34453,7 +34453,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 54,
+    "2015-06-value": 55,
     "name": "Eric Young",
     "playerid": 7158
 });
@@ -34485,7 +34485,7 @@ db.players.insert({
         "points": 33,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 95,
     "2015-05": {
         "1B": 2,
         "2B": 1,
@@ -34513,7 +34513,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-05-value": 94,
+    "2015-05-value": 85,
     "2015-06": {
         "1B": 5,
         "2B": 1,
@@ -34541,7 +34541,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2015-06-value": 98,
+    "2015-06-value": 92,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -34569,7 +34569,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 62,
+    "2015-07-value": 60,
     "name": "Matt Szczur",
     "playerid": 11255
 });
@@ -34601,7 +34601,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2014-value": 81,
+    "2014-value": 74,
     "name": "Jeurys Familia",
     "playerid": 5114
 });
@@ -34633,7 +34633,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 55,
+    "2014-value": 56,
     "name": "Brad Brach",
     "playerid": 6627
 });
@@ -34665,7 +34665,7 @@ db.players.insert({
         "points": 262,
         "type": "batter"
     },
-    "2014-value": 116,
+    "2014-value": 126,
     "2015-05": {
         "1B": 19,
         "2B": 3,
@@ -34693,7 +34693,7 @@ db.players.insert({
         "points": 47,
         "type": "batter"
     },
-    "2015-05-value": 133,
+    "2015-05-value": 113,
     "2015-06": {
         "1B": 11,
         "2B": 4,
@@ -34721,7 +34721,7 @@ db.players.insert({
         "points": 46,
         "type": "batter"
     },
-    "2015-06-value": 128,
+    "2015-06-value": 117,
     "2015-07": {
         "1B": 7,
         "2B": 3,
@@ -34749,7 +34749,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-07-value": 150,
+    "2015-07-value": 102,
     "name": "David Murphy",
     "playerid": 6035
 });
@@ -34781,7 +34781,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2014-value": 93,
+    "2014-value": 85,
     "name": "Homer Bailey",
     "playerid": 8362
 });
@@ -34813,7 +34813,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2014-value": 91,
+    "2014-value": 83,
     "2015-05": {
         "1B": 0,
         "2B": 1,
@@ -34841,7 +34841,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 76,
+    "2015-05-value": 70,
     "name": "Juan Centeno",
     "playerid": 7168
 });
@@ -34873,7 +34873,7 @@ db.players.insert({
         "points": 258,
         "type": "batter"
     },
-    "2014-value": 116,
+    "2014-value": 125,
     "2015-07": {
         "1B": 10,
         "2B": 2,
@@ -34901,7 +34901,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-07-value": 121,
+    "2015-07-value": 122,
     "name": "Jonathan Schoop",
     "playerid": 11265
 });
@@ -34933,7 +34933,7 @@ db.players.insert({
         "points": 382,
         "type": "batter"
     },
-    "2014-value": 103,
+    "2014-value": 139,
     "2015-05": {
         "1B": 19,
         "2B": 8,
@@ -34961,7 +34961,7 @@ db.players.insert({
         "points": 128,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 149,
     "2015-06": {
         "1B": 24,
         "2B": 5,
@@ -34989,7 +34989,7 @@ db.players.insert({
         "points": 106,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 148,
     "2015-07": {
         "1B": 19,
         "2B": 7,
@@ -35017,7 +35017,7 @@ db.players.insert({
         "points": 69,
         "type": "batter"
     },
-    "2015-07-value": 103,
+    "2015-07-value": 138,
     "name": "Paul Goldschmidt",
     "playerid": 9218
 });
@@ -35049,7 +35049,7 @@ db.players.insert({
         "points": 191,
         "type": "batter"
     },
-    "2014-value": 127,
+    "2014-value": 117,
     "2015-05": {
         "1B": 12,
         "2B": 4,
@@ -35077,7 +35077,7 @@ db.players.insert({
         "points": 61,
         "type": "batter"
     },
-    "2015-05-value": 114,
+    "2015-05-value": 127,
     "2015-06": {
         "1B": 15,
         "2B": 7,
@@ -35105,7 +35105,7 @@ db.players.insert({
         "points": 64,
         "type": "batter"
     },
-    "2015-06-value": 108,
+    "2015-06-value": 132,
     "2015-07": {
         "1B": 12,
         "2B": 2,
@@ -35133,7 +35133,7 @@ db.players.insert({
         "points": 42,
         "type": "batter"
     },
-    "2015-07-value": 130,
+    "2015-07-value": 116,
     "name": "Danny Espinosa",
     "playerid": 9219
 });
@@ -35165,7 +35165,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 64,
+    "2014-value": 62,
     "name": "Aaron Altherr",
     "playerid": 11270
 });
@@ -35197,7 +35197,7 @@ db.players.insert({
         "points": 452,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 145,
     "2015-05": {
         "1B": 21,
         "2B": 4,
@@ -35225,7 +35225,7 @@ db.players.insert({
         "points": 70,
         "type": "batter"
     },
-    "2015-05-value": 107,
+    "2015-05-value": 134,
     "2015-06": {
         "1B": 16,
         "2B": 2,
@@ -35253,7 +35253,7 @@ db.players.insert({
         "points": 33,
         "type": "batter"
     },
-    "2015-06-value": 145,
+    "2015-06-value": 106,
     "2015-07": {
         "1B": 17,
         "2B": 7,
@@ -35281,7 +35281,7 @@ db.players.insert({
         "points": 72,
         "type": "batter"
     },
-    "2015-07-value": 102,
+    "2015-07-value": 140,
     "name": "Alexei Ramirez",
     "playerid": 5133
 });
@@ -35313,7 +35313,7 @@ db.players.insert({
         "points": 99,
         "type": "batter"
     },
-    "2014-value": 144,
+    "2014-value": 106,
     "2015-05": {
         "1B": 10,
         "2B": 5,
@@ -35369,7 +35369,7 @@ db.players.insert({
         "points": 104,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 148,
     "2015-07": {
         "1B": 10,
         "2B": 4,
@@ -35397,7 +35397,7 @@ db.players.insert({
         "points": 42,
         "type": "batter"
     },
-    "2015-07-value": 130,
+    "2015-07-value": 115,
     "name": "Mitch Moreland",
     "playerid": 3086
 });
@@ -35429,7 +35429,7 @@ db.players.insert({
         "points": 75,
         "type": "batter"
     },
-    "2014-value": 148,
+    "2014-value": 103,
     "2015-06": {
         "1B": 11,
         "2B": 3,
@@ -35457,7 +35457,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-06-value": 140,
+    "2015-06-value": 109,
     "2015-07": {
         "1B": 16,
         "2B": 1,
@@ -35485,7 +35485,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-07-value": 117,
+    "2015-07-value": 125,
     "name": "Jake Lamb",
     "playerid": 13329
 });
@@ -35517,7 +35517,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 71,
+    "2014-value": 67,
     "name": "Jason Pridie",
     "playerid": 4611
 });
@@ -35549,7 +35549,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2014-value": 96,
+    "2014-value": 89,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -35577,7 +35577,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-05-value": 83,
+    "2015-05-value": 76,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -35605,7 +35605,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 81,
+    "2015-06-value": 74,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -35633,7 +35633,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-07-value": 91,
+    "2015-07-value": 82,
     "name": "A.J. Burnett",
     "playerid": 512
 });
@@ -35665,7 +35665,7 @@ db.players.insert({
         "points": 74,
         "type": "batter"
     },
-    "2014-value": 149,
+    "2014-value": 103,
     "2015-05": {
         "1B": 2,
         "2B": 2,
@@ -35693,7 +35693,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2015-05-value": 98,
+    "2015-05-value": 93,
     "2015-06": {
         "1B": 6,
         "2B": 1,
@@ -35721,7 +35721,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-06-value": 97,
+    "2015-06-value": 90,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -35749,7 +35749,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 75,
+    "2015-07-value": 69,
     "name": "Bryan Holaday",
     "playerid": 11287
 });
@@ -35781,7 +35781,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 47,
+    "2014-value": 51,
     "name": "Kenley Jansen",
     "playerid": 3096
 });
@@ -35813,7 +35813,7 @@ db.players.insert({
         "points": 413,
         "type": "batter"
     },
-    "2014-value": 101,
+    "2014-value": 142,
     "2015-05": {
         "1B": 18,
         "2B": 9,
@@ -35841,7 +35841,7 @@ db.players.insert({
         "points": 92,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 145,
     "2015-06": {
         "1B": 25,
         "2B": 3,
@@ -35869,7 +35869,7 @@ db.players.insert({
         "points": 81,
         "type": "batter"
     },
-    "2015-06-value": 101,
+    "2015-06-value": 143,
     "2015-07": {
         "1B": 21,
         "2B": 4,
@@ -35897,7 +35897,7 @@ db.players.insert({
         "points": 63,
         "type": "batter"
     },
-    "2015-07-value": 107,
+    "2015-07-value": 134,
     "name": "Starling Marte",
     "playerid": 9241
 });
@@ -35929,7 +35929,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 69,
+    "2014-value": 65,
     "2015-07": {
         "1B": 3,
         "2B": 0,
@@ -35957,7 +35957,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-07-value": 86,
+    "2015-07-value": 78,
     "name": "Jake Peavy",
     "playerid": 1051
 });
@@ -35989,7 +35989,7 @@ db.players.insert({
         "points": 89,
         "type": "batter"
     },
-    "2014-value": 146,
+    "2014-value": 105,
     "2015-05": {
         "1B": 30,
         "2B": 7,
@@ -36017,7 +36017,7 @@ db.players.insert({
         "points": 126,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 149,
     "2015-06": {
         "1B": 21,
         "2B": 6,
@@ -36045,7 +36045,7 @@ db.players.insert({
         "points": 66,
         "type": "batter"
     },
-    "2015-06-value": 107,
+    "2015-06-value": 134,
     "2015-07": {
         "1B": 18,
         "2B": 2,
@@ -36073,7 +36073,7 @@ db.players.insert({
         "points": 53,
         "type": "batter"
     },
-    "2015-07-value": 115,
+    "2015-07-value": 126,
     "name": "Prince Fielder",
     "playerid": 4613
 });
@@ -36105,7 +36105,7 @@ db.players.insert({
         "points": 295,
         "type": "batter"
     },
-    "2014-value": 110,
+    "2014-value": 131,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -36133,7 +36133,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 78,
+    "2015-07-value": 72,
     "name": "Carl Crawford",
     "playerid": 1201
 });
@@ -36193,7 +36193,7 @@ db.players.insert({
         "points": 103,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 147,
     "2015-06": {
         "1B": 18,
         "2B": 6,
@@ -36221,7 +36221,7 @@ db.players.insert({
         "points": 85,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 145,
     "2015-07": {
         "1B": 21,
         "2B": 8,
@@ -36249,7 +36249,7 @@ db.players.insert({
         "points": 90,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 147,
     "name": "A.J. Pollock",
     "playerid": 9256
 });
@@ -36281,7 +36281,7 @@ db.players.insert({
         "points": 130,
         "type": "batter"
     },
-    "2014-value": 139,
+    "2014-value": 110,
     "2015-05": {
         "1B": 8,
         "2B": 0,
@@ -36309,7 +36309,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2015-05-value": 96,
+    "2015-05-value": 88,
     "2015-06": {
         "1B": 4,
         "2B": 1,
@@ -36337,7 +36337,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-06-value": 141,
+    "2015-06-value": 108,
     "2015-07": {
         "1B": 6,
         "2B": 0,
@@ -36365,7 +36365,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 95,
     "name": "David Lough",
     "playerid": 7215
 });
@@ -36397,7 +36397,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-06-value": 92,
+    "2015-06-value": 84,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -36425,7 +36425,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 77,
+    "2015-07-value": 71,
     "name": "Steven Matz",
     "playerid": 13361
 });
@@ -36457,7 +36457,7 @@ db.players.insert({
         "points": 268,
         "type": "batter"
     },
-    "2014-value": 114,
+    "2014-value": 127,
     "2015-05": {
         "1B": 10,
         "2B": 7,
@@ -36485,7 +36485,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-05-value": 127,
+    "2015-05-value": 118,
     "2015-06": {
         "1B": 15,
         "2B": 1,
@@ -36513,7 +36513,7 @@ db.players.insert({
         "points": 31,
         "type": "batter"
     },
-    "2015-06-value": 147,
+    "2015-06-value": 104,
     "2015-07": {
         "1B": 14,
         "2B": 3,
@@ -36541,7 +36541,7 @@ db.players.insert({
         "points": 50,
         "type": "batter"
     },
-    "2015-07-value": 120,
+    "2015-07-value": 123,
     "name": "Gregor Blanco",
     "playerid": 3123
 });
@@ -36605,7 +36605,7 @@ db.players.insert({
         "points": 323,
         "type": "batter"
     },
-    "2014-value": 107,
+    "2014-value": 134,
     "2015-05": {
         "1B": 7,
         "2B": 5,
@@ -36633,7 +36633,7 @@ db.players.insert({
         "points": 73,
         "type": "batter"
     },
-    "2015-05-value": 106,
+    "2015-05-value": 135,
     "2015-06": {
         "1B": 16,
         "2B": 4,
@@ -36661,7 +36661,7 @@ db.players.insert({
         "points": 82,
         "type": "batter"
     },
-    "2015-06-value": 101,
+    "2015-06-value": 143,
     "2015-07": {
         "1B": 15,
         "2B": 3,
@@ -36689,7 +36689,7 @@ db.players.insert({
         "points": 82,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 145,
     "name": "Chris Davis",
     "playerid": 9272
 });
@@ -36721,7 +36721,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 70,
+    "2014-value": 66,
     "name": "Tony Watson",
     "playerid": 3132
 });
@@ -36753,7 +36753,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 77,
+    "2014-value": 71,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -36781,7 +36781,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 68,
+    "2015-07-value": 64,
     "name": "Andrew Heaney",
     "playerid": 15423
 });
@@ -36813,7 +36813,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 47,
+    "2014-value": 51,
     "2015-05": {
         "1B": 4,
         "2B": 0,
@@ -36841,7 +36841,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-05-value": 88,
+    "2015-05-value": 80,
     "2015-06": {
         "1B": 4,
         "2B": 0,
@@ -36869,7 +36869,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-06-value": 90,
+    "2015-06-value": 81,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -36897,7 +36897,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 47,
+    "2015-07-value": 51,
     "name": "Max Scherzer",
     "playerid": 3137
 });
@@ -36929,7 +36929,7 @@ db.players.insert({
         "points": 33,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 94,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -36957,7 +36957,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-05-value": 95,
+    "2015-05-value": 87,
     "2015-06": {
         "1B": 1,
         "2B": 2,
@@ -36985,7 +36985,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-06-value": 94,
+    "2015-06-value": 86,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -37045,7 +37045,7 @@ db.players.insert({
         "points": 100,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 147,
     "2015-06": {
         "1B": 16,
         "2B": 7,
@@ -37073,7 +37073,7 @@ db.players.insert({
         "points": 72,
         "type": "batter"
     },
-    "2015-06-value": 103,
+    "2015-06-value": 138,
     "2015-07": {
         "1B": 7,
         "2B": 3,
@@ -37101,7 +37101,7 @@ db.players.insert({
         "points": 73,
         "type": "batter"
     },
-    "2015-07-value": 102,
+    "2015-07-value": 141,
     "name": "Kris Bryant",
     "playerid": 15429
 });
@@ -37133,7 +37133,7 @@ db.players.insert({
         "points": 203,
         "type": "batter"
     },
-    "2014-value": 125,
+    "2014-value": 119,
     "2015-05": {
         "1B": 4,
         "2B": 6,
@@ -37161,7 +37161,7 @@ db.players.insert({
         "points": 54,
         "type": "batter"
     },
-    "2015-05-value": 123,
+    "2015-05-value": 120,
     "2015-06": {
         "1B": 9,
         "2B": 2,
@@ -37189,7 +37189,7 @@ db.players.insert({
         "points": 40,
         "type": "batter"
     },
-    "2015-06-value": 135,
+    "2015-06-value": 112,
     "2015-07": {
         "1B": 10,
         "2B": 4,
@@ -37217,7 +37217,7 @@ db.players.insert({
         "points": 33,
         "type": "batter"
     },
-    "2015-07-value": 139,
+    "2015-07-value": 109,
     "name": "Robinson Chirinos",
     "playerid": 3142
 });
@@ -37249,7 +37249,7 @@ db.players.insert({
         "points": 134,
         "type": "batter"
     },
-    "2014-value": 138,
+    "2014-value": 110,
     "2015-05": {
         "1B": 13,
         "2B": 3,
@@ -37277,7 +37277,7 @@ db.players.insert({
         "points": 39,
         "type": "batter"
     },
-    "2015-05-value": 141,
+    "2015-05-value": 108,
     "2015-06": {
         "1B": 3,
         "2B": 1,
@@ -37305,7 +37305,7 @@ db.players.insert({
         "points": 22,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 96,
     "2015-07": {
         "1B": 7,
         "2B": 3,
@@ -37333,7 +37333,7 @@ db.players.insert({
         "points": 29,
         "type": "batter"
     },
-    "2015-07-value": 142,
+    "2015-07-value": 107,
     "name": "Jake Marisnick",
     "playerid": 11339
 });
@@ -37365,7 +37365,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2014-value": 153,
+    "2014-value": 100,
     "2015-05": {
         "1B": 3,
         "2B": 1,
@@ -37393,7 +37393,7 @@ db.players.insert({
         "points": 22,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 97,
     "2015-06": {
         "1B": 8,
         "2B": 3,
@@ -37421,7 +37421,7 @@ db.players.insert({
         "points": 27,
         "type": "batter"
     },
-    "2015-06-value": 151,
+    "2015-06-value": 101,
     "2015-07": {
         "1B": 3,
         "2B": 5,
@@ -37449,7 +37449,7 @@ db.players.insert({
         "points": 23,
         "type": "batter"
     },
-    "2015-07-value": 152,
+    "2015-07-value": 101,
     "name": "Tyler Moore",
     "playerid": 7244
 });
@@ -37481,7 +37481,7 @@ db.players.insert({
         "points": 216,
         "type": "batter"
     },
-    "2014-value": 123,
+    "2014-value": 120,
     "2015-05": {
         "1B": 18,
         "2B": 0,
@@ -37509,7 +37509,7 @@ db.players.insert({
         "points": 32,
         "type": "batter"
     },
-    "2015-05-value": 149,
+    "2015-05-value": 103,
     "2015-06": {
         "1B": 8,
         "2B": 0,
@@ -37537,7 +37537,7 @@ db.players.insert({
         "points": 23,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 96,
     "2015-07": {
         "1B": 13,
         "2B": 1,
@@ -37565,7 +37565,7 @@ db.players.insert({
         "points": 34,
         "type": "batter"
     },
-    "2015-07-value": 138,
+    "2015-07-value": 110,
     "name": "Ichiro Suzuki",
     "playerid": 1101
 });
@@ -37597,7 +37597,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2014-value": 91,
+    "2014-value": 83,
     "2015-07": {
         "1B": 2,
         "2B": 0,
@@ -37625,7 +37625,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 85,
+    "2015-07-value": 77,
     "name": "Jesus Aguilar",
     "playerid": 11342
 });
@@ -37657,7 +37657,7 @@ db.players.insert({
         "points": 289,
         "type": "batter"
     },
-    "2014-value": 111,
+    "2014-value": 129,
     "2015-06": {
         "1B": 7,
         "2B": 3,
@@ -37713,7 +37713,7 @@ db.players.insert({
         "points": 53,
         "type": "batter"
     },
-    "2015-07-value": 115,
+    "2015-07-value": 126,
     "name": "Domonic Brown",
     "playerid": 3154
 });
@@ -37745,7 +37745,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 75,
+    "2015-05-value": 69,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -37773,7 +37773,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 51,
+    "2015-06-value": 54,
     "name": "Mike Pelfrey",
     "playerid": 5203
 });
@@ -37805,7 +37805,7 @@ db.players.insert({
         "points": 26,
         "type": "batter"
     },
-    "2014-value": 98,
+    "2014-value": 93,
     "name": "Adam Wainwright",
     "playerid": 2233
 });
@@ -37837,7 +37837,7 @@ db.players.insert({
         "points": 428,
         "type": "batter"
     },
-    "2014-value": 101,
+    "2014-value": 144,
     "2015-05": {
         "1B": 12,
         "2B": 7,
@@ -37865,7 +37865,7 @@ db.players.insert({
         "points": 62,
         "type": "batter"
     },
-    "2015-05-value": 114,
+    "2015-05-value": 127,
     "2015-06": {
         "1B": 16,
         "2B": 1,
@@ -37893,7 +37893,7 @@ db.players.insert({
         "points": 46,
         "type": "batter"
     },
-    "2015-06-value": 128,
+    "2015-06-value": 116,
     "2015-07": {
         "1B": 7,
         "2B": 1,
@@ -37921,7 +37921,7 @@ db.players.insert({
         "points": 28,
         "type": "batter"
     },
-    "2015-07-value": 144,
+    "2015-07-value": 106,
     "name": "Alex Gordon",
     "playerid": 5209
 });
@@ -37953,7 +37953,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 75,
+    "2015-06-value": 70,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -37981,7 +37981,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 68,
+    "2015-07-value": 65,
     "name": "Daniel Castro",
     "playerid": 15450
 });
@@ -38013,7 +38013,7 @@ db.players.insert({
         "points": 30,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 94,
     "2015-05": {
         "1B": 7,
         "2B": 2,
@@ -38041,7 +38041,7 @@ db.players.insert({
         "points": 19,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 95,
     "2015-06": {
         "1B": 2,
         "2B": 6,
@@ -38069,7 +38069,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-06-value": 119,
+    "2015-06-value": 123,
     "2015-07": {
         "1B": 5,
         "2B": 3,
@@ -38097,7 +38097,7 @@ db.players.insert({
         "points": 26,
         "type": "batter"
     },
-    "2015-07-value": 147,
+    "2015-07-value": 104,
     "name": "Josh Phegley",
     "playerid": 9308
 });
@@ -38129,7 +38129,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2014-value": 84,
+    "2014-value": 77,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -38157,7 +38157,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 64,
+    "2015-06-value": 62,
     "name": "Marco Estrada",
     "playerid": 1118
 });
@@ -38189,7 +38189,7 @@ db.players.insert({
         "points": 274,
         "type": "batter"
     },
-    "2014-value": 113,
+    "2014-value": 128,
     "2015-05": {
         "1B": 20,
         "2B": 9,
@@ -38217,7 +38217,7 @@ db.players.insert({
         "points": 104,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 147,
     "2015-06": {
         "1B": 17,
         "2B": 3,
@@ -38245,7 +38245,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2015-06-value": 114,
+    "2015-06-value": 127,
     "2015-07": {
         "1B": 8,
         "2B": 5,
@@ -38273,7 +38273,7 @@ db.players.insert({
         "points": 59,
         "type": "batter"
     },
-    "2015-07-value": 111,
+    "2015-07-value": 130,
     "name": "Shin-Soo Choo",
     "playerid": 3174
 });
@@ -38305,7 +38305,7 @@ db.players.insert({
         "points": 130,
         "type": "batter"
     },
-    "2014-value": 139,
+    "2014-value": 110,
     "2015-05": {
         "1B": 20,
         "2B": 5,
@@ -38333,7 +38333,7 @@ db.players.insert({
         "points": 79,
         "type": "batter"
     },
-    "2015-05-value": 103,
+    "2015-05-value": 139,
     "2015-06": {
         "1B": 28,
         "2B": 3,
@@ -38361,7 +38361,7 @@ db.players.insert({
         "points": 76,
         "type": "batter"
     },
-    "2015-06-value": 102,
+    "2015-06-value": 140,
     "2015-07": {
         "1B": 19,
         "2B": 4,
@@ -38389,7 +38389,7 @@ db.players.insert({
         "points": 70,
         "type": "batter"
     },
-    "2015-07-value": 103,
+    "2015-07-value": 139,
     "name": "Cameron Maybin",
     "playerid": 5223
 });
@@ -38421,7 +38421,7 @@ db.players.insert({
         "points": 253,
         "type": "batter"
     },
-    "2014-value": 117,
+    "2014-value": 125,
     "2015-05": {
         "1B": 13,
         "2B": 4,
@@ -38449,7 +38449,7 @@ db.players.insert({
         "points": 64,
         "type": "batter"
     },
-    "2015-05-value": 112,
+    "2015-05-value": 129,
     "2015-06": {
         "1B": 12,
         "2B": 2,
@@ -38477,7 +38477,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-06-value": 107,
+    "2015-06-value": 134,
     "2015-07": {
         "1B": 13,
         "2B": 3,
@@ -38505,7 +38505,7 @@ db.players.insert({
         "points": 45,
         "type": "batter"
     },
-    "2015-07-value": 127,
+    "2015-07-value": 118,
     "name": "Yasmani Grandal",
     "playerid": 11368
 });
@@ -38537,7 +38537,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2014-value": 82,
+    "2014-value": 75,
     "name": "Craig Stammen",
     "playerid": 7274
 });
@@ -38569,7 +38569,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2014-value": 91,
+    "2014-value": 83,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -38597,7 +38597,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 77,
+    "2015-07-value": 71,
     "name": "Christian Walker",
     "playerid": 13419
 });
@@ -38629,7 +38629,7 @@ db.players.insert({
         "points": 166,
         "type": "batter"
     },
-    "2014-value": 132,
+    "2014-value": 114,
     "2015-05": {
         "1B": 13,
         "2B": 3,
@@ -38657,7 +38657,7 @@ db.players.insert({
         "points": 47,
         "type": "batter"
     },
-    "2015-05-value": 134,
+    "2015-05-value": 113,
     "2015-06": {
         "1B": 3,
         "2B": 3,
@@ -38685,7 +38685,7 @@ db.players.insert({
         "points": 20,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 94,
     "2015-07": {
         "1B": 5,
         "2B": 2,
@@ -38713,7 +38713,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 96,
     "name": "Peter Bourjos",
     "playerid": 2578
 });
@@ -38745,7 +38745,7 @@ db.players.insert({
         "points": 337,
         "type": "batter"
     },
-    "2014-value": 106,
+    "2014-value": 135,
     "2015-05": {
         "1B": 3,
         "2B": 1,
@@ -38773,7 +38773,7 @@ db.players.insert({
         "points": 21,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 96,
     "2015-07": {
         "1B": 7,
         "2B": 0,
@@ -38801,7 +38801,7 @@ db.players.insert({
         "points": 39,
         "type": "batter"
     },
-    "2015-07-value": 132,
+    "2015-07-value": 114,
     "name": "Drew Stubbs",
     "playerid": 9328
 });
@@ -38833,7 +38833,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2014-value": 85,
+    "2014-value": 77,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -38861,7 +38861,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 66,
+    "2015-05-value": 63,
     "2015-06": {
         "1B": 0,
         "2B": 1,
@@ -38889,7 +38889,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 81,
+    "2015-06-value": 74,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -38917,7 +38917,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 46,
+    "2015-07-value": 50,
     "name": "Jerome Williams",
     "playerid": 1137
 });
@@ -38949,7 +38949,7 @@ db.players.insert({
         "points": 83,
         "type": "batter"
     },
-    "2015-05-value": 102,
+    "2015-05-value": 141,
     "2015-06": {
         "1B": 7,
         "2B": 4,
@@ -38977,7 +38977,7 @@ db.players.insert({
         "points": 33,
         "type": "batter"
     },
-    "2015-06-value": 144,
+    "2015-06-value": 106,
     "2015-07": {
         "1B": 14,
         "2B": 5,
@@ -39005,7 +39005,7 @@ db.players.insert({
         "points": 54,
         "type": "batter"
     },
-    "2015-07-value": 114,
+    "2015-07-value": 127,
     "name": "Delino Deshields",
     "playerid": 11379
 });
@@ -39037,7 +39037,7 @@ db.players.insert({
         "points": 58,
         "type": "batter"
     },
-    "2014-value": 153,
+    "2014-value": 100,
     "name": "Nate McLouth",
     "playerid": 3190
 });
@@ -39069,7 +39069,7 @@ db.players.insert({
         "points": 191,
         "type": "batter"
     },
-    "2014-value": 127,
+    "2014-value": 117,
     "2015-05": {
         "1B": 17,
         "2B": 1,
@@ -39097,7 +39097,7 @@ db.players.insert({
         "points": 50,
         "type": "batter"
     },
-    "2015-05-value": 129,
+    "2015-05-value": 116,
     "2015-06": {
         "1B": 14,
         "2B": 5,
@@ -39125,7 +39125,7 @@ db.players.insert({
         "points": 80,
         "type": "batter"
     },
-    "2015-06-value": 101,
+    "2015-06-value": 142,
     "2015-07": {
         "1B": 16,
         "2B": 7,
@@ -39153,7 +39153,7 @@ db.players.insert({
         "points": 118,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 149,
     "name": "Carlos Gonzalez",
     "playerid": 7287
 });
@@ -39185,7 +39185,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 65,
+    "2014-value": 62,
     "name": "Tommy Kahnle",
     "playerid": 11384
 });
@@ -39217,7 +39217,7 @@ db.players.insert({
         "points": 93,
         "type": "batter"
     },
-    "2014-value": 145,
+    "2014-value": 106,
     "2015-06": {
         "1B": 2,
         "2B": 0,
@@ -39245,7 +39245,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-06-value": 95,
+    "2015-06-value": 87,
     "2015-07": {
         "1B": 4,
         "2B": 0,
@@ -39273,7 +39273,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 96,
     "name": "Matt den Dekker",
     "playerid": 11385
 });
@@ -39305,7 +39305,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2014-value": 78,
+    "2014-value": 72,
     "2015-05": {
         "1B": 5,
         "2B": 3,
@@ -39333,7 +39333,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 94,
     "2015-06": {
         "1B": 13,
         "2B": 2,
@@ -39361,7 +39361,7 @@ db.players.insert({
         "points": 36,
         "type": "batter"
     },
-    "2015-06-value": 140,
+    "2015-06-value": 109,
     "2015-07": {
         "1B": 4,
         "2B": 0,
@@ -39389,7 +39389,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-07-value": 92,
+    "2015-07-value": 84,
     "name": "Jake Elmore",
     "playerid": 7290
 });
@@ -39421,7 +39421,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 48,
+    "2014-value": 51,
     "2015-06": {
         "1B": 2,
         "2B": 0,
@@ -39449,7 +39449,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-06-value": 88,
+    "2015-06-value": 80,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -39477,7 +39477,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 47,
+    "2015-07-value": 51,
     "name": "Chris Young",
     "playerid": 3196
 });
@@ -39509,7 +39509,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 56,
+    "2014-value": 57,
     "name": "Brad Ziegler",
     "playerid": 7293
 });
@@ -39541,7 +39541,7 @@ db.players.insert({
         "points": 174,
         "type": "batter"
     },
-    "2014-value": 131,
+    "2014-value": 115,
     "2015-05": {
         "1B": 23,
         "2B": 6,
@@ -39569,7 +39569,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-05-value": 116,
+    "2015-05-value": 125,
     "2015-06": {
         "1B": 17,
         "2B": 8,
@@ -39597,7 +39597,7 @@ db.players.insert({
         "points": 77,
         "type": "batter"
     },
-    "2015-06-value": 102,
+    "2015-06-value": 141,
     "2015-07": {
         "1B": 16,
         "2B": 2,
@@ -39625,7 +39625,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-07-value": 122,
+    "2015-07-value": 121,
     "name": "Brett Lawrie",
     "playerid": 5247
 });
@@ -39657,7 +39657,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2014-value": 96,
+    "2014-value": 89,
     "name": "Ervin Santana",
     "playerid": 3200
 });
@@ -39689,7 +39689,7 @@ db.players.insert({
         "points": 292,
         "type": "batter"
     },
-    "2014-value": 111,
+    "2014-value": 130,
     "2015-05": {
         "1B": 6,
         "2B": 6,
@@ -39717,7 +39717,7 @@ db.players.insert({
         "points": 32,
         "type": "batter"
     },
-    "2015-05-value": 149,
+    "2015-05-value": 103,
     "2015-06": {
         "1B": 18,
         "2B": 7,
@@ -39745,7 +39745,7 @@ db.players.insert({
         "points": 75,
         "type": "batter"
     },
-    "2015-06-value": 102,
+    "2015-06-value": 140,
     "2015-07": {
         "1B": 21,
         "2B": 2,
@@ -39773,7 +39773,7 @@ db.players.insert({
         "points": 38,
         "type": "batter"
     },
-    "2015-07-value": 134,
+    "2015-07-value": 113,
     "name": "Brock Holt",
     "playerid": 9345
 });
@@ -39805,7 +39805,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 60,
+    "2014-value": 59,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -39833,7 +39833,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 55,
+    "2015-05-value": 56,
     "name": "Brandon Morrow",
     "playerid": 9346
 });
@@ -39865,7 +39865,7 @@ db.players.insert({
         "points": 217,
         "type": "batter"
     },
-    "2014-value": 123,
+    "2014-value": 120,
     "2015-05": {
         "1B": 1,
         "2B": 1,
@@ -39893,7 +39893,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-05-value": 84,
+    "2015-05-value": 76,
     "name": "Robbie Grossman",
     "playerid": 5254
 });
@@ -39925,7 +39925,7 @@ db.players.insert({
         "points": 135,
         "type": "batter"
     },
-    "2014-value": 138,
+    "2014-value": 110,
     "2015-05": {
         "1B": 7,
         "2B": 0,
@@ -39953,7 +39953,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-05-value": 97,
+    "2015-05-value": 90,
     "2015-06": {
         "1B": 2,
         "2B": 3,
@@ -39981,7 +39981,7 @@ db.players.insert({
         "points": 27,
         "type": "batter"
     },
-    "2015-06-value": 152,
+    "2015-06-value": 101,
     "2015-07": {
         "1B": 7,
         "2B": 0,
@@ -40009,7 +40009,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-07-value": 97,
+    "2015-07-value": 91,
     "name": "Andrew Romine",
     "playerid": 1159
 });
@@ -40041,7 +40041,7 @@ db.players.insert({
         "points": 362,
         "type": "batter"
     },
-    "2014-value": 104,
+    "2014-value": 137,
     "2015-05": {
         "1B": 13,
         "2B": 4,
@@ -40069,7 +40069,7 @@ db.players.insert({
         "points": 47,
         "type": "batter"
     },
-    "2015-05-value": 133,
+    "2015-05-value": 114,
     "2015-06": {
         "1B": 13,
         "2B": 3,
@@ -40097,7 +40097,7 @@ db.players.insert({
         "points": 67,
         "type": "batter"
     },
-    "2015-06-value": 106,
+    "2015-06-value": 135,
     "2015-07": {
         "1B": 10,
         "2B": 3,
@@ -40125,7 +40125,7 @@ db.players.insert({
         "points": 38,
         "type": "batter"
     },
-    "2015-07-value": 134,
+    "2015-07-value": 113,
     "name": "Salvador Perez",
     "playerid": 7304
 });
@@ -40157,7 +40157,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 74,
+    "2015-07-value": 69,
     "name": "Patrick Corbin",
     "playerid": 9323
 });
@@ -40189,7 +40189,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 68,
+    "2014-value": 65,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -40217,7 +40217,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 64,
+    "2015-05-value": 62,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -40245,7 +40245,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 62,
+    "2015-06-value": 61,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -40273,7 +40273,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 77,
+    "2015-07-value": 71,
     "name": "Eddie Butler",
     "playerid": 13453
 });
@@ -40305,7 +40305,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2014-value": 93,
+    "2014-value": 85,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -40333,7 +40333,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 76,
+    "2015-05-value": 70,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -40361,7 +40361,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 69,
+    "2015-06-value": 65,
     "name": "Josh Collmenter",
     "playerid": 7312
 });
@@ -40393,7 +40393,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2014-value": 86,
+    "2014-value": 78,
     "name": "Adam Moore",
     "playerid": 9362
 });
@@ -40425,7 +40425,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 48,
+    "2014-value": 51,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -40453,7 +40453,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 47,
+    "2015-05-value": 50,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -40481,7 +40481,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 47,
+    "2015-07-value": 51,
     "name": "Jean Machi",
     "playerid": 3220
 });
@@ -40513,7 +40513,7 @@ db.players.insert({
         "points": 436,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 144,
     "2015-05": {
         "1B": 18,
         "2B": 5,
@@ -40541,7 +40541,7 @@ db.players.insert({
         "points": 82,
         "type": "batter"
     },
-    "2015-05-value": 102,
+    "2015-05-value": 140,
     "2015-06": {
         "1B": 20,
         "2B": 3,
@@ -40569,7 +40569,7 @@ db.players.insert({
         "points": 55,
         "type": "batter"
     },
-    "2015-06-value": 116,
+    "2015-06-value": 125,
     "2015-07": {
         "1B": 15,
         "2B": 7,
@@ -40597,7 +40597,7 @@ db.players.insert({
         "points": 64,
         "type": "batter"
     },
-    "2015-07-value": 106,
+    "2015-07-value": 135,
     "name": "Evan Longoria",
     "playerid": 9368
 });
@@ -40629,7 +40629,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2014-value": 98,
+    "2014-value": 92,
     "2015-05": {
         "1B": 4,
         "2B": 0,
@@ -40657,7 +40657,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-05-value": 84,
+    "2015-05-value": 76,
     "2015-06": {
         "1B": 3,
         "2B": 1,
@@ -40685,7 +40685,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2015-06-value": 93,
+    "2015-06-value": 85,
     "2015-07": {
         "1B": 4,
         "2B": 0,
@@ -40713,7 +40713,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-07-value": 91,
+    "2015-07-value": 83,
     "name": "Sandy Leon",
     "playerid": 5273
 });
@@ -40745,7 +40745,7 @@ db.players.insert({
         "points": 96,
         "type": "batter"
     },
-    "2014-value": 144,
+    "2014-value": 106,
     "2015-05": {
         "1B": 24,
         "2B": 4,
@@ -40773,7 +40773,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2015-05-value": 120,
+    "2015-05-value": 123,
     "2015-06": {
         "1B": 14,
         "2B": 1,
@@ -40801,7 +40801,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-06-value": 120,
+    "2015-06-value": 122,
     "2015-07": {
         "1B": 16,
         "2B": 2,
@@ -40829,7 +40829,7 @@ db.players.insert({
         "points": 47,
         "type": "batter"
     },
-    "2015-07-value": 124,
+    "2015-07-value": 119,
     "name": "Francisco Cervelli",
     "playerid": 5275
 });
@@ -40861,7 +40861,7 @@ db.players.insert({
         "points": 62,
         "type": "batter"
     },
-    "2014-value": 152,
+    "2014-value": 101,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -40889,7 +40889,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 73,
+    "2015-07-value": 68,
     "name": "Chris Gimenez",
     "playerid": 7324
 });
@@ -40949,7 +40949,7 @@ db.players.insert({
         "points": 43,
         "type": "batter"
     },
-    "2015-05-value": 138,
+    "2015-05-value": 110,
     "name": "Tuffy Gosewisch",
     "playerid": 5277
 });
@@ -40981,7 +40981,7 @@ db.players.insert({
         "points": 29,
         "type": "batter"
     },
-    "2014-value": 98,
+    "2014-value": 94,
     "2015-05": {
         "1B": 2,
         "2B": 2,
@@ -41009,7 +41009,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2015-05-value": 98,
+    "2015-05-value": 94,
     "2015-06": {
         "1B": 9,
         "2B": 3,
@@ -41037,7 +41037,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 98,
     "2015-07": {
         "1B": 4,
         "2B": 2,
@@ -41065,7 +41065,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2015-07-value": 96,
+    "2015-07-value": 89,
     "name": "Pedro Ciriaco",
     "playerid": 5278
 });
@@ -41097,7 +41097,7 @@ db.players.insert({
         "points": 176,
         "type": "batter"
     },
-    "2014-value": 130,
+    "2014-value": 115,
     "2015-05": {
         "1B": 19,
         "2B": 3,
@@ -41125,7 +41125,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-05-value": 146,
+    "2015-05-value": 104,
     "2015-06": {
         "1B": 18,
         "2B": 2,
@@ -41153,7 +41153,7 @@ db.players.insert({
         "points": 30,
         "type": "batter"
     },
-    "2015-06-value": 148,
+    "2015-06-value": 103,
     "2015-07": {
         "1B": 10,
         "2B": 1,
@@ -41181,7 +41181,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2015-07-value": 98,
+    "2015-07-value": 93,
     "name": "Brayan Pena",
     "playerid": 3231
 });
@@ -41213,7 +41213,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 65,
+    "2014-value": 63,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -41273,7 +41273,7 @@ db.players.insert({
         "points": 300,
         "type": "batter"
     },
-    "2014-value": 109,
+    "2014-value": 131,
     "2015-05": {
         "1B": 11,
         "2B": 7,
@@ -41301,7 +41301,7 @@ db.players.insert({
         "points": 61,
         "type": "batter"
     },
-    "2015-05-value": 115,
+    "2015-05-value": 127,
     "2015-06": {
         "1B": 9,
         "2B": 7,
@@ -41329,7 +41329,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2015-06-value": 133,
+    "2015-06-value": 113,
     "2015-07": {
         "1B": 10,
         "2B": 4,
@@ -41357,7 +41357,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-07-value": 116,
+    "2015-07-value": 125,
     "name": "Seth Smith",
     "playerid": 7331
 });
@@ -41389,7 +41389,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 65,
+    "2014-value": 63,
     "name": "Brandon Workman",
     "playerid": 11428
 });
@@ -41421,7 +41421,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2014-value": 78,
+    "2014-value": 71,
     "name": "Samuel Deduno",
     "playerid": 5285
 });
@@ -41453,7 +41453,7 @@ db.players.insert({
         "points": 323,
         "type": "batter"
     },
-    "2014-value": 107,
+    "2014-value": 134,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -41481,7 +41481,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 78,
+    "2015-05-value": 72,
     "2015-06": {
         "1B": 6,
         "2B": 1,
@@ -41509,7 +41509,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2015-06-value": 97,
+    "2015-06-value": 91,
     "2015-07": {
         "1B": 8,
         "2B": 2,
@@ -41537,7 +41537,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 95,
     "name": "Chris Johnson",
     "playerid": 1191
 });
@@ -41569,7 +41569,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 60,
+    "2014-value": 59,
     "name": "Josh Tomlin",
     "playerid": 9388
 });
@@ -41601,7 +41601,7 @@ db.players.insert({
         "points": 99,
         "type": "batter"
     },
-    "2014-value": 143,
+    "2014-value": 106,
     "2015-05": {
         "1B": 13,
         "2B": 1,
@@ -41629,7 +41629,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-05-value": 146,
+    "2015-05-value": 105,
     "2015-06": {
         "1B": 7,
         "2B": 1,
@@ -41657,7 +41657,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2015-06-value": 97,
+    "2015-06-value": 91,
     "2015-07": {
         "1B": 19,
         "2B": 2,
@@ -41685,7 +41685,7 @@ db.players.insert({
         "points": 82,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 144,
     "name": "Aaron Hicks",
     "playerid": 5297
 });
@@ -41717,7 +41717,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-07-value": 94,
+    "2015-07-value": 86,
     "name": "Oscar Hernandez",
     "playerid": 13490
 });
@@ -41749,7 +41749,7 @@ db.players.insert({
         "points": 28,
         "type": "batter"
     },
-    "2014-value": 98,
+    "2014-value": 93,
     "2015-05": {
         "1B": 2,
         "2B": 4,
@@ -41777,7 +41777,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2015-05-value": 95,
+    "2015-05-value": 88,
     "2015-06": {
         "1B": 2,
         "2B": 3,
@@ -41805,7 +41805,7 @@ db.players.insert({
         "points": 30,
         "type": "batter"
     },
-    "2015-06-value": 148,
+    "2015-06-value": 103,
     "2015-07": {
         "1B": 5,
         "2B": 2,
@@ -41833,7 +41833,7 @@ db.players.insert({
         "points": 13,
         "type": "batter"
     },
-    "2015-07-value": 97,
+    "2015-07-value": 90,
     "name": "Andres Blanco",
     "playerid": 1907
 });
@@ -41865,7 +41865,7 @@ db.players.insert({
         "points": 44,
         "type": "batter"
     },
-    "2015-05-value": 136,
+    "2015-05-value": 112,
     "2015-06": {
         "1B": 9,
         "2B": 2,
@@ -41893,7 +41893,7 @@ db.players.insert({
         "points": 39,
         "type": "batter"
     },
-    "2015-06-value": 136,
+    "2015-06-value": 111,
     "2015-07": {
         "1B": 6,
         "2B": 3,
@@ -41921,7 +41921,7 @@ db.players.insert({
         "points": 26,
         "type": "batter"
     },
-    "2015-07-value": 146,
+    "2015-07-value": 105,
     "name": "Mark Canha",
     "playerid": 11445
 });
@@ -41953,7 +41953,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2014-value": 95,
+    "2014-value": 88,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -41981,7 +41981,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 66,
+    "2015-05-value": 64,
     "name": "Jeff Samardzija",
     "playerid": 3254
 });
@@ -42013,7 +42013,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-06-value": 86,
+    "2015-06-value": 78,
     "2015-07": {
         "1B": 6,
         "2B": 5,
@@ -42041,7 +42041,7 @@ db.players.insert({
         "points": 39,
         "type": "batter"
     },
-    "2015-07-value": 133,
+    "2015-07-value": 113,
     "name": "Franklin Gutierrez",
     "playerid": 3255
 });
@@ -42073,7 +42073,7 @@ db.players.insert({
         "points": 222,
         "type": "batter"
     },
-    "2014-value": 122,
+    "2014-value": 121,
     "2015-05": {
         "1B": 2,
         "2B": 1,
@@ -42101,7 +42101,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2015-05-value": 92,
+    "2015-05-value": 84,
     "2015-06": {
         "1B": 9,
         "2B": 4,
@@ -42129,7 +42129,7 @@ db.players.insert({
         "points": 54,
         "type": "batter"
     },
-    "2015-06-value": 118,
+    "2015-06-value": 124,
     "2015-07": {
         "1B": 10,
         "2B": 4,
@@ -42157,7 +42157,7 @@ db.players.insert({
         "points": 58,
         "type": "batter"
     },
-    "2015-07-value": 111,
+    "2015-07-value": 130,
     "name": "Welington Castillo",
     "playerid": 3256
 });
@@ -42189,7 +42189,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-06-value": 95,
+    "2015-06-value": 87,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -42217,7 +42217,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-07-value": 88,
+    "2015-07-value": 79,
     "name": "Kyle Kubitza",
     "playerid": 12148
 });
@@ -42249,7 +42249,7 @@ db.players.insert({
         "points": 115,
         "type": "batter"
     },
-    "2014-value": 142,
+    "2014-value": 108,
     "2015-05": {
         "1B": 5,
         "2B": 1,
@@ -42277,7 +42277,7 @@ db.players.insert({
         "points": 13,
         "type": "batter"
     },
-    "2015-05-value": 96,
+    "2015-05-value": 89,
     "2015-06": {
         "1B": 5,
         "2B": 1,
@@ -42305,7 +42305,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-06-value": 94,
+    "2015-06-value": 86,
     "name": "Kristopher Negron",
     "playerid": 5306
 });
@@ -42337,7 +42337,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 67,
+    "2014-value": 64,
     "name": "Erik Johnson",
     "playerid": 12520
 });
@@ -42369,7 +42369,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2014-value": 92,
+    "2014-value": 84,
     "name": "Michael Martinez",
     "playerid": 7358
 });
@@ -42401,7 +42401,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 70,
+    "2015-05-value": 66,
     "name": "Sammy Solis",
     "playerid": 11457
 });
@@ -42433,7 +42433,7 @@ db.players.insert({
         "points": 449,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 145,
     "2015-05": {
         "1B": 21,
         "2B": 4,
@@ -42461,7 +42461,7 @@ db.players.insert({
         "points": 53,
         "type": "batter"
     },
-    "2015-05-value": 125,
+    "2015-05-value": 119,
     "2015-06": {
         "1B": 12,
         "2B": 7,
@@ -42489,7 +42489,7 @@ db.players.insert({
         "points": 50,
         "type": "batter"
     },
-    "2015-06-value": 123,
+    "2015-06-value": 120,
     "2015-07": {
         "1B": 20,
         "2B": 5,
@@ -42517,7 +42517,7 @@ db.players.insert({
         "points": 100,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 148,
     "name": "Robinson Cano",
     "playerid": 3269
 });
@@ -42549,7 +42549,7 @@ db.players.insert({
         "points": 146,
         "type": "batter"
     },
-    "2014-value": 136,
+    "2014-value": 111,
     "2015-05": {
         "1B": 11,
         "2B": 5,
@@ -42577,7 +42577,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-05-value": 127,
+    "2015-05-value": 117,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -42605,7 +42605,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 63,
+    "2015-06-value": 61,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -42633,7 +42633,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 66,
+    "2015-07-value": 63,
     "name": "Jose Ramirez",
     "playerid": 13510
 });
@@ -42665,7 +42665,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 60,
+    "2015-05-value": 59,
     "name": "A.J. Cole",
     "playerid": 11467
 });
@@ -42697,7 +42697,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 62,
+    "2015-07-value": 61,
     "name": "Zach Lee",
     "playerid": 11468
 });
@@ -42729,7 +42729,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 75,
+    "2014-value": 70,
     "2015-07": {
         "1B": 0,
         "2B": 1,
@@ -42757,7 +42757,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 81,
+    "2015-07-value": 74,
     "name": "Dallas Beeler",
     "playerid": 11471
 });
@@ -42789,7 +42789,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 70,
+    "2015-05-value": 66,
     "name": "Dixon Machado",
     "playerid": 11472
 });
@@ -42821,7 +42821,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2014-value": 90,
+    "2014-value": 82,
     "2015-05": {
         "1B": 1,
         "2B": 1,
@@ -42849,7 +42849,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 81,
+    "2015-05-value": 74,
     "2015-06": {
         "1B": 2,
         "2B": 0,
@@ -42877,7 +42877,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 78,
+    "2015-06-value": 72,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -42905,7 +42905,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 74,
+    "2015-07-value": 69,
     "name": "Doug Fister",
     "playerid": 9425
 });
@@ -42937,7 +42937,7 @@ db.players.insert({
         "points": 43,
         "type": "batter"
     },
-    "2015-05-value": 137,
+    "2015-05-value": 111,
     "2015-06": {
         "1B": 8,
         "2B": 3,
@@ -42965,7 +42965,7 @@ db.players.insert({
         "points": 34,
         "type": "batter"
     },
-    "2015-06-value": 143,
+    "2015-06-value": 107,
     "2015-07": {
         "1B": 15,
         "2B": 7,
@@ -42993,7 +42993,7 @@ db.players.insert({
         "points": 61,
         "type": "batter"
     },
-    "2015-07-value": 108,
+    "2015-07-value": 132,
     "name": "Odubel Herrera",
     "playerid": 11476
 });
@@ -43025,7 +43025,7 @@ db.players.insert({
         "points": 424,
         "type": "batter"
     },
-    "2014-value": 101,
+    "2014-value": 143,
     "2015-05": {
         "1B": 14,
         "2B": 2,
@@ -43053,7 +43053,7 @@ db.players.insert({
         "points": 44,
         "type": "batter"
     },
-    "2015-05-value": 135,
+    "2015-05-value": 112,
     "2015-06": {
         "1B": 20,
         "2B": 4,
@@ -43081,7 +43081,7 @@ db.players.insert({
         "points": 62,
         "type": "batter"
     },
-    "2015-06-value": 109,
+    "2015-06-value": 132,
     "2015-07": {
         "1B": 23,
         "2B": 4,
@@ -43109,7 +43109,7 @@ db.players.insert({
         "points": 68,
         "type": "batter"
     },
-    "2015-07-value": 104,
+    "2015-07-value": 137,
     "name": "Christian Yelich",
     "playerid": 11477
 });
@@ -43141,7 +43141,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 74,
+    "2014-value": 69,
     "name": "Dallas Keuchel",
     "playerid": 9434
 });
@@ -43173,7 +43173,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 61,
+    "2014-value": 60,
     "name": "Ian Krol",
     "playerid": 10066
 });
@@ -43205,7 +43205,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 46,
+    "2014-value": 50,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -43233,7 +43233,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 46,
+    "2015-06-value": 50,
     "name": "R.A. Dickey",
     "playerid": 1245
 });
@@ -43265,7 +43265,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 75,
+    "2014-value": 70,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -43293,7 +43293,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 60,
+    "2015-05-value": 59,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -43321,7 +43321,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 71,
+    "2015-06-value": 67,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -43349,7 +43349,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 63,
+    "2015-07-value": 61,
     "name": "Robbie Ray",
     "playerid": 11486
 });
@@ -43381,7 +43381,7 @@ db.players.insert({
         "points": 324,
         "type": "batter"
     },
-    "2014-value": 107,
+    "2014-value": 134,
     "2015-05": {
         "1B": 23,
         "2B": 9,
@@ -43409,7 +43409,7 @@ db.players.insert({
         "points": 100,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 146,
     "2015-06": {
         "1B": 10,
         "2B": 6,
@@ -43437,7 +43437,7 @@ db.players.insert({
         "points": 62,
         "type": "batter"
     },
-    "2015-06-value": 110,
+    "2015-06-value": 131,
     "2015-07": {
         "1B": 13,
         "2B": 2,
@@ -43465,7 +43465,7 @@ db.players.insert({
         "points": 75,
         "type": "batter"
     },
-    "2015-07-value": 101,
+    "2015-07-value": 142,
     "name": "Brandon Crawford",
     "playerid": 5343
 });
@@ -43497,7 +43497,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2014-value": 98,
+    "2014-value": 92,
     "2015-05": {
         "1B": 7,
         "2B": 1,
@@ -43525,7 +43525,7 @@ db.players.insert({
         "points": 37,
         "type": "batter"
     },
-    "2015-05-value": 143,
+    "2015-05-value": 106,
     "2015-06": {
         "1B": 19,
         "2B": 6,
@@ -43553,7 +43553,7 @@ db.players.insert({
         "points": 66,
         "type": "batter"
     },
-    "2015-06-value": 106,
+    "2015-06-value": 135,
     "2015-07": {
         "1B": 17,
         "2B": 0,
@@ -43581,7 +43581,7 @@ db.players.insert({
         "points": 61,
         "type": "batter"
     },
-    "2015-07-value": 108,
+    "2015-07-value": 132,
     "name": "Michael Taylor",
     "playerid": 11489
 });
@@ -43613,7 +43613,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 48,
+    "2014-value": 52,
     "name": "Chris Hatcher",
     "playerid": 3299
 });
@@ -43645,7 +43645,7 @@ db.players.insert({
         "points": 215,
         "type": "batter"
     },
-    "2014-value": 124,
+    "2014-value": 120,
     "2015-05": {
         "1B": 20,
         "2B": 7,
@@ -43673,7 +43673,7 @@ db.players.insert({
         "points": 87,
         "type": "batter"
     },
-    "2015-05-value": 101,
+    "2015-05-value": 143,
     "2015-06": {
         "1B": 27,
         "2B": 7,
@@ -43701,7 +43701,7 @@ db.players.insert({
         "points": 126,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 149,
     "2015-07": {
         "1B": 15,
         "2B": 2,
@@ -43729,7 +43729,7 @@ db.players.insert({
         "points": 73,
         "type": "batter"
     },
-    "2015-07-value": 102,
+    "2015-07-value": 141,
     "name": "Manny Machado",
     "playerid": 11493
 });
@@ -43761,7 +43761,7 @@ db.players.insert({
         "points": 331,
         "type": "batter"
     },
-    "2014-value": 106,
+    "2014-value": 135,
     "2015-05": {
         "1B": 23,
         "2B": 4,
@@ -43789,7 +43789,7 @@ db.players.insert({
         "points": 59,
         "type": "batter"
     },
-    "2015-05-value": 116,
+    "2015-05-value": 125,
     "2015-06": {
         "1B": 12,
         "2B": 4,
@@ -43817,7 +43817,7 @@ db.players.insert({
         "points": 47,
         "type": "batter"
     },
-    "2015-06-value": 128,
+    "2015-06-value": 117,
     "2015-07": {
         "1B": 7,
         "2B": 4,
@@ -43845,7 +43845,7 @@ db.players.insert({
         "points": 50,
         "type": "batter"
     },
-    "2015-07-value": 119,
+    "2015-07-value": 123,
     "name": "Billy Butler",
     "playerid": 7399
 });
@@ -43877,7 +43877,7 @@ db.players.insert({
         "points": 277,
         "type": "batter"
     },
-    "2014-value": 113,
+    "2014-value": 128,
     "2015-05": {
         "1B": 17,
         "2B": 8,
@@ -43905,7 +43905,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2015-05-value": 118,
+    "2015-05-value": 124,
     "2015-06": {
         "1B": 9,
         "2B": 4,
@@ -43933,7 +43933,7 @@ db.players.insert({
         "points": 23,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 97,
     "2015-07": {
         "1B": 14,
         "2B": 5,
@@ -43961,7 +43961,7 @@ db.players.insert({
         "points": 62,
         "type": "batter"
     },
-    "2015-07-value": 108,
+    "2015-07-value": 133,
     "name": "Yangervis Solarte",
     "playerid": 5352
 });
@@ -43993,7 +43993,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2014-value": 80,
+    "2014-value": 73,
     "name": "Colby Lewis",
     "playerid": 1259
 });
@@ -44025,7 +44025,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2014-value": 78,
+    "2014-value": 72,
     "name": "Cristhian Adames",
     "playerid": 6013
 });
@@ -44057,7 +44057,7 @@ db.players.insert({
         "points": 347,
         "type": "batter"
     },
-    "2014-value": 105,
+    "2014-value": 136,
     "2015-05": {
         "1B": 28,
         "2B": 4,
@@ -44085,7 +44085,7 @@ db.players.insert({
         "points": 64,
         "type": "batter"
     },
-    "2015-05-value": 113,
+    "2015-05-value": 128,
     "2015-06": {
         "1B": 7,
         "2B": 3,
@@ -44113,7 +44113,7 @@ db.players.insert({
         "points": 29,
         "type": "batter"
     },
-    "2015-06-value": 149,
+    "2015-06-value": 102,
     "2015-07": {
         "1B": 12,
         "2B": 3,
@@ -44141,7 +44141,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-07-value": 152,
+    "2015-07-value": 101,
     "name": "Martin Prado",
     "playerid": 3312
 });
@@ -44173,7 +44173,7 @@ db.players.insert({
         "points": 457,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 146,
     "2015-05": {
         "1B": 19,
         "2B": 8,
@@ -44201,7 +44201,7 @@ db.players.insert({
         "points": 79,
         "type": "batter"
     },
-    "2015-05-value": 103,
+    "2015-05-value": 139,
     "2015-06": {
         "1B": 12,
         "2B": 4,
@@ -44229,7 +44229,7 @@ db.players.insert({
         "points": 73,
         "type": "batter"
     },
-    "2015-06-value": 103,
+    "2015-06-value": 139,
     "2015-07": {
         "1B": 3,
         "2B": 0,
@@ -44257,7 +44257,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 96,
     "name": "Freddie Freeman",
     "playerid": 5361
 });
@@ -44289,7 +44289,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 56,
+    "2014-value": 57,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -44317,7 +44317,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 54,
+    "2015-06-value": 56,
     "name": "J.A. Happ",
     "playerid": 7410
 });
@@ -44349,7 +44349,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-05-value": 87,
+    "2015-05-value": 79,
     "2015-06": {
         "1B": 3,
         "2B": 2,
@@ -44377,7 +44377,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2015-06-value": 98,
+    "2015-06-value": 93,
     "2015-07": {
         "1B": 2,
         "2B": 1,
@@ -44405,7 +44405,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-07-value": 93,
+    "2015-07-value": 85,
     "name": "Taylor Featherston",
     "playerid": 12590
 });
@@ -44437,7 +44437,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 60,
+    "2014-value": 59,
     "name": "Dan Straily",
     "playerid": 9460
 });
@@ -44469,7 +44469,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 50,
+    "2015-07-value": 53,
     "name": "Manny Banuelos",
     "playerid": 5365
 });
@@ -44501,7 +44501,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2014-value": 81,
+    "2014-value": 74,
     "name": "Anibal Sanchez",
     "playerid": 3284
 });
@@ -44533,7 +44533,7 @@ db.players.insert({
         "points": 85,
         "type": "batter"
     },
-    "2015-05-value": 102,
+    "2015-05-value": 141,
     "2015-06": {
         "1B": 18,
         "2B": 3,
@@ -44561,7 +44561,7 @@ db.players.insert({
         "points": 75,
         "type": "batter"
     },
-    "2015-06-value": 103,
+    "2015-06-value": 139,
     "2015-07": {
         "1B": 12,
         "2B": 3,
@@ -44589,7 +44589,7 @@ db.players.insert({
         "points": 89,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 146,
     "name": "Alex Rodriguez",
     "playerid": 1274
 });
@@ -44621,7 +44621,7 @@ db.players.insert({
         "points": 43,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 97,
     "name": "Juan Perez",
     "playerid": 5371
 });
@@ -44653,7 +44653,7 @@ db.players.insert({
         "points": 34,
         "type": "batter"
     },
-    "2015-06-value": 144,
+    "2015-06-value": 106,
     "2015-07": {
         "1B": 7,
         "2B": 2,
@@ -44681,7 +44681,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 97,
     "name": "Shane Peterson",
     "playerid": 7423
 });
@@ -44713,7 +44713,7 @@ db.players.insert({
         "points": 295,
         "type": "batter"
     },
-    "2014-value": 110,
+    "2014-value": 131,
     "2015-05": {
         "1B": 13,
         "2B": 4,
@@ -44741,7 +44741,7 @@ db.players.insert({
         "points": 76,
         "type": "batter"
     },
-    "2015-05-value": 104,
+    "2015-05-value": 137,
     "2015-06": {
         "1B": 11,
         "2B": 6,
@@ -44769,7 +44769,7 @@ db.players.insert({
         "points": 72,
         "type": "batter"
     },
-    "2015-06-value": 104,
+    "2015-06-value": 138,
     "2015-07": {
         "1B": 13,
         "2B": 7,
@@ -44797,7 +44797,7 @@ db.players.insert({
         "points": 101,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 148,
     "name": "Mark Teixeira",
     "playerid": 1281
 });
@@ -44829,7 +44829,7 @@ db.players.insert({
         "points": 278,
         "type": "batter"
     },
-    "2014-value": 113,
+    "2014-value": 128,
     "2015-05": {
         "1B": 18,
         "2B": 0,
@@ -44857,7 +44857,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2015-05-value": 140,
+    "2015-05-value": 109,
     "2015-06": {
         "1B": 17,
         "2B": 5,
@@ -44885,7 +44885,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2015-06-value": 114,
+    "2015-06-value": 127,
     "2015-07": {
         "1B": 13,
         "2B": 3,
@@ -44913,7 +44913,7 @@ db.players.insert({
         "points": 37,
         "type": "batter"
     },
-    "2015-07-value": 135,
+    "2015-07-value": 112,
     "name": "Juan Lagares",
     "playerid": 5384
 });
@@ -44945,7 +44945,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2014-value": 84,
+    "2014-value": 76,
     "2015-07": {
         "1B": 0,
         "2B": 1,
@@ -44973,7 +44973,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-07-value": 95,
+    "2015-07-value": 88,
     "name": "Jose Fernandez",
     "playerid": 11530
 });
@@ -45005,7 +45005,7 @@ db.players.insert({
         "points": 380,
         "type": "batter"
     },
-    "2014-value": 103,
+    "2014-value": 139,
     "2015-05": {
         "1B": 3,
         "2B": 2,
@@ -45033,7 +45033,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-05-value": 95,
+    "2015-05-value": 87,
     "2015-06": {
         "1B": 13,
         "2B": 7,
@@ -45061,7 +45061,7 @@ db.players.insert({
         "points": 87,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 145,
     "2015-07": {
         "1B": 14,
         "2B": 6,
@@ -45089,7 +45089,7 @@ db.players.insert({
         "points": 46,
         "type": "batter"
     },
-    "2015-07-value": 126,
+    "2015-07-value": 118,
     "name": "Ben Zobrist",
     "playerid": 7435
 });
@@ -45121,7 +45121,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2014-value": 87,
+    "2014-value": 79,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -45149,7 +45149,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 67,
+    "2015-05-value": 64,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -45177,7 +45177,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 66,
+    "2015-06-value": 63,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -45205,7 +45205,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 70,
+    "2015-07-value": 66,
     "name": "Matt Garza",
     "playerid": 3340
 });
@@ -45265,7 +45265,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 57,
+    "2015-07-value": 58,
     "name": "George Kontos",
     "playerid": 9486
 });
@@ -45297,7 +45297,7 @@ db.players.insert({
         "points": 118,
         "type": "batter"
     },
-    "2014-value": 141,
+    "2014-value": 108,
     "2015-05": {
         "1B": 3,
         "2B": 1,
@@ -45325,7 +45325,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2015-05-value": 92,
+    "2015-05-value": 84,
     "2015-06": {
         "1B": 4,
         "2B": 1,
@@ -45353,7 +45353,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-06-value": 92,
+    "2015-06-value": 83,
     "2015-07": {
         "1B": 5,
         "2B": 1,
@@ -45413,7 +45413,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2014-value": 79,
+    "2014-value": 72,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -45441,7 +45441,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 55,
+    "2015-05-value": 56,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -45469,7 +45469,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 56,
+    "2015-06-value": 57,
     "name": "Bud Norris",
     "playerid": 9492
 });
@@ -45501,7 +45501,7 @@ db.players.insert({
         "points": 130,
         "type": "batter"
     },
-    "2014-value": 139,
+    "2014-value": 109,
     "name": "Darwin Barney",
     "playerid": 2430
 });
@@ -45533,7 +45533,7 @@ db.players.insert({
         "points": 13,
         "type": "batter"
     },
-    "2014-value": 94,
+    "2014-value": 86,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -45561,7 +45561,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 52,
+    "2015-05-value": 54,
     "2015-06": {
         "1B": 0,
         "2B": 1,
@@ -45589,7 +45589,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-06-value": 86,
+    "2015-06-value": 78,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -45617,7 +45617,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 79,
+    "2015-07-value": 73,
     "name": "Gio Gonzalez",
     "playerid": 7448
 });
@@ -45649,7 +45649,7 @@ db.players.insert({
         "points": 267,
         "type": "batter"
     },
-    "2014-value": 115,
+    "2014-value": 126,
     "2015-05": {
         "1B": 8,
         "2B": 5,
@@ -45677,7 +45677,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-05-value": 126,
+    "2015-05-value": 118,
     "2015-06": {
         "1B": 8,
         "2B": 4,
@@ -45733,7 +45733,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-07-value": 97,
+    "2015-07-value": 91,
     "name": "Matt Joyce",
     "playerid": 3353
 });
@@ -45765,7 +45765,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 56,
+    "2014-value": 57,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -45793,7 +45793,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 55,
+    "2015-06-value": 56,
     "name": "Phil Hughes",
     "playerid": 7450
 });
@@ -45825,7 +45825,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 56,
+    "2015-07-value": 57,
     "name": "Deolis Guerra",
     "playerid": 8410
 });
@@ -45857,7 +45857,7 @@ db.players.insert({
         "points": 68,
         "type": "batter"
     },
-    "2014-value": 150,
+    "2014-value": 102,
     "2015-05": {
         "1B": 3,
         "2B": 0,
@@ -45885,7 +45885,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2015-05-value": 92,
+    "2015-05-value": 84,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -45913,7 +45913,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 52,
+    "2015-06-value": 54,
     "2015-07": {
         "1B": 5,
         "2B": 0,
@@ -45941,7 +45941,7 @@ db.players.insert({
         "points": 29,
         "type": "batter"
     },
-    "2015-07-value": 142,
+    "2015-07-value": 107,
     "name": "Jake Smolinski",
     "playerid": 5408
 });
@@ -45973,7 +45973,7 @@ db.players.insert({
         "points": 385,
         "type": "batter"
     },
-    "2014-value": 103,
+    "2014-value": 139,
     "2015-05": {
         "1B": 14,
         "2B": 1,
@@ -46001,7 +46001,7 @@ db.players.insert({
         "points": 40,
         "type": "batter"
     },
-    "2015-05-value": 141,
+    "2015-05-value": 108,
     "2015-06": {
         "1B": 16,
         "2B": 6,
@@ -46029,7 +46029,7 @@ db.players.insert({
         "points": 55,
         "type": "batter"
     },
-    "2015-06-value": 116,
+    "2015-06-value": 125,
     "2015-07": {
         "1B": 17,
         "2B": 3,
@@ -46057,7 +46057,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2015-07-value": 130,
+    "2015-07-value": 115,
     "name": "Pablo Sandoval",
     "playerid": 5409
 });
@@ -46089,7 +46089,7 @@ db.players.insert({
         "points": 293,
         "type": "batter"
     },
-    "2014-value": 110,
+    "2014-value": 130,
     "2015-05": {
         "1B": 12,
         "2B": 3,
@@ -46117,7 +46117,7 @@ db.players.insert({
         "points": 38,
         "type": "batter"
     },
-    "2015-05-value": 143,
+    "2015-05-value": 107,
     "2015-06": {
         "1B": 11,
         "2B": 0,
@@ -46145,7 +46145,7 @@ db.players.insert({
         "points": 43,
         "type": "batter"
     },
-    "2015-06-value": 131,
+    "2015-06-value": 115,
     "2015-07": {
         "1B": 4,
         "2B": 1,
@@ -46173,7 +46173,7 @@ db.players.insert({
         "points": 19,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 97,
     "name": "Miguel Montero",
     "playerid": 3364
 });
@@ -46205,7 +46205,7 @@ db.players.insert({
         "points": 373,
         "type": "batter"
     },
-    "2014-value": 103,
+    "2014-value": 138,
     "2015-05": {
         "1B": 16,
         "2B": 7,
@@ -46233,7 +46233,7 @@ db.players.insert({
         "points": 87,
         "type": "batter"
     },
-    "2015-05-value": 101,
+    "2015-05-value": 143,
     "2015-06": {
         "1B": 11,
         "2B": 8,
@@ -46261,7 +46261,7 @@ db.players.insert({
         "points": 66,
         "type": "batter"
     },
-    "2015-06-value": 106,
+    "2015-06-value": 134,
     "2015-07": {
         "1B": 12,
         "2B": 6,
@@ -46289,7 +46289,7 @@ db.players.insert({
         "points": 72,
         "type": "batter"
     },
-    "2015-07-value": 102,
+    "2015-07-value": 140,
     "name": "Trevor Plouffe",
     "playerid": 7462
 });
@@ -46321,7 +46321,7 @@ db.players.insert({
         "points": 555,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 149,
     "2015-05": {
         "1B": 19,
         "2B": 3,
@@ -46349,7 +46349,7 @@ db.players.insert({
         "points": 69,
         "type": "batter"
     },
-    "2015-05-value": 108,
+    "2015-05-value": 133,
     "2015-06": {
         "1B": 16,
         "2B": 5,
@@ -46377,7 +46377,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-06-value": 107,
+    "2015-06-value": 133,
     "2015-07": {
         "1B": 24,
         "2B": 6,
@@ -46405,7 +46405,7 @@ db.players.insert({
         "points": 90,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 146,
     "name": "Jose Altuve",
     "playerid": 5417
 });
@@ -46437,7 +46437,7 @@ db.players.insert({
         "points": 150,
         "type": "batter"
     },
-    "2014-value": 135,
+    "2014-value": 112,
     "2015-05": {
         "1B": 19,
         "2B": 6,
@@ -46465,7 +46465,7 @@ db.players.insert({
         "points": 76,
         "type": "batter"
     },
-    "2015-05-value": 104,
+    "2015-05-value": 138,
     "2015-06": {
         "1B": 18,
         "2B": 8,
@@ -46493,7 +46493,7 @@ db.players.insert({
         "points": 90,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 146,
     "2015-07": {
         "1B": 11,
         "2B": 7,
@@ -46521,7 +46521,7 @@ db.players.insert({
         "points": 64,
         "type": "batter"
     },
-    "2015-07-value": 106,
+    "2015-07-value": 135,
     "name": "Mookie Betts",
     "playerid": 13611
 });
@@ -46553,7 +46553,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 77,
+    "2015-07-value": 71,
     "name": "Ketel Marte",
     "playerid": 13613
 });
@@ -46585,7 +46585,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 49,
+    "2014-value": 52,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -46613,7 +46613,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 47,
+    "2015-05-value": 51,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -46641,7 +46641,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 76,
+    "2015-06-value": 70,
     "name": "Ubaldo Jimenez",
     "playerid": 3374
 });
@@ -46673,7 +46673,7 @@ db.players.insert({
         "points": 428,
         "type": "batter"
     },
-    "2014-value": 101,
+    "2014-value": 144,
     "2015-05": {
         "1B": 9,
         "2B": 0,
@@ -46701,7 +46701,7 @@ db.players.insert({
         "points": 33,
         "type": "batter"
     },
-    "2015-05-value": 148,
+    "2015-05-value": 104,
     "2015-07": {
         "1B": 2,
         "2B": 1,
@@ -46729,7 +46729,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-07-value": 88,
+    "2015-07-value": 80,
     "name": "Jayson Werth",
     "playerid": 1327
 });
@@ -46761,7 +46761,7 @@ db.players.insert({
         "points": 120,
         "type": "batter"
     },
-    "2014-value": 141,
+    "2014-value": 108,
     "2015-05": {
         "1B": 14,
         "2B": 3,
@@ -46789,7 +46789,7 @@ db.players.insert({
         "points": 58,
         "type": "batter"
     },
-    "2015-05-value": 117,
+    "2015-05-value": 124,
     "2015-06": {
         "1B": 14,
         "2B": 5,
@@ -46817,7 +46817,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-06-value": 120,
+    "2015-06-value": 122,
     "2015-07": {
         "1B": 14,
         "2B": 5,
@@ -46845,7 +46845,7 @@ db.players.insert({
         "points": 62,
         "type": "batter"
     },
-    "2015-07-value": 108,
+    "2015-07-value": 133,
     "name": "Nick Hundley",
     "playerid": 3376
 });
@@ -46877,7 +46877,7 @@ db.players.insert({
         "points": 266,
         "type": "batter"
     },
-    "2014-value": 115,
+    "2014-value": 126,
     "2015-05": {
         "1B": 9,
         "2B": 0,
@@ -46905,7 +46905,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2015-05-value": 98,
+    "2015-05-value": 92,
     "2015-06": {
         "1B": 8,
         "2B": 0,
@@ -46933,7 +46933,7 @@ db.players.insert({
         "points": 26,
         "type": "batter"
     },
-    "2015-06-value": 153,
+    "2015-06-value": 100,
     "name": "Jon Jay",
     "playerid": 5227
 });
@@ -46965,7 +46965,7 @@ db.players.insert({
         "points": 231,
         "type": "batter"
     },
-    "2014-value": 120,
+    "2014-value": 122,
     "2015-05": {
         "1B": 4,
         "2B": 0,
@@ -46993,7 +46993,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-05-value": 97,
+    "2015-05-value": 91,
     "2015-07": {
         "1B": 8,
         "2B": 1,
@@ -47021,7 +47021,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-07-value": 150,
+    "2015-07-value": 102,
     "name": "Alex Avila",
     "playerid": 7476
 });
@@ -47053,7 +47053,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 77,
+    "2014-value": 71,
     "2015-05": {
         "1B": 8,
         "2B": 3,
@@ -47081,7 +47081,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-05-value": 127,
+    "2015-05-value": 117,
     "2015-06": {
         "1B": 8,
         "2B": 2,
@@ -47109,7 +47109,7 @@ db.players.insert({
         "points": 28,
         "type": "batter"
     },
-    "2015-06-value": 150,
+    "2015-06-value": 102,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -47137,7 +47137,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-07-value": 95,
+    "2015-07-value": 88,
     "name": "Alex Guerrero",
     "playerid": 15670
 });
@@ -47169,7 +47169,7 @@ db.players.insert({
         "points": 73,
         "type": "batter"
     },
-    "2014-value": 149,
+    "2014-value": 102,
     "2015-05": {
         "1B": 10,
         "2B": 2,
@@ -47197,7 +47197,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2015-05-value": 140,
+    "2015-05-value": 109,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -47225,7 +47225,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 68,
+    "2015-06-value": 64,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -47253,7 +47253,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 51,
+    "2015-07-value": 53,
     "name": "Elian Herrera",
     "playerid": 5432
 });
@@ -47285,7 +47285,7 @@ db.players.insert({
         "points": 226,
         "type": "batter"
     },
-    "2014-value": 121,
+    "2014-value": 122,
     "2015-05": {
         "1B": 13,
         "2B": 4,
@@ -47313,7 +47313,7 @@ db.players.insert({
         "points": 132,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 149,
     "2015-06": {
         "1B": 16,
         "2B": 8,
@@ -47341,7 +47341,7 @@ db.players.insert({
         "points": 84,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 144,
     "2015-07": {
         "1B": 12,
         "2B": 7,
@@ -47369,7 +47369,7 @@ db.players.insert({
         "points": 73,
         "type": "batter"
     },
-    "2015-07-value": 102,
+    "2015-07-value": 141,
     "name": "Bryce Harper",
     "playerid": 11579
 });
@@ -47401,7 +47401,7 @@ db.players.insert({
         "points": 516,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 148,
     "2015-05": {
         "1B": 22,
         "2B": 3,
@@ -47429,7 +47429,7 @@ db.players.insert({
         "points": 74,
         "type": "batter"
     },
-    "2015-05-value": 105,
+    "2015-05-value": 136,
     "2015-06": {
         "1B": 21,
         "2B": 5,
@@ -47457,7 +47457,7 @@ db.players.insert({
         "points": 82,
         "type": "batter"
     },
-    "2015-06-value": 101,
+    "2015-06-value": 144,
     "2015-07": {
         "1B": 20,
         "2B": 4,
@@ -47485,7 +47485,7 @@ db.players.insert({
         "points": 86,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 145,
     "name": "Jose Abreu",
     "playerid": 15676
 });
@@ -47517,7 +47517,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 46,
+    "2014-value": 50,
     "name": "Sean Doolittle",
     "playerid": 1581
 });
@@ -47549,7 +47549,7 @@ db.players.insert({
         "points": 50,
         "type": "batter"
     },
-    "2015-05-value": 129,
+    "2015-05-value": 116,
     "2015-06": {
         "1B": 7,
         "2B": 5,
@@ -47577,7 +47577,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2015-06-value": 132,
+    "2015-06-value": 114,
     "2015-07": {
         "1B": 17,
         "2B": 4,
@@ -47605,7 +47605,7 @@ db.players.insert({
         "points": 72,
         "type": "batter"
     },
-    "2015-07-value": 102,
+    "2015-07-value": 141,
     "name": "Preston Tucker",
     "playerid": 13633
 });
@@ -47637,7 +47637,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2014-value": 89,
+    "2014-value": 80,
     "name": "Brandon McCarthy",
     "playerid": 4662
 });
@@ -47669,7 +47669,7 @@ db.players.insert({
         "points": 105,
         "type": "batter"
     },
-    "2014-value": 143,
+    "2014-value": 107,
     "2015-05": {
         "1B": 6,
         "2B": 1,
@@ -47697,7 +47697,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2015-05-value": 97,
+    "2015-05-value": 91,
     "2015-06": {
         "1B": 9,
         "2B": 0,
@@ -47725,7 +47725,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2015-06-value": 97,
+    "2015-06-value": 91,
     "2015-07": {
         "1B": 9,
         "2B": 0,
@@ -47753,7 +47753,7 @@ db.players.insert({
         "points": 25,
         "type": "batter"
     },
-    "2015-07-value": 148,
+    "2015-07-value": 103,
     "name": "Cliff Pennington",
     "playerid": 3395
 });
@@ -47813,7 +47813,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 72,
+    "2015-06-value": 67,
     "name": "Jose Urena",
     "playerid": 11589
 });
@@ -47845,7 +47845,7 @@ db.players.insert({
         "points": 46,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 97,
     "2015-05": {
         "1B": 4,
         "2B": 0,
@@ -47873,7 +47873,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-05-value": 89,
+    "2015-05-value": 80,
     "2015-06": {
         "1B": 0,
         "2B": 1,
@@ -47901,7 +47901,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 79,
+    "2015-06-value": 72,
     "name": "Steve Clevenger",
     "playerid": 9542
 });
@@ -47933,7 +47933,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 64,
+    "2015-06-value": 62,
     "name": "Mark Buehrle",
     "playerid": 225
 });
@@ -47965,7 +47965,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 53,
+    "2014-value": 55,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -47993,7 +47993,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 51,
+    "2015-07-value": 53,
     "name": "Jesse Chavez",
     "playerid": 5448
 });
@@ -48025,7 +48025,7 @@ db.players.insert({
         "points": 217,
         "type": "batter"
     },
-    "2014-value": 123,
+    "2014-value": 120,
     "2015-05": {
         "1B": 3,
         "2B": 1,
@@ -48053,7 +48053,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-05-value": 91,
+    "2015-05-value": 83,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -48081,7 +48081,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 71,
+    "2015-07-value": 67,
     "name": "Daniel Nava",
     "playerid": 5450
 });
@@ -48113,7 +48113,7 @@ db.players.insert({
         "points": 287,
         "type": "batter"
     },
-    "2014-value": 112,
+    "2014-value": 129,
     "2015-05": {
         "1B": 14,
         "2B": 5,
@@ -48141,7 +48141,7 @@ db.players.insert({
         "points": 66,
         "type": "batter"
     },
-    "2015-05-value": 110,
+    "2015-05-value": 131,
     "2015-06": {
         "1B": 12,
         "2B": 5,
@@ -48169,7 +48169,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2015-06-value": 133,
+    "2015-06-value": 114,
     "2015-07": {
         "1B": 11,
         "2B": 2,
@@ -48197,7 +48197,7 @@ db.players.insert({
         "points": 40,
         "type": "batter"
     },
-    "2015-07-value": 132,
+    "2015-07-value": 114,
     "name": "David Freese",
     "playerid": 9549
 });
@@ -48229,7 +48229,7 @@ db.players.insert({
         "points": 252,
         "type": "batter"
     },
-    "2014-value": 117,
+    "2014-value": 125,
     "2015-05": {
         "1B": 13,
         "2B": 4,
@@ -48257,7 +48257,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2015-05-value": 120,
+    "2015-05-value": 122,
     "2015-06": {
         "1B": 3,
         "2B": 2,
@@ -48285,7 +48285,7 @@ db.players.insert({
         "points": 32,
         "type": "batter"
     },
-    "2015-06-value": 146,
+    "2015-06-value": 105,
     "name": "Zack Cozart",
     "playerid": 2616
 });
@@ -48317,7 +48317,7 @@ db.players.insert({
         "points": 43,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 97,
     "2015-05": {
         "1B": 5,
         "2B": 3,
@@ -48345,7 +48345,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 94,
     "2015-06": {
         "1B": 8,
         "2B": 2,
@@ -48373,7 +48373,7 @@ db.players.insert({
         "points": 27,
         "type": "batter"
     },
-    "2015-06-value": 150,
+    "2015-06-value": 102,
     "2015-07": {
         "1B": 19,
         "2B": 9,
@@ -48401,7 +48401,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-07-value": 109,
+    "2015-07-value": 132,
     "name": "Carlos Sanchez",
     "playerid": 11602
 });
@@ -48433,7 +48433,7 @@ db.players.insert({
         "points": 79,
         "type": "batter"
     },
-    "2014-value": 148,
+    "2014-value": 104,
     "2015-05": {
         "1B": 1,
         "2B": 1,
@@ -48461,7 +48461,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-05-value": 86,
+    "2015-05-value": 78,
     "2015-06": {
         "1B": 2,
         "2B": 0,
@@ -48489,7 +48489,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 82,
+    "2015-06-value": 75,
     "2015-07": {
         "1B": 4,
         "2B": 0,
@@ -48517,7 +48517,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-07-value": 91,
+    "2015-07-value": 82,
     "name": "Drew Butera",
     "playerid": 3411
 });
@@ -48549,7 +48549,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 75,
+    "2015-06-value": 69,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -48577,7 +48577,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 66,
+    "2015-07-value": 64,
     "name": "Ian Thomas",
     "playerid": 13881
 });
@@ -48609,7 +48609,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2014-value": 98,
+    "2014-value": 92,
     "name": "Garin Cecchini",
     "playerid": 11608
 });
@@ -48641,7 +48641,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2014-value": 96,
+    "2014-value": 88,
     "name": "Terrance Gore",
     "playerid": 13658
 });
@@ -48673,7 +48673,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2014-value": 84,
+    "2014-value": 76,
     "name": "Brandon Cumpton",
     "playerid": 11366
 });
@@ -48705,7 +48705,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-05-value": 89,
+    "2015-05-value": 81,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -48765,7 +48765,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 72,
+    "2015-06-value": 67,
     "name": "Jarrett Parker",
     "playerid": 11624
 });
@@ -48797,7 +48797,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2014-value": 153,
+    "2014-value": 100,
     "2015-05": {
         "1B": 25,
         "2B": 5,
@@ -48825,7 +48825,7 @@ db.players.insert({
         "points": 82,
         "type": "batter"
     },
-    "2015-05-value": 102,
+    "2015-05-value": 140,
     "2015-06": {
         "1B": 16,
         "2B": 3,
@@ -48853,7 +48853,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2015-06-value": 113,
+    "2015-06-value": 128,
     "2015-07": {
         "1B": 14,
         "2B": 1,
@@ -48881,7 +48881,7 @@ db.players.insert({
         "points": 30,
         "type": "batter"
     },
-    "2015-07-value": 142,
+    "2015-07-value": 108,
     "name": "Jimmy Paredes",
     "playerid": 5481
 });
@@ -48941,7 +48941,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 78,
+    "2015-06-value": 72,
     "name": "Collin McHugh",
     "playerid": 7531
 });
@@ -48973,7 +48973,7 @@ db.players.insert({
         "points": 22,
         "type": "batter"
     },
-    "2014-value": 97,
+    "2014-value": 91,
     "2015-05": {
         "1B": 7,
         "2B": 1,
@@ -49001,7 +49001,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-05-value": 93,
+    "2015-05-value": 85,
     "2015-06": {
         "1B": 2,
         "2B": 2,
@@ -49029,7 +49029,7 @@ db.players.insert({
         "points": 19,
         "type": "batter"
     },
-    "2015-06-value": 98,
+    "2015-06-value": 93,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -49057,7 +49057,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 83,
+    "2015-07-value": 75,
     "name": "Jose Pirela",
     "playerid": 5485
 });
@@ -49089,7 +49089,7 @@ db.players.insert({
         "points": 110,
         "type": "batter"
     },
-    "2014-value": 142,
+    "2014-value": 107,
     "2015-05": {
         "1B": 6,
         "2B": 1,
@@ -49117,7 +49117,7 @@ db.players.insert({
         "points": 19,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 95,
     "2015-06": {
         "1B": 0,
         "2B": 1,
@@ -49145,7 +49145,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 84,
+    "2015-06-value": 76,
     "2015-07": {
         "1B": 2,
         "2B": 1,
@@ -49173,7 +49173,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-07-value": 87,
+    "2015-07-value": 79,
     "name": "Abraham Almonte",
     "playerid": 5486
 });
@@ -49233,7 +49233,7 @@ db.players.insert({
         "points": 43,
         "type": "batter"
     },
-    "2015-05-value": 137,
+    "2015-05-value": 110,
     "2015-06": {
         "1B": 9,
         "2B": 1,
@@ -49261,7 +49261,7 @@ db.players.insert({
         "points": 30,
         "type": "batter"
     },
-    "2015-06-value": 148,
+    "2015-06-value": 104,
     "2015-07": {
         "1B": 9,
         "2B": 0,
@@ -49289,7 +49289,7 @@ db.players.insert({
         "points": 30,
         "type": "batter"
     },
-    "2015-07-value": 141,
+    "2015-07-value": 108,
     "name": "Ezequiel Carrera",
     "playerid": 9048
 });
@@ -49321,7 +49321,7 @@ db.players.insert({
         "points": 50,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 98,
     "2015-06": {
         "1B": 5,
         "2B": 1,
@@ -49349,7 +49349,7 @@ db.players.insert({
         "points": 29,
         "type": "batter"
     },
-    "2015-06-value": 149,
+    "2015-06-value": 103,
     "2015-07": {
         "1B": 6,
         "2B": 2,
@@ -49377,7 +49377,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-07-value": 97,
+    "2015-07-value": 91,
     "name": "Nolan Reimold",
     "playerid": 3441
 });
@@ -49437,7 +49437,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-05-value": 90,
+    "2015-05-value": 82,
     "2015-06": {
         "1B": 5,
         "2B": 1,
@@ -49465,7 +49465,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2015-06-value": 93,
+    "2015-06-value": 84,
     "2015-07": {
         "1B": 2,
         "2B": 0,
@@ -49493,7 +49493,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-07-value": 89,
+    "2015-07-value": 81,
     "name": "Dan Uggla",
     "playerid": 3442
 });
@@ -49525,7 +49525,7 @@ db.players.insert({
         "points": 393,
         "type": "batter"
     },
-    "2014-value": 102,
+    "2014-value": 140,
     "2015-05": {
         "1B": 17,
         "2B": 6,
@@ -49553,7 +49553,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-05-value": 116,
+    "2015-05-value": 126,
     "2015-06": {
         "1B": 12,
         "2B": 5,
@@ -49581,7 +49581,7 @@ db.players.insert({
         "points": 39,
         "type": "batter"
     },
-    "2015-06-value": 136,
+    "2015-06-value": 111,
     "2015-07": {
         "1B": 21,
         "2B": 5,
@@ -49609,7 +49609,7 @@ db.players.insert({
         "points": 90,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 146,
     "name": "Neil Walker",
     "playerid": 7539
 });
@@ -49669,7 +49669,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 54,
+    "2015-05-value": 55,
     "name": "Francisco Pena",
     "playerid": 8298
 });
@@ -49701,7 +49701,7 @@ db.players.insert({
         "points": 72,
         "type": "batter"
     },
-    "2014-value": 150,
+    "2014-value": 102,
     "2015-06": {
         "1B": 4,
         "2B": 1,
@@ -49729,7 +49729,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-06-value": 94,
+    "2015-06-value": 86,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -49757,7 +49757,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 79,
+    "2015-07-value": 72,
     "name": "Jeff Mathis",
     "playerid": 3448
 });
@@ -49789,7 +49789,7 @@ db.players.insert({
         "points": 174,
         "type": "batter"
     },
-    "2014-value": 131,
+    "2014-value": 115,
     "2015-05": {
         "1B": 11,
         "2B": 4,
@@ -49817,7 +49817,7 @@ db.players.insert({
         "points": 37,
         "type": "batter"
     },
-    "2015-05-value": 144,
+    "2015-05-value": 106,
     "2015-06": {
         "1B": 9,
         "2B": 3,
@@ -49845,7 +49845,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2015-06-value": 133,
+    "2015-06-value": 113,
     "2015-07": {
         "1B": 14,
         "2B": 3,
@@ -49873,7 +49873,7 @@ db.players.insert({
         "points": 46,
         "type": "batter"
     },
-    "2015-07-value": 126,
+    "2015-07-value": 118,
     "name": "Marwin Gonzalez",
     "playerid": 5497
 });
@@ -49905,7 +49905,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2014-value": 87,
+    "2014-value": 79,
     "2015-05": {
         "1B": 0,
         "2B": 1,
@@ -49933,7 +49933,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 83,
+    "2015-05-value": 75,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -49989,7 +49989,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 76,
+    "2015-07-value": 70,
     "name": "Kyle Hendricks",
     "playerid": 12049
 });
@@ -50021,7 +50021,7 @@ db.players.insert({
         "points": 177,
         "type": "batter"
     },
-    "2014-value": 130,
+    "2014-value": 116,
     "2015-05": {
         "1B": 4,
         "2B": 1,
@@ -50049,7 +50049,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-05-value": 93,
+    "2015-05-value": 85,
     "2015-06": {
         "1B": 3,
         "2B": 2,
@@ -50077,7 +50077,7 @@ db.players.insert({
         "points": 20,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 94,
     "name": "Junior Lake",
     "playerid": 4672
 });
@@ -50141,7 +50141,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 62,
+    "2015-05-value": 61,
     "name": "Cody Martin",
     "playerid": 12182
 });
@@ -50173,7 +50173,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2014-value": 92,
+    "2014-value": 83,
     "2015-07": {
         "1B": 3,
         "2B": 1,
@@ -50201,7 +50201,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-07-value": 98,
+    "2015-07-value": 92,
     "name": "Jesus Montero",
     "playerid": 5514
 });
@@ -50233,7 +50233,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 47,
+    "2014-value": 51,
     "2015-07": {
         "1B": 3,
         "2B": 4,
@@ -50261,7 +50261,7 @@ db.players.insert({
         "points": 25,
         "type": "batter"
     },
-    "2015-07-value": 148,
+    "2015-07-value": 103,
     "name": "Tommy Pham",
     "playerid": 2967
 });
@@ -50293,7 +50293,7 @@ db.players.insert({
         "points": 176,
         "type": "batter"
     },
-    "2014-value": 130,
+    "2014-value": 116,
     "2015-05": {
         "1B": 7,
         "2B": 3,
@@ -50321,7 +50321,7 @@ db.players.insert({
         "points": 28,
         "type": "batter"
     },
-    "2015-05-value": 152,
+    "2015-05-value": 100,
     "2015-06": {
         "1B": 12,
         "2B": 8,
@@ -50349,7 +50349,7 @@ db.players.insert({
         "points": 40,
         "type": "batter"
     },
-    "2015-06-value": 134,
+    "2015-06-value": 113,
     "2015-07": {
         "1B": 25,
         "2B": 3,
@@ -50377,7 +50377,7 @@ db.players.insert({
         "points": 55,
         "type": "batter"
     },
-    "2015-07-value": 114,
+    "2015-07-value": 127,
     "name": "Ruben Tejada",
     "playerid": 5519
 });
@@ -50409,7 +50409,7 @@ db.players.insert({
         "points": 453,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 146,
     "2015-05": {
         "1B": 15,
         "2B": 9,
@@ -50437,7 +50437,7 @@ db.players.insert({
         "points": 104,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 147,
     "2015-06": {
         "1B": 12,
         "2B": 10,
@@ -50465,7 +50465,7 @@ db.players.insert({
         "points": 90,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 146,
     "2015-07": {
         "1B": 16,
         "2B": 3,
@@ -50493,7 +50493,7 @@ db.players.insert({
         "points": 71,
         "type": "batter"
     },
-    "2015-07-value": 103,
+    "2015-07-value": 139,
     "name": "Anthony Rizzo",
     "playerid": 3473
 });
@@ -50525,7 +50525,7 @@ db.players.insert({
         "points": 331,
         "type": "batter"
     },
-    "2014-value": 106,
+    "2014-value": 135,
     "2015-05": {
         "1B": 8,
         "2B": 6,
@@ -50553,7 +50553,7 @@ db.players.insert({
         "points": 62,
         "type": "batter"
     },
-    "2015-05-value": 114,
+    "2015-05-value": 127,
     "2015-06": {
         "1B": 3,
         "2B": 1,
@@ -50581,7 +50581,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-06-value": 89,
+    "2015-06-value": 80,
     "2015-07": {
         "1B": 2,
         "2B": 1,
@@ -50609,7 +50609,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-07-value": 93,
+    "2015-07-value": 84,
     "name": "Lonnie Chisenhall",
     "playerid": 7571
 });
@@ -50641,7 +50641,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2014-value": 153,
+    "2014-value": 100,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -50669,7 +50669,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2015-05-value": 92,
+    "2015-05-value": 84,
     "2015-06": {
         "1B": 4,
         "2B": 0,
@@ -50697,7 +50697,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2015-06-value": 96,
+    "2015-06-value": 89,
     "2015-07": {
         "1B": 2,
         "2B": 0,
@@ -50725,7 +50725,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-07-value": 95,
+    "2015-07-value": 88,
     "name": "Madison Bumgarner",
     "playerid": 5524
 });
@@ -50757,7 +50757,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 49,
+    "2015-06-value": 52,
     "name": "Allen Webster",
     "playerid": 3993
 });
@@ -50789,7 +50789,7 @@ db.players.insert({
         "points": 215,
         "type": "batter"
     },
-    "2014-value": 124,
+    "2014-value": 120,
     "2015-05": {
         "1B": 14,
         "2B": 5,
@@ -50817,7 +50817,7 @@ db.players.insert({
         "points": 49,
         "type": "batter"
     },
-    "2015-05-value": 130,
+    "2015-05-value": 115,
     "2015-06": {
         "1B": 11,
         "2B": 5,
@@ -50845,7 +50845,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-06-value": 113,
+    "2015-06-value": 128,
     "2015-07": {
         "1B": 8,
         "2B": 0,
@@ -50873,7 +50873,7 @@ db.players.insert({
         "points": 29,
         "type": "batter"
     },
-    "2015-07-value": 143,
+    "2015-07-value": 107,
     "name": "Wilson Ramos",
     "playerid": 1433
 });
@@ -50905,7 +50905,7 @@ db.players.insert({
         "points": 364,
         "type": "batter"
     },
-    "2014-value": 104,
+    "2014-value": 137,
     "2015-05": {
         "1B": 3,
         "2B": 0,
@@ -50933,7 +50933,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-05-value": 87,
+    "2015-05-value": 78,
     "2015-06": {
         "1B": 11,
         "2B": 3,
@@ -50961,7 +50961,7 @@ db.players.insert({
         "points": 44,
         "type": "batter"
     },
-    "2015-06-value": 130,
+    "2015-06-value": 116,
     "2015-07": {
         "1B": 12,
         "2B": 6,
@@ -51021,7 +51021,7 @@ db.players.insert({
         "points": 131,
         "type": "batter"
     },
-    "2014-value": 138,
+    "2014-value": 110,
     "2015-05": {
         "1B": 3,
         "2B": 2,
@@ -51049,7 +51049,7 @@ db.players.insert({
         "points": 29,
         "type": "batter"
     },
-    "2015-05-value": 151,
+    "2015-05-value": 101,
     "2015-06": {
         "1B": 3,
         "2B": 2,
@@ -51077,7 +51077,7 @@ db.players.insert({
         "points": 32,
         "type": "batter"
     },
-    "2015-06-value": 146,
+    "2015-06-value": 105,
     "2015-07": {
         "1B": 2,
         "2B": 0,
@@ -51105,7 +51105,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 84,
+    "2015-07-value": 76,
     "name": "Michael McKenry",
     "playerid": 9628
 });
@@ -51137,7 +51137,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2014-value": 93,
+    "2014-value": 85,
     "name": "Shawn O'Malley",
     "playerid": 9629
 });
@@ -51169,7 +51169,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2014-value": 86,
+    "2014-value": 78,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -51197,7 +51197,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 78,
+    "2015-05-value": 72,
     "2015-06": {
         "1B": 3,
         "2B": 0,
@@ -51225,7 +51225,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-06-value": 87,
+    "2015-06-value": 79,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -51253,7 +51253,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 75,
+    "2015-07-value": 70,
     "name": "Carlos Martinez",
     "playerid": 11682
 });
@@ -51285,7 +51285,7 @@ db.players.insert({
         "points": 22,
         "type": "batter"
     },
-    "2014-value": 97,
+    "2014-value": 91,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -51313,7 +51313,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 53,
+    "2015-05-value": 55,
     "name": "Jordan Lyles",
     "playerid": 7593
 });
@@ -51345,7 +51345,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2014-value": 89,
+    "2014-value": 81,
     "2015-05": {
         "1B": 0,
         "2B": 1,
@@ -51373,7 +51373,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 73,
+    "2015-05-value": 68,
     "2015-06": {
         "1B": 2,
         "2B": 0,
@@ -51401,7 +51401,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 76,
+    "2015-06-value": 70,
     "2015-07": {
         "1B": 2,
         "2B": 0,
@@ -51429,7 +51429,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 78,
+    "2015-07-value": 72,
     "name": "Aaron Harang",
     "playerid": 1451
 });
@@ -51461,7 +51461,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 71,
+    "2014-value": 67,
     "name": "Tyler Chatwood",
     "playerid": 4338
 });
@@ -51493,7 +51493,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 51,
+    "2015-07-value": 53,
     "name": "Matt Harrison",
     "playerid": 5551
 });
@@ -51525,7 +51525,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2014-value": 89,
+    "2014-value": 81,
     "name": "Jamie Romak",
     "playerid": 5552
 });
@@ -51557,7 +51557,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 54,
+    "2015-07-value": 55,
     "name": "Austin Adams",
     "playerid": 7411
 });
@@ -51589,7 +51589,7 @@ db.players.insert({
         "points": 222,
         "type": "batter"
     },
-    "2014-value": 122,
+    "2014-value": 121,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -51617,7 +51617,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 68,
+    "2015-05-value": 65,
     "2015-06": {
         "1B": 4,
         "2B": 3,
@@ -51645,7 +51645,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 98,
     "2015-07": {
         "1B": 2,
         "2B": 2,
@@ -51673,7 +51673,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-07-value": 92,
+    "2015-07-value": 84,
     "name": "Jarrod Saltalamacchia",
     "playerid": 5557
 });
@@ -51705,7 +51705,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 82,
+    "2015-05-value": 74,
     "name": "Michael Blazek",
     "playerid": 9654
 });
@@ -51737,7 +51737,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2014-value": 88,
+    "2014-value": 79,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -51765,7 +51765,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 75,
+    "2015-05-value": 70,
     "2015-06": {
         "1B": 0,
         "2B": 1,
@@ -51793,7 +51793,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 77,
+    "2015-06-value": 71,
     "name": "Tim Lincecum",
     "playerid": 5705
 });
@@ -51853,7 +51853,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 55,
+    "2015-06-value": 56,
     "name": "Tommy Milone",
     "playerid": 7608
 });
@@ -51885,7 +51885,7 @@ db.players.insert({
         "points": 320,
         "type": "batter"
     },
-    "2014-value": 107,
+    "2014-value": 134,
     "2015-05": {
         "1B": 16,
         "2B": 8,
@@ -51913,7 +51913,7 @@ db.players.insert({
         "points": 87,
         "type": "batter"
     },
-    "2015-05-value": 101,
+    "2015-05-value": 143,
     "2015-06": {
         "1B": 21,
         "2B": 2,
@@ -51941,7 +51941,7 @@ db.players.insert({
         "points": 50,
         "type": "batter"
     },
-    "2015-06-value": 123,
+    "2015-06-value": 120,
     "2015-07": {
         "1B": 28,
         "2B": 7,
@@ -51969,7 +51969,7 @@ db.players.insert({
         "points": 92,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 147,
     "name": "Eric Hosmer",
     "playerid": 3516
 });
@@ -52001,7 +52001,7 @@ db.players.insert({
         "points": 82,
         "type": "batter"
     },
-    "2014-value": 147,
+    "2014-value": 104,
     "2015-05": {
         "1B": 8,
         "2B": 1,
@@ -52057,7 +52057,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-07-value": 98,
+    "2015-07-value": 92,
     "name": "Chris Taylor",
     "playerid": 13757
 });
@@ -52089,7 +52089,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 65,
+    "2014-value": 63,
     "name": "Sam Dyson",
     "playerid": 11710
 });
@@ -52121,7 +52121,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 61,
+    "2015-05-value": 60,
     "2015-06": {
         "1B": 1,
         "2B": 1,
@@ -52149,7 +52149,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-06-value": 88,
+    "2015-06-value": 79,
     "2015-07": {
         "1B": 2,
         "2B": 1,
@@ -52177,7 +52177,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2015-07-value": 98,
+    "2015-07-value": 94,
     "name": "Matt Harvey",
     "playerid": 11713
 });
@@ -52209,7 +52209,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-07-value": 90,
+    "2015-07-value": 82,
     "name": "Tim Cooney",
     "playerid": 13762
 });
@@ -52241,7 +52241,7 @@ db.players.insert({
         "points": 251,
         "type": "batter"
     },
-    "2014-value": 117,
+    "2014-value": 124,
     "2015-05": {
         "1B": 17,
         "2B": 3,
@@ -52269,7 +52269,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-05-value": 130,
+    "2015-05-value": 115,
     "2015-06": {
         "1B": 12,
         "2B": 5,
@@ -52297,7 +52297,7 @@ db.players.insert({
         "points": 50,
         "type": "batter"
     },
-    "2015-06-value": 122,
+    "2015-06-value": 121,
     "2015-07": {
         "1B": 7,
         "2B": 1,
@@ -52325,7 +52325,7 @@ db.players.insert({
         "points": 47,
         "type": "batter"
     },
-    "2015-07-value": 124,
+    "2015-07-value": 120,
     "name": "Mark Reynolds",
     "playerid": 7619
 });
@@ -52357,7 +52357,7 @@ db.players.insert({
         "points": 157,
         "type": "batter"
     },
-    "2014-value": 134,
+    "2014-value": 113,
     "2015-05": {
         "1B": 2,
         "2B": 2,
@@ -52385,7 +52385,7 @@ db.players.insert({
         "points": 23,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 98,
     "2015-06": {
         "1B": 3,
         "2B": 0,
@@ -52413,7 +52413,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 84,
+    "2015-06-value": 76,
     "name": "Justin Ruggiano",
     "playerid": 7620
 });
@@ -52445,7 +52445,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 69,
+    "2014-value": 66,
     "name": "Felix Doubront",
     "playerid": 1478
 });
@@ -52477,7 +52477,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 66,
+    "2014-value": 63,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -52505,7 +52505,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 59,
+    "2015-06-value": 58,
     "name": "Justin Grimm",
     "playerid": 11720
 });
@@ -52537,7 +52537,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 51,
+    "2014-value": 53,
     "name": "Jeff Francis",
     "playerid": 4684
 });
@@ -52569,7 +52569,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-07-value": 94,
+    "2015-07-value": 86,
     "name": "Rob Refsnyder",
     "playerid": 13770
 });
@@ -52601,7 +52601,7 @@ db.players.insert({
         "points": 315,
         "type": "batter"
     },
-    "2014-value": 108,
+    "2014-value": 133,
     "2015-05": {
         "1B": 15,
         "2B": 5,
@@ -52629,7 +52629,7 @@ db.players.insert({
         "points": 53,
         "type": "batter"
     },
-    "2015-05-value": 124,
+    "2015-05-value": 119,
     "2015-06": {
         "1B": 31,
         "2B": 2,
@@ -52657,7 +52657,7 @@ db.players.insert({
         "points": 89,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 145,
     "2015-07": {
         "1B": 11,
         "2B": 3,
@@ -52685,7 +52685,7 @@ db.players.insert({
         "points": 64,
         "type": "batter"
     },
-    "2015-07-value": 106,
+    "2015-07-value": 135,
     "name": "Troy Tulowitzki",
     "playerid": 3531
 });
@@ -52749,7 +52749,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 64,
+    "2015-05-value": 62,
     "2015-07": {
         "1B": 3,
         "2B": 2,
@@ -52809,7 +52809,7 @@ db.players.insert({
         "points": 105,
         "type": "batter"
     },
-    "2014-value": 143,
+    "2014-value": 107,
     "2015-05": {
         "1B": 5,
         "2B": 1,
@@ -52837,7 +52837,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-05-value": 94,
+    "2015-05-value": 86,
     "2015-06": {
         "1B": 4,
         "2B": 1,
@@ -52865,7 +52865,7 @@ db.players.insert({
         "points": 26,
         "type": "batter"
     },
-    "2015-06-value": 153,
+    "2015-06-value": 100,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -52893,7 +52893,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 72,
+    "2015-07-value": 67,
     "name": "Carlos Corporan",
     "playerid": 5587
 });
@@ -52925,7 +52925,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2014-value": 88,
+    "2014-value": 80,
     "2015-05": {
         "1B": 3,
         "2B": 0,
@@ -52953,7 +52953,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-05-value": 86,
+    "2015-05-value": 78,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -52981,7 +52981,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-06-value": 88,
+    "2015-06-value": 80,
     "2015-07": {
         "1B": 0,
         "2B": 1,
@@ -53009,7 +53009,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 86,
+    "2015-07-value": 78,
     "name": "Alex Wood",
     "playerid": 13781
 });
@@ -53041,7 +53041,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 70,
+    "2014-value": 66,
     "name": "Danny Duffy",
     "playerid": 3542
 });
@@ -53073,7 +53073,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 46,
+    "2015-06-value": 50,
     "name": "Chris Capuano",
     "playerid": 1701
 });
@@ -53105,7 +53105,7 @@ db.players.insert({
         "points": 330,
         "type": "batter"
     },
-    "2014-value": 106,
+    "2014-value": 135,
     "2015-05": {
         "1B": 17,
         "2B": 3,
@@ -53133,7 +53133,7 @@ db.players.insert({
         "points": 55,
         "type": "batter"
     },
-    "2015-05-value": 121,
+    "2015-05-value": 122,
     "2015-06": {
         "1B": 14,
         "2B": 3,
@@ -53161,7 +53161,7 @@ db.players.insert({
         "points": 32,
         "type": "batter"
     },
-    "2015-06-value": 145,
+    "2015-06-value": 105,
     "2015-07": {
         "1B": 14,
         "2B": 4,
@@ -53189,7 +53189,7 @@ db.players.insert({
         "points": 80,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 144,
     "name": "Nick Castellanos",
     "playerid": 11737
 });
@@ -53221,7 +53221,7 @@ db.players.insert({
         "points": 23,
         "type": "batter"
     },
-    "2014-value": 98,
+    "2014-value": 92,
     "2015-05": {
         "1B": 10,
         "2B": 4,
@@ -53249,7 +53249,7 @@ db.players.insert({
         "points": 53,
         "type": "batter"
     },
-    "2015-05-value": 123,
+    "2015-05-value": 120,
     "2015-06": {
         "1B": 18,
         "2B": 4,
@@ -53277,7 +53277,7 @@ db.players.insert({
         "points": 47,
         "type": "batter"
     },
-    "2015-06-value": 127,
+    "2015-06-value": 117,
     "2015-07": {
         "1B": 10,
         "2B": 5,
@@ -53305,7 +53305,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-07-value": 109,
+    "2015-07-value": 132,
     "name": "J.T. Realmuto",
     "playerid": 11739
 });
@@ -53337,7 +53337,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 48,
+    "2015-06-value": 52,
     "name": "Liam Hendriks",
     "playerid": 3548
 });
@@ -53369,7 +53369,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 48,
+    "2015-07-value": 51,
     "name": "Clayton Richard",
     "playerid": 3551
 });
@@ -53401,7 +53401,7 @@ db.players.insert({
         "points": 83,
         "type": "batter"
     },
-    "2014-value": 147,
+    "2014-value": 104,
     "name": "Stefen Romero",
     "playerid": 11746
 });
@@ -53433,7 +53433,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2014-value": 81,
+    "2014-value": 74,
     "2015-05": {
         "1B": 0,
         "2B": 1,
@@ -53461,7 +53461,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 79,
+    "2015-05-value": 72,
     "2015-06": {
         "1B": 0,
         "2B": 1,
@@ -53489,7 +53489,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 76,
+    "2015-06-value": 70,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -53517,7 +53517,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 69,
+    "2015-07-value": 66,
     "name": "John Lackey",
     "playerid": 1507
 });
@@ -53549,7 +53549,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 64,
+    "2015-05-value": 62,
     "name": "Tyler Wagner",
     "playerid": 13796
 });
@@ -53581,7 +53581,7 @@ db.players.insert({
         "points": 370,
         "type": "batter"
     },
-    "2014-value": 104,
+    "2014-value": 138,
     "2015-05": {
         "1B": 10,
         "2B": 3,
@@ -53609,7 +53609,7 @@ db.players.insert({
         "points": 32,
         "type": "batter"
     },
-    "2015-05-value": 148,
+    "2015-05-value": 103,
     "name": "Matt Adams",
     "playerid": 9393
 });
@@ -53673,7 +53673,7 @@ db.players.insert({
         "points": 27,
         "type": "batter"
     },
-    "2015-05-value": 153,
+    "2015-05-value": 100,
     "2015-06": {
         "1B": 9,
         "2B": 2,
@@ -53701,7 +53701,7 @@ db.players.insert({
         "points": 19,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 94,
     "2015-07": {
         "1B": 12,
         "2B": 3,
@@ -53729,7 +53729,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-07-value": 149,
+    "2015-07-value": 103,
     "name": "Kevin Plawecki",
     "playerid": 13807
 });
@@ -53761,7 +53761,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 66,
+    "2014-value": 63,
     "name": "Drew Smyly",
     "playerid": 11760
 });
@@ -53793,7 +53793,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2015-05-value": 98,
+    "2015-05-value": 93,
     "name": "Micah Johnson",
     "playerid": 13809
 });
@@ -53825,7 +53825,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2015-05-value": 93,
+    "2015-05-value": 85,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -53881,7 +53881,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 75,
+    "2015-07-value": 70,
     "name": "Noah Syndergaard",
     "playerid": 11762
 });
@@ -53913,7 +53913,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2014-value": 91,
+    "2014-value": 82,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -53941,7 +53941,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 72,
+    "2015-06-value": 67,
     "name": "Kyle Parker",
     "playerid": 11763
 });
@@ -53973,7 +53973,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 61,
+    "2014-value": 60,
     "name": "Bryan Anderson",
     "playerid": 9871
 });
@@ -54005,7 +54005,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 71,
+    "2014-value": 67,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -54033,7 +54033,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 67,
+    "2015-05-value": 64,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -54061,7 +54061,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 66,
+    "2015-06-value": 63,
     "name": "C.J. Wilson",
     "playerid": 3580
 });
@@ -54093,7 +54093,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2014-value": 79,
+    "2014-value": 73,
     "2015-05": {
         "1B": 7,
         "2B": 2,
@@ -54121,7 +54121,7 @@ db.players.insert({
         "points": 23,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 98,
     "2015-06": {
         "1B": 4,
         "2B": 0,
@@ -54149,7 +54149,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2015-06-value": 98,
+    "2015-06-value": 93,
     "name": "Jason Rogers",
     "playerid": 11773
 });
@@ -54181,7 +54181,7 @@ db.players.insert({
         "points": 179,
         "type": "batter"
     },
-    "2014-value": 129,
+    "2014-value": 116,
     "2015-05": {
         "1B": 20,
         "2B": 2,
@@ -54209,7 +54209,7 @@ db.players.insert({
         "points": 58,
         "type": "batter"
     },
-    "2015-05-value": 118,
+    "2015-05-value": 124,
     "2015-06": {
         "1B": 12,
         "2B": 6,
@@ -54237,7 +54237,7 @@ db.players.insert({
         "points": 44,
         "type": "batter"
     },
-    "2015-06-value": 130,
+    "2015-06-value": 115,
     "2015-07": {
         "1B": 7,
         "2B": 0,
@@ -54265,7 +54265,7 @@ db.players.insert({
         "points": 21,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 98,
     "name": "Michael Cuddyer",
     "playerid": 1534
 });
@@ -54297,7 +54297,7 @@ db.players.insert({
         "points": 456,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 146,
     "2015-05": {
         "1B": 18,
         "2B": 3,
@@ -54325,7 +54325,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-05-value": 132,
+    "2015-05-value": 114,
     "2015-06": {
         "1B": 14,
         "2B": 6,
@@ -54353,7 +54353,7 @@ db.players.insert({
         "points": 78,
         "type": "batter"
     },
-    "2015-06-value": 102,
+    "2015-06-value": 141,
     "2015-07": {
         "1B": 13,
         "2B": 6,
@@ -54381,7 +54381,7 @@ db.players.insert({
         "points": 72,
         "type": "batter"
     },
-    "2015-07-value": 102,
+    "2015-07-value": 140,
     "name": "Matt Kemp",
     "playerid": 5631
 });
@@ -54413,7 +54413,7 @@ db.players.insert({
         "points": 31,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 94,
     "2015-05": {
         "1B": 20,
         "2B": 3,
@@ -54441,7 +54441,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-05-value": 115,
+    "2015-05-value": 126,
     "2015-06": {
         "1B": 16,
         "2B": 6,
@@ -54469,7 +54469,7 @@ db.players.insert({
         "points": 93,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 147,
     "2015-07": {
         "1B": 24,
         "2B": 5,
@@ -54497,7 +54497,7 @@ db.players.insert({
         "points": 68,
         "type": "batter"
     },
-    "2015-07-value": 104,
+    "2015-07-value": 138,
     "name": "Matt Duffy",
     "playerid": 13836
 });
@@ -54557,7 +54557,7 @@ db.players.insert({
         "points": 40,
         "type": "batter"
     },
-    "2015-05-value": 141,
+    "2015-05-value": 108,
     "2015-06": {
         "1B": 12,
         "2B": 4,
@@ -54585,7 +54585,7 @@ db.players.insert({
         "points": 54,
         "type": "batter"
     },
-    "2015-06-value": 117,
+    "2015-06-value": 125,
     "2015-07": {
         "1B": 13,
         "2B": 2,
@@ -54613,7 +54613,7 @@ db.players.insert({
         "points": 45,
         "type": "batter"
     },
-    "2015-07-value": 127,
+    "2015-07-value": 117,
     "name": "Ben Paulsen",
     "playerid": 9741
 });
@@ -54645,7 +54645,7 @@ db.players.insert({
         "points": 87,
         "type": "batter"
     },
-    "2014-value": 146,
+    "2014-value": 105,
     "2015-05": {
         "1B": 3,
         "2B": 2,
@@ -54673,7 +54673,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-05-value": 90,
+    "2015-05-value": 82,
     "2015-06": {
         "1B": 4,
         "2B": 3,
@@ -54701,7 +54701,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2015-06-value": 96,
+    "2015-06-value": 89,
     "2015-07": {
         "1B": 3,
         "2B": 0,
@@ -54729,7 +54729,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-07-value": 96,
+    "2015-07-value": 88,
     "name": "David Ross",
     "playerid": 1551
 });
@@ -54761,7 +54761,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 98,
     "2015-05": {
         "1B": 11,
         "2B": 3,
@@ -54789,7 +54789,7 @@ db.players.insert({
         "points": 53,
         "type": "batter"
     },
-    "2015-05-value": 124,
+    "2015-05-value": 120,
     "2015-06": {
         "1B": 5,
         "2B": 2,
@@ -54845,7 +54845,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2015-07-value": 113,
+    "2015-07-value": 128,
     "name": "Justin Bour",
     "playerid": 9744
 });
@@ -54877,7 +54877,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2014-value": 77,
+    "2014-value": 71,
     "name": "Marco Scutaro",
     "playerid": 1555
 });
@@ -54909,7 +54909,7 @@ db.players.insert({
         "points": 484,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 147,
     "2015-05": {
         "1B": 16,
         "2B": 8,
@@ -54937,7 +54937,7 @@ db.players.insert({
         "points": 120,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 149,
     "2015-06": {
         "1B": 21,
         "2B": 5,
@@ -54965,7 +54965,7 @@ db.players.insert({
         "points": 70,
         "type": "batter"
     },
-    "2015-06-value": 105,
+    "2015-06-value": 137,
     "2015-07": {
         "1B": 11,
         "2B": 9,
@@ -54993,7 +54993,7 @@ db.players.insert({
         "points": 95,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 147,
     "name": "Josh Donaldson",
     "playerid": 5038
 });
@@ -55025,7 +55025,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 74,
+    "2015-06-value": 69,
     "name": "Jon Moscot",
     "playerid": 13849
 });
@@ -55057,7 +55057,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2014-value": 82,
+    "2014-value": 75,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -55085,7 +55085,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 56,
+    "2015-05-value": 57,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -55113,7 +55113,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 56,
+    "2015-06-value": 57,
     "2015-07": {
         "1B": 2,
         "2B": 0,
@@ -55141,7 +55141,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 84,
+    "2015-07-value": 76,
     "name": "David Hale",
     "playerid": 9756
 });
@@ -55173,7 +55173,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2014-value": 89,
+    "2014-value": 81,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -55201,7 +55201,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 79,
+    "2015-06-value": 73,
     "name": "Joe Kelly",
     "playerid": 9761
 });
@@ -55233,7 +55233,7 @@ db.players.insert({
         "points": 341,
         "type": "batter"
     },
-    "2014-value": 105,
+    "2014-value": 136,
     "2015-05": {
         "1B": 4,
         "2B": 1,
@@ -55261,7 +55261,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2015-05-value": 96,
+    "2015-05-value": 88,
     "name": "Devin Mesoraco",
     "playerid": 5666
 });
@@ -55293,7 +55293,7 @@ db.players.insert({
         "points": 13,
         "type": "batter"
     },
-    "2014-value": 94,
+    "2014-value": 86,
     "2015-05": {
         "1B": 9,
         "2B": 5,
@@ -55321,7 +55321,7 @@ db.players.insert({
         "points": 76,
         "type": "batter"
     },
-    "2015-05-value": 104,
+    "2015-05-value": 138,
     "2015-06": {
         "1B": 11,
         "2B": 1,
@@ -55349,7 +55349,7 @@ db.players.insert({
         "points": 61,
         "type": "batter"
     },
-    "2015-06-value": 111,
+    "2015-06-value": 130,
     "2015-07": {
         "1B": 7,
         "2B": 2,
@@ -55377,7 +55377,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-07-value": 151,
+    "2015-07-value": 101,
     "name": "Steven Souza",
     "playerid": 5667
 });
@@ -55409,7 +55409,7 @@ db.players.insert({
         "points": 321,
         "type": "batter"
     },
-    "2014-value": 107,
+    "2014-value": 134,
     "2015-05": {
         "1B": 1,
         "2B": 1,
@@ -55437,7 +55437,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2015-05-value": 92,
+    "2015-05-value": 83,
     "name": "Coco Crisp",
     "playerid": 1572
 });
@@ -55469,7 +55469,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2014-value": 95,
+    "2014-value": 88,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -55497,7 +55497,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 75,
+    "2015-05-value": 70,
     "name": "Henderson Alvarez",
     "playerid": 5669
 });
@@ -55529,7 +55529,7 @@ db.players.insert({
         "points": 33,
         "type": "batter"
     },
-    "2015-05-value": 147,
+    "2015-05-value": 104,
     "2015-06": {
         "1B": 3,
         "2B": 2,
@@ -55557,7 +55557,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-06-value": 96,
+    "2015-06-value": 89,
     "2015-07": {
         "1B": 18,
         "2B": 6,
@@ -55585,7 +55585,7 @@ db.players.insert({
         "points": 55,
         "type": "batter"
     },
-    "2015-07-value": 113,
+    "2015-07-value": 128,
     "name": "Devon Travis",
     "playerid": 13862
 });
@@ -55617,7 +55617,7 @@ db.players.insert({
         "points": 206,
         "type": "batter"
     },
-    "2014-value": 125,
+    "2014-value": 119,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -55645,7 +55645,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 79,
+    "2015-06-value": 73,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -55705,7 +55705,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 57,
+    "2014-value": 58,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -55733,7 +55733,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 80,
+    "2015-07-value": 73,
     "name": "David Holmberg",
     "playerid": 7725
 });
@@ -55765,7 +55765,7 @@ db.players.insert({
         "points": 89,
         "type": "batter"
     },
-    "2014-value": 146,
+    "2014-value": 105,
     "name": "Christian Vazquez",
     "playerid": 9774
 });
@@ -55797,7 +55797,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 53,
+    "2014-value": 55,
     "name": "Brooks Brown",
     "playerid": 5679
 });
@@ -55829,7 +55829,7 @@ db.players.insert({
         "points": 311,
         "type": "batter"
     },
-    "2014-value": 108,
+    "2014-value": 132,
     "2015-05": {
         "1B": 29,
         "2B": 15,
@@ -55857,7 +55857,7 @@ db.players.insert({
         "points": 137,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 149,
     "2015-06": {
         "1B": 24,
         "2B": 9,
@@ -55885,7 +55885,7 @@ db.players.insert({
         "points": 79,
         "type": "batter"
     },
-    "2015-06-value": 101,
+    "2015-06-value": 142,
     "2015-07": {
         "1B": 20,
         "2B": 6,
@@ -55913,7 +55913,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-07-value": 109,
+    "2015-07-value": 131,
     "name": "Jason Kipnis",
     "playerid": 9776
 });
@@ -55945,7 +55945,7 @@ db.players.insert({
         "points": 339,
         "type": "batter"
     },
-    "2014-value": 105,
+    "2014-value": 136,
     "2015-05": {
         "1B": 15,
         "2B": 3,
@@ -55973,7 +55973,7 @@ db.players.insert({
         "points": 96,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 145,
     "2015-06": {
         "1B": 14,
         "2B": 6,
@@ -56001,7 +56001,7 @@ db.players.insert({
         "points": 137,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 149,
     "2015-07": {
         "1B": 10,
         "2B": 9,
@@ -56029,7 +56029,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-07-value": 116,
+    "2015-07-value": 126,
     "name": "Nolan Arenado",
     "playerid": 9777
 });
@@ -56061,7 +56061,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2014-value": 88,
+    "2014-value": 79,
     "name": "Juan Nicasio",
     "playerid": 7731
 });
@@ -56093,7 +56093,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 66,
+    "2014-value": 63,
     "name": "James Paxton",
     "playerid": 11828
 });
@@ -56157,7 +56157,7 @@ db.players.insert({
         "points": 449,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 145,
     "2015-05": {
         "1B": 16,
         "2B": 6,
@@ -56185,7 +56185,7 @@ db.players.insert({
         "points": 89,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 144,
     "2015-06": {
         "1B": 16,
         "2B": 3,
@@ -56213,7 +56213,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-06-value": 119,
+    "2015-06-value": 123,
     "2015-07": {
         "1B": 22,
         "2B": 8,
@@ -56241,7 +56241,7 @@ db.players.insert({
         "points": 74,
         "type": "batter"
     },
-    "2015-07-value": 102,
+    "2015-07-value": 141,
     "name": "Kyle Seager",
     "playerid": 9785
 });
@@ -56273,7 +56273,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2014-value": 93,
+    "2014-value": 85,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -56301,7 +56301,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 77,
+    "2015-05-value": 71,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -56329,7 +56329,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 54,
+    "2015-07-value": 56,
     "name": "Wily Peralta",
     "playerid": 7738
 });
@@ -56361,7 +56361,7 @@ db.players.insert({
         "points": 251,
         "type": "batter"
     },
-    "2014-value": 117,
+    "2014-value": 125,
     "2015-06": {
         "1B": 4,
         "2B": 2,
@@ -56389,7 +56389,7 @@ db.players.insert({
         "points": 29,
         "type": "batter"
     },
-    "2015-06-value": 149,
+    "2015-06-value": 103,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -56417,7 +56417,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 54,
+    "2015-07-value": 56,
     "name": "Travis d'Arnaud",
     "playerid": 7739
 });
@@ -56477,7 +56477,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 63,
+    "2015-07-value": 62,
     "name": "Taijuan Walker",
     "playerid": 11836
 });
@@ -56509,7 +56509,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2014-value": 97,
+    "2014-value": 91,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -56537,7 +56537,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 50,
+    "2015-05-value": 53,
     "name": "Andrew Lambo",
     "playerid": 5386
 });
@@ -56569,7 +56569,7 @@ db.players.insert({
         "points": 198,
         "type": "batter"
     },
-    "2014-value": 126,
+    "2014-value": 118,
     "2015-05": {
         "1B": 6,
         "2B": 4,
@@ -56625,7 +56625,7 @@ db.players.insert({
         "points": 37,
         "type": "batter"
     },
-    "2015-06-value": 139,
+    "2015-06-value": 110,
     "2015-07": {
         "1B": 7,
         "2B": 1,
@@ -56653,7 +56653,7 @@ db.players.insert({
         "points": 23,
         "type": "batter"
     },
-    "2015-07-value": 152,
+    "2015-07-value": 101,
     "name": "Rene Rivera",
     "playerid": 3648
 });
@@ -56685,7 +56685,7 @@ db.players.insert({
         "points": 37,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 95,
     "2015-05": {
         "1B": 1,
         "2B": 1,
@@ -56713,7 +56713,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-05-value": 89,
+    "2015-05-value": 80,
     "2015-06": {
         "1B": 4,
         "2B": 2,
@@ -56773,7 +56773,7 @@ db.players.insert({
         "points": 364,
         "type": "batter"
     },
-    "2014-value": 104,
+    "2014-value": 138,
     "2015-05": {
         "1B": 8,
         "2B": 4,
@@ -56801,7 +56801,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2015-05-value": 139,
+    "2015-05-value": 109,
     "2015-06": {
         "1B": 16,
         "2B": 2,
@@ -56829,7 +56829,7 @@ db.players.insert({
         "points": 53,
         "type": "batter"
     },
-    "2015-06-value": 118,
+    "2015-06-value": 124,
     "2015-07": {
         "1B": 6,
         "2B": 1,
@@ -56857,7 +56857,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 95,
     "name": "Leonys Martin",
     "playerid": 11846
 });
@@ -56889,7 +56889,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 49,
+    "2014-value": 52,
     "name": "Jim Johnson",
     "playerid": 3656
 });
@@ -56921,7 +56921,7 @@ db.players.insert({
         "points": 312,
         "type": "batter"
     },
-    "2014-value": 108,
+    "2014-value": 132,
     "2015-05": {
         "1B": 12,
         "2B": 5,
@@ -56949,7 +56949,7 @@ db.players.insert({
         "points": 44,
         "type": "batter"
     },
-    "2015-05-value": 137,
+    "2015-05-value": 111,
     "2015-06": {
         "1B": 17,
         "2B": 5,
@@ -56977,7 +56977,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-06-value": 127,
+    "2015-06-value": 118,
     "2015-07": {
         "1B": 17,
         "2B": 4,
@@ -57005,7 +57005,7 @@ db.players.insert({
         "points": 53,
         "type": "batter"
     },
-    "2015-07-value": 115,
+    "2015-07-value": 126,
     "name": "Omar Infante",
     "playerid": 1609
 });
@@ -57037,7 +57037,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 73,
+    "2014-value": 68,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -57065,7 +57065,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 69,
+    "2015-05-value": 65,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -57093,7 +57093,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 69,
+    "2015-06-value": 65,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -57121,7 +57121,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 73,
+    "2015-07-value": 68,
     "name": "Mike Fiers",
     "playerid": 7754
 });
@@ -57153,7 +57153,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2014-value": 86,
+    "2014-value": 78,
     "name": "Steven Moya",
     "playerid": 11854
 });
@@ -57185,7 +57185,7 @@ db.players.insert({
         "points": 78,
         "type": "batter"
     },
-    "2014-value": 148,
+    "2014-value": 103,
     "2015-05": {
         "1B": 15,
         "2B": 4,
@@ -57213,7 +57213,7 @@ db.players.insert({
         "points": 44,
         "type": "batter"
     },
-    "2015-05-value": 136,
+    "2015-05-value": 111,
     "2015-06": {
         "1B": 6,
         "2B": 4,
@@ -57241,7 +57241,7 @@ db.players.insert({
         "points": 40,
         "type": "batter"
     },
-    "2015-06-value": 134,
+    "2015-06-value": 113,
     "2015-07": {
         "1B": 5,
         "2B": 1,
@@ -57269,7 +57269,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2015-07-value": 98,
+    "2015-07-value": 93,
     "name": "Ryan Goins",
     "playerid": 9807
 });
@@ -57301,7 +57301,7 @@ db.players.insert({
         "points": 474,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 147,
     "2015-05": {
         "1B": 11,
         "2B": 10,
@@ -57329,7 +57329,7 @@ db.players.insert({
         "points": 111,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 148,
     "2015-06": {
         "1B": 16,
         "2B": 8,
@@ -57357,7 +57357,7 @@ db.players.insert({
         "points": 102,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 147,
     "2015-07": {
         "1B": 10,
         "2B": 4,
@@ -57385,7 +57385,7 @@ db.players.insert({
         "points": 76,
         "type": "batter"
     },
-    "2015-07-value": 101,
+    "2015-07-value": 142,
     "name": "Brian Dozier",
     "playerid": 9810
 });
@@ -57417,7 +57417,7 @@ db.players.insert({
         "points": 13,
         "type": "batter"
     },
-    "2014-value": 94,
+    "2014-value": 86,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -57445,7 +57445,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 51,
+    "2015-05-value": 53,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -57473,7 +57473,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 68,
+    "2015-06-value": 65,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -57501,7 +57501,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-07-value": 79,
+    "2015-07-value": 73,
     "name": "Kyle Kendrick",
     "playerid": 6230
 });
@@ -57533,7 +57533,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 56,
+    "2015-05-value": 57,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -57625,7 +57625,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2014-value": 91,
+    "2014-value": 82,
     "name": "Cliff Lee",
     "playerid": 1636
 });
@@ -57657,7 +57657,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 72,
+    "2014-value": 68,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -57685,7 +57685,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 51,
+    "2015-05-value": 53,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -57713,7 +57713,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 52,
+    "2015-07-value": 54,
     "name": "Jake Odorizzi",
     "playerid": 6397
 });
@@ -57745,7 +57745,7 @@ db.players.insert({
         "points": 13,
         "type": "batter"
     },
-    "2014-value": 94,
+    "2014-value": 86,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -57801,7 +57801,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 56,
+    "2015-06-value": 57,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -57861,7 +57861,7 @@ db.players.insert({
         "points": 505,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 148,
     "2015-05": {
         "1B": 20,
         "2B": 10,
@@ -57889,7 +57889,7 @@ db.players.insert({
         "points": 99,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 146,
     "2015-06": {
         "1B": 20,
         "2B": 8,
@@ -57917,7 +57917,7 @@ db.players.insert({
         "points": 78,
         "type": "batter"
     },
-    "2015-06-value": 101,
+    "2015-06-value": 142,
     "2015-07": {
         "1B": 16,
         "2B": 5,
@@ -57945,7 +57945,7 @@ db.players.insert({
         "points": 88,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 146,
     "name": "Andrew McCutchen",
     "playerid": 9847
 });
@@ -57977,7 +57977,7 @@ db.players.insert({
         "points": 124,
         "type": "batter"
     },
-    "2014-value": 140,
+    "2014-value": 109,
     "2015-05": {
         "1B": 4,
         "2B": 6,
@@ -58005,7 +58005,7 @@ db.players.insert({
         "points": 23,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 98,
     "2015-06": {
         "1B": 7,
         "2B": 3,
@@ -58033,7 +58033,7 @@ db.players.insert({
         "points": 21,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 95,
     "2015-07": {
         "1B": 5,
         "2B": 1,
@@ -58061,7 +58061,7 @@ db.players.insert({
         "points": 16,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 94,
     "name": "Skip Schumaker",
     "playerid": 3704
 });
@@ -58093,7 +58093,7 @@ db.players.insert({
         "points": 58,
         "type": "batter"
     },
-    "2014-value": 152,
+    "2014-value": 101,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -58121,7 +58121,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 69,
+    "2015-06-value": 66,
     "2015-07": {
         "1B": 7,
         "2B": 1,
@@ -58149,7 +58149,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-07-value": 98,
+    "2015-07-value": 92,
     "name": "Miguel Rojas",
     "playerid": 7802
 });
@@ -58181,7 +58181,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 98,
     "2015-05": {
         "1B": 7,
         "2B": 3,
@@ -58209,7 +58209,7 @@ db.players.insert({
         "points": 28,
         "type": "batter"
     },
-    "2015-05-value": 153,
+    "2015-05-value": 100,
     "2015-06": {
         "1B": 6,
         "2B": 2,
@@ -58265,7 +58265,7 @@ db.players.insert({
         "points": 27,
         "type": "batter"
     },
-    "2015-07-value": 145,
+    "2015-07-value": 105,
     "name": "Geovany Soto",
     "playerid": 3707
 });
@@ -58297,7 +58297,7 @@ db.players.insert({
         "points": 372,
         "type": "batter"
     },
-    "2014-value": 104,
+    "2014-value": 138,
     "2015-05": {
         "1B": 8,
         "2B": 4,
@@ -58325,7 +58325,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-05-value": 132,
+    "2015-05-value": 114,
     "2015-06": {
         "1B": 10,
         "2B": 4,
@@ -58353,7 +58353,7 @@ db.players.insert({
         "points": 46,
         "type": "batter"
     },
-    "2015-06-value": 129,
+    "2015-06-value": 116,
     "2015-07": {
         "1B": 6,
         "2B": 2,
@@ -58381,7 +58381,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-07-value": 151,
+    "2015-07-value": 101,
     "name": "Rajai Davis",
     "playerid": 3708
 });
@@ -58413,7 +58413,7 @@ db.players.insert({
         "points": 87,
         "type": "batter"
     },
-    "2014-value": 146,
+    "2014-value": 105,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -58441,7 +58441,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 82,
+    "2015-05-value": 75,
     "2015-06": {
         "1B": 11,
         "2B": 3,
@@ -58469,7 +58469,7 @@ db.players.insert({
         "points": 27,
         "type": "batter"
     },
-    "2015-06-value": 151,
+    "2015-06-value": 102,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -58497,7 +58497,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 74,
+    "2015-07-value": 69,
     "name": "Efren Navarro",
     "playerid": 9854
 });
@@ -58529,7 +58529,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 46,
+    "2015-07-value": 50,
     "name": "Javier Lopez",
     "playerid": 1663
 });
@@ -58561,7 +58561,7 @@ db.players.insert({
         "points": 127,
         "type": "batter"
     },
-    "2014-value": 139,
+    "2014-value": 109,
     "2015-05": {
         "1B": 22,
         "2B": 4,
@@ -58589,7 +58589,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-05-value": 112,
+    "2015-05-value": 129,
     "2015-06": {
         "1B": 12,
         "2B": 2,
@@ -58617,7 +58617,7 @@ db.players.insert({
         "points": 53,
         "type": "batter"
     },
-    "2015-06-value": 118,
+    "2015-06-value": 124,
     "2015-07": {
         "1B": 22,
         "2B": 1,
@@ -58645,7 +58645,7 @@ db.players.insert({
         "points": 43,
         "type": "batter"
     },
-    "2015-07-value": 129,
+    "2015-07-value": 116,
     "name": "Avisail Garcia",
     "playerid": 5760
 });
@@ -58677,7 +58677,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 61,
+    "2015-05-value": 60,
     "name": "Orlando Calixte",
     "playerid": 11905
 });
@@ -58709,7 +58709,7 @@ db.players.insert({
         "points": 139,
         "type": "batter"
     },
-    "2014-value": 137,
+    "2014-value": 111,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -58769,7 +58769,7 @@ db.players.insert({
         "points": 77,
         "type": "batter"
     },
-    "2014-value": 148,
+    "2014-value": 103,
     "2015-05": {
         "1B": 7,
         "2B": 1,
@@ -58797,7 +58797,7 @@ db.players.insert({
         "points": 19,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 95,
     "2015-07": {
         "1B": 10,
         "2B": 0,
@@ -58825,7 +58825,7 @@ db.players.insert({
         "points": 20,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 98,
     "name": "Shane Victorino",
     "playerid": 1677
 });
@@ -58857,7 +58857,7 @@ db.players.insert({
         "points": 412,
         "type": "batter"
     },
-    "2014-value": 101,
+    "2014-value": 142,
     "2015-05": {
         "1B": 15,
         "2B": 6,
@@ -58885,7 +58885,7 @@ db.players.insert({
         "points": 55,
         "type": "batter"
     },
-    "2015-05-value": 122,
+    "2015-05-value": 121,
     "2015-06": {
         "1B": 6,
         "2B": 1,
@@ -58913,7 +58913,7 @@ db.players.insert({
         "points": 23,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 97,
     "name": "Chase Utley",
     "playerid": 1679
 });
@@ -58945,7 +58945,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 69,
+    "2014-value": 65,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -58973,7 +58973,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 65,
+    "2015-05-value": 63,
     "2015-06": {
         "1B": 0,
         "2B": 1,
@@ -59001,7 +59001,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 81,
+    "2015-06-value": 74,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -59029,7 +59029,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 68,
+    "2015-07-value": 65,
     "name": "Odrisamer Despaigne",
     "playerid": 16017
 });
@@ -59061,7 +59061,7 @@ db.players.insert({
         "points": 293,
         "type": "batter"
     },
-    "2014-value": 110,
+    "2014-value": 131,
     "2015-05": {
         "1B": 22,
         "2B": 1,
@@ -59089,7 +59089,7 @@ db.players.insert({
         "points": 67,
         "type": "batter"
     },
-    "2015-05-value": 109,
+    "2015-05-value": 132,
     "2015-06": {
         "1B": 22,
         "2B": 6,
@@ -59117,7 +59117,7 @@ db.players.insert({
         "points": 78,
         "type": "batter"
     },
-    "2015-06-value": 101,
+    "2015-06-value": 142,
     "2015-07": {
         "1B": 29,
         "2B": 5,
@@ -59145,7 +59145,7 @@ db.players.insert({
         "points": 78,
         "type": "batter"
     },
-    "2015-07-value": 101,
+    "2015-07-value": 143,
     "name": "DJ LeMahieu",
     "playerid": 9874
 });
@@ -59177,7 +59177,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 53,
+    "2014-value": 55,
     "name": "Brad Peacock",
     "playerid": 5401
 });
@@ -59209,7 +59209,7 @@ db.players.insert({
         "points": 43,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 97,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -59237,7 +59237,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 77,
+    "2015-05-value": 71,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -59265,7 +59265,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 70,
+    "2015-06-value": 66,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -59325,7 +59325,7 @@ db.players.insert({
         "points": 37,
         "type": "batter"
     },
-    "2015-06-value": 138,
+    "2015-06-value": 110,
     "2015-07": {
         "1B": 8,
         "2B": 1,
@@ -59353,7 +59353,7 @@ db.players.insert({
         "points": 29,
         "type": "batter"
     },
-    "2015-07-value": 142,
+    "2015-07-value": 107,
     "name": "Ivan De Jesus",
     "playerid": 9886
 });
@@ -59385,7 +59385,7 @@ db.players.insert({
         "points": 148,
         "type": "batter"
     },
-    "2014-value": 135,
+    "2014-value": 112,
     "2015-05": {
         "1B": 22,
         "2B": 6,
@@ -59413,7 +59413,7 @@ db.players.insert({
         "points": 90,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 144,
     "2015-06": {
         "1B": 24,
         "2B": 9,
@@ -59441,7 +59441,7 @@ db.players.insert({
         "points": 76,
         "type": "batter"
     },
-    "2015-06-value": 102,
+    "2015-06-value": 140,
     "2015-07": {
         "1B": 21,
         "2B": 3,
@@ -59469,7 +59469,7 @@ db.players.insert({
         "points": 49,
         "type": "batter"
     },
-    "2015-07-value": 120,
+    "2015-07-value": 122,
     "name": "Joe Panik",
     "playerid": 11936
 });
@@ -59501,7 +59501,7 @@ db.players.insert({
         "points": 345,
         "type": "batter"
     },
-    "2014-value": 105,
+    "2014-value": 136,
     "2015-05": {
         "1B": 15,
         "2B": 4,
@@ -59529,7 +59529,7 @@ db.players.insert({
         "points": 58,
         "type": "batter"
     },
-    "2015-05-value": 117,
+    "2015-05-value": 125,
     "2015-06": {
         "1B": 13,
         "2B": 8,
@@ -59557,7 +59557,7 @@ db.players.insert({
         "points": 84,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 144,
     "2015-07": {
         "1B": 12,
         "2B": 10,
@@ -59585,7 +59585,7 @@ db.players.insert({
         "points": 85,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 145,
     "name": "Jay Bruce",
     "playerid": 9892
 });
@@ -59617,7 +59617,7 @@ db.players.insert({
         "points": 248,
         "type": "batter"
     },
-    "2014-value": 118,
+    "2014-value": 124,
     "2015-05": {
         "1B": 6,
         "2B": 7,
@@ -59645,7 +59645,7 @@ db.players.insert({
         "points": 54,
         "type": "batter"
     },
-    "2015-05-value": 122,
+    "2015-05-value": 121,
     "2015-06": {
         "1B": 9,
         "2B": 4,
@@ -59673,7 +59673,7 @@ db.players.insert({
         "points": 44,
         "type": "batter"
     },
-    "2015-06-value": 130,
+    "2015-06-value": 116,
     "2015-07": {
         "1B": 8,
         "2B": 3,
@@ -59701,7 +59701,7 @@ db.players.insert({
         "points": 43,
         "type": "batter"
     },
-    "2015-07-value": 129,
+    "2015-07-value": 116,
     "name": "Colby Rasmus",
     "playerid": 9893
 });
@@ -59733,7 +59733,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 61,
+    "2014-value": 60,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -59761,7 +59761,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 56,
+    "2015-05-value": 57,
     "2015-06": {
         "1B": 2,
         "2B": 0,
@@ -59789,7 +59789,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-06-value": 87,
+    "2015-06-value": 79,
     "2015-07": {
         "1B": 3,
         "2B": 0,
@@ -59817,7 +59817,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-07-value": 96,
+    "2015-07-value": 89,
     "name": "Chris Rusin",
     "playerid": 9895
 });
@@ -59849,7 +59849,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 59,
+    "2014-value": 58,
     "name": "Jenrry Mejia",
     "playerid": 8476
 });
@@ -59881,7 +59881,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 49,
+    "2014-value": 52,
     "name": "Cesar Ramos",
     "playerid": 3357
 });
@@ -59913,7 +59913,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 74,
+    "2014-value": 69,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -59973,7 +59973,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 50,
+    "2014-value": 52,
     "name": "Cesar Jimenez",
     "playerid": 3762
 });
@@ -60005,7 +60005,7 @@ db.players.insert({
         "points": 471,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 146,
     "2015-05": {
         "1B": 14,
         "2B": 1,
@@ -60033,7 +60033,7 @@ db.players.insert({
         "points": 74,
         "type": "batter"
     },
-    "2015-05-value": 105,
+    "2015-05-value": 136,
     "2015-06": {
         "1B": 24,
         "2B": 7,
@@ -60061,7 +60061,7 @@ db.players.insert({
         "points": 110,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 148,
     "2015-07": {
         "1B": 23,
         "2B": 5,
@@ -60089,7 +60089,7 @@ db.players.insert({
         "points": 86,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 145,
     "name": "Charlie Blackmon",
     "playerid": 7859
 });
@@ -60121,7 +60121,7 @@ db.players.insert({
         "points": 415,
         "type": "batter"
     },
-    "2014-value": 101,
+    "2014-value": 142,
     "2015-05": {
         "1B": 11,
         "2B": 3,
@@ -60149,7 +60149,7 @@ db.players.insert({
         "points": 73,
         "type": "batter"
     },
-    "2015-05-value": 106,
+    "2015-05-value": 135,
     "2015-06": {
         "1B": 6,
         "2B": 7,
@@ -60177,7 +60177,7 @@ db.players.insert({
         "points": 71,
         "type": "batter"
     },
-    "2015-06-value": 104,
+    "2015-06-value": 137,
     "2015-07": {
         "1B": 2,
         "2B": 0,
@@ -60205,7 +60205,7 @@ db.players.insert({
         "points": 26,
         "type": "batter"
     },
-    "2015-07-value": 146,
+    "2015-07-value": 105,
     "name": "Chris Carter",
     "playerid": 9911
 });
@@ -60237,7 +60237,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2014-value": 79,
+    "2014-value": 73,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -60265,7 +60265,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 61,
+    "2015-05-value": 60,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -60293,7 +60293,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 60,
+    "2015-06-value": 59,
     "name": "Yordano Ventura",
     "playerid": 11855
 });
@@ -60325,7 +60325,7 @@ db.players.insert({
         "points": 422,
         "type": "batter"
     },
-    "2014-value": 101,
+    "2014-value": 143,
     "2015-06": {
         "1B": 24,
         "2B": 5,
@@ -60353,7 +60353,7 @@ db.players.insert({
         "points": 62,
         "type": "batter"
     },
-    "2015-06-value": 109,
+    "2015-06-value": 131,
     "2015-07": {
         "1B": 17,
         "2B": 7,
@@ -60381,7 +60381,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-07-value": 105,
+    "2015-07-value": 135,
     "name": "Jonathan Lucroy",
     "playerid": 7870
 });
@@ -60413,7 +60413,7 @@ db.players.insert({
         "points": 20,
         "type": "batter"
     },
-    "2014-value": 97,
+    "2014-value": 91,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -60441,7 +60441,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 53,
+    "2015-05-value": 55,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -60469,7 +60469,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-06-value": 91,
+    "2015-06-value": 82,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -60497,7 +60497,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-07-value": 93,
+    "2015-07-value": 85,
     "name": "Tyson Ross",
     "playerid": 7872
 });
@@ -60529,7 +60529,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2014-value": 93,
+    "2014-value": 85,
     "name": "Yorman Rodriguez",
     "playerid": 9922
 });
@@ -60561,7 +60561,7 @@ db.players.insert({
         "points": 157,
         "type": "batter"
     },
-    "2014-value": 134,
+    "2014-value": 113,
     "2015-05": {
         "1B": 14,
         "2B": 3,
@@ -60589,7 +60589,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-05-value": 112,
+    "2015-05-value": 129,
     "2015-06": {
         "1B": 14,
         "2B": 5,
@@ -60617,7 +60617,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-06-value": 120,
+    "2015-06-value": 123,
     "2015-07": {
         "1B": 21,
         "2B": 4,
@@ -60645,7 +60645,7 @@ db.players.insert({
         "points": 47,
         "type": "batter"
     },
-    "2015-07-value": 124,
+    "2015-07-value": 119,
     "name": "Wilmer Flores",
     "playerid": 5827
 });
@@ -60677,7 +60677,7 @@ db.players.insert({
         "points": 421,
         "type": "batter"
     },
-    "2014-value": 101,
+    "2014-value": 143,
     "2015-05": {
         "1B": 16,
         "2B": 7,
@@ -60705,7 +60705,7 @@ db.players.insert({
         "points": 87,
         "type": "batter"
     },
-    "2015-05-value": 101,
+    "2015-05-value": 143,
     "2015-06": {
         "1B": 21,
         "2B": 11,
@@ -60733,7 +60733,7 @@ db.players.insert({
         "points": 120,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 149,
     "2015-07": {
         "1B": 17,
         "2B": 2,
@@ -60761,7 +60761,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-07-value": 117,
+    "2015-07-value": 125,
     "name": "Brett Gardner",
     "playerid": 9927
 });
@@ -60793,7 +60793,7 @@ db.players.insert({
         "points": 448,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 145,
     "2015-05": {
         "1B": 6,
         "2B": 4,
@@ -60821,7 +60821,7 @@ db.players.insert({
         "points": 22,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 96,
     "2015-06": {
         "1B": 20,
         "2B": 5,
@@ -60849,7 +60849,7 @@ db.players.insert({
         "points": 91,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 146,
     "2015-07": {
         "1B": 25,
         "2B": 5,
@@ -60877,7 +60877,7 @@ db.players.insert({
         "points": 69,
         "type": "batter"
     },
-    "2015-07-value": 104,
+    "2015-07-value": 138,
     "name": "Jose Reyes",
     "playerid": 1736
 });
@@ -60909,7 +60909,7 @@ db.players.insert({
         "points": 62,
         "type": "batter"
     },
-    "2014-value": 152,
+    "2014-value": 101,
     "2015-05": {
         "1B": 8,
         "2B": 3,
@@ -60937,7 +60937,7 @@ db.players.insert({
         "points": 29,
         "type": "batter"
     },
-    "2015-05-value": 151,
+    "2015-05-value": 101,
     "2015-06": {
         "1B": 6,
         "2B": 1,
@@ -60965,7 +60965,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-06-value": 94,
+    "2015-06-value": 86,
     "2015-07": {
         "1B": 7,
         "2B": 1,
@@ -60993,7 +60993,7 @@ db.players.insert({
         "points": 22,
         "type": "batter"
     },
-    "2015-07-value": 153,
+    "2015-07-value": 100,
     "name": "Darin Ruf",
     "playerid": 9929
 });
@@ -61025,7 +61025,7 @@ db.players.insert({
         "points": 390,
         "type": "batter"
     },
-    "2014-value": 102,
+    "2014-value": 140,
     "2015-05": {
         "1B": 18,
         "2B": 9,
@@ -61053,7 +61053,7 @@ db.players.insert({
         "points": 98,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 146,
     "2015-06": {
         "1B": 20,
         "2B": 3,
@@ -61081,7 +61081,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2015-06-value": 114,
+    "2015-06-value": 127,
     "2015-07": {
         "1B": 20,
         "2B": 3,
@@ -61109,7 +61109,7 @@ db.players.insert({
         "points": 69,
         "type": "batter"
     },
-    "2015-07-value": 104,
+    "2015-07-value": 138,
     "name": "Jhonny Peralta",
     "playerid": 1738
 });
@@ -61141,7 +61141,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2014-value": 78,
+    "2014-value": 72,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -61169,7 +61169,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 50,
+    "2015-05-value": 53,
     "2015-06": {
         "1B": 12,
         "2B": 5,
@@ -61197,7 +61197,7 @@ db.players.insert({
         "points": 31,
         "type": "batter"
     },
-    "2015-06-value": 146,
+    "2015-06-value": 104,
     "2015-07": {
         "1B": 6,
         "2B": 4,
@@ -61225,7 +61225,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-07-value": 151,
+    "2015-07-value": 102,
     "name": "Hernan Perez",
     "playerid": 5751
 });
@@ -61257,7 +61257,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 61,
+    "2015-05-value": 60,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -61285,7 +61285,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 72,
+    "2015-06-value": 68,
     "2015-07": {
         "1B": 3,
         "2B": 0,
@@ -61313,7 +61313,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-07-value": 87,
+    "2015-07-value": 79,
     "name": "Travis Shaw",
     "playerid": 11982
 });
@@ -61345,7 +61345,7 @@ db.players.insert({
         "points": 532,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 149,
     "2015-05": {
         "1B": 19,
         "2B": 4,
@@ -61373,7 +61373,7 @@ db.players.insert({
         "points": 87,
         "type": "batter"
     },
-    "2015-05-value": 101,
+    "2015-05-value": 142,
     "2015-06": {
         "1B": 23,
         "2B": 6,
@@ -61401,7 +61401,7 @@ db.players.insert({
         "points": 84,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 144,
     "2015-07": {
         "1B": 3,
         "2B": 0,
@@ -61429,7 +61429,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-07-value": 89,
+    "2015-07-value": 80,
     "name": "Miguel Cabrera",
     "playerid": 1744
 });
@@ -61461,7 +61461,7 @@ db.players.insert({
         "points": 365,
         "type": "batter"
     },
-    "2014-value": 104,
+    "2014-value": 138,
     "2015-05": {
         "1B": 7,
         "2B": 0,
@@ -61489,7 +61489,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-05-value": 97,
+    "2015-05-value": 91,
     "2015-06": {
         "1B": 18,
         "2B": 7,
@@ -61517,7 +61517,7 @@ db.players.insert({
         "points": 64,
         "type": "batter"
     },
-    "2015-06-value": 108,
+    "2015-06-value": 133,
     "2015-07": {
         "1B": 17,
         "2B": 4,
@@ -61545,7 +61545,7 @@ db.players.insert({
         "points": 69,
         "type": "batter"
     },
-    "2015-07-value": 103,
+    "2015-07-value": 139,
     "name": "Austin Jackson",
     "playerid": 9848
 });
@@ -61577,7 +61577,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-05-value": 88,
+    "2015-05-value": 80,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -61605,7 +61605,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 72,
+    "2015-07-value": 67,
     "name": "Chad Billingsley",
     "playerid": 5842
 });
@@ -61637,7 +61637,7 @@ db.players.insert({
         "points": 305,
         "type": "batter"
     },
-    "2014-value": 109,
+    "2014-value": 132,
     "2015-05": {
         "1B": 13,
         "2B": 1,
@@ -61665,7 +61665,7 @@ db.players.insert({
         "points": 36,
         "type": "batter"
     },
-    "2015-05-value": 145,
+    "2015-05-value": 106,
     "2015-06": {
         "1B": 21,
         "2B": 5,
@@ -61693,7 +61693,7 @@ db.players.insert({
         "points": 62,
         "type": "batter"
     },
-    "2015-06-value": 110,
+    "2015-06-value": 131,
     "2015-07": {
         "1B": 14,
         "2B": 2,
@@ -61721,7 +61721,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2015-07-value": 112,
+    "2015-07-value": 129,
     "name": "J.J. Hardy",
     "playerid": 3797
 });
@@ -61753,7 +61753,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 74,
+    "2015-07-value": 69,
     "name": "Mike Dunn",
     "playerid": 9948
 });
@@ -61785,7 +61785,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2014-value": 97,
+    "2014-value": 90,
     "2015-05": {
         "1B": 2,
         "2B": 1,
@@ -61813,7 +61813,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-05-value": 91,
+    "2015-05-value": 82,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -61841,7 +61841,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 46,
+    "2015-06-value": 50,
     "2015-07": {
         "1B": 2,
         "2B": 0,
@@ -61869,7 +61869,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-07-value": 89,
+    "2015-07-value": 80,
     "name": "Dan Haren",
     "playerid": 1757
 });
@@ -61901,7 +61901,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 77,
+    "2015-05-value": 71,
     "2015-06": {
         "1B": 8,
         "2B": 2,
@@ -61929,7 +61929,7 @@ db.players.insert({
         "points": 32,
         "type": "batter"
     },
-    "2015-06-value": 145,
+    "2015-06-value": 105,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -61957,7 +61957,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 84,
+    "2015-07-value": 77,
     "name": "Darrell Ceciliani",
     "playerid": 9954
 });
@@ -61989,7 +61989,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2014-value": 87,
+    "2014-value": 79,
     "2015-05": {
         "1B": 13,
         "2B": 3,
@@ -62017,7 +62017,7 @@ db.players.insert({
         "points": 86,
         "type": "batter"
     },
-    "2015-05-value": 101,
+    "2015-05-value": 142,
     "2015-06": {
         "1B": 10,
         "2B": 4,
@@ -62045,7 +62045,7 @@ db.players.insert({
         "points": 80,
         "type": "batter"
     },
-    "2015-06-value": 101,
+    "2015-06-value": 143,
     "2015-07": {
         "1B": 9,
         "2B": 5,
@@ -62073,7 +62073,7 @@ db.players.insert({
         "points": 34,
         "type": "batter"
     },
-    "2015-07-value": 138,
+    "2015-07-value": 110,
     "name": "Joc Pederson",
     "playerid": 11899
 });
@@ -62105,7 +62105,7 @@ db.players.insert({
         "points": 298,
         "type": "batter"
     },
-    "2014-value": 110,
+    "2014-value": 131,
     "2015-05": {
         "1B": 6,
         "2B": 1,
@@ -62133,7 +62133,7 @@ db.players.insert({
         "points": 42,
         "type": "batter"
     },
-    "2015-05-value": 139,
+    "2015-05-value": 109,
     "2015-06": {
         "1B": 7,
         "2B": 5,
@@ -62161,7 +62161,7 @@ db.players.insert({
         "points": 27,
         "type": "batter"
     },
-    "2015-06-value": 150,
+    "2015-06-value": 102,
     "2015-07": {
         "1B": 5,
         "2B": 0,
@@ -62189,7 +62189,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 97,
     "name": "Steve Pearce",
     "playerid": 9957
 });
@@ -62221,7 +62221,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2014-value": 87,
+    "2014-value": 79,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -62249,7 +62249,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 74,
+    "2015-05-value": 69,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -62277,7 +62277,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 49,
+    "2015-06-value": 52,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -62305,7 +62305,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 70,
+    "2015-07-value": 66,
     "name": "Mat Latos",
     "playerid": 3815
 });
@@ -62337,7 +62337,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 53,
+    "2014-value": 55,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -62365,7 +62365,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 51,
+    "2015-07-value": 54,
     "name": "Danny Salazar",
     "playerid": 5867
 });
@@ -62397,7 +62397,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 53,
+    "2014-value": 55,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -62425,7 +62425,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 52,
+    "2015-07-value": 54,
     "name": "Gonzalez Germen",
     "playerid": 5876
 });
@@ -62457,7 +62457,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-05-value": 95,
+    "2015-05-value": 87,
     "2015-06": {
         "1B": 12,
         "2B": 2,
@@ -62485,7 +62485,7 @@ db.players.insert({
         "points": 25,
         "type": "batter"
     },
-    "2015-06-value": 153,
+    "2015-06-value": 100,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -62513,7 +62513,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 64,
+    "2015-07-value": 62,
     "name": "Hanser Alberto",
     "playerid": 11902
 });
@@ -62545,7 +62545,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 60,
+    "2015-06-value": 59,
     "name": "Matt Andriese",
     "playerid": 12022
 });
@@ -62577,7 +62577,7 @@ db.players.insert({
         "points": 160,
         "type": "batter"
     },
-    "2014-value": 133,
+    "2014-value": 114,
     "2015-05": {
         "1B": 24,
         "2B": 2,
@@ -62605,7 +62605,7 @@ db.players.insert({
         "points": 44,
         "type": "batter"
     },
-    "2015-05-value": 136,
+    "2015-05-value": 111,
     "2015-06": {
         "1B": 17,
         "2B": 2,
@@ -62633,7 +62633,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-06-value": 126,
+    "2015-06-value": 118,
     "2015-07": {
         "1B": 7,
         "2B": 0,
@@ -62661,7 +62661,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-07-value": 98,
+    "2015-07-value": 92,
     "name": "Eric Sogard",
     "playerid": 7927
 });
@@ -62693,7 +62693,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 66,
+    "2014-value": 64,
     "name": "Brian Flynn",
     "playerid": 12027
 });
@@ -62725,7 +62725,7 @@ db.players.insert({
         "points": 184,
         "type": "batter"
     },
-    "2014-value": 128,
+    "2014-value": 117,
     "2015-05": {
         "1B": 4,
         "2B": 0,
@@ -62753,7 +62753,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-05-value": 91,
+    "2015-05-value": 83,
     "name": "Michael Saunders",
     "playerid": 9981
 });
@@ -62785,7 +62785,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2014-value": 84,
+    "2014-value": 76,
     "2015-05": {
         "1B": 1,
         "2B": 1,
@@ -62813,7 +62813,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-05-value": 89,
+    "2015-05-value": 81,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -62841,7 +62841,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 75,
+    "2015-06-value": 69,
     "2015-07": {
         "1B": 2,
         "2B": 0,
@@ -62869,7 +62869,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-07-value": 88,
+    "2015-07-value": 80,
     "name": "Michael Wacha",
     "playerid": 14078
 });
@@ -62901,7 +62901,7 @@ db.players.insert({
         "points": 218,
         "type": "batter"
     },
-    "2014-value": 122,
+    "2014-value": 121,
     "2015-07": {
         "1B": 10,
         "2B": 6,
@@ -62929,7 +62929,7 @@ db.players.insert({
         "points": 38,
         "type": "batter"
     },
-    "2015-07-value": 135,
+    "2015-07-value": 112,
     "name": "John Jaso",
     "playerid": 5887
 });
@@ -62961,7 +62961,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 96,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -62989,7 +62989,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 52,
+    "2015-06-value": 54,
     "2015-07": {
         "1B": 10,
         "2B": 7,
@@ -63017,7 +63017,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-07-value": 118,
+    "2015-07-value": 124,
     "name": "Cole Gillespie",
     "playerid": 5888
 });
@@ -63049,7 +63049,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2014-value": 153,
+    "2014-value": 100,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -63077,7 +63077,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 69,
+    "2015-05-value": 65,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -63105,7 +63105,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 55,
+    "2015-07-value": 56,
     "name": "Logan Schafer",
     "playerid": 7937
 });
@@ -63137,7 +63137,7 @@ db.players.insert({
         "points": 315,
         "type": "batter"
     },
-    "2014-value": 108,
+    "2014-value": 133,
     "2015-05": {
         "1B": 5,
         "2B": 2,
@@ -63165,7 +63165,7 @@ db.players.insert({
         "points": 22,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 97,
     "2015-06": {
         "1B": 11,
         "2B": 4,
@@ -63193,7 +63193,7 @@ db.players.insert({
         "points": 62,
         "type": "batter"
     },
-    "2015-06-value": 110,
+    "2015-06-value": 131,
     "2015-07": {
         "1B": 14,
         "2B": 2,
@@ -63221,7 +63221,7 @@ db.players.insert({
         "points": 45,
         "type": "batter"
     },
-    "2015-07-value": 128,
+    "2015-07-value": 117,
     "name": "Alejandro De Aza",
     "playerid": 3371
 });
@@ -63253,7 +63253,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 73,
+    "2014-value": 68,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -63281,7 +63281,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 55,
+    "2015-07-value": 56,
     "name": "Christian Friedrich",
     "playerid": 7942
 });
@@ -63341,7 +63341,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-07-value": 94,
+    "2015-07-value": 86,
     "name": "Jaff Decker",
     "playerid": 7945
 });
@@ -63373,7 +63373,7 @@ db.players.insert({
         "points": 29,
         "type": "batter"
     },
-    "2015-05-value": 151,
+    "2015-05-value": 101,
     "2015-07": {
         "1B": 4,
         "2B": 5,
@@ -63401,7 +63401,7 @@ db.players.insert({
         "points": 25,
         "type": "batter"
     },
-    "2015-07-value": 148,
+    "2015-07-value": 104,
     "name": "Tim Beckham",
     "playerid": 7949
 });
@@ -63433,7 +63433,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 49,
+    "2015-06-value": 52,
     "name": "Brett Oberholtzer",
     "playerid": 3855
 });
@@ -63465,7 +63465,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2014-value": 97,
+    "2014-value": 90,
     "2015-05": {
         "1B": 6,
         "2B": 0,
@@ -63493,7 +63493,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-05-value": 97,
+    "2015-05-value": 91,
     "2015-06": {
         "1B": 11,
         "2B": 3,
@@ -63521,7 +63521,7 @@ db.players.insert({
         "points": 26,
         "type": "batter"
     },
-    "2015-06-value": 152,
+    "2015-06-value": 100,
     "2015-07": {
         "1B": 7,
         "2B": 0,
@@ -63549,7 +63549,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2015-07-value": 95,
+    "2015-07-value": 87,
     "name": "Tucker Barnhart",
     "playerid": 10200
 });
@@ -63581,7 +63581,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 86,
+    "2015-07-value": 78,
     "name": "Aaron Nola",
     "playerid": 16149
 });
@@ -63613,7 +63613,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 50,
+    "2014-value": 53,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -63641,7 +63641,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 79,
+    "2015-05-value": 73,
     "2015-06": {
         "1B": 3,
         "2B": 0,
@@ -63669,7 +63669,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 82,
+    "2015-06-value": 75,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -63697,7 +63697,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 71,
+    "2015-07-value": 67,
     "name": "Rubby de la Rosa",
     "playerid": 3862
 });
@@ -63729,7 +63729,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 63,
+    "2015-07-value": 61,
     "name": "Josh Osich",
     "playerid": 11528
 });
@@ -63761,7 +63761,7 @@ db.players.insert({
         "points": 71,
         "type": "batter"
     },
-    "2014-value": 150,
+    "2014-value": 102,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -63789,7 +63789,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 72,
+    "2015-07-value": 68,
     "name": "Leury Garcia",
     "playerid": 5913
 });
@@ -63821,7 +63821,7 @@ db.players.insert({
         "points": 73,
         "type": "batter"
     },
-    "2015-05-value": 105,
+    "2015-05-value": 136,
     "2015-06": {
         "1B": 15,
         "2B": 3,
@@ -63849,7 +63849,7 @@ db.players.insert({
         "points": 39,
         "type": "batter"
     },
-    "2015-06-value": 135,
+    "2015-06-value": 112,
     "2015-07": {
         "1B": 15,
         "2B": 3,
@@ -63877,7 +63877,7 @@ db.players.insert({
         "points": 40,
         "type": "batter"
     },
-    "2015-07-value": 131,
+    "2015-07-value": 114,
     "name": "Addison Russell",
     "playerid": 14106
 });
@@ -63909,7 +63909,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 68,
+    "2014-value": 65,
     "name": "Kevin Gausman",
     "playerid": 14107
 });
@@ -63941,7 +63941,7 @@ db.players.insert({
         "points": 139,
         "type": "batter"
     },
-    "2014-value": 137,
+    "2014-value": 111,
     "2015-05": {
         "1B": 20,
         "2B": 4,
@@ -63969,7 +63969,7 @@ db.players.insert({
         "points": 66,
         "type": "batter"
     },
-    "2015-05-value": 110,
+    "2015-05-value": 130,
     "2015-06": {
         "1B": 8,
         "2B": 1,
@@ -63997,7 +63997,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 97,
     "2015-07": {
         "1B": 7,
         "2B": 1,
@@ -64025,7 +64025,7 @@ db.players.insert({
         "points": 20,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 98,
     "name": "David DeJesus",
     "playerid": 1825
 });
@@ -64057,7 +64057,7 @@ db.players.insert({
         "points": 19,
         "type": "batter"
     },
-    "2014-value": 97,
+    "2014-value": 91,
     "name": "Mike Minor",
     "playerid": 10021
 });
@@ -64089,7 +64089,7 @@ db.players.insert({
         "points": 64,
         "type": "batter"
     },
-    "2014-value": 151,
+    "2014-value": 101,
     "2015-05": {
         "1B": 6,
         "2B": 2,
@@ -64117,7 +64117,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-05-value": 97,
+    "2015-05-value": 90,
     "2015-06": {
         "1B": 6,
         "2B": 4,
@@ -64145,7 +64145,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2015-06-value": 98,
+    "2015-06-value": 92,
     "2015-07": {
         "1B": 8,
         "2B": 0,
@@ -64173,7 +64173,7 @@ db.players.insert({
         "points": 13,
         "type": "batter"
     },
-    "2015-07-value": 97,
+    "2015-07-value": 90,
     "name": "Chris Stewart",
     "playerid": 3878
 });
@@ -64205,7 +64205,7 @@ db.players.insert({
         "points": 387,
         "type": "batter"
     },
-    "2014-value": 103,
+    "2014-value": 140,
     "2015-05": {
         "1B": 21,
         "2B": 7,
@@ -64233,7 +64233,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-05-value": 131,
+    "2015-05-value": 114,
     "2015-06": {
         "1B": 28,
         "2B": 6,
@@ -64261,7 +64261,7 @@ db.players.insert({
         "points": 61,
         "type": "batter"
     },
-    "2015-06-value": 110,
+    "2015-06-value": 130,
     "2015-07": {
         "1B": 17,
         "2B": 7,
@@ -64289,7 +64289,7 @@ db.players.insert({
         "points": 61,
         "type": "batter"
     },
-    "2015-07-value": 108,
+    "2015-07-value": 132,
     "name": "Nick Markakis",
     "playerid": 5930
 });
@@ -64321,7 +64321,7 @@ db.players.insert({
         "points": 49,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 98,
     "2015-05": {
         "1B": 5,
         "2B": 4,
@@ -64349,7 +64349,7 @@ db.players.insert({
         "points": 22,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 97,
     "2015-06": {
         "1B": 5,
         "2B": 0,
@@ -64377,7 +64377,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2015-06-value": 97,
+    "2015-06-value": 91,
     "name": "Christian Bethancourt",
     "playerid": 10028
 });
@@ -64409,7 +64409,7 @@ db.players.insert({
         "points": 299,
         "type": "batter"
     },
-    "2014-value": 109,
+    "2014-value": 131,
     "2015-05": {
         "1B": 10,
         "2B": 2,
@@ -64437,7 +64437,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-05-value": 131,
+    "2015-05-value": 115,
     "2015-06": {
         "1B": 21,
         "2B": 0,
@@ -64465,7 +64465,7 @@ db.players.insert({
         "points": 49,
         "type": "batter"
     },
-    "2015-06-value": 125,
+    "2015-06-value": 119,
     "2015-07": {
         "1B": 27,
         "2B": 0,
@@ -64493,7 +64493,7 @@ db.players.insert({
         "points": 55,
         "type": "batter"
     },
-    "2015-07-value": 114,
+    "2015-07-value": 127,
     "name": "Jean Segura",
     "playerid": 5933
 });
@@ -64525,7 +64525,7 @@ db.players.insert({
         "points": 202,
         "type": "batter"
     },
-    "2014-value": 125,
+    "2014-value": 119,
     "2015-05": {
         "1B": 17,
         "2B": 4,
@@ -64553,7 +64553,7 @@ db.players.insert({
         "points": 53,
         "type": "batter"
     },
-    "2015-05-value": 124,
+    "2015-05-value": 120,
     "2015-06": {
         "1B": 11,
         "2B": 5,
@@ -64581,7 +64581,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-06-value": 126,
+    "2015-06-value": 118,
     "2015-07": {
         "1B": 14,
         "2B": 3,
@@ -64609,7 +64609,7 @@ db.players.insert({
         "points": 49,
         "type": "batter"
     },
-    "2015-07-value": 120,
+    "2015-07-value": 122,
     "name": "Chris Owings",
     "playerid": 10030
 });
@@ -64641,7 +64641,7 @@ db.players.insert({
         "points": 69,
         "type": "batter"
     },
-    "2015-06-value": 105,
+    "2015-06-value": 136,
     "name": "Joey Gallo",
     "playerid": 14128
 });
@@ -64673,7 +64673,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2014-value": 92,
+    "2014-value": 84,
     "name": "Edwin Jackson",
     "playerid": 1841
 });
@@ -64705,7 +64705,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2015-06-value": 98,
+    "2015-06-value": 93,
     "name": "Mason Williams",
     "playerid": 11859
 });
@@ -64737,7 +64737,7 @@ db.players.insert({
         "points": 271,
         "type": "batter"
     },
-    "2014-value": 114,
+    "2014-value": 127,
     "2015-05": {
         "1B": 19,
         "2B": 4,
@@ -64765,7 +64765,7 @@ db.players.insert({
         "points": 86,
         "type": "batter"
     },
-    "2015-05-value": 101,
+    "2015-05-value": 142,
     "2015-06": {
         "1B": 18,
         "2B": 4,
@@ -64793,7 +64793,7 @@ db.players.insert({
         "points": 74,
         "type": "batter"
     },
-    "2015-06-value": 103,
+    "2015-06-value": 139,
     "2015-07": {
         "1B": 15,
         "2B": 6,
@@ -64821,7 +64821,7 @@ db.players.insert({
         "points": 59,
         "type": "batter"
     },
-    "2015-07-value": 110,
+    "2015-07-value": 130,
     "name": "Josh Reddick",
     "playerid": 3892
 });
@@ -64853,7 +64853,7 @@ db.players.insert({
         "points": 155,
         "type": "batter"
     },
-    "2014-value": 135,
+    "2014-value": 112,
     "2015-05": {
         "1B": 7,
         "2B": 1,
@@ -64881,7 +64881,7 @@ db.players.insert({
         "points": 23,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 98,
     "2015-06": {
         "1B": 5,
         "2B": 2,
@@ -64909,7 +64909,7 @@ db.players.insert({
         "points": 18,
         "type": "batter"
     },
-    "2015-06-value": 98,
+    "2015-06-value": 92,
     "2015-07": {
         "1B": 5,
         "2B": 2,
@@ -64937,7 +64937,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 95,
     "name": "Jonny Gomes",
     "playerid": 1845
 });
@@ -64969,7 +64969,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2014-value": 98,
+    "2014-value": 92,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -64997,7 +64997,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-05-value": 76,
+    "2015-05-value": 70,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -65025,7 +65025,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 52,
+    "2015-06-value": 54,
     "2015-07": {
         "1B": 0,
         "2B": 1,
@@ -65053,7 +65053,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-07-value": 94,
+    "2015-07-value": 85,
     "name": "Jesus Sucre",
     "playerid": 5942
 });
@@ -65085,7 +65085,7 @@ db.players.insert({
         "points": 188,
         "type": "batter"
     },
-    "2014-value": 128,
+    "2014-value": 117,
     "2015-05": {
         "1B": 6,
         "2B": 3,
@@ -65113,7 +65113,7 @@ db.players.insert({
         "points": 30,
         "type": "batter"
     },
-    "2015-05-value": 150,
+    "2015-05-value": 102,
     "2015-06": {
         "1B": 2,
         "2B": 0,
@@ -65141,7 +65141,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-06-value": 87,
+    "2015-06-value": 79,
     "name": "Wil Myers",
     "playerid": 10047
 });
@@ -65173,7 +65173,7 @@ db.players.insert({
         "points": 364,
         "type": "batter"
     },
-    "2014-value": 104,
+    "2014-value": 137,
     "2015-05": {
         "1B": 17,
         "2B": 4,
@@ -65201,7 +65201,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-05-value": 126,
+    "2015-05-value": 118,
     "2015-06": {
         "1B": 20,
         "2B": 1,
@@ -65229,7 +65229,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-06-value": 112,
+    "2015-06-value": 129,
     "2015-07": {
         "1B": 13,
         "2B": 2,
@@ -65257,7 +65257,7 @@ db.players.insert({
         "points": 62,
         "type": "batter"
     },
-    "2015-07-value": 108,
+    "2015-07-value": 133,
     "name": "Hanley Ramirez",
     "playerid": 8001
 });
@@ -65289,7 +65289,7 @@ db.players.insert({
         "points": 268,
         "type": "batter"
     },
-    "2014-value": 114,
+    "2014-value": 127,
     "2015-05": {
         "1B": 13,
         "2B": 2,
@@ -65317,7 +65317,7 @@ db.players.insert({
         "points": 39,
         "type": "batter"
     },
-    "2015-05-value": 142,
+    "2015-05-value": 108,
     "2015-06": {
         "1B": 16,
         "2B": 2,
@@ -65345,7 +65345,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-06-value": 122,
+    "2015-06-value": 121,
     "2015-07": {
         "1B": 3,
         "2B": 4,
@@ -65373,7 +65373,7 @@ db.players.insert({
         "points": 19,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 97,
     "name": "Wilin Rosario",
     "playerid": 8002
 });
@@ -65405,7 +65405,7 @@ db.players.insert({
         "points": 162,
         "type": "batter"
     },
-    "2014-value": 132,
+    "2014-value": 114,
     "2015-05": {
         "1B": 11,
         "2B": 2,
@@ -65433,7 +65433,7 @@ db.players.insert({
         "points": 38,
         "type": "batter"
     },
-    "2015-05-value": 143,
+    "2015-05-value": 107,
     "2015-06": {
         "1B": 9,
         "2B": 1,
@@ -65461,7 +65461,7 @@ db.players.insert({
         "points": 29,
         "type": "batter"
     },
-    "2015-06-value": 149,
+    "2015-06-value": 103,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -65489,7 +65489,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 76,
+    "2015-07-value": 70,
     "name": "Kennys Vargas",
     "playerid": 12101
 });
@@ -65521,7 +65521,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2014-value": 92,
+    "2014-value": 84,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -65581,7 +65581,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2014-value": 96,
+    "2014-value": 88,
     "name": "Max Stassi",
     "playerid": 10059
 });
@@ -65613,7 +65613,7 @@ db.players.insert({
         "points": 434,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 144,
     "2015-05": {
         "1B": 16,
         "2B": 6,
@@ -65641,7 +65641,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-05-value": 127,
+    "2015-05-value": 117,
     "2015-06": {
         "1B": 4,
         "2B": 0,
@@ -65669,7 +65669,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-06-value": 95,
+    "2015-06-value": 88,
     "2015-07": {
         "1B": 2,
         "2B": 3,
@@ -65697,7 +65697,7 @@ db.players.insert({
         "points": 20,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 98,
     "name": "Matt Holliday",
     "playerid": 1873
 });
@@ -65729,7 +65729,7 @@ db.players.insert({
         "points": 87,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 145,
     "2015-07": {
         "1B": 16,
         "2B": 5,
@@ -65757,7 +65757,7 @@ db.players.insert({
         "points": 75,
         "type": "batter"
     },
-    "2015-07-value": 101,
+    "2015-07-value": 142,
     "name": "Carlos Correa",
     "playerid": 14162
 });
@@ -65789,7 +65789,7 @@ db.players.insert({
         "points": 233,
         "type": "batter"
     },
-    "2014-value": 120,
+    "2014-value": 123,
     "2015-05": {
         "1B": 2,
         "2B": 2,
@@ -65845,7 +65845,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 82,
+    "2015-06-value": 74,
     "2015-07": {
         "1B": 10,
         "2B": 5,
@@ -65873,7 +65873,7 @@ db.players.insert({
         "points": 46,
         "type": "batter"
     },
-    "2015-07-value": 127,
+    "2015-07-value": 118,
     "name": "Josh Hamilton",
     "playerid": 1875
 });
@@ -65905,7 +65905,7 @@ db.players.insert({
         "points": 185,
         "type": "batter"
     },
-    "2014-value": 128,
+    "2014-value": 117,
     "2015-05": {
         "1B": 13,
         "2B": 5,
@@ -65933,7 +65933,7 @@ db.players.insert({
         "points": 44,
         "type": "batter"
     },
-    "2015-05-value": 136,
+    "2015-05-value": 112,
     "2015-06": {
         "1B": 3,
         "2B": 0,
@@ -65961,7 +65961,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2015-06-value": 97,
+    "2015-06-value": 90,
     "name": "Jonathan Villar",
     "playerid": 10071
 });
@@ -65993,7 +65993,7 @@ db.players.insert({
         "points": 217,
         "type": "batter"
     },
-    "2014-value": 123,
+    "2014-value": 120,
     "2015-05": {
         "1B": 9,
         "2B": 5,
@@ -66021,7 +66021,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2015-05-value": 119,
+    "2015-05-value": 123,
     "2015-06": {
         "1B": 20,
         "2B": 6,
@@ -66049,7 +66049,7 @@ db.players.insert({
         "points": 72,
         "type": "batter"
     },
-    "2015-06-value": 104,
+    "2015-06-value": 138,
     "2015-07": {
         "1B": 11,
         "2B": 2,
@@ -66077,7 +66077,7 @@ db.players.insert({
         "points": 66,
         "type": "batter"
     },
-    "2015-07-value": 105,
+    "2015-07-value": 136,
     "name": "Adam Lind",
     "playerid": 8027
 });
@@ -66109,7 +66109,7 @@ db.players.insert({
         "points": 506,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 148,
     "2015-05": {
         "1B": 12,
         "2B": 11,
@@ -66137,7 +66137,7 @@ db.players.insert({
         "points": 79,
         "type": "batter"
     },
-    "2015-05-value": 103,
+    "2015-05-value": 139,
     "2015-06": {
         "1B": 12,
         "2B": 0,
@@ -66165,7 +66165,7 @@ db.players.insert({
         "points": 91,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 146,
     "2015-07": {
         "1B": 10,
         "2B": 5,
@@ -66193,7 +66193,7 @@ db.players.insert({
         "points": 77,
         "type": "batter"
     },
-    "2015-07-value": 101,
+    "2015-07-value": 143,
     "name": "Jose Bautista",
     "playerid": 1887
 });
@@ -66225,7 +66225,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 72,
+    "2014-value": 67,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -66253,7 +66253,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 50,
+    "2015-05-value": 53,
     "name": "Randall Delgado",
     "playerid": 5985
 });
@@ -66285,7 +66285,7 @@ db.players.insert({
         "points": 223,
         "type": "batter"
     },
-    "2014-value": 122,
+    "2014-value": 121,
     "2015-05": {
         "1B": 11,
         "2B": 2,
@@ -66313,7 +66313,7 @@ db.players.insert({
         "points": 33,
         "type": "batter"
     },
-    "2015-05-value": 148,
+    "2015-05-value": 104,
     "2015-06": {
         "1B": 13,
         "2B": 1,
@@ -66341,7 +66341,7 @@ db.players.insert({
         "points": 19,
         "type": "batter"
     },
-    "2015-06-value": 98,
+    "2015-06-value": 94,
     "2015-07": {
         "1B": 4,
         "2B": 0,
@@ -66369,7 +66369,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 96,
     "name": "Mike Aviles",
     "playerid": 5986
 });
@@ -66401,7 +66401,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2014-value": 94,
+    "2014-value": 85,
     "name": "Andy Wilkins",
     "playerid": 11251
 });
@@ -66433,7 +66433,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2014-value": 84,
+    "2014-value": 76,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -66461,7 +66461,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 62,
+    "2015-06-value": 60,
     "name": "Jesse Hahn",
     "playerid": 13287
 });
@@ -66493,7 +66493,7 @@ db.players.insert({
         "points": 396,
         "type": "batter"
     },
-    "2014-value": 102,
+    "2014-value": 141,
     "2015-05": {
         "1B": 16,
         "2B": 5,
@@ -66521,7 +66521,7 @@ db.players.insert({
         "points": 62,
         "type": "batter"
     },
-    "2015-05-value": 114,
+    "2015-05-value": 127,
     "2015-06": {
         "1B": 10,
         "2B": 6,
@@ -66549,7 +66549,7 @@ db.players.insert({
         "points": 50,
         "type": "batter"
     },
-    "2015-06-value": 124,
+    "2015-06-value": 120,
     "2015-07": {
         "1B": 12,
         "2B": 3,
@@ -66577,7 +66577,7 @@ db.players.insert({
         "points": 25,
         "type": "batter"
     },
-    "2015-07-value": 149,
+    "2015-07-value": 103,
     "name": "Adam LaRoche",
     "playerid": 1904
 });
@@ -66609,7 +66609,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 57,
+    "2015-06-value": 58,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -66669,7 +66669,7 @@ db.players.insert({
         "points": 345,
         "type": "batter"
     },
-    "2014-value": 105,
+    "2014-value": 136,
     "2015-05": {
         "1B": 7,
         "2B": 3,
@@ -66697,7 +66697,7 @@ db.players.insert({
         "points": 32,
         "type": "batter"
     },
-    "2015-05-value": 148,
+    "2015-05-value": 103,
     "2015-06": {
         "1B": 5,
         "2B": 2,
@@ -66725,7 +66725,7 @@ db.players.insert({
         "points": 21,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 95,
     "2015-07": {
         "1B": 6,
         "2B": 2,
@@ -66753,7 +66753,7 @@ db.players.insert({
         "points": 30,
         "type": "batter"
     },
-    "2015-07-value": 141,
+    "2015-07-value": 108,
     "name": "Dustin Ackley",
     "playerid": 10099
 });
@@ -66785,7 +66785,7 @@ db.players.insert({
         "points": 486,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 147,
     "2015-05": {
         "1B": 16,
         "2B": 8,
@@ -66813,7 +66813,7 @@ db.players.insert({
         "points": 70,
         "type": "batter"
     },
-    "2015-05-value": 107,
+    "2015-05-value": 133,
     "2015-06": {
         "1B": 19,
         "2B": 6,
@@ -66841,7 +66841,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-06-value": 108,
+    "2015-06-value": 133,
     "2015-07": {
         "1B": 12,
         "2B": 4,
@@ -66869,7 +66869,7 @@ db.players.insert({
         "points": 80,
         "type": "batter"
     },
-    "2015-07-value": 101,
+    "2015-07-value": 144,
     "name": "Adrian Gonzalez",
     "playerid": 1908
 });
@@ -66901,7 +66901,7 @@ db.players.insert({
         "points": 11,
         "type": "batter"
     },
-    "2015-05-value": 94,
+    "2015-05-value": 86,
     "name": "Reynaldo Navarro",
     "playerid": 6008
 });
@@ -66933,7 +66933,7 @@ db.players.insert({
         "points": 45,
         "type": "batter"
     },
-    "2015-05-value": 134,
+    "2015-05-value": 113,
     "2015-06": {
         "1B": 17,
         "2B": 4,
@@ -66961,7 +66961,7 @@ db.players.insert({
         "points": 65,
         "type": "batter"
     },
-    "2015-06-value": 107,
+    "2015-06-value": 134,
     "2015-07": {
         "1B": 15,
         "2B": 8,
@@ -66989,7 +66989,7 @@ db.players.insert({
         "points": 74,
         "type": "batter"
     },
-    "2015-07-value": 101,
+    "2015-07-value": 142,
     "name": "Eddie Rosario",
     "playerid": 12155
 });
@@ -67021,7 +67021,7 @@ db.players.insert({
         "points": 166,
         "type": "batter"
     },
-    "2014-value": 132,
+    "2014-value": 114,
     "2015-05": {
         "1B": 14,
         "2B": 3,
@@ -67049,7 +67049,7 @@ db.players.insert({
         "points": 48,
         "type": "batter"
     },
-    "2015-05-value": 131,
+    "2015-05-value": 115,
     "2015-06": {
         "1B": 18,
         "2B": 4,
@@ -67077,7 +67077,7 @@ db.players.insert({
         "points": 50,
         "type": "batter"
     },
-    "2015-06-value": 123,
+    "2015-06-value": 120,
     "2015-07": {
         "1B": 20,
         "2B": 4,
@@ -67105,7 +67105,7 @@ db.players.insert({
         "points": 60,
         "type": "batter"
     },
-    "2015-07-value": 110,
+    "2015-07-value": 131,
     "name": "Didi Gregorius",
     "playerid": 6012
 });
@@ -67137,7 +67137,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 52,
+    "2015-05-value": 54,
     "name": "Daniel Hudson",
     "playerid": 7146
 });
@@ -67169,7 +67169,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 71,
+    "2015-05-value": 67,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -67197,7 +67197,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 73,
+    "2015-06-value": 68,
     "2015-07": {
         "1B": 2,
         "2B": 1,
@@ -67225,7 +67225,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-07-value": 90,
+    "2015-07-value": 81,
     "name": "Austin Barnes",
     "playerid": 12158
 });
@@ -67257,7 +67257,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 46,
+    "2015-07-value": 50,
     "name": "Matt Moore",
     "playerid": 1890
 });
@@ -67289,7 +67289,7 @@ db.players.insert({
         "points": 305,
         "type": "batter"
     },
-    "2014-value": 109,
+    "2014-value": 132,
     "2015-05": {
         "1B": 18,
         "2B": 4,
@@ -67317,7 +67317,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-05-value": 128,
+    "2015-05-value": 117,
     "2015-06": {
         "1B": 22,
         "2B": 11,
@@ -67345,7 +67345,7 @@ db.players.insert({
         "points": 82,
         "type": "batter"
     },
-    "2015-06-value": 101,
+    "2015-06-value": 143,
     "2015-07": {
         "1B": 34,
         "2B": 5,
@@ -67373,7 +67373,7 @@ db.players.insert({
         "points": 76,
         "type": "batter"
     },
-    "2015-07-value": 101,
+    "2015-07-value": 143,
     "name": "Xander Bogaerts",
     "playerid": 12161
 });
@@ -67405,7 +67405,7 @@ db.players.insert({
         "points": 66,
         "type": "batter"
     },
-    "2015-07-value": 105,
+    "2015-07-value": 136,
     "name": "Miguel Sano",
     "playerid": 12164
 });
@@ -67437,7 +67437,7 @@ db.players.insert({
         "points": 178,
         "type": "batter"
     },
-    "2014-value": 129,
+    "2014-value": 116,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -67465,7 +67465,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 80,
+    "2015-05-value": 73,
     "2015-06": {
         "1B": 2,
         "2B": 1,
@@ -67493,7 +67493,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-06-value": 90,
+    "2015-06-value": 82,
     "name": "Chris Heisey",
     "playerid": 3978
 });
@@ -67525,7 +67525,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 74,
+    "2014-value": 69,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -67553,7 +67553,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 70,
+    "2015-06-value": 66,
     "name": "Kyle Gibson",
     "playerid": 10123
 });
@@ -67585,7 +67585,7 @@ db.players.insert({
         "points": 84,
         "type": "batter"
     },
-    "2014-value": 147,
+    "2014-value": 104,
     "2015-05": {
         "1B": 20,
         "2B": 8,
@@ -67613,7 +67613,7 @@ db.players.insert({
         "points": 62,
         "type": "batter"
     },
-    "2015-05-value": 113,
+    "2015-05-value": 128,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -67641,7 +67641,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 75,
+    "2015-06-value": 70,
     "2015-07": {
         "1B": 16,
         "2B": 5,
@@ -67669,7 +67669,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-07-value": 117,
+    "2015-07-value": 125,
     "name": "Jorge Soler",
     "playerid": 14221
 });
@@ -67701,7 +67701,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2014-value": 91,
+    "2014-value": 83,
     "name": "Yovani Gallardo",
     "playerid": 8173
 });
@@ -67733,7 +67733,7 @@ db.players.insert({
         "points": 451,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 145,
     "2015-06": {
         "1B": 14,
         "2B": 6,
@@ -67761,7 +67761,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-06-value": 121,
+    "2015-06-value": 122,
     "2015-07": {
         "1B": 10,
         "2B": 3,
@@ -67789,7 +67789,7 @@ db.players.insert({
         "points": 58,
         "type": "batter"
     },
-    "2015-07-value": 111,
+    "2015-07-value": 130,
     "name": "Yasiel Puig",
     "playerid": 14225
 });
@@ -67821,7 +67821,7 @@ db.players.insert({
         "points": 37,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 95,
     "2015-05": {
         "1B": 0,
         "2B": 2,
@@ -67849,7 +67849,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2015-05-value": 87,
+    "2015-05-value": 79,
     "2015-06": {
         "1B": 2,
         "2B": 0,
@@ -67877,7 +67877,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 84,
+    "2015-06-value": 77,
     "2015-07": {
         "1B": 1,
         "2B": 1,
@@ -67905,7 +67905,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-07-value": 93,
+    "2015-07-value": 85,
     "name": "Mike Leake",
     "playerid": 10130
 });
@@ -67937,7 +67937,7 @@ db.players.insert({
         "points": 22,
         "type": "batter"
     },
-    "2014-value": 98,
+    "2014-value": 91,
     "2015-05": {
         "1B": 8,
         "2B": 1,
@@ -67965,7 +67965,7 @@ db.players.insert({
         "points": 38,
         "type": "batter"
     },
-    "2015-05-value": 142,
+    "2015-05-value": 107,
     "2015-06": {
         "1B": 22,
         "2B": 8,
@@ -67993,7 +67993,7 @@ db.players.insert({
         "points": 112,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 148,
     "2015-07": {
         "1B": 14,
         "2B": 8,
@@ -68021,7 +68021,7 @@ db.players.insert({
         "points": 52,
         "type": "batter"
     },
-    "2015-07-value": 116,
+    "2015-07-value": 126,
     "name": "Maikel Franco",
     "playerid": 12179
 });
@@ -68053,7 +68053,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 61,
+    "2014-value": 60,
     "name": "Brad Boxberger",
     "playerid": 10133
 });
@@ -68085,7 +68085,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2014-value": 89,
+    "2014-value": 80,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -68113,7 +68113,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 47,
+    "2015-05-value": 51,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -68141,7 +68141,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 49,
+    "2015-06-value": 52,
     "name": "Edinson Volquez",
     "playerid": 3990
 });
@@ -68173,7 +68173,7 @@ db.players.insert({
         "points": 29,
         "type": "batter"
     },
-    "2014-value": 98,
+    "2014-value": 94,
     "2015-05": {
         "1B": 1,
         "2B": 1,
@@ -68201,7 +68201,7 @@ db.players.insert({
         "points": 6,
         "type": "batter"
     },
-    "2015-05-value": 88,
+    "2015-05-value": 80,
     "2015-06": {
         "1B": 2,
         "2B": 0,
@@ -68229,7 +68229,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 82,
+    "2015-06-value": 75,
     "2015-07": {
         "1B": 3,
         "2B": 0,
@@ -68257,7 +68257,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-07-value": 82,
+    "2015-07-value": 75,
     "name": "Zack Greinke",
     "playerid": 1943
 });
@@ -68289,7 +68289,7 @@ db.players.insert({
         "points": 116,
         "type": "batter"
     },
-    "2014-value": 141,
+    "2014-value": 108,
     "2015-05": {
         "1B": 4,
         "2B": 0,
@@ -68317,7 +68317,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-05-value": 90,
+    "2015-05-value": 81,
     "2015-06": {
         "1B": 3,
         "2B": 0,
@@ -68345,7 +68345,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-06-value": 93,
+    "2015-06-value": 85,
     "name": "Corey Hart",
     "playerid": 1945
 });
@@ -68377,7 +68377,7 @@ db.players.insert({
         "points": 391,
         "type": "batter"
     },
-    "2014-value": 102,
+    "2014-value": 140,
     "2015-05": {
         "1B": 16,
         "2B": 4,
@@ -68405,7 +68405,7 @@ db.players.insert({
         "points": 72,
         "type": "batter"
     },
-    "2015-05-value": 106,
+    "2015-05-value": 135,
     "2015-06": {
         "1B": 11,
         "2B": 4,
@@ -68433,7 +68433,7 @@ db.players.insert({
         "points": 38,
         "type": "batter"
     },
-    "2015-06-value": 137,
+    "2015-06-value": 111,
     "2015-07": {
         "1B": 12,
         "2B": 5,
@@ -68461,7 +68461,7 @@ db.players.insert({
         "points": 77,
         "type": "batter"
     },
-    "2015-07-value": 101,
+    "2015-07-value": 143,
     "name": "Matt Carpenter",
     "playerid": 8090
 });
@@ -68493,7 +68493,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 53,
+    "2015-05-value": 55,
     "name": "Hunter Strickland",
     "playerid": 7836
 });
@@ -68525,7 +68525,7 @@ db.players.insert({
         "points": 596,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 149,
     "2015-05": {
         "1B": 18,
         "2B": 6,
@@ -68553,7 +68553,7 @@ db.players.insert({
         "points": 93,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 145,
     "2015-06": {
         "1B": 15,
         "2B": 7,
@@ -68581,7 +68581,7 @@ db.players.insert({
         "points": 100,
         "type": "batter"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 147,
     "2015-07": {
         "1B": 15,
         "2B": 1,
@@ -68609,7 +68609,7 @@ db.players.insert({
         "points": 114,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 149,
     "name": "Mike Trout",
     "playerid": 10155
 });
@@ -68641,7 +68641,7 @@ db.players.insert({
         "points": 311,
         "type": "batter"
     },
-    "2014-value": 109,
+    "2014-value": 132,
     "name": "Desmond Jennings",
     "playerid": 1965
 });
@@ -68673,7 +68673,7 @@ db.players.insert({
         "points": 12,
         "type": "batter"
     },
-    "2014-value": 93,
+    "2014-value": 85,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -68701,7 +68701,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-05-value": 90,
+    "2015-05-value": 82,
     "name": "Jerry Sands",
     "playerid": 4016
 });
@@ -68733,7 +68733,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 71,
+    "2015-05-value": 66,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -68761,7 +68761,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2015-06-value": 80,
+    "2015-06-value": 73,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -68789,7 +68789,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 63,
+    "2015-07-value": 61,
     "name": "Williams Perez",
     "playerid": 11592
 });
@@ -68821,7 +68821,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2014-value": 95,
+    "2014-value": 87,
     "2015-05": {
         "1B": 1,
         "2B": 1,
@@ -68849,7 +68849,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-05-value": 84,
+    "2015-05-value": 76,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -68877,7 +68877,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 46,
+    "2015-06-value": 50,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -68905,7 +68905,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 69,
+    "2015-07-value": 65,
     "name": "Ryan Vogelsong",
     "playerid": 1011
 });
@@ -68937,7 +68937,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2014-value": 81,
+    "2014-value": 74,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -68965,7 +68965,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 48,
+    "2015-05-value": 51,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -68993,7 +68993,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 66,
+    "2015-06-value": 64,
     "name": "Yusmeiro Petit",
     "playerid": 4020
 });
@@ -69025,7 +69025,7 @@ db.players.insert({
         "points": 426,
         "type": "batter"
     },
-    "2014-value": 101,
+    "2014-value": 143,
     "2015-05": {
         "1B": 24,
         "2B": 2,
@@ -69053,7 +69053,7 @@ db.players.insert({
         "points": 57,
         "type": "batter"
     },
-    "2015-05-value": 119,
+    "2015-05-value": 123,
     "2015-06": {
         "1B": 19,
         "2B": 5,
@@ -69081,7 +69081,7 @@ db.players.insert({
         "points": 51,
         "type": "batter"
     },
-    "2015-06-value": 122,
+    "2015-06-value": 121,
     "2015-07": {
         "1B": 20,
         "2B": 13,
@@ -69109,7 +69109,7 @@ db.players.insert({
         "points": 106,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 149,
     "name": "Melky Cabrera",
     "playerid": 4022
 });
@@ -69141,7 +69141,7 @@ db.players.insert({
         "points": 36,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 95,
     "2015-06": {
         "1B": 3,
         "2B": 0,
@@ -69169,7 +69169,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2015-06-value": 93,
+    "2015-06-value": 85,
     "2015-07": {
         "1B": 2,
         "2B": 4,
@@ -69229,7 +69229,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 71,
+    "2014-value": 67,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -69257,7 +69257,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 48,
+    "2015-05-value": 51,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -69285,7 +69285,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 67,
+    "2015-06-value": 64,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -69313,7 +69313,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 48,
+    "2015-07-value": 51,
     "name": "Hector Santiago",
     "playerid": 4026
 });
@@ -69345,7 +69345,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 65,
+    "2015-05-value": 63,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -69373,7 +69373,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 69,
+    "2015-07-value": 65,
     "name": "Raisel Iglesias",
     "playerid": 17130
 });
@@ -69405,7 +69405,7 @@ db.players.insert({
         "points": 35,
         "type": "batter"
     },
-    "2015-05-value": 145,
+    "2015-05-value": 105,
     "2015-06": {
         "1B": 1,
         "2B": 3,
@@ -69433,7 +69433,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2015-06-value": 95,
+    "2015-06-value": 87,
     "name": "Max Muncy",
     "playerid": 13301
 });
@@ -69465,7 +69465,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-06-value": 73,
+    "2015-06-value": 68,
     "name": "Scott Schebler",
     "playerid": 12225
 });
@@ -69497,7 +69497,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 68,
+    "2014-value": 65,
     "name": "Hisashi Iwakuma",
     "playerid": 13048
 });
@@ -69529,7 +69529,7 @@ db.players.insert({
         "points": 360,
         "type": "batter"
     },
-    "2014-value": 104,
+    "2014-value": 137,
     "2015-05": {
         "1B": 11,
         "2B": 0,
@@ -69585,7 +69585,7 @@ db.players.insert({
         "points": 9,
         "type": "batter"
     },
-    "2015-06-value": 93,
+    "2015-06-value": 85,
     "2015-07": {
         "1B": 4,
         "2B": 5,
@@ -69613,7 +69613,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-07-value": 150,
+    "2015-07-value": 102,
     "name": "Casey McGehee",
     "playerid": 6086
 });
@@ -69645,7 +69645,7 @@ db.players.insert({
         "points": 5,
         "type": "batter"
     },
-    "2014-value": 85,
+    "2014-value": 77,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -69673,7 +69673,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 54,
+    "2015-05-value": 55,
     "2015-06": {
         "1B": 2,
         "2B": 0,
@@ -69701,7 +69701,7 @@ db.players.insert({
         "points": 4,
         "type": "batter"
     },
-    "2015-06-value": 87,
+    "2015-06-value": 79,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -69729,7 +69729,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 55,
+    "2015-07-value": 56,
     "name": "Jaime Garcia",
     "playerid": 8137
 });
@@ -69761,7 +69761,7 @@ db.players.insert({
         "points": 2,
         "type": "batter"
     },
-    "2014-value": 80,
+    "2014-value": 73,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -69789,7 +69789,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 62,
+    "2015-05-value": 61,
     "name": "Seth Maness",
     "playerid": 12235
 });
@@ -69821,7 +69821,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 62,
+    "2014-value": 61,
     "name": "Bryan Morris",
     "playerid": 10234
 });
@@ -69853,7 +69853,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 62,
+    "2014-value": 60,
     "name": "Tyler Skaggs",
     "playerid": 10190
 });
@@ -69885,7 +69885,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 96,
     "2015-07": {
         "1B": 2,
         "2B": 1,
@@ -69913,7 +69913,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-07-value": 94,
+    "2015-07-value": 86,
     "name": "Eric Fryer",
     "playerid": 8145
 });
@@ -69945,7 +69945,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2014-value": 98,
+    "2014-value": 92,
     "2015-05": {
         "1B": 0,
         "2B": 1,
@@ -69973,7 +69973,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 82,
+    "2015-05-value": 75,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -70001,7 +70001,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 56,
+    "2015-06-value": 57,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -70029,7 +70029,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 75,
+    "2015-07-value": 69,
     "name": "Shelby Miller",
     "playerid": 10197
 });
@@ -70061,7 +70061,7 @@ db.players.insert({
         "points": 432,
         "type": "batter"
     },
-    "2014-value": 100,
+    "2014-value": 144,
     "2015-05": {
         "1B": 18,
         "2B": 1,
@@ -70089,7 +70089,7 @@ db.players.insert({
         "points": 64,
         "type": "batter"
     },
-    "2015-05-value": 113,
+    "2015-05-value": 128,
     "2015-06": {
         "1B": 19,
         "2B": 1,
@@ -70117,7 +70117,7 @@ db.players.insert({
         "points": 76,
         "type": "batter"
     },
-    "2015-06-value": 102,
+    "2015-06-value": 140,
     "2015-07": {
         "1B": 15,
         "2B": 3,
@@ -70145,7 +70145,7 @@ db.players.insert({
         "points": 53,
         "type": "batter"
     },
-    "2015-07-value": 115,
+    "2015-07-value": 127,
     "name": "Billy Hamilton",
     "playerid": 10199
 });
@@ -70177,7 +70177,7 @@ db.players.insert({
         "points": 304,
         "type": "batter"
     },
-    "2014-value": 109,
+    "2014-value": 132,
     "2015-05": {
         "1B": 13,
         "2B": 3,
@@ -70205,7 +70205,7 @@ db.players.insert({
         "points": 54,
         "type": "batter"
     },
-    "2015-05-value": 123,
+    "2015-05-value": 121,
     "2015-06": {
         "1B": 7,
         "2B": 1,
@@ -70233,7 +70233,7 @@ db.players.insert({
         "points": 20,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 94,
     "2015-07": {
         "1B": 3,
         "2B": 3,
@@ -70261,7 +70261,7 @@ db.players.insert({
         "points": 24,
         "type": "batter"
     },
-    "2015-07-value": 150,
+    "2015-07-value": 102,
     "name": "Aaron Hill",
     "playerid": 6104
 });
@@ -70293,7 +70293,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2014-value": 69,
+    "2014-value": 66,
     "name": "Buddy Carlyle",
     "playerid": 2010
 });
@@ -70325,7 +70325,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2014-value": 54,
+    "2014-value": 55,
     "2015-05": {
         "1B": 0,
         "2B": 0,
@@ -70353,7 +70353,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-05-value": 51,
+    "2015-05-value": 53,
     "name": "Joe Wieland",
     "playerid": 6109
 });
@@ -70385,7 +70385,7 @@ db.players.insert({
         "points": 291,
         "type": "batter"
     },
-    "2014-value": 111,
+    "2014-value": 130,
     "2015-05": {
         "1B": 11,
         "2B": 3,
@@ -70413,7 +70413,7 @@ db.players.insert({
         "points": 79,
         "type": "batter"
     },
-    "2015-05-value": 103,
+    "2015-05-value": 139,
     "2015-06": {
         "1B": 18,
         "2B": 4,
@@ -70441,7 +70441,7 @@ db.players.insert({
         "points": 61,
         "type": "batter"
     },
-    "2015-06-value": 111,
+    "2015-06-value": 130,
     "2015-07": {
         "1B": 18,
         "2B": 5,
@@ -70469,7 +70469,7 @@ db.players.insert({
         "points": 67,
         "type": "batter"
     },
-    "2015-07-value": 105,
+    "2015-07-value": 136,
     "name": "Dexter Fowler",
     "playerid": 4062
 });
@@ -70501,7 +70501,7 @@ db.players.insert({
         "points": 112,
         "type": "batter"
     },
-    "2014-value": 142,
+    "2014-value": 108,
     "2015-05": {
         "1B": 3,
         "2B": 0,
@@ -70529,7 +70529,7 @@ db.players.insert({
         "points": 19,
         "type": "batter"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 95,
     "2015-06": {
         "1B": 1,
         "2B": 0,
@@ -70557,7 +70557,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-06-value": 82,
+    "2015-06-value": 75,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -70585,7 +70585,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 48,
+    "2015-07-value": 51,
     "name": "Anthony Recker",
     "playerid": 4063
 });
@@ -70617,7 +70617,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 50,
+    "2015-06-value": 52,
     "name": "Brian Duensing",
     "playerid": 4064
 });
@@ -70649,7 +70649,7 @@ db.players.insert({
         "points": 10,
         "type": "batter"
     },
-    "2014-value": 92,
+    "2014-value": 84,
     "name": "Jackson Williams",
     "playerid": 8524
 });
@@ -70681,7 +70681,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 67,
+    "2015-07-value": 64,
     "name": "Adam Conley",
     "playerid": 14457
 });
@@ -70713,7 +70713,7 @@ db.players.insert({
         "points": 411,
         "type": "batter"
     },
-    "2014-value": 101,
+    "2014-value": 141,
     "2015-05": {
         "1B": 14,
         "2B": 6,
@@ -70741,7 +70741,7 @@ db.players.insert({
         "points": 118,
         "type": "batter"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 148,
     "2015-06": {
         "1B": 17,
         "2B": 6,
@@ -70769,7 +70769,7 @@ db.players.insert({
         "points": 79,
         "type": "batter"
     },
-    "2015-06-value": 101,
+    "2015-06-value": 142,
     "2015-07": {
         "1B": 11,
         "2B": 5,
@@ -70797,7 +70797,7 @@ db.players.insert({
         "points": 76,
         "type": "batter"
     },
-    "2015-07-value": 101,
+    "2015-07-value": 142,
     "name": "Ryan Braun",
     "playerid": 3410
 });
@@ -70829,7 +70829,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-05-value": 72,
+    "2015-05-value": 68,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -70857,7 +70857,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 63,
+    "2015-06-value": 61,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -70885,7 +70885,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-07-value": 67,
+    "2015-07-value": 64,
     "name": "Wilmer Difo",
     "playerid": 14320
 });
@@ -70917,7 +70917,7 @@ db.players.insert({
         "points": 400,
         "type": "batter"
     },
-    "2014-value": 102,
+    "2014-value": 141,
     "2015-05": {
         "1B": 27,
         "2B": 5,
@@ -70945,7 +70945,7 @@ db.players.insert({
         "points": 73,
         "type": "batter"
     },
-    "2015-05-value": 106,
+    "2015-05-value": 135,
     "2015-06": {
         "1B": 19,
         "2B": 4,
@@ -70973,7 +70973,7 @@ db.players.insert({
         "points": 56,
         "type": "batter"
     },
-    "2015-06-value": 115,
+    "2015-06-value": 126,
     "2015-07": {
         "1B": 23,
         "2B": 7,
@@ -71001,7 +71001,7 @@ db.players.insert({
         "points": 67,
         "type": "batter"
     },
-    "2015-07-value": 105,
+    "2015-07-value": 136,
     "name": "Erick Aybar",
     "playerid": 4082
 });
@@ -71033,7 +71033,7 @@ db.players.insert({
         "points": 23,
         "type": "batter"
     },
-    "2014-value": 98,
+    "2014-value": 92,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -71061,7 +71061,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 79,
+    "2015-05-value": 72,
     "2015-06": {
         "1B": 3,
         "2B": 1,
@@ -71089,7 +71089,7 @@ db.players.insert({
         "points": 7,
         "type": "batter"
     },
-    "2015-06-value": 90,
+    "2015-06-value": 82,
     "2015-07": {
         "1B": 1,
         "2B": 0,
@@ -71117,7 +71117,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 70,
+    "2015-07-value": 66,
     "name": "Clayton Kershaw",
     "playerid": 2036
 });
@@ -71149,7 +71149,7 @@ db.players.insert({
         "points": 33,
         "type": "batter"
     },
-    "2015-05-value": 147,
+    "2015-05-value": 104,
     "2015-06": {
         "1B": 23,
         "2B": 1,
@@ -71177,7 +71177,7 @@ db.players.insert({
         "points": 38,
         "type": "batter"
     },
-    "2015-06-value": 136,
+    "2015-06-value": 111,
     "2015-07": {
         "1B": 19,
         "2B": 9,
@@ -71205,7 +71205,7 @@ db.players.insert({
         "points": 67,
         "type": "batter"
     },
-    "2015-07-value": 104,
+    "2015-07-value": 137,
     "name": "Jose Iglesias",
     "playerid": 10231
 });
@@ -71237,7 +71237,7 @@ db.players.insert({
         "points": 14,
         "type": "batter"
     },
-    "2015-07-value": 98,
+    "2015-07-value": 93,
     "name": "Michael Conforto",
     "playerid": 16376
 });
@@ -71269,7 +71269,7 @@ db.players.insert({
         "points": 250,
         "type": "batter"
     },
-    "2014-value": 118,
+    "2014-value": 124,
     "2015-05": {
         "1B": 2,
         "2B": 0,
@@ -71297,7 +71297,7 @@ db.players.insert({
         "points": 8,
         "type": "batter"
     },
-    "2015-05-value": 92,
+    "2015-05-value": 83,
     "2015-06": {
         "1B": 13,
         "2B": 3,
@@ -71325,7 +71325,7 @@ db.players.insert({
         "points": 47,
         "type": "batter"
     },
-    "2015-06-value": 127,
+    "2015-06-value": 117,
     "2015-07": {
         "1B": 15,
         "2B": 5,
@@ -71353,7 +71353,7 @@ db.players.insert({
         "points": 90,
         "type": "batter"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 147,
     "name": "Rougned Odor",
     "playerid": 12282
 });
@@ -71385,7 +71385,7 @@ db.players.insert({
         "points": 41,
         "type": "batter"
     },
-    "2014-value": 99,
+    "2014-value": 96,
     "2015-05": {
         "1B": 6,
         "2B": 1,
@@ -71413,7 +71413,7 @@ db.players.insert({
         "points": 17,
         "type": "batter"
     },
-    "2015-05-value": 98,
+    "2015-05-value": 93,
     "2015-06": {
         "1B": 5,
         "2B": 1,
@@ -71441,7 +71441,7 @@ db.players.insert({
         "points": 22,
         "type": "batter"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 96,
     "name": "Dilson Herrera",
     "playerid": 14335
 });
@@ -71473,7 +71473,7 @@ db.players.insert({
         "points": 15,
         "type": "batter"
     },
-    "2014-value": 95,
+    "2014-value": 87,
     "2015-05": {
         "1B": 1,
         "2B": 0,
@@ -71501,7 +71501,7 @@ db.players.insert({
         "points": 3,
         "type": "batter"
     },
-    "2015-05-value": 79,
+    "2015-05-value": 72,
     "2015-06": {
         "1B": 0,
         "2B": 0,
@@ -71529,7 +71529,7 @@ db.players.insert({
         "points": 0,
         "type": "batter"
     },
-    "2015-06-value": 47,
+    "2015-06-value": 50,
     "2015-07": {
         "1B": 0,
         "2B": 0,
@@ -71557,7 +71557,7 @@ db.players.insert({
         "points": 1,
         "type": "batter"
     },
-    "2015-07-value": 70,
+    "2015-07-value": 66,
     "name": "Jorge de la Rosa",
     "playerid": 2047
 });
@@ -71593,7 +71593,7 @@ db.players.insert({
         "points": 104.356,
         "type": "pitcher"
     },
-    "2014-value": 91,
+    "2014-value": 83,
     "2015-05": {
         "BB": 13,
         "BK": 0,
@@ -71623,7 +71623,7 @@ db.players.insert({
         "points": 44.936,
         "type": "pitcher"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 148,
     "2015-06": {
         "BB": 7,
         "BK": 0,
@@ -71653,7 +71653,7 @@ db.players.insert({
         "points": 26.956000000000003,
         "type": "pitcher"
     },
-    "2015-06-value": 85,
+    "2015-06-value": 77,
     "2015-07": {
         "BB": 9,
         "BK": 1,
@@ -71683,7 +71683,7 @@ db.players.insert({
         "points": 22.21,
         "type": "pitcher"
     },
-    "2015-07-value": 54,
+    "2015-07-value": 55,
     "name": "A.J. Burnett",
     "playerid": 512
 });
@@ -71717,7 +71717,7 @@ db.players.insert({
         "points": 34.9,
         "type": "pitcher"
     },
-    "2015-07-value": 122,
+    "2015-07-value": 121,
     "name": "Matthew Wisler",
     "playerid": 12804
 });
@@ -71751,7 +71751,7 @@ db.players.insert({
         "points": 31.636000000000003,
         "type": "pitcher"
     },
-    "2015-05-value": 145,
+    "2015-05-value": 106,
     "2015-06": {
         "BB": 18,
         "BK": 0,
@@ -71781,7 +71781,7 @@ db.players.insert({
         "points": 19.593000000000004,
         "type": "pitcher"
     },
-    "2015-06-value": 51,
+    "2015-06-value": 53,
     "name": "Alex Colome",
     "playerid": 6661
 });
@@ -71815,7 +71815,7 @@ db.players.insert({
         "points": 23.25,
         "type": "pitcher"
     },
-    "2015-07-value": 62,
+    "2015-07-value": 61,
     "name": "Chris Bassitt",
     "playerid": 12304
 });
@@ -71849,7 +71849,7 @@ db.players.insert({
         "points": 115.726,
         "type": "pitcher"
     },
-    "2014-value": 134,
+    "2014-value": 113,
     "2015-06": {
         "BB": 7,
         "BK": 0,
@@ -71879,7 +71879,7 @@ db.players.insert({
         "points": 28.22,
         "type": "pitcher"
     },
-    "2015-06-value": 93,
+    "2015-06-value": 85,
     "2015-07": {
         "BB": 9,
         "BK": 0,
@@ -71909,7 +71909,7 @@ db.players.insert({
         "points": 19.966,
         "type": "pitcher"
     },
-    "2015-07-value": 47,
+    "2015-07-value": 50,
     "name": "Jeremy Guthrie",
     "playerid": 2072
 });
@@ -71943,7 +71943,7 @@ db.players.insert({
         "points": 21.603,
         "type": "pitcher"
     },
-    "2015-05-value": 53,
+    "2015-05-value": 55,
     "name": "Shane Greene",
     "playerid": 10756
 });
@@ -71977,7 +71977,7 @@ db.players.insert({
         "points": 97.726,
         "type": "pitcher"
     },
-    "2014-value": 65,
+    "2014-value": 63,
     "2015-07": {
         "BB": 6,
         "BK": 1,
@@ -72007,7 +72007,7 @@ db.players.insert({
         "points": 31.296,
         "type": "pitcher"
     },
-    "2015-07-value": 150,
+    "2015-07-value": 102,
     "name": "Jake Peavy",
     "playerid": 1051
 });
@@ -72041,7 +72041,7 @@ db.players.insert({
         "points": 20.616,
         "type": "pitcher"
     },
-    "2015-06-value": 55,
+    "2015-06-value": 56,
     "name": "David Hale",
     "playerid": 9756
 });
@@ -72075,7 +72075,7 @@ db.players.insert({
         "points": 29.616,
         "type": "pitcher"
     },
-    "2015-05-value": 96,
+    "2015-05-value": 88,
     "2015-06": {
         "BB": 10,
         "BK": 0,
@@ -72105,7 +72105,7 @@ db.players.insert({
         "points": 31.956000000000003,
         "type": "pitcher"
     },
-    "2015-06-value": 139,
+    "2015-06-value": 110,
     "2015-07": {
         "BB": 7,
         "BK": 0,
@@ -72135,7 +72135,7 @@ db.players.insert({
         "points": 25.306,
         "type": "pitcher"
     },
-    "2015-07-value": 75,
+    "2015-07-value": 70,
     "name": "Brett Anderson",
     "playerid": 8223
 });
@@ -72169,7 +72169,7 @@ db.players.insert({
         "points": 15.933000000000002,
         "type": "pitcher"
     },
-    "2015-05-value": 47,
+    "2015-05-value": 50,
     "name": "Joe Kelly",
     "playerid": 9761
 });
@@ -72203,7 +72203,7 @@ db.players.insert({
         "points": 107.71000000000001,
         "type": "pitcher"
     },
-    "2014-value": 98,
+    "2014-value": 92,
     "name": "Henderson Alvarez",
     "playerid": 5669
 });
@@ -72237,7 +72237,7 @@ db.players.insert({
         "points": 120.406,
         "type": "pitcher"
     },
-    "2014-value": 120,
+    "2014-value": 122,
     "name": "Tanner Roark",
     "playerid": 8753
 });
@@ -72271,7 +72271,7 @@ db.players.insert({
         "points": 34.296,
         "type": "pitcher"
     },
-    "2015-05-value": 124,
+    "2015-05-value": 120,
     "name": "James Paxton",
     "playerid": 11828
 });
@@ -72305,7 +72305,7 @@ db.players.insert({
         "points": 106.0,
         "type": "pitcher"
     },
-    "2014-value": 96,
+    "2014-value": 89,
     "name": "Brandon McCarthy",
     "playerid": 4662
 });
@@ -72339,7 +72339,7 @@ db.players.insert({
         "points": 104.506,
         "type": "pitcher"
     },
-    "2014-value": 93,
+    "2014-value": 85,
     "2015-05": {
         "BB": 11,
         "BK": 0,
@@ -72369,7 +72369,7 @@ db.players.insert({
         "points": 32.22,
         "type": "pitcher"
     },
-    "2015-05-value": 138,
+    "2015-05-value": 110,
     "2015-06": {
         "BB": 12,
         "BK": 0,
@@ -72429,7 +72429,7 @@ db.players.insert({
         "points": 30.913,
         "type": "pitcher"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 95,
     "name": "Garrett Richards",
     "playerid": 9784
 });
@@ -72463,7 +72463,7 @@ db.players.insert({
         "points": 30.573,
         "type": "pitcher"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 94,
     "2015-06": {
         "BB": 9,
         "BK": 0,
@@ -72493,7 +72493,7 @@ db.players.insert({
         "points": 38.89,
         "type": "pitcher"
     },
-    "2015-06-value": 104,
+    "2015-06-value": 137,
     "2015-07": {
         "BB": 11,
         "BK": 0,
@@ -72523,7 +72523,7 @@ db.players.insert({
         "points": 44.926,
         "type": "pitcher"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 148,
     "name": "Jake Arrieta",
     "playerid": 4153
 });
@@ -72557,7 +72557,7 @@ db.players.insert({
         "points": 126.406,
         "type": "pitcher"
     },
-    "2014-value": 108,
+    "2014-value": 133,
     "2015-05": {
         "BB": 8,
         "BK": 0,
@@ -72587,7 +72587,7 @@ db.players.insert({
         "points": 27.57,
         "type": "pitcher"
     },
-    "2015-05-value": 84,
+    "2015-05-value": 77,
     "name": "Wily Peralta",
     "playerid": 7738
 });
@@ -72621,7 +72621,7 @@ db.players.insert({
         "points": 33.913,
         "type": "pitcher"
     },
-    "2015-05-value": 126,
+    "2015-05-value": 118,
     "name": "Mike Foltynewicz",
     "playerid": 10811
 });
@@ -72655,7 +72655,7 @@ db.players.insert({
         "points": 24.263,
         "type": "pitcher"
     },
-    "2015-05-value": 65,
+    "2015-05-value": 63,
     "2015-06": {
         "BB": 3,
         "BK": 0,
@@ -72685,7 +72685,7 @@ db.players.insert({
         "points": 40.253,
         "type": "pitcher"
     },
-    "2015-06-value": 103,
+    "2015-06-value": 139,
     "2015-07": {
         "BB": 5,
         "BK": 1,
@@ -72715,7 +72715,7 @@ db.players.insert({
         "points": 32.913,
         "type": "pitcher"
     },
-    "2015-07-value": 137,
+    "2015-07-value": 111,
     "name": "Taijuan Walker",
     "playerid": 11836
 });
@@ -72749,7 +72749,7 @@ db.players.insert({
         "points": 31.583,
         "type": "pitcher"
     },
-    "2015-05-value": 150,
+    "2015-05-value": 102,
     "2015-06": {
         "BB": 8,
         "BK": 0,
@@ -72779,7 +72779,7 @@ db.players.insert({
         "points": 33.933,
         "type": "pitcher"
     },
-    "2015-06-value": 127,
+    "2015-06-value": 118,
     "2015-07": {
         "BB": 12,
         "BK": 1,
@@ -72809,7 +72809,7 @@ db.players.insert({
         "points": 35.253,
         "type": "pitcher"
     },
-    "2015-07-value": 121,
+    "2015-07-value": 122,
     "name": "Chris Heston",
     "playerid": 10302
 });
@@ -72843,7 +72843,7 @@ db.players.insert({
         "points": 35.943,
         "type": "pitcher"
     },
-    "2015-07-value": 110,
+    "2015-07-value": 130,
     "name": "Andrew Heaney",
     "playerid": 15423
 });
@@ -72877,7 +72877,7 @@ db.players.insert({
         "points": 108.43299999999999,
         "type": "pitcher"
     },
-    "2014-value": 99,
+    "2014-value": 95,
     "name": "Jarred Cosart",
     "playerid": 10304
 });
@@ -72911,7 +72911,7 @@ db.players.insert({
         "points": 136.63299999999998,
         "type": "pitcher"
     },
-    "2014-value": 101,
+    "2014-value": 142,
     "2015-05": {
         "BB": 6,
         "BK": 0,
@@ -72941,7 +72941,7 @@ db.players.insert({
         "points": 50.19,
         "type": "pitcher"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 149,
     "2015-06": {
         "BB": 4,
         "BK": 0,
@@ -72971,7 +72971,7 @@ db.players.insert({
         "points": 42.606,
         "type": "pitcher"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 146,
     "2015-07": {
         "BB": 5,
         "BK": 0,
@@ -73001,7 +73001,7 @@ db.players.insert({
         "points": 35.936,
         "type": "pitcher"
     },
-    "2015-07-value": 111,
+    "2015-07-value": 129,
     "name": "Max Scherzer",
     "playerid": 3137
 });
@@ -73035,7 +73035,7 @@ db.players.insert({
         "points": 20.933,
         "type": "pitcher"
     },
-    "2015-07-value": 51,
+    "2015-07-value": 53,
     "name": "Charlie Morton",
     "playerid": 4676
 });
@@ -73069,7 +73069,7 @@ db.players.insert({
         "points": 104.083,
         "type": "pitcher"
     },
-    "2014-value": 89,
+    "2014-value": 80,
     "name": "Zack Wheeler",
     "playerid": 10310
 });
@@ -73103,7 +73103,7 @@ db.players.insert({
         "points": 30.956000000000003,
         "type": "pitcher"
     },
-    "2015-06-value": 151,
+    "2015-06-value": 101,
     "name": "Eduardo Rodriguez",
     "playerid": 13164
 });
@@ -73137,7 +73137,7 @@ db.players.insert({
         "points": 30.89,
         "type": "pitcher"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 98,
     "2015-06": {
         "BB": 16,
         "BK": 0,
@@ -73197,7 +73197,7 @@ db.players.insert({
         "points": 31.23,
         "type": "pitcher"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 98,
     "name": "Mike Fiers",
     "playerid": 7754
 });
@@ -73231,7 +73231,7 @@ db.players.insert({
         "points": 100.363,
         "type": "pitcher"
     },
-    "2014-value": 75,
+    "2014-value": 70,
     "2015-05": {
         "BB": 9,
         "BK": 0,
@@ -73261,7 +73261,7 @@ db.players.insert({
         "points": 32.606,
         "type": "pitcher"
     },
-    "2015-05-value": 135,
+    "2015-05-value": 112,
     "2015-06": {
         "BB": 8,
         "BK": 0,
@@ -73291,7 +73291,7 @@ db.players.insert({
         "points": 31.9,
         "type": "pitcher"
     },
-    "2015-06-value": 142,
+    "2015-06-value": 108,
     "2015-07": {
         "BB": 19,
         "BK": 1,
@@ -73355,7 +73355,7 @@ db.players.insert({
         "points": 26.560000000000002,
         "type": "pitcher"
     },
-    "2015-05-value": 75,
+    "2015-05-value": 70,
     "2015-06": {
         "BB": 14,
         "BK": 0,
@@ -73385,7 +73385,7 @@ db.players.insert({
         "points": 19.89,
         "type": "pitcher"
     },
-    "2015-06-value": 52,
+    "2015-06-value": 54,
     "2015-07": {
         "BB": 8,
         "BK": 0,
@@ -73415,7 +73415,7 @@ db.players.insert({
         "points": 26.58,
         "type": "pitcher"
     },
-    "2015-07-value": 79,
+    "2015-07-value": 73,
     "name": "Andrew Cashner",
     "playerid": 8782
 });
@@ -73449,7 +73449,7 @@ db.players.insert({
         "points": 112.39,
         "type": "pitcher"
     },
-    "2014-value": 152,
+    "2014-value": 101,
     "2015-05": {
         "BB": 8,
         "BK": 0,
@@ -73479,7 +73479,7 @@ db.players.insert({
         "points": 27.22,
         "type": "pitcher"
     },
-    "2015-05-value": 82,
+    "2015-05-value": 75,
     "name": "Yordano Ventura",
     "playerid": 11855
 });
@@ -73513,7 +73513,7 @@ db.players.insert({
         "points": 99.40299999999999,
         "type": "pitcher"
     },
-    "2014-value": 72,
+    "2014-value": 67,
     "2015-05": {
         "BB": 8,
         "BK": 0,
@@ -73543,7 +73543,7 @@ db.players.insert({
         "points": 25.21,
         "type": "pitcher"
     },
-    "2015-05-value": 69,
+    "2015-05-value": 65,
     "2015-06": {
         "BB": 7,
         "BK": 0,
@@ -73573,7 +73573,7 @@ db.players.insert({
         "points": 22.9,
         "type": "pitcher"
     },
-    "2015-06-value": 66,
+    "2015-06-value": 63,
     "name": "Tim Hudson",
     "playerid": 921
 });
@@ -73607,7 +73607,7 @@ db.players.insert({
         "points": 28.240000000000002,
         "type": "pitcher"
     },
-    "2015-05-value": 89,
+    "2015-05-value": 81,
     "2015-06": {
         "BB": 13,
         "BK": 0,
@@ -73637,7 +73637,7 @@ db.players.insert({
         "points": 18.583,
         "type": "pitcher"
     },
-    "2015-06-value": 48,
+    "2015-06-value": 51,
     "name": "Mike Pelfrey",
     "playerid": 5203
 });
@@ -73671,7 +73671,7 @@ db.players.insert({
         "points": 105.67,
         "type": "pitcher"
     },
-    "2014-value": 95,
+    "2014-value": 88,
     "2015-05": {
         "BB": 9,
         "BK": 0,
@@ -73701,7 +73701,7 @@ db.players.insert({
         "points": 24.626,
         "type": "pitcher"
     },
-    "2015-05-value": 66,
+    "2015-05-value": 64,
     "2015-06": {
         "BB": 9,
         "BK": 0,
@@ -73731,7 +73731,7 @@ db.players.insert({
         "points": 18.616,
         "type": "pitcher"
     },
-    "2015-06-value": 49,
+    "2015-06-value": 52,
     "name": "Kyle Kendrick",
     "playerid": 6230
 });
@@ -73765,7 +73765,7 @@ db.players.insert({
         "points": 144.91,
         "type": "pitcher"
     },
-    "2014-value": 100,
+    "2014-value": 147,
     "name": "Adam Wainwright",
     "playerid": 2233
 });
@@ -73799,7 +73799,7 @@ db.players.insert({
         "points": 28.933,
         "type": "pitcher"
     },
-    "2015-06-value": 98,
+    "2015-06-value": 92,
     "name": "Brett Oberholtzer",
     "playerid": 3855
 });
@@ -73833,7 +73833,7 @@ db.players.insert({
         "points": 98.113,
         "type": "pitcher"
     },
-    "2014-value": 67,
+    "2014-value": 64,
     "2015-05": {
         "BB": 6,
         "BK": 0,
@@ -73863,7 +73863,7 @@ db.players.insert({
         "points": 33.55,
         "type": "pitcher"
     },
-    "2015-05-value": 131,
+    "2015-05-value": 114,
     "2015-06": {
         "BB": 10,
         "BK": 0,
@@ -73893,7 +73893,7 @@ db.players.insert({
         "points": 36.583,
         "type": "pitcher"
     },
-    "2015-06-value": 110,
+    "2015-06-value": 130,
     "name": "Jason Hammel",
     "playerid": 4538
 });
@@ -73927,7 +73927,7 @@ db.players.insert({
         "points": 40.88,
         "type": "pitcher"
     },
-    "2015-06-value": 101,
+    "2015-06-value": 142,
     "2015-07": {
         "BB": 5,
         "BK": 0,
@@ -73957,7 +73957,7 @@ db.players.insert({
         "points": 29.603,
         "type": "pitcher"
     },
-    "2015-07-value": 94,
+    "2015-07-value": 86,
     "name": "Marco Estrada",
     "playerid": 1118
 });
@@ -73991,7 +73991,7 @@ db.players.insert({
         "points": 32.24,
         "type": "pitcher"
     },
-    "2015-07-value": 142,
+    "2015-07-value": 107,
     "name": "Patrick Corbin",
     "playerid": 9323
 });
@@ -74025,7 +74025,7 @@ db.players.insert({
         "points": 136.873,
         "type": "pitcher"
     },
-    "2014-value": 101,
+    "2014-value": 144,
     "2015-05": {
         "BB": 8,
         "BK": 0,
@@ -74055,7 +74055,7 @@ db.players.insert({
         "points": 33.223,
         "type": "pitcher"
     },
-    "2015-05-value": 133,
+    "2015-05-value": 114,
     "2015-06": {
         "BB": 3,
         "BK": 0,
@@ -74085,7 +74085,7 @@ db.players.insert({
         "points": 37.616,
         "type": "pitcher"
     },
-    "2015-06-value": 106,
+    "2015-06-value": 135,
     "2015-07": {
         "BB": 8,
         "BK": 0,
@@ -74115,7 +74115,7 @@ db.players.insert({
         "points": 34.88,
         "type": "pitcher"
     },
-    "2015-07-value": 124,
+    "2015-07-value": 120,
     "name": "David Price",
     "playerid": 3184
 });
@@ -74149,7 +74149,7 @@ db.players.insert({
         "points": 20.583,
         "type": "pitcher"
     },
-    "2015-05-value": 50,
+    "2015-05-value": 53,
     "name": "Jerome Williams",
     "playerid": 1137
 });
@@ -74183,7 +74183,7 @@ db.players.insert({
         "points": 100.45,
         "type": "pitcher"
     },
-    "2014-value": 79,
+    "2014-value": 72,
     "2015-05": {
         "BB": 9,
         "BK": 0,
@@ -74213,7 +74213,7 @@ db.players.insert({
         "points": 39.230000000000004,
         "type": "pitcher"
     },
-    "2015-05-value": 102,
+    "2015-05-value": 140,
     "2015-06": {
         "BB": 9,
         "BK": 0,
@@ -74243,7 +74243,7 @@ db.players.insert({
         "points": 31.57,
         "type": "pitcher"
     },
-    "2015-06-value": 144,
+    "2015-06-value": 106,
     "2015-07": {
         "BB": 12,
         "BK": 0,
@@ -74273,7 +74273,7 @@ db.players.insert({
         "points": 27.9,
         "type": "pitcher"
     },
-    "2015-07-value": 85,
+    "2015-07-value": 77,
     "name": "Chris Young",
     "playerid": 3196
 });
@@ -74307,7 +74307,7 @@ db.players.insert({
         "points": 116.68,
         "type": "pitcher"
     },
-    "2014-value": 132,
+    "2014-value": 114,
     "2015-07": {
         "BB": 11,
         "BK": 0,
@@ -74337,7 +74337,7 @@ db.players.insert({
         "points": 31.923000000000002,
         "type": "pitcher"
     },
-    "2015-07-value": 147,
+    "2015-07-value": 104,
     "name": "Ervin Santana",
     "playerid": 3200
 });
@@ -74371,7 +74371,7 @@ db.players.insert({
         "points": 84.493,
         "type": "pitcher"
     },
-    "2014-value": 45,
+    "2014-value": 50,
     "2015-05": {
         "BB": 12,
         "BK": 0,
@@ -74401,7 +74401,7 @@ db.players.insert({
         "points": 29.583,
         "type": "pitcher"
     },
-    "2015-05-value": 94,
+    "2015-05-value": 86,
     "2015-06": {
         "BB": 7,
         "BK": 0,
@@ -74431,7 +74431,7 @@ db.players.insert({
         "points": 34.616,
         "type": "pitcher"
     },
-    "2015-06-value": 118,
+    "2015-06-value": 124,
     "2015-07": {
         "BB": 11,
         "BK": 0,
@@ -74461,7 +74461,7 @@ db.players.insert({
         "points": 38.230000000000004,
         "type": "pitcher"
     },
-    "2015-07-value": 105,
+    "2015-07-value": 136,
     "name": "Francisco Liriano",
     "playerid": 3201
 });
@@ -74495,7 +74495,7 @@ db.players.insert({
         "points": 24.87,
         "type": "pitcher"
     },
-    "2015-05-value": 68,
+    "2015-05-value": 64,
     "2015-06": {
         "BB": 13,
         "BK": 0,
@@ -74525,7 +74525,7 @@ db.players.insert({
         "points": 32.54,
         "type": "pitcher"
     },
-    "2015-06-value": 135,
+    "2015-06-value": 112,
     "2015-07": {
         "BB": 9,
         "BK": 0,
@@ -74555,7 +74555,7 @@ db.players.insert({
         "points": 29.933,
         "type": "pitcher"
     },
-    "2015-07-value": 97,
+    "2015-07-value": 90,
     "name": "Collin McHugh",
     "playerid": 7531
 });
@@ -74589,7 +74589,7 @@ db.players.insert({
         "points": 104.386,
         "type": "pitcher"
     },
-    "2014-value": 92,
+    "2014-value": 84,
     "2015-05": {
         "BB": 9,
         "BK": 0,
@@ -74619,7 +74619,7 @@ db.players.insert({
         "points": 43.223,
         "type": "pitcher"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 147,
     "2015-06": {
         "BB": 10,
         "BK": 0,
@@ -74649,7 +74649,7 @@ db.players.insert({
         "points": 25.560000000000002,
         "type": "pitcher"
     },
-    "2015-06-value": 75,
+    "2015-06-value": 70,
     "name": "Cole Hamels",
     "playerid": 4972
 });
@@ -74683,7 +74683,7 @@ db.players.insert({
         "points": 134.323,
         "type": "pitcher"
     },
-    "2014-value": 102,
+    "2014-value": 140,
     "2015-05": {
         "BB": 6,
         "BK": 0,
@@ -74713,7 +74713,7 @@ db.players.insert({
         "points": 36.563,
         "type": "pitcher"
     },
-    "2015-05-value": 110,
+    "2015-05-value": 131,
     "name": "Jered Weaver",
     "playerid": 4235
 });
@@ -74747,7 +74747,7 @@ db.players.insert({
         "points": 124.93,
         "type": "pitcher"
     },
-    "2014-value": 109,
+    "2014-value": 132,
     "2015-05": {
         "BB": 14,
         "BK": 0,
@@ -74777,7 +74777,7 @@ db.players.insert({
         "points": 28.22,
         "type": "pitcher"
     },
-    "2015-05-value": 89,
+    "2015-05-value": 80,
     "2015-06": {
         "BB": 7,
         "BK": 0,
@@ -74807,7 +74807,7 @@ db.players.insert({
         "points": 24.956000000000003,
         "type": "pitcher"
     },
-    "2015-06-value": 71,
+    "2015-06-value": 67,
     "2015-07": {
         "BB": 16,
         "BK": 0,
@@ -74837,7 +74837,7 @@ db.players.insert({
         "points": 29.636000000000003,
         "type": "pitcher"
     },
-    "2015-07-value": 95,
+    "2015-07-value": 88,
     "name": "Julio Teheran",
     "playerid": 6797
 });
@@ -74871,7 +74871,7 @@ db.players.insert({
         "points": 102.10300000000001,
         "type": "pitcher"
     },
-    "2014-value": 80,
+    "2014-value": 73,
     "name": "Josh Collmenter",
     "playerid": 7312
 });
@@ -74905,7 +74905,7 @@ db.players.insert({
         "points": 18.57,
         "type": "pitcher"
     },
-    "2015-06-value": 47,
+    "2015-06-value": 50,
     "name": "Odrisamer Despaigne",
     "playerid": 16017
 });
@@ -74939,7 +74939,7 @@ db.players.insert({
         "points": 35.86,
         "type": "pitcher"
     },
-    "2015-06-value": 116,
+    "2015-06-value": 126,
     "2015-07": {
         "BB": 11,
         "BK": 0,
@@ -74969,7 +74969,7 @@ db.players.insert({
         "points": 22.58,
         "type": "pitcher"
     },
-    "2015-07-value": 55,
+    "2015-07-value": 56,
     "name": "Kendall Graveman",
     "playerid": 15514
 });
@@ -75003,7 +75003,7 @@ db.players.insert({
         "points": 91.156,
         "type": "pitcher"
     },
-    "2014-value": 50,
+    "2014-value": 53,
     "name": "Travis Wood",
     "playerid": 9884
 });
@@ -75037,7 +75037,7 @@ db.players.insert({
         "points": 122.386,
         "type": "pitcher"
     },
-    "2014-value": 116,
+    "2014-value": 126,
     "2015-05": {
         "BB": 8,
         "BK": 0,
@@ -75067,7 +75067,7 @@ db.players.insert({
         "points": 26.9,
         "type": "pitcher"
     },
-    "2015-05-value": 80,
+    "2015-05-value": 73,
     "2015-06": {
         "BB": 4,
         "BK": 1,
@@ -75097,7 +75097,7 @@ db.players.insert({
         "points": 20.966,
         "type": "pitcher"
     },
-    "2015-06-value": 56,
+    "2015-06-value": 57,
     "name": "Rick Porcello",
     "playerid": 2717
 });
@@ -75131,7 +75131,7 @@ db.players.insert({
         "points": 117.343,
         "type": "pitcher"
     },
-    "2014-value": 129,
+    "2014-value": 116,
     "2015-05": {
         "BB": 15,
         "BK": 0,
@@ -75191,7 +75191,7 @@ db.players.insert({
         "points": 37.253,
         "type": "pitcher"
     },
-    "2015-07-value": 108,
+    "2015-07-value": 133,
     "name": "Chris Tillman",
     "playerid": 5279
 });
@@ -75225,7 +75225,7 @@ db.players.insert({
         "points": 132.88,
         "type": "pitcher"
     },
-    "2014-value": 103,
+    "2014-value": 139,
     "2015-05": {
         "BB": 9,
         "BK": 0,
@@ -75255,7 +75255,7 @@ db.players.insert({
         "points": 42.88,
         "type": "pitcher"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 146,
     "2015-06": {
         "BB": 16,
         "BK": 0,
@@ -75285,7 +75285,7 @@ db.players.insert({
         "points": 29.626,
         "type": "pitcher"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 95,
     "2015-07": {
         "BB": 9,
         "BK": 0,
@@ -75315,7 +75315,7 @@ db.players.insert({
         "points": 31.956000000000003,
         "type": "pitcher"
     },
-    "2015-07-value": 144,
+    "2015-07-value": 106,
     "name": "Felix Hernandez",
     "playerid": 4772
 });
@@ -75383,7 +75383,7 @@ db.players.insert({
         "points": 29.616,
         "type": "pitcher"
     },
-    "2015-05-value": 95,
+    "2015-05-value": 87,
     "2015-07": {
         "BB": 7,
         "BK": 0,
@@ -75413,7 +75413,7 @@ db.players.insert({
         "points": 31.283,
         "type": "pitcher"
     },
-    "2015-07-value": 151,
+    "2015-07-value": 101,
     "name": "Matt Shoemaker",
     "playerid": 4776
 });
@@ -75447,7 +75447,7 @@ db.players.insert({
         "points": 27.583,
         "type": "pitcher"
     },
-    "2015-05-value": 87,
+    "2015-05-value": 78,
     "2015-07": {
         "BB": 7,
         "BK": 0,
@@ -75477,7 +75477,7 @@ db.players.insert({
         "points": 23.58,
         "type": "pitcher"
     },
-    "2015-07-value": 64,
+    "2015-07-value": 62,
     "name": "David Phelps",
     "playerid": 6316
 });
@@ -75511,7 +75511,7 @@ db.players.insert({
         "points": 103.336,
         "type": "pitcher"
     },
-    "2014-value": 85,
+    "2014-value": 77,
     "2015-05": {
         "BB": 7,
         "BK": 0,
@@ -75541,7 +75541,7 @@ db.players.insert({
         "points": 35.88,
         "type": "pitcher"
     },
-    "2015-05-value": 113,
+    "2015-05-value": 128,
     "2015-06": {
         "BB": 7,
         "BK": 0,
@@ -75571,7 +75571,7 @@ db.players.insert({
         "points": 22.266000000000002,
         "type": "pitcher"
     },
-    "2015-06-value": 63,
+    "2015-06-value": 61,
     "2015-07": {
         "BB": 7,
         "BK": 0,
@@ -75601,7 +75601,7 @@ db.players.insert({
         "points": 38.936,
         "type": "pitcher"
     },
-    "2015-07-value": 104,
+    "2015-07-value": 138,
     "name": "Jeff Samardzija",
     "playerid": 3254
 });
@@ -75635,7 +75635,7 @@ db.players.insert({
         "points": 106.756,
         "type": "pitcher"
     },
-    "2014-value": 97,
+    "2014-value": 90,
     "2015-05": {
         "BB": 12,
         "BK": 0,
@@ -75665,7 +75665,7 @@ db.players.insert({
         "points": 26.616,
         "type": "pitcher"
     },
-    "2015-05-value": 78,
+    "2015-05-value": 71,
     "2015-07": {
         "BB": 8,
         "BK": 0,
@@ -75695,7 +75695,7 @@ db.players.insert({
         "points": 26.273000000000003,
         "type": "pitcher"
     },
-    "2015-07-value": 78,
+    "2015-07-value": 72,
     "name": "John Danks",
     "playerid": 6329
 });
@@ -75729,7 +75729,7 @@ db.players.insert({
         "points": 113.416,
         "type": "pitcher"
     },
-    "2014-value": 145,
+    "2014-value": 105,
     "2015-05": {
         "BB": 14,
         "BK": 0,
@@ -75759,7 +75759,7 @@ db.players.insert({
         "points": 30.21,
         "type": "pitcher"
     },
-    "2015-05-value": 98,
+    "2015-05-value": 92,
     "2015-06": {
         "BB": 16,
         "BK": 0,
@@ -75789,7 +75789,7 @@ db.players.insert({
         "points": 36.230000000000004,
         "type": "pitcher"
     },
-    "2015-06-value": 113,
+    "2015-06-value": 128,
     "2015-07": {
         "BB": 13,
         "BK": 0,
@@ -75819,7 +75819,7 @@ db.players.insert({
         "points": 35.56,
         "type": "pitcher"
     },
-    "2015-07-value": 116,
+    "2015-07-value": 125,
     "name": "Tyson Ross",
     "playerid": 7872
 });
@@ -75853,7 +75853,7 @@ db.players.insert({
         "points": 104.086,
         "type": "pitcher"
     },
-    "2014-value": 90,
+    "2014-value": 82,
     "2015-05": {
         "BB": 14,
         "BK": 0,
@@ -75883,7 +75883,7 @@ db.players.insert({
         "points": 34.616,
         "type": "pitcher"
     },
-    "2015-05-value": 120,
+    "2015-05-value": 122,
     "2015-06": {
         "BB": 5,
         "BK": 0,
@@ -75913,7 +75913,7 @@ db.players.insert({
         "points": 44.53,
         "type": "pitcher"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 149,
     "2015-07": {
         "BB": 8,
         "BK": 0,
@@ -75943,7 +75943,7 @@ db.players.insert({
         "points": 27.626,
         "type": "pitcher"
     },
-    "2015-07-value": 84,
+    "2015-07-value": 76,
     "name": "Chris Archer",
     "playerid": 6345
 });
@@ -75977,7 +75977,7 @@ db.players.insert({
         "points": 38.923,
         "type": "pitcher"
     },
-    "2015-05-value": 103,
+    "2015-05-value": 139,
     "2015-06": {
         "BB": 5,
         "BK": 0,
@@ -76007,7 +76007,7 @@ db.players.insert({
         "points": 43.243,
         "type": "pitcher"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 147,
     "2015-07": {
         "BB": 5,
         "BK": 0,
@@ -76037,7 +76037,7 @@ db.players.insert({
         "points": 36.91,
         "type": "pitcher"
     },
-    "2015-07-value": 108,
+    "2015-07-value": 132,
     "name": "Jacob deGrom",
     "playerid": 10954
 });
@@ -76101,7 +76101,7 @@ db.players.insert({
         "points": 23.240000000000002,
         "type": "pitcher"
     },
-    "2015-07-value": 61,
+    "2015-07-value": 60,
     "name": "Doug Fister",
     "playerid": 9425
 });
@@ -76135,7 +76135,7 @@ db.players.insert({
         "points": 119.71300000000001,
         "type": "pitcher"
     },
-    "2014-value": 122,
+    "2014-value": 121,
     "2015-06": {
         "BB": 14,
         "BK": 0,
@@ -76165,7 +76165,7 @@ db.players.insert({
         "points": 28.273000000000003,
         "type": "pitcher"
     },
-    "2015-06-value": 95,
+    "2015-06-value": 88,
     "2015-07": {
         "BB": 12,
         "BK": 0,
@@ -76195,7 +76195,7 @@ db.players.insert({
         "points": 23.23,
         "type": "pitcher"
     },
-    "2015-07-value": 60,
+    "2015-07-value": 59,
     "name": "Alfredo Simon",
     "playerid": 2155
 });
@@ -76229,7 +76229,7 @@ db.players.insert({
         "points": 26.276000000000003,
         "type": "pitcher"
     },
-    "2015-05-value": 73,
+    "2015-05-value": 68,
     "2015-06": {
         "BB": 10,
         "BK": 1,
@@ -76259,7 +76259,7 @@ db.players.insert({
         "points": 36.276,
         "type": "pitcher"
     },
-    "2015-06-value": 112,
+    "2015-06-value": 129,
     "2015-07": {
         "BB": 14,
         "BK": 0,
@@ -76289,7 +76289,7 @@ db.players.insert({
         "points": 33.296,
         "type": "pitcher"
     },
-    "2015-07-value": 132,
+    "2015-07-value": 114,
     "name": "Anibal Sanchez",
     "playerid": 3284
 });
@@ -76323,7 +76323,7 @@ db.players.insert({
         "points": 112.0,
         "type": "pitcher"
     },
-    "2014-value": 99,
+    "2014-value": 98,
     "2015-05": {
         "BB": 10,
         "BK": 0,
@@ -76353,7 +76353,7 @@ db.players.insert({
         "points": 39.586,
         "type": "pitcher"
     },
-    "2015-05-value": 101,
+    "2015-05-value": 142,
     "2015-06": {
         "BB": 10,
         "BK": 0,
@@ -76383,7 +76383,7 @@ db.players.insert({
         "points": 39.926,
         "type": "pitcher"
     },
-    "2015-06-value": 104,
+    "2015-06-value": 138,
     "2015-07": {
         "BB": 3,
         "BK": 0,
@@ -76413,7 +76413,7 @@ db.players.insert({
         "points": 29.646,
         "type": "pitcher"
     },
-    "2015-07-value": 96,
+    "2015-07-value": 89,
     "name": "Dallas Keuchel",
     "playerid": 9434
 });
@@ -76447,7 +76447,7 @@ db.players.insert({
         "points": 110.38,
         "type": "pitcher"
     },
-    "2014-value": 99,
+    "2014-value": 97,
     "2015-05": {
         "BB": 4,
         "BK": 0,
@@ -76477,7 +76477,7 @@ db.players.insert({
         "points": 32.573,
         "type": "pitcher"
     },
-    "2015-05-value": 137,
+    "2015-05-value": 111,
     "2015-06": {
         "BB": 6,
         "BK": 0,
@@ -76507,7 +76507,7 @@ db.players.insert({
         "points": 28.23,
         "type": "pitcher"
     },
-    "2015-06-value": 94,
+    "2015-06-value": 86,
     "2015-07": {
         "BB": 7,
         "BK": 0,
@@ -76537,7 +76537,7 @@ db.players.insert({
         "points": 23.616,
         "type": "pitcher"
     },
-    "2015-07-value": 65,
+    "2015-07-value": 63,
     "name": "Dan Haren",
     "playerid": 1757
 });
@@ -76571,7 +76571,7 @@ db.players.insert({
         "points": 29.933,
         "type": "pitcher"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 98,
     "2015-07": {
         "BB": 8,
         "BK": 0,
@@ -76601,7 +76601,7 @@ db.players.insert({
         "points": 25.933,
         "type": "pitcher"
     },
-    "2015-07-value": 77,
+    "2015-07-value": 71,
     "name": "Robbie Ray",
     "playerid": 11486
 });
@@ -76635,7 +76635,7 @@ db.players.insert({
         "points": 115.66,
         "type": "pitcher"
     },
-    "2014-value": 136,
+    "2014-value": 111,
     "2015-05": {
         "BB": 9,
         "BK": 0,
@@ -76665,7 +76665,7 @@ db.players.insert({
         "points": 25.936,
         "type": "pitcher"
     },
-    "2015-05-value": 71,
+    "2015-05-value": 67,
     "2015-06": {
         "BB": 6,
         "BK": 0,
@@ -76695,7 +76695,7 @@ db.players.insert({
         "points": 30.880000000000003,
         "type": "pitcher"
     },
-    "2015-06-value": 152,
+    "2015-06-value": 100,
     "2015-07": {
         "BB": 1,
         "BK": 0,
@@ -76725,7 +76725,7 @@ db.players.insert({
         "points": 33.286,
         "type": "pitcher"
     },
-    "2015-07-value": 134,
+    "2015-07-value": 113,
     "name": "Mark Buehrle",
     "playerid": 225
 });
@@ -76793,7 +76793,7 @@ db.players.insert({
         "points": 114.373,
         "type": "pitcher"
     },
-    "2014-value": 140,
+    "2014-value": 109,
     "2015-05": {
         "BB": 10,
         "BK": 0,
@@ -76823,7 +76823,7 @@ db.players.insert({
         "points": 26.626,
         "type": "pitcher"
     },
-    "2015-05-value": 79,
+    "2015-05-value": 72,
     "2015-06": {
         "BB": 5,
         "BK": 0,
@@ -76883,7 +76883,7 @@ db.players.insert({
         "points": 21.240000000000002,
         "type": "pitcher"
     },
-    "2015-07-value": 52,
+    "2015-07-value": 54,
     "name": "Kyle Lohse",
     "playerid": 739
 });
@@ -76917,7 +76917,7 @@ db.players.insert({
         "points": 28.240000000000002,
         "type": "pitcher"
     },
-    "2015-07-value": 88,
+    "2015-07-value": 79,
     "name": "Matt Cain",
     "playerid": 4732
 });
@@ -76951,7 +76951,7 @@ db.players.insert({
         "points": 32.616,
         "type": "pitcher"
     },
-    "2015-05-value": 134,
+    "2015-05-value": 113,
     "2015-06": {
         "BB": 8,
         "BK": 0,
@@ -76981,7 +76981,7 @@ db.players.insert({
         "points": 30.966,
         "type": "pitcher"
     },
-    "2015-06-value": 150,
+    "2015-06-value": 102,
     "2015-07": {
         "BB": 9,
         "BK": 0,
@@ -77011,7 +77011,7 @@ db.players.insert({
         "points": 36.22,
         "type": "pitcher"
     },
-    "2015-07-value": 109,
+    "2015-07-value": 131,
     "name": "Danny Salazar",
     "playerid": 5867
 });
@@ -77045,7 +77045,7 @@ db.players.insert({
         "points": 150.256,
         "type": "pitcher"
     },
-    "2014-value": 100,
+    "2014-value": 148,
     "2015-05": {
         "BB": 7,
         "BK": 2,
@@ -77075,7 +77075,7 @@ db.players.insert({
         "points": 27.273000000000003,
         "type": "pitcher"
     },
-    "2015-05-value": 83,
+    "2015-05-value": 76,
     "2015-06": {
         "BB": 7,
         "BK": 0,
@@ -77105,7 +77105,7 @@ db.players.insert({
         "points": 32.263000000000005,
         "type": "pitcher"
     },
-    "2015-06-value": 136,
+    "2015-06-value": 111,
     "2015-07": {
         "BB": 12,
         "BK": 0,
@@ -77135,7 +77135,7 @@ db.players.insert({
         "points": 39.2,
         "type": "pitcher"
     },
-    "2015-07-value": 103,
+    "2015-07-value": 139,
     "name": "Johnny Cueto",
     "playerid": 6893
 });
@@ -77169,7 +77169,7 @@ db.players.insert({
         "points": 28.243000000000002,
         "type": "pitcher"
     },
-    "2015-05-value": 90,
+    "2015-05-value": 82,
     "2015-06": {
         "BB": 7,
         "BK": 0,
@@ -77199,7 +77199,7 @@ db.players.insert({
         "points": 29.933,
         "type": "pitcher"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 97,
     "name": "Chase Anderson",
     "playerid": 6895
 });
@@ -77233,7 +77233,7 @@ db.players.insert({
         "points": 24.23,
         "type": "pitcher"
     },
-    "2015-05-value": 64,
+    "2015-05-value": 62,
     "2015-06": {
         "BB": 9,
         "BK": 0,
@@ -77263,7 +77263,7 @@ db.players.insert({
         "points": 21.943,
         "type": "pitcher"
     },
-    "2015-06-value": 62,
+    "2015-06-value": 60,
     "name": "J.A. Happ",
     "playerid": 7410
 });
@@ -77297,7 +77297,7 @@ db.players.insert({
         "points": 35.636,
         "type": "pitcher"
     },
-    "2015-05-value": 115,
+    "2015-05-value": 127,
     "name": "Ricky Nolasco",
     "playerid": 3830
 });
@@ -77331,7 +77331,7 @@ db.players.insert({
         "points": 114.07,
         "type": "pitcher"
     },
-    "2014-value": 141,
+    "2014-value": 108,
     "2015-07": {
         "BB": 5,
         "BK": 0,
@@ -77361,7 +77361,7 @@ db.players.insert({
         "points": 29.263,
         "type": "pitcher"
     },
-    "2015-07-value": 92,
+    "2015-07-value": 84,
     "name": "Hisashi Iwakuma",
     "playerid": 13048
 });
@@ -77425,7 +77425,7 @@ db.players.insert({
         "points": 27.243000000000002,
         "type": "pitcher"
     },
-    "2015-06-value": 86,
+    "2015-06-value": 78,
     "name": "Anthony DeSclafani",
     "playerid": 13050
 });
@@ -77459,7 +77459,7 @@ db.players.insert({
         "points": 34.89,
         "type": "pitcher"
     },
-    "2015-05-value": 119,
+    "2015-05-value": 123,
     "2015-06": {
         "BB": 7,
         "BK": 0,
@@ -77489,7 +77489,7 @@ db.players.insert({
         "points": 26.273000000000003,
         "type": "pitcher"
     },
-    "2015-06-value": 81,
+    "2015-06-value": 74,
     "2015-07": {
         "BB": 3,
         "BK": 0,
@@ -77519,7 +77519,7 @@ db.players.insert({
         "points": 28.283,
         "type": "pitcher"
     },
-    "2015-07-value": 89,
+    "2015-07-value": 80,
     "name": "Michael Pineda",
     "playerid": 5372
 });
@@ -77553,7 +77553,7 @@ db.players.insert({
         "points": 98.44,
         "type": "pitcher"
     },
-    "2014-value": 68,
+    "2014-value": 65,
     "2015-05": {
         "BB": 6,
         "BK": 0,
@@ -77583,7 +77583,7 @@ db.players.insert({
         "points": 33.606,
         "type": "pitcher"
     },
-    "2015-05-value": 130,
+    "2015-05-value": 115,
     "name": "Jake Odorizzi",
     "playerid": 6397
 });
@@ -77617,7 +77617,7 @@ db.players.insert({
         "points": 36.243,
         "type": "pitcher"
     },
-    "2015-05-value": 112,
+    "2015-05-value": 128,
     "2015-06": {
         "BB": 5,
         "BK": 0,
@@ -77647,7 +77647,7 @@ db.players.insert({
         "points": 34.230000000000004,
         "type": "pitcher"
     },
-    "2015-06-value": 124,
+    "2015-06-value": 120,
     "2015-07": {
         "BB": 8,
         "BK": 0,
@@ -77677,7 +77677,7 @@ db.players.insert({
         "points": 33.230000000000004,
         "type": "pitcher"
     },
-    "2015-07-value": 135,
+    "2015-07-value": 112,
     "name": "Michael Wacha",
     "playerid": 14078
 });
@@ -77711,7 +77711,7 @@ db.players.insert({
         "points": 99.49600000000001,
         "type": "pitcher"
     },
-    "2014-value": 74,
+    "2014-value": 69,
     "2015-06": {
         "BB": 8,
         "BK": 0,
@@ -77741,7 +77741,7 @@ db.players.insert({
         "points": 31.936,
         "type": "pitcher"
     },
-    "2015-06-value": 140,
+    "2015-06-value": 109,
     "name": "Alex Wood",
     "playerid": 13781
 });
@@ -77775,7 +77775,7 @@ db.players.insert({
         "points": 38.553,
         "type": "pitcher"
     },
-    "2015-06-value": 105,
+    "2015-06-value": 136,
     "name": "Michael Montgomery",
     "playerid": 4869
 });
@@ -77809,7 +77809,7 @@ db.players.insert({
         "points": 93.856,
         "type": "pitcher"
     },
-    "2014-value": 56,
+    "2014-value": 57,
     "2015-05": {
         "BB": 13,
         "BK": 0,
@@ -77839,7 +77839,7 @@ db.players.insert({
         "points": 31.573,
         "type": "pitcher"
     },
-    "2015-05-value": 151,
+    "2015-05-value": 101,
     "2015-06": {
         "BB": 8,
         "BK": 1,
@@ -77869,7 +77869,7 @@ db.players.insert({
         "points": 28.240000000000002,
         "type": "pitcher"
     },
-    "2015-06-value": 95,
+    "2015-06-value": 87,
     "name": "Roenis Elias",
     "playerid": 12673
 });
@@ -77903,7 +77903,7 @@ db.players.insert({
         "points": 27.646,
         "type": "pitcher"
     },
-    "2015-06-value": 90,
+    "2015-06-value": 81,
     "name": "Carlos Rodon",
     "playerid": 16137
 });
@@ -77937,7 +77937,7 @@ db.players.insert({
         "points": 41.56,
         "type": "pitcher"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 145,
     "name": "Jose Fernandez",
     "playerid": 11530
 });
@@ -77971,7 +77971,7 @@ db.players.insert({
         "points": 87.82300000000001,
         "type": "pitcher"
     },
-    "2014-value": 47,
+    "2014-value": 51,
     "2015-05": {
         "BB": 16,
         "BK": 0,
@@ -78001,7 +78001,7 @@ db.players.insert({
         "points": 21.626,
         "type": "pitcher"
     },
-    "2015-05-value": 54,
+    "2015-05-value": 56,
     "2015-06": {
         "BB": 3,
         "BK": 0,
@@ -78031,7 +78031,7 @@ db.players.insert({
         "points": 20.23,
         "type": "pitcher"
     },
-    "2015-06-value": 53,
+    "2015-06-value": 55,
     "name": "Matt Garza",
     "playerid": 3340
 });
@@ -78065,7 +78065,7 @@ db.players.insert({
         "points": 119.116,
         "type": "pitcher"
     },
-    "2014-value": 124,
+    "2014-value": 120,
     "2015-05": {
         "BB": 6,
         "BK": 0,
@@ -78095,7 +78095,7 @@ db.players.insert({
         "points": 28.87,
         "type": "pitcher"
     },
-    "2015-05-value": 92,
+    "2015-05-value": 84,
     "2015-07": {
         "BB": 5,
         "BK": 0,
@@ -78125,7 +78125,7 @@ db.players.insert({
         "points": 27.54,
         "type": "pitcher"
     },
-    "2015-07-value": 83,
+    "2015-07-value": 75,
     "name": "Wei-Yin Chen",
     "playerid": 13071
 });
@@ -78159,7 +78159,7 @@ db.players.insert({
         "points": 30.560000000000002,
         "type": "pitcher"
     },
-    "2015-05-value": 98,
+    "2015-05-value": 93,
     "2015-06": {
         "BB": 5,
         "BK": 0,
@@ -78189,7 +78189,7 @@ db.players.insert({
         "points": 27.560000000000002,
         "type": "pitcher"
     },
-    "2015-06-value": 88,
+    "2015-06-value": 80,
     "2015-07": {
         "BB": 7,
         "BK": 1,
@@ -78219,7 +78219,7 @@ db.players.insert({
         "points": 30.23,
         "type": "pitcher"
     },
-    "2015-07-value": 97,
+    "2015-07-value": 91,
     "name": "Kyle Hendricks",
     "playerid": 12049
 });
@@ -78253,7 +78253,7 @@ db.players.insert({
         "points": 28.253,
         "type": "pitcher"
     },
-    "2015-05-value": 91,
+    "2015-05-value": 83,
     "2015-07": {
         "BB": 5,
         "BK": 0,
@@ -78283,7 +78283,7 @@ db.players.insert({
         "points": 35.92,
         "type": "pitcher"
     },
-    "2015-07-value": 113,
+    "2015-07-value": 128,
     "name": "Jeremy Hellickson",
     "playerid": 4371
 });
@@ -78317,7 +78317,7 @@ db.players.insert({
         "points": 109.483,
         "type": "pitcher"
     },
-    "2014-value": 99,
+    "2014-value": 96,
     "2015-06": {
         "BB": 6,
         "BK": 0,
@@ -78347,7 +78347,7 @@ db.players.insert({
         "points": 25.273000000000003,
         "type": "pitcher"
     },
-    "2015-06-value": 74,
+    "2015-06-value": 69,
     "name": "Bud Norris",
     "playerid": 9492
 });
@@ -78381,7 +78381,7 @@ db.players.insert({
         "points": 31.87,
         "type": "pitcher"
     },
-    "2015-05-value": 143,
+    "2015-05-value": 107,
     "2015-06": {
         "BB": 10,
         "BK": 0,
@@ -78411,7 +78411,7 @@ db.players.insert({
         "points": 29.276000000000003,
         "type": "pitcher"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 94,
     "2015-07": {
         "BB": 11,
         "BK": 0,
@@ -78441,7 +78441,7 @@ db.players.insert({
         "points": 26.636000000000003,
         "type": "pitcher"
     },
-    "2015-07-value": 81,
+    "2015-07-value": 74,
     "name": "Rubby de la Rosa",
     "playerid": 3862
 });
@@ -78475,7 +78475,7 @@ db.players.insert({
         "points": 31.616,
         "type": "pitcher"
     },
-    "2015-05-value": 147,
+    "2015-05-value": 104,
     "2015-07": {
         "BB": 10,
         "BK": 0,
@@ -78505,7 +78505,7 @@ db.players.insert({
         "points": 35.306,
         "type": "pitcher"
     },
-    "2015-07-value": 118,
+    "2015-07-value": 124,
     "name": "Gio Gonzalez",
     "playerid": 7448
 });
@@ -78539,7 +78539,7 @@ db.players.insert({
         "points": 127.036,
         "type": "pitcher"
     },
-    "2014-value": 106,
+    "2014-value": 135,
     "2015-05": {
         "BB": 4,
         "BK": 0,
@@ -78569,7 +78569,7 @@ db.players.insert({
         "points": 29.89,
         "type": "pitcher"
     },
-    "2015-05-value": 97,
+    "2015-05-value": 91,
     "2015-06": {
         "BB": 4,
         "BK": 0,
@@ -78599,7 +78599,7 @@ db.players.insert({
         "points": 31.266000000000002,
         "type": "pitcher"
     },
-    "2015-06-value": 146,
+    "2015-06-value": 105,
     "2015-07": {
         "BB": 2,
         "BK": 0,
@@ -78629,7 +78629,7 @@ db.players.insert({
         "points": 27.933,
         "type": "pitcher"
     },
-    "2015-07-value": 86,
+    "2015-07-value": 78,
     "name": "Phil Hughes",
     "playerid": 7450
 });
@@ -78663,7 +78663,7 @@ db.players.insert({
         "points": 117.733,
         "type": "pitcher"
     },
-    "2014-value": 127,
+    "2014-value": 117,
     "2015-05": {
         "BB": 16,
         "BK": 0,
@@ -78693,7 +78693,7 @@ db.players.insert({
         "points": 21.23,
         "type": "pitcher"
     },
-    "2015-05-value": 52,
+    "2015-05-value": 54,
     "2015-06": {
         "BB": 8,
         "BK": 2,
@@ -78723,7 +78723,7 @@ db.players.insert({
         "points": 33.56,
         "type": "pitcher"
     },
-    "2015-06-value": 131,
+    "2015-06-value": 115,
     "2015-07": {
         "BB": 6,
         "BK": 0,
@@ -78753,7 +78753,7 @@ db.players.insert({
         "points": 39.22,
         "type": "pitcher"
     },
-    "2015-07-value": 102,
+    "2015-07-value": 140,
     "name": "Scott Kazmir",
     "playerid": 4897
 });
@@ -78787,7 +78787,7 @@ db.players.insert({
         "points": 24.976,
         "type": "pitcher"
     },
-    "2015-07-value": 74,
+    "2015-07-value": 69,
     "name": "Adam Morgan",
     "playerid": 12580
 });
@@ -78821,7 +78821,7 @@ db.players.insert({
         "points": 40.573,
         "type": "pitcher"
     },
-    "2015-06-value": 102,
+    "2015-06-value": 140,
     "name": "Lance McCullers",
     "playerid": 14120
 });
@@ -78855,7 +78855,7 @@ db.players.insert({
         "points": 25.57,
         "type": "pitcher"
     },
-    "2015-05-value": 70,
+    "2015-05-value": 66,
     "2015-06": {
         "BB": 13,
         "BK": 0,
@@ -78885,7 +78885,7 @@ db.players.insert({
         "points": 40.616,
         "type": "pitcher"
     },
-    "2015-06-value": 102,
+    "2015-06-value": 141,
     "2015-07": {
         "BB": 11,
         "BK": 0,
@@ -78915,7 +78915,7 @@ db.players.insert({
         "points": 20.58,
         "type": "pitcher"
     },
-    "2015-07-value": 49,
+    "2015-07-value": 52,
     "name": "Ubaldo Jimenez",
     "playerid": 3374
 });
@@ -78949,7 +78949,7 @@ db.players.insert({
         "points": 123.016,
         "type": "pitcher"
     },
-    "2014-value": 112,
+    "2014-value": 129,
     "2015-05": {
         "BB": 10,
         "BK": 0,
@@ -78979,7 +78979,7 @@ db.players.insert({
         "points": 22.89,
         "type": "pitcher"
     },
-    "2015-05-value": 60,
+    "2015-05-value": 59,
     "2015-06": {
         "BB": 17,
         "BK": 0,
@@ -79009,7 +79009,7 @@ db.players.insert({
         "points": 28.54,
         "type": "pitcher"
     },
-    "2015-06-value": 96,
+    "2015-06-value": 89,
     "2015-07": {
         "BB": 7,
         "BK": 1,
@@ -79039,7 +79039,7 @@ db.players.insert({
         "points": 32.55,
         "type": "pitcher"
     },
-    "2015-07-value": 139,
+    "2015-07-value": 109,
     "name": "R.A. Dickey",
     "playerid": 1245
 });
@@ -79073,7 +79073,7 @@ db.players.insert({
         "points": 29.200000000000003,
         "type": "pitcher"
     },
-    "2015-05-value": 94,
+    "2015-05-value": 85,
     "2015-06": {
         "BB": 12,
         "BK": 1,
@@ -79103,7 +79103,7 @@ db.players.insert({
         "points": 26.22,
         "type": "pitcher"
     },
-    "2015-06-value": 80,
+    "2015-06-value": 73,
     "2015-07": {
         "BB": 12,
         "BK": 0,
@@ -79133,7 +79133,7 @@ db.players.insert({
         "points": 38.89,
         "type": "pitcher"
     },
-    "2015-07-value": 104,
+    "2015-07-value": 137,
     "name": "Jimmy Nelson",
     "playerid": 10547
 });
@@ -79167,7 +79167,7 @@ db.players.insert({
         "points": 31.21,
         "type": "pitcher"
     },
-    "2015-05-value": 152,
+    "2015-05-value": 100,
     "2015-06": {
         "BB": 8,
         "BK": 0,
@@ -79231,7 +79231,7 @@ db.players.insert({
         "points": 32.57,
         "type": "pitcher"
     },
-    "2015-06-value": 133,
+    "2015-06-value": 113,
     "2015-07": {
         "BB": 13,
         "BK": 0,
@@ -79261,7 +79261,7 @@ db.players.insert({
         "points": 37.616,
         "type": "pitcher"
     },
-    "2015-07-value": 107,
+    "2015-07-value": 134,
     "name": "Taylor Jungmann",
     "playerid": 13119
 });
@@ -79295,7 +79295,7 @@ db.players.insert({
         "points": 130.336,
         "type": "pitcher"
     },
-    "2014-value": 104,
+    "2014-value": 138,
     "2015-05": {
         "BB": 12,
         "BK": 0,
@@ -79325,7 +79325,7 @@ db.players.insert({
         "points": 42.53,
         "type": "pitcher"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 145,
     "2015-07": {
         "BB": 5,
         "BK": 0,
@@ -79355,7 +79355,7 @@ db.players.insert({
         "points": 41.223,
         "type": "pitcher"
     },
-    "2015-07-value": 101,
+    "2015-07-value": 144,
     "name": "Jon Lester",
     "playerid": 4930
 });
@@ -79389,7 +79389,7 @@ db.players.insert({
         "points": 93.43299999999999,
         "type": "pitcher"
     },
-    "2014-value": 52,
+    "2014-value": 54,
     "name": "Scott Feldman",
     "playerid": 6283
 });
@@ -79423,7 +79423,7 @@ db.players.insert({
         "points": 36.923,
         "type": "pitcher"
     },
-    "2015-05-value": 108,
+    "2015-05-value": 133,
     "2015-06": {
         "BB": 11,
         "BK": 0,
@@ -79453,7 +79453,7 @@ db.players.insert({
         "points": 41.573,
         "type": "pitcher"
     },
-    "2015-06-value": 101,
+    "2015-06-value": 143,
     "2015-07": {
         "BB": 3,
         "BK": 0,
@@ -79483,7 +79483,7 @@ db.players.insert({
         "points": 35.9,
         "type": "pitcher"
     },
-    "2015-07-value": 114,
+    "2015-07-value": 127,
     "name": "Gerrit Cole",
     "playerid": 13125
 });
@@ -79517,7 +79517,7 @@ db.players.insert({
         "points": 27.880000000000003,
         "type": "pitcher"
     },
-    "2015-06-value": 91,
+    "2015-06-value": 82,
     "name": "Chi Chi Gonzalez",
     "playerid": 14663
 });
@@ -79551,7 +79551,7 @@ db.players.insert({
         "points": 98.776,
         "type": "pitcher"
     },
-    "2014-value": 70,
+    "2014-value": 66,
     "2015-05": {
         "BB": 8,
         "BK": 0,
@@ -79581,7 +79581,7 @@ db.players.insert({
         "points": 20.22,
         "type": "pitcher"
     },
-    "2015-05-value": 49,
+    "2015-05-value": 52,
     "2015-06": {
         "BB": 14,
         "BK": 0,
@@ -79611,7 +79611,7 @@ db.players.insert({
         "points": 25.89,
         "type": "pitcher"
     },
-    "2015-06-value": 76,
+    "2015-06-value": 70,
     "2015-07": {
         "BB": 5,
         "BK": 0,
@@ -79641,7 +79641,7 @@ db.players.insert({
         "points": 31.263,
         "type": "pitcher"
     },
-    "2015-07-value": 152,
+    "2015-07-value": 100,
     "name": "Jon Niese",
     "playerid": 4424
 });
@@ -79675,7 +79675,7 @@ db.players.insert({
         "points": 115.33,
         "type": "pitcher"
     },
-    "2014-value": 138,
+    "2014-value": 110,
     "2015-05": {
         "BB": 11,
         "BK": 0,
@@ -79705,7 +79705,7 @@ db.players.insert({
         "points": 26.593000000000004,
         "type": "pitcher"
     },
-    "2015-05-value": 76,
+    "2015-05-value": 71,
     "2015-06": {
         "BB": 9,
         "BK": 0,
@@ -79735,7 +79735,7 @@ db.players.insert({
         "points": 34.55,
         "type": "pitcher"
     },
-    "2015-06-value": 119,
+    "2015-06-value": 123,
     "2015-07": {
         "BB": 7,
         "BK": 0,
@@ -79765,7 +79765,7 @@ db.players.insert({
         "points": 30.603,
         "type": "pitcher"
     },
-    "2015-07-value": 98,
+    "2015-07-value": 93,
     "name": "Ian Kennedy",
     "playerid": 6986
 });
@@ -79799,7 +79799,7 @@ db.players.insert({
         "points": 31.943,
         "type": "pitcher"
     },
-    "2015-05-value": 139,
+    "2015-05-value": 109,
     "name": "Chad Bettis",
     "playerid": 10587
 });
@@ -79833,7 +79833,7 @@ db.players.insert({
         "points": 29.22,
         "type": "pitcher"
     },
-    "2015-06-value": 98,
+    "2015-06-value": 93,
     "name": "Nate Karns",
     "playerid": 12638
 });
@@ -79867,7 +79867,7 @@ db.players.insert({
         "points": 30.880000000000003,
         "type": "pitcher"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 97,
     "2015-06": {
         "BB": 14,
         "BK": 0,
@@ -79931,7 +79931,7 @@ db.players.insert({
         "points": 23.286,
         "type": "pitcher"
     },
-    "2015-05-value": 61,
+    "2015-05-value": 60,
     "2015-06": {
         "BB": 6,
         "BK": 0,
@@ -79961,7 +79961,7 @@ db.players.insert({
         "points": 22.286,
         "type": "pitcher"
     },
-    "2015-06-value": 64,
+    "2015-06-value": 62,
     "name": "CC Sabathia",
     "playerid": 404
 });
@@ -79995,7 +79995,7 @@ db.players.insert({
         "points": 103.42,
         "type": "pitcher"
     },
-    "2014-value": 86,
+    "2014-value": 78,
     "2015-05": {
         "BB": 9,
         "BK": 0,
@@ -80025,7 +80025,7 @@ db.players.insert({
         "points": 37.21,
         "type": "pitcher"
     },
-    "2015-05-value": 106,
+    "2015-05-value": 135,
     "2015-06": {
         "BB": 8,
         "BK": 0,
@@ -80055,7 +80055,7 @@ db.players.insert({
         "points": 43.553,
         "type": "pitcher"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 148,
     "2015-07": {
         "BB": 3,
         "BK": 0,
@@ -80119,7 +80119,7 @@ db.players.insert({
         "points": 33.636,
         "type": "pitcher"
     },
-    "2015-06-value": 128,
+    "2015-06-value": 117,
     "name": "Williams Perez",
     "playerid": 11592
 });
@@ -80153,7 +80153,7 @@ db.players.insert({
         "points": 34.573,
         "type": "pitcher"
     },
-    "2015-05-value": 123,
+    "2015-05-value": 121,
     "2015-07": {
         "BB": 6,
         "BK": 0,
@@ -80183,7 +80183,7 @@ db.players.insert({
         "points": 28.91,
         "type": "pitcher"
     },
-    "2015-07-value": 91,
+    "2015-07-value": 83,
     "name": "Miguel Gonzalez",
     "playerid": 7024
 });
@@ -80217,7 +80217,7 @@ db.players.insert({
         "points": 21.89,
         "type": "pitcher"
     },
-    "2015-05-value": 56,
+    "2015-05-value": 57,
     "2015-06": {
         "BB": 10,
         "BK": 0,
@@ -80247,7 +80247,7 @@ db.players.insert({
         "points": 24.943,
         "type": "pitcher"
     },
-    "2015-06-value": 70,
+    "2015-06-value": 66,
     "2015-07": {
         "BB": 11,
         "BK": 0,
@@ -80277,7 +80277,7 @@ db.players.insert({
         "points": 30.933,
         "type": "pitcher"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 96,
     "name": "Jeff Locke",
     "playerid": 2929
 });
@@ -80311,7 +80311,7 @@ db.players.insert({
         "points": 122.95,
         "type": "pitcher"
     },
-    "2014-value": 114,
+    "2014-value": 127,
     "name": "Stephen Strasburg",
     "playerid": 10131
 });
@@ -80345,7 +80345,7 @@ db.players.insert({
         "points": 121.693,
         "type": "pitcher"
     },
-    "2014-value": 119,
+    "2014-value": 123,
     "2015-05": {
         "BB": 4,
         "BK": 0,
@@ -80375,7 +80375,7 @@ db.players.insert({
         "points": 29.880000000000003,
         "type": "pitcher"
     },
-    "2015-05-value": 97,
+    "2015-05-value": 90,
     "2015-07": {
         "BB": 4,
         "BK": 0,
@@ -80405,7 +80405,7 @@ db.players.insert({
         "points": 19.976,
         "type": "pitcher"
     },
-    "2015-07-value": 48,
+    "2015-07-value": 51,
     "name": "Bartolo Colon",
     "playerid": 375
 });
@@ -80439,7 +80439,7 @@ db.players.insert({
         "points": 135.643,
         "type": "pitcher"
     },
-    "2014-value": 102,
+    "2014-value": 141,
     "2015-05": {
         "BB": 8,
         "BK": 0,
@@ -80469,7 +80469,7 @@ db.players.insert({
         "points": 39.54,
         "type": "pitcher"
     },
-    "2015-05-value": 102,
+    "2015-05-value": 141,
     "2015-06": {
         "BB": 7,
         "BK": 0,
@@ -80499,7 +80499,7 @@ db.players.insert({
         "points": 35.870000000000005,
         "type": "pitcher"
     },
-    "2015-06-value": 114,
+    "2015-06-value": 127,
     "2015-07": {
         "BB": 6,
         "BK": 0,
@@ -80529,7 +80529,7 @@ db.players.insert({
         "points": 29.636000000000003,
         "type": "pitcher"
     },
-    "2015-07-value": 95,
+    "2015-07-value": 87,
     "name": "Madison Bumgarner",
     "playerid": 5524
 });
@@ -80563,7 +80563,7 @@ db.players.insert({
         "points": 141.61599999999999,
         "type": "pitcher"
     },
-    "2014-value": 100,
+    "2014-value": 146,
     "2015-05": {
         "BB": 6,
         "BK": 0,
@@ -80593,7 +80593,7 @@ db.players.insert({
         "points": 41.926,
         "type": "pitcher"
     },
-    "2015-05-value": 101,
+    "2015-05-value": 142,
     "2015-06": {
         "BB": 10,
         "BK": 0,
@@ -80623,7 +80623,7 @@ db.players.insert({
         "points": 26.22,
         "type": "pitcher"
     },
-    "2015-06-value": 79,
+    "2015-06-value": 72,
     "2015-07": {
         "BB": 9,
         "BK": 1,
@@ -80653,7 +80653,7 @@ db.players.insert({
         "points": 41.213,
         "type": "pitcher"
     },
-    "2015-07-value": 101,
+    "2015-07-value": 143,
     "name": "Corey Kluber",
     "playerid": 2429
 });
@@ -80687,7 +80687,7 @@ db.players.insert({
         "points": 27.966,
         "type": "pitcher"
     },
-    "2015-06-value": 92,
+    "2015-06-value": 84,
     "2015-07": {
         "BB": 9,
         "BK": 0,
@@ -80717,7 +80717,7 @@ db.players.insert({
         "points": 26.91,
         "type": "pitcher"
     },
-    "2015-07-value": 82,
+    "2015-07-value": 75,
     "name": "Mike Bolsinger",
     "playerid": 11137
 });
@@ -80751,7 +80751,7 @@ db.players.insert({
         "points": 96.13300000000001,
         "type": "pitcher"
     },
-    "2014-value": 61,
+    "2014-value": 60,
     "2015-05": {
         "BB": 9,
         "BK": 0,
@@ -80781,7 +80781,7 @@ db.players.insert({
         "points": 30.583,
         "type": "pitcher"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 96,
     "2015-06": {
         "BB": 5,
         "BK": 0,
@@ -80811,7 +80811,7 @@ db.players.insert({
         "points": 36.53,
         "type": "pitcher"
     },
-    "2015-06-value": 111,
+    "2015-06-value": 130,
     "2015-07": {
         "BB": 5,
         "BK": 0,
@@ -80841,7 +80841,7 @@ db.players.insert({
         "points": 30.560000000000002,
         "type": "pitcher"
     },
-    "2015-07-value": 98,
+    "2015-07-value": 92,
     "name": "Colby Lewis",
     "playerid": 1259
 });
@@ -80875,7 +80875,7 @@ db.players.insert({
         "points": 27.286,
         "type": "pitcher"
     },
-    "2015-06-value": 87,
+    "2015-06-value": 79,
     "name": "Jose Urena",
     "playerid": 11589
 });
@@ -80909,7 +80909,7 @@ db.players.insert({
         "points": 108.10300000000001,
         "type": "pitcher"
     },
-    "2014-value": 98,
+    "2014-value": 94,
     "2015-05": {
         "BB": 9,
         "BK": 0,
@@ -80939,7 +80939,7 @@ db.players.insert({
         "points": 36.936,
         "type": "pitcher"
     },
-    "2015-05-value": 107,
+    "2015-05-value": 134,
     "2015-06": {
         "BB": 8,
         "BK": 0,
@@ -80969,7 +80969,7 @@ db.players.insert({
         "points": 25.966,
         "type": "pitcher"
     },
-    "2015-06-value": 78,
+    "2015-06-value": 71,
     "2015-07": {
         "BB": 10,
         "BK": 0,
@@ -80999,7 +80999,7 @@ db.players.insert({
         "points": 32.263000000000005,
         "type": "pitcher"
     },
-    "2015-07-value": 141,
+    "2015-07-value": 108,
     "name": "Kyle Gibson",
     "playerid": 10123
 });
@@ -81033,7 +81033,7 @@ db.players.insert({
         "points": 113.653,
         "type": "pitcher"
     },
-    "2014-value": 143,
+    "2014-value": 107,
     "2015-05": {
         "BB": 10,
         "BK": 0,
@@ -81063,7 +81063,7 @@ db.players.insert({
         "points": 14.24,
         "type": "pitcher"
     },
-    "2015-05-value": 45,
+    "2015-05-value": 50,
     "2015-06": {
         "BB": 7,
         "BK": 0,
@@ -81093,7 +81093,7 @@ db.players.insert({
         "points": 34.21,
         "type": "pitcher"
     },
-    "2015-06-value": 125,
+    "2015-06-value": 119,
     "2015-07": {
         "BB": 7,
         "BK": 1,
@@ -81123,7 +81123,7 @@ db.players.insert({
         "points": 43.88,
         "type": "pitcher"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 146,
     "name": "Mike Leake",
     "playerid": 10130
 });
@@ -81157,7 +81157,7 @@ db.players.insert({
         "points": 126.91,
         "type": "pitcher"
     },
-    "2014-value": 107,
+    "2014-value": 134,
     "2015-05": {
         "BB": 10,
         "BK": 0,
@@ -81187,7 +81187,7 @@ db.players.insert({
         "points": 37.243,
         "type": "pitcher"
     },
-    "2015-05-value": 105,
+    "2015-05-value": 135,
     "2015-06": {
         "BB": 12,
         "BK": 0,
@@ -81217,7 +81217,7 @@ db.players.insert({
         "points": 23.603,
         "type": "pitcher"
     },
-    "2015-06-value": 67,
+    "2015-06-value": 64,
     "2015-07": {
         "BB": 16,
         "BK": 0,
@@ -81247,7 +81247,7 @@ db.players.insert({
         "points": 33.88,
         "type": "pitcher"
     },
-    "2015-07-value": 128,
+    "2015-07-value": 117,
     "name": "James Shields",
     "playerid": 7059
 });
@@ -81281,7 +81281,7 @@ db.players.insert({
         "points": 31.23,
         "type": "pitcher"
     },
-    "2015-06-value": 147,
+    "2015-06-value": 104,
     "2015-07": {
         "BB": 7,
         "BK": 0,
@@ -81311,7 +81311,7 @@ db.players.insert({
         "points": 35.253,
         "type": "pitcher"
     },
-    "2015-07-value": 120,
+    "2015-07-value": 123,
     "name": "Masahiro Tanaka",
     "playerid": 15764
 });
@@ -81345,7 +81345,7 @@ db.players.insert({
         "points": 112.426,
         "type": "pitcher"
     },
-    "2014-value": 150,
+    "2014-value": 102,
     "2015-05": {
         "BB": 16,
         "BK": 0,
@@ -81375,7 +81375,7 @@ db.players.insert({
         "points": 31.626,
         "type": "pitcher"
     },
-    "2015-05-value": 146,
+    "2015-05-value": 105,
     "2015-06": {
         "BB": 11,
         "BK": 0,
@@ -81405,7 +81405,7 @@ db.players.insert({
         "points": 32.636,
         "type": "pitcher"
     },
-    "2015-06-value": 132,
+    "2015-06-value": 114,
     "2015-07": {
         "BB": 15,
         "BK": 0,
@@ -81435,7 +81435,7 @@ db.players.insert({
         "points": 28.583,
         "type": "pitcher"
     },
-    "2015-07-value": 91,
+    "2015-07-value": 82,
     "name": "Edinson Volquez",
     "playerid": 3990
 });
@@ -81469,7 +81469,7 @@ db.players.insert({
         "points": 127.693,
         "type": "pitcher"
     },
-    "2014-value": 105,
+    "2014-value": 136,
     "2015-05": {
         "BB": 7,
         "BK": 0,
@@ -81499,7 +81499,7 @@ db.players.insert({
         "points": 36.253,
         "type": "pitcher"
     },
-    "2015-05-value": 111,
+    "2015-05-value": 129,
     "2015-06": {
         "BB": 6,
         "BK": 0,
@@ -81529,7 +81529,7 @@ db.players.insert({
         "points": 33.563,
         "type": "pitcher"
     },
-    "2015-06-value": 129,
+    "2015-06-value": 116,
     "2015-07": {
         "BB": 5,
         "BK": 0,
@@ -81559,7 +81559,7 @@ db.players.insert({
         "points": 46.54,
         "type": "pitcher"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 149,
     "name": "Zack Greinke",
     "playerid": 1943
 });
@@ -81593,7 +81593,7 @@ db.players.insert({
         "points": 117.736,
         "type": "pitcher"
     },
-    "2014-value": 125,
+    "2014-value": 119,
     "2015-05": {
         "BB": 8,
         "BK": 0,
@@ -81623,7 +81623,7 @@ db.players.insert({
         "points": 31.89,
         "type": "pitcher"
     },
-    "2015-05-value": 141,
+    "2015-05-value": 108,
     "2015-06": {
         "BB": 5,
         "BK": 0,
@@ -81653,7 +81653,7 @@ db.players.insert({
         "points": 29.87,
         "type": "pitcher"
     },
-    "2015-06-value": 99,
+    "2015-06-value": 96,
     "2015-07": {
         "BB": 4,
         "BK": 0,
@@ -81683,7 +81683,7 @@ db.players.insert({
         "points": 28.57,
         "type": "pitcher"
     },
-    "2015-07-value": 90,
+    "2015-07-value": 81,
     "name": "Jordan Zimmermann",
     "playerid": 4505
 });
@@ -81717,7 +81717,7 @@ db.players.insert({
         "points": 31.606,
         "type": "pitcher"
     },
-    "2015-05-value": 149,
+    "2015-05-value": 103,
     "2015-06": {
         "BB": 17,
         "BK": 0,
@@ -81747,7 +81747,7 @@ db.players.insert({
         "points": 27.943,
         "type": "pitcher"
     },
-    "2015-06-value": 91,
+    "2015-06-value": 83,
     "2015-07": {
         "BB": 6,
         "BK": 0,
@@ -81777,7 +81777,7 @@ db.players.insert({
         "points": 31.923000000000002,
         "type": "pitcher"
     },
-    "2015-07-value": 145,
+    "2015-07-value": 105,
     "name": "Trevor Bauer",
     "playerid": 12703
 });
@@ -81811,7 +81811,7 @@ db.players.insert({
         "points": 30.253,
         "type": "pitcher"
     },
-    "2015-05-value": 98,
+    "2015-05-value": 92,
     "2015-06": {
         "BB": 12,
         "BK": 0,
@@ -81841,7 +81841,7 @@ db.players.insert({
         "points": 41.89,
         "type": "pitcher"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 144,
     "2015-07": {
         "BB": 9,
         "BK": 0,
@@ -81905,7 +81905,7 @@ db.players.insert({
         "points": 104.71000000000001,
         "type": "pitcher"
     },
-    "2014-value": 94,
+    "2014-value": 86,
     "name": "Jason Vargas",
     "playerid": 8044
 });
@@ -81939,7 +81939,7 @@ db.players.insert({
         "points": 103.063,
         "type": "pitcher"
     },
-    "2014-value": 83,
+    "2014-value": 76,
     "2015-05": {
         "BB": 17,
         "BK": 0,
@@ -81969,7 +81969,7 @@ db.players.insert({
         "points": 27.913,
         "type": "pitcher"
     },
-    "2015-05-value": 88,
+    "2015-05-value": 79,
     "2015-06": {
         "BB": 5,
         "BK": 0,
@@ -81999,7 +81999,7 @@ db.players.insert({
         "points": 34.976,
         "type": "pitcher"
     },
-    "2015-06-value": 117,
+    "2015-06-value": 125,
     "2015-07": {
         "BB": 10,
         "BK": 0,
@@ -82029,7 +82029,7 @@ db.players.insert({
         "points": 31.23,
         "type": "pitcher"
     },
-    "2015-07-value": 99,
+    "2015-07-value": 97,
     "name": "Tom Koehler",
     "playerid": 6570
 });
@@ -82063,7 +82063,7 @@ db.players.insert({
         "points": 113.353,
         "type": "pitcher"
     },
-    "2014-value": 147,
+    "2014-value": 104,
     "2015-05": {
         "BB": 8,
         "BK": 0,
@@ -82093,7 +82093,7 @@ db.players.insert({
         "points": 33.870000000000005,
         "type": "pitcher"
     },
-    "2015-05-value": 129,
+    "2015-05-value": 116,
     "2015-06": {
         "BB": 11,
         "BK": 0,
@@ -82123,7 +82123,7 @@ db.players.insert({
         "points": 15.636000000000001,
         "type": "pitcher"
     },
-    "2015-06-value": 45,
+    "2015-06-value": 50,
     "name": "Aaron Harang",
     "playerid": 1451
 });
@@ -82157,7 +82157,7 @@ db.players.insert({
         "points": 93.736,
         "type": "pitcher"
     },
-    "2014-value": 54,
+    "2014-value": 55,
     "2015-05": {
         "BB": 9,
         "BK": 0,
@@ -82187,7 +82187,7 @@ db.players.insert({
         "points": 29.616,
         "type": "pitcher"
     },
-    "2015-05-value": 96,
+    "2015-05-value": 89,
     "2015-07": {
         "BB": 11,
         "BK": 0,
@@ -82217,7 +82217,7 @@ db.players.insert({
         "points": 34.55,
         "type": "pitcher"
     },
-    "2015-07-value": 125,
+    "2015-07-value": 119,
     "name": "Nathan Eovaldi",
     "playerid": 9132
 });
@@ -82251,7 +82251,7 @@ db.players.insert({
         "points": 36.86,
         "type": "pitcher"
     },
-    "2015-05-value": 109,
+    "2015-05-value": 132,
     "2015-06": {
         "BB": 8,
         "BK": 0,
@@ -82281,7 +82281,7 @@ db.players.insert({
         "points": 26.636000000000003,
         "type": "pitcher"
     },
-    "2015-06-value": 83,
+    "2015-06-value": 76,
     "2015-07": {
         "BB": 8,
         "BK": 0,
@@ -82311,7 +82311,7 @@ db.players.insert({
         "points": 24.283,
         "type": "pitcher"
     },
-    "2015-07-value": 67,
+    "2015-07-value": 64,
     "name": "Jesse Chavez",
     "playerid": 5448
 });
@@ -82345,7 +82345,7 @@ db.players.insert({
         "points": 36.55,
         "type": "pitcher"
     },
-    "2015-05-value": 110,
+    "2015-05-value": 130,
     "name": "Tim Lincecum",
     "playerid": 5705
 });
@@ -82379,7 +82379,7 @@ db.players.insert({
         "points": 31.23,
         "type": "pitcher"
     },
-    "2015-06-value": 148,
+    "2015-06-value": 103,
     "2015-07": {
         "BB": 5,
         "BK": 0,
@@ -82409,7 +82409,7 @@ db.players.insert({
         "points": 24.976,
         "type": "pitcher"
     },
-    "2015-07-value": 73,
+    "2015-07-value": 68,
     "name": "Tommy Milone",
     "playerid": 7608
 });
@@ -82443,7 +82443,7 @@ db.players.insert({
         "points": 35.573,
         "type": "pitcher"
     },
-    "2015-05-value": 116,
+    "2015-05-value": 126,
     "2015-06": {
         "BB": 8,
         "BK": 0,
@@ -82473,7 +82473,7 @@ db.players.insert({
         "points": 27.593000000000004,
         "type": "pitcher"
     },
-    "2015-06-value": 89,
+    "2015-06-value": 80,
     "2015-07": {
         "BB": 6,
         "BK": 0,
@@ -82503,7 +82503,7 @@ db.players.insert({
         "points": 33.57,
         "type": "pitcher"
     },
-    "2015-07-value": 131,
+    "2015-07-value": 115,
     "name": "Hector Santiago",
     "playerid": 4026
 });
@@ -82537,7 +82537,7 @@ db.players.insert({
         "points": 103.033,
         "type": "pitcher"
     },
-    "2014-value": 82,
+    "2014-value": 75,
     "2015-05": {
         "BB": 14,
         "BK": 0,
@@ -82567,7 +82567,7 @@ db.players.insert({
         "points": 30.573,
         "type": "pitcher"
     },
-    "2015-05-value": 99,
+    "2015-05-value": 95,
     "2015-06": {
         "BB": 7,
         "BK": 0,
@@ -82597,7 +82597,7 @@ db.players.insert({
         "points": 24.89,
         "type": "pitcher"
     },
-    "2015-06-value": 68,
+    "2015-06-value": 65,
     "2015-07": {
         "BB": 2,
         "BK": 0,
@@ -82627,7 +82627,7 @@ db.players.insert({
         "points": 35.86,
         "type": "pitcher"
     },
-    "2015-07-value": 115,
+    "2015-07-value": 126,
     "name": "Jose Quintana",
     "playerid": 11423
 });
@@ -82661,7 +82661,7 @@ db.players.insert({
         "points": 38.230000000000004,
         "type": "pitcher"
     },
-    "2015-05-value": 105,
+    "2015-05-value": 136,
     "2015-07": {
         "BB": 6,
         "BK": 0,
@@ -82691,7 +82691,7 @@ db.players.insert({
         "points": 32.9,
         "type": "pitcher"
     },
-    "2015-07-value": 138,
+    "2015-07-value": 110,
     "name": "Erasmo Ramirez",
     "playerid": 10314
 });
@@ -82755,7 +82755,7 @@ db.players.insert({
         "points": 31.626,
         "type": "pitcher"
     },
-    "2015-06-value": 143,
+    "2015-06-value": 107,
     "2015-07": {
         "BB": 14,
         "BK": 0,
@@ -82785,7 +82785,7 @@ db.players.insert({
         "points": 33.956,
         "type": "pitcher"
     },
-    "2015-07-value": 126,
+    "2015-07-value": 118,
     "name": "Matt Harvey",
     "playerid": 11713
 });
@@ -82819,7 +82819,7 @@ db.players.insert({
         "points": 29.57,
         "type": "pitcher"
     },
-    "2015-07-value": 93,
+    "2015-07-value": 85,
     "name": "Tim Cooney",
     "playerid": 13762
 });
@@ -82853,7 +82853,7 @@ db.players.insert({
         "points": 37.55,
         "type": "pitcher"
     },
-    "2015-06-value": 107,
+    "2015-06-value": 134,
     "name": "Jaime Garcia",
     "playerid": 8137
 });
@@ -82921,7 +82921,7 @@ db.players.insert({
         "points": 100.39,
         "type": "pitcher"
     },
-    "2014-value": 77,
+    "2014-value": 71,
     "2015-05": {
         "BB": 6,
         "BK": 1,
@@ -82951,7 +82951,7 @@ db.players.insert({
         "points": 38.54,
         "type": "pitcher"
     },
-    "2015-05-value": 104,
+    "2015-05-value": 137,
     "2015-06": {
         "BB": 14,
         "BK": 0,
@@ -82981,7 +82981,7 @@ db.players.insert({
         "points": 26.583,
         "type": "pitcher"
     },
-    "2015-06-value": 82,
+    "2015-06-value": 75,
     "2015-07": {
         "BB": 10,
         "BK": 0,
@@ -83011,7 +83011,7 @@ db.players.insert({
         "points": 24.966,
         "type": "pitcher"
     },
-    "2015-07-value": 71,
+    "2015-07-value": 67,
     "name": "Shelby Miller",
     "playerid": 10197
 });
@@ -83045,7 +83045,7 @@ db.players.insert({
         "points": 31.593000000000004,
         "type": "pitcher"
     },
-    "2015-07-value": 148,
+    "2015-07-value": 103,
     "name": "Danny Duffy",
     "playerid": 3542
 });
@@ -83079,7 +83079,7 @@ db.players.insert({
         "points": 90.13300000000001,
         "type": "pitcher"
     },
-    "2014-value": 49,
+    "2014-value": 52,
     "2015-05": {
         "BB": 8,
         "BK": 0,
@@ -83109,7 +83109,7 @@ db.players.insert({
         "points": 27.583,
         "type": "pitcher"
     },
-    "2015-05-value": 86,
+    "2015-05-value": 78,
     "2015-06": {
         "BB": 7,
         "BK": 0,
@@ -83139,7 +83139,7 @@ db.players.insert({
         "points": 40.266000000000005,
         "type": "pitcher"
     },
-    "2015-06-value": 103,
+    "2015-06-value": 140,
     "name": "Clay Buchholz",
     "playerid": 3543
 });
@@ -83173,7 +83173,7 @@ db.players.insert({
         "points": 122.056,
         "type": "pitcher"
     },
-    "2014-value": 117,
+    "2014-value": 125,
     "2015-05": {
         "BB": 14,
         "BK": 0,
@@ -83203,7 +83203,7 @@ db.players.insert({
         "points": 35.573,
         "type": "pitcher"
     },
-    "2015-05-value": 117,
+    "2015-05-value": 125,
     "2015-07": {
         "BB": 9,
         "BK": 0,
@@ -83233,7 +83233,7 @@ db.players.insert({
         "points": 38.230000000000004,
         "type": "pitcher"
     },
-    "2015-07-value": 106,
+    "2015-07-value": 135,
     "name": "Lance Lynn",
     "playerid": 2520
 });
@@ -83267,7 +83267,7 @@ db.players.insert({
         "points": 19.636000000000003,
         "type": "pitcher"
     },
-    "2015-05-value": 48,
+    "2015-05-value": 51,
     "name": "Kyle Lobstein",
     "playerid": 9178
 });
@@ -83301,7 +83301,7 @@ db.players.insert({
         "points": 26.923000000000002,
         "type": "pitcher"
     },
-    "2015-05-value": 81,
+    "2015-05-value": 74,
     "2015-06": {
         "BB": 14,
         "BK": 0,
@@ -83331,7 +83331,7 @@ db.players.insert({
         "points": 21.22,
         "type": "pitcher"
     },
-    "2015-06-value": 57,
+    "2015-06-value": 58,
     "name": "Carlos Frias",
     "playerid": 3547
 });
@@ -83365,7 +83365,7 @@ db.players.insert({
         "points": 124.27000000000001,
         "type": "pitcher"
     },
-    "2014-value": 110,
+    "2014-value": 130,
     "2015-05": {
         "BB": 14,
         "BK": 0,
@@ -83395,7 +83395,7 @@ db.players.insert({
         "points": 42.276,
         "type": "pitcher"
     },
-    "2015-05-value": 101,
+    "2015-05-value": 143,
     "2015-06": {
         "BB": 6,
         "BK": 0,
@@ -83425,7 +83425,7 @@ db.players.insert({
         "points": 36.956,
         "type": "pitcher"
     },
-    "2015-06-value": 108,
+    "2015-06-value": 132,
     "2015-07": {
         "BB": 10,
         "BK": 0,
@@ -83455,7 +83455,7 @@ db.players.insert({
         "points": 35.54,
         "type": "pitcher"
     },
-    "2015-07-value": 117,
+    "2015-07-value": 125,
     "name": "Sonny Gray",
     "playerid": 12768
 });
@@ -83489,7 +83489,7 @@ db.players.insert({
         "points": 117.34,
         "type": "pitcher"
     },
-    "2014-value": 131,
+    "2014-value": 115,
     "2015-05": {
         "BB": 12,
         "BK": 1,
@@ -83519,7 +83519,7 @@ db.players.insert({
         "points": 35.54,
         "type": "pitcher"
     },
-    "2015-05-value": 118,
+    "2015-05-value": 124,
     "2015-06": {
         "BB": 7,
         "BK": 0,
@@ -83549,7 +83549,7 @@ db.players.insert({
         "points": 28.89,
         "type": "pitcher"
     },
-    "2015-06-value": 97,
+    "2015-06-value": 91,
     "2015-07": {
         "BB": 9,
         "BK": 0,
@@ -83579,7 +83579,7 @@ db.players.insert({
         "points": 39.926,
         "type": "pitcher"
     },
-    "2015-07-value": 101,
+    "2015-07-value": 142,
     "name": "John Lackey",
     "playerid": 1507
 });
@@ -83613,7 +83613,7 @@ db.players.insert({
         "points": 26.276000000000003,
         "type": "pitcher"
     },
-    "2015-05-value": 74,
+    "2015-05-value": 69,
     "2015-06": {
         "BB": 10,
         "BK": 0,
@@ -83643,7 +83643,7 @@ db.players.insert({
         "points": 32.230000000000004,
         "type": "pitcher"
     },
-    "2015-06-value": 137,
+    "2015-06-value": 110,
     "name": "Jesse Hahn",
     "playerid": 13287
 });
@@ -83677,7 +83677,7 @@ db.players.insert({
         "points": 38.596000000000004,
         "type": "pitcher"
     },
-    "2015-05-value": 103,
+    "2015-05-value": 138,
     "2015-06": {
         "BB": 6,
         "BK": 0,
@@ -83707,7 +83707,7 @@ db.players.insert({
         "points": 34.263000000000005,
         "type": "pitcher"
     },
-    "2015-06-value": 120,
+    "2015-06-value": 122,
     "2015-07": {
         "BB": 8,
         "BK": 0,
@@ -83737,7 +83737,7 @@ db.players.insert({
         "points": 33.606,
         "type": "pitcher"
     },
-    "2015-07-value": 129,
+    "2015-07-value": 116,
     "name": "Carlos Carrasco",
     "playerid": 6632
 });
@@ -83771,7 +83771,7 @@ db.players.insert({
         "points": 106.816,
         "type": "pitcher"
     },
-    "2014-value": 97,
+    "2014-value": 91,
     "2015-05": {
         "BB": 12,
         "BK": 0,
@@ -83801,7 +83801,7 @@ db.players.insert({
         "points": 33.870000000000005,
         "type": "pitcher"
     },
-    "2015-05-value": 128,
+    "2015-05-value": 117,
     "2015-06": {
         "BB": 11,
         "BK": 1,
@@ -83831,7 +83831,7 @@ db.players.insert({
         "points": 34.243,
         "type": "pitcher"
     },
-    "2015-06-value": 123,
+    "2015-06-value": 120,
     "2015-07": {
         "BB": 14,
         "BK": 0,
@@ -83861,7 +83861,7 @@ db.players.insert({
         "points": 30.636000000000003,
         "type": "pitcher"
     },
-    "2015-07-value": 98,
+    "2015-07-value": 94,
     "name": "C.J. Wilson",
     "playerid": 3580
 });
@@ -83895,7 +83895,7 @@ db.players.insert({
         "points": 103.786,
         "type": "pitcher"
     },
-    "2014-value": 87,
+    "2014-value": 79,
     "2015-05": {
         "BB": 5,
         "BK": 0,
@@ -83959,7 +83959,7 @@ db.players.insert({
         "points": 97.393,
         "type": "pitcher"
     },
-    "2014-value": 63,
+    "2014-value": 61,
     "2015-05": {
         "BB": 11,
         "BK": 0,
@@ -83989,7 +83989,7 @@ db.players.insert({
         "points": 31.880000000000003,
         "type": "pitcher"
     },
-    "2015-05-value": 142,
+    "2015-05-value": 107,
     "2015-06": {
         "BB": 9,
         "BK": 0,
@@ -84019,7 +84019,7 @@ db.players.insert({
         "points": 36.923,
         "type": "pitcher"
     },
-    "2015-06-value": 109,
+    "2015-06-value": 131,
     "2015-07": {
         "BB": 20,
         "BK": 0,
@@ -84049,7 +84049,7 @@ db.players.insert({
         "points": 19.263,
         "type": "pitcher"
     },
-    "2015-07-value": 45,
+    "2015-07-value": 50,
     "name": "Yovani Gallardo",
     "playerid": 8173
 });
@@ -84083,7 +84083,7 @@ db.players.insert({
         "points": 25.240000000000002,
         "type": "pitcher"
     },
-    "2015-06-value": 72,
+    "2015-06-value": 68,
     "2015-07": {
         "BB": 10,
         "BK": 0,
@@ -84113,7 +84113,7 @@ db.players.insert({
         "points": 39.22,
         "type": "pitcher"
     },
-    "2015-07-value": 102,
+    "2015-07-value": 141,
     "name": "Noah Syndergaard",
     "playerid": 11762
 });
@@ -84177,7 +84177,7 @@ db.players.insert({
         "points": 42.296,
         "type": "pitcher"
     },
-    "2015-05-value": 100,
+    "2015-05-value": 144,
     "2015-06": {
         "BB": 16,
         "BK": 0,
@@ -84207,7 +84207,7 @@ db.players.insert({
         "points": 28.55,
         "type": "pitcher"
     },
-    "2015-06-value": 96,
+    "2015-06-value": 90,
     "name": "Ryan Vogelsong",
     "playerid": 1011
 });
@@ -84241,7 +84241,7 @@ db.players.insert({
         "points": 138.373,
         "type": "pitcher"
     },
-    "2014-value": 100,
+    "2014-value": 145,
     "2015-05": {
         "BB": 9,
         "BK": 1,
@@ -84271,7 +84271,7 @@ db.players.insert({
         "points": 34.22,
         "type": "pitcher"
     },
-    "2015-05-value": 125,
+    "2015-05-value": 119,
     "2015-06": {
         "BB": 9,
         "BK": 1,
@@ -84301,7 +84301,7 @@ db.players.insert({
         "points": 42.596000000000004,
         "type": "pitcher"
     },
-    "2015-06-value": 100,
+    "2015-06-value": 145,
     "2015-07": {
         "BB": 2,
         "BK": 0,
@@ -84331,7 +84331,7 @@ db.players.insert({
         "points": 43.89,
         "type": "pitcher"
     },
-    "2015-07-value": 100,
+    "2015-07-value": 147,
     "name": "Clayton Kershaw",
     "playerid": 2036
 });
@@ -84365,7 +84365,7 @@ db.players.insert({
         "points": 23.603,
         "type": "pitcher"
     },
-    "2015-05-value": 62,
+    "2015-05-value": 61,
     "name": "Trevor May",
     "playerid": 6398
 });
@@ -84399,7 +84399,7 @@ db.players.insert({
         "points": 28.943,
         "type": "pitcher"
     },
-    "2015-05-value": 93,
+    "2015-05-value": 85,
     "2015-06": {
         "BB": 14,
         "BK": 0,
@@ -84429,7 +84429,7 @@ db.players.insert({
         "points": 28.57,
         "type": "pitcher"
     },
-    "2015-06-value": 97,
+    "2015-06-value": 90,
     "name": "Michael Lorenzen",
     "playerid": 14843
 });
@@ -84463,7 +84463,7 @@ db.players.insert({
         "points": 122.98,
         "type": "pitcher"
     },
-    "2014-value": 113,
+    "2014-value": 128,
     "2015-07": {
         "BB": 4,
         "BK": 0,
@@ -84493,7 +84493,7 @@ db.players.insert({
         "points": 24.593000000000004,
         "type": "pitcher"
     },
-    "2015-07-value": 68,
+    "2015-07-value": 65,
     "name": "Justin Verlander",
     "playerid": 8700
 });
@@ -84527,7 +84527,7 @@ db.players.insert({
         "points": 112.753,
         "type": "pitcher"
     },
-    "2014-value": 149,
+    "2014-value": 103,
     "2015-06": {
         "BB": 20,
         "BK": 0,
@@ -84557,7 +84557,7 @@ db.players.insert({
         "points": 37.21,
         "type": "pitcher"
     },
-    "2015-06-value": 108,
+    "2015-06-value": 133,
     "2015-07": {
         "BB": 11,
         "BK": 0,
@@ -84587,7 +84587,7 @@ db.players.insert({
         "points": 24.646,
         "type": "pitcher"
     },
-    "2015-07-value": 70,
+    "2015-07-value": 66,
     "name": "Jorge de la Rosa",
     "playerid": 2047
 });
