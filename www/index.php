@@ -74,7 +74,7 @@
 
     html{
         height: 100%;
-        padding: 3px;
+        /*padding: 3px;*/
     }
     body {
         min-height: 100%;
