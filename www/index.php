@@ -201,6 +201,7 @@
         top: 15px;
         height: 40px;
         padding-right: 10px;
+        float:right;
 
 
     }
@@ -253,7 +254,7 @@
 
 <body style="background-color: #232B2B">
     <nav class="login-box">
-    <form action="payment.php" method="post" name="myForm" class="login-center" role="form">
+        <form action="payment.php" method="post" name="myForm" class="login-center" role="form">
 
             <button href="#" onclick="validateForm()" class="btn btn-info1" role="button" >Login</button>
             <input type="password" class="form-control form1" name="pass" id="pwd" placeholder="Enter password">
@@ -261,9 +262,10 @@
             <input type="hidden" name="method" value="li"/>
 
 
-        
 
-    </form>
+
+        </form>
+        <h3>Fans4TheCause</h3>
 
 
     </nav>
