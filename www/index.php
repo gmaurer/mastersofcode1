@@ -27,11 +27,7 @@
             alert("Password must be filled out");
             return false;
         }
-        if(x == "jbaird@siue.edu"){
-            alert("faggot@superfaggot.fag");
-            return false;
 
-        }
     }
 </script>
 
@@ -114,7 +110,7 @@
     </form>
     </nav>
     <div>
-        <div class="center"><img src="images/Baseball-Heart-L.jpg" class="images" style="width:300px;height:286px;"></div>
+        <div class="center"><img src="images/header-charitable-works.jpg" class="images" style="width:300px;height:286px;"></div>
 
 
     </div>
