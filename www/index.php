@@ -210,7 +210,7 @@
         margin-right: auto ;
         padding: 20px;
         border: 2px solid black;
-        background-color: #232B2B;
+        background-color: #DC3D24;
 
 
     }
