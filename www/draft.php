@@ -86,35 +86,35 @@ if ($team==NULL) {
   <span class="caret"></span></button>
   <ul class="dropdown-menu">
 <li><a href="?team=Angels">Angels</a></li>
-<li><a href="#">Astros</a></li>
-<li><a href="#">Athletics</a></li>
-<li><a href="#">Blue Jays</a></li>
-<li><a href="#">Braves</a></li>
-<li><a href="#">Brewers</a></li>
-<li><a href="#">Cardinals</a></li>
-<li><a href="#">Cubs</a></li>
-<li><a href="#">Diamondbacks</a></li>
-<li><a href="#">Dodgers</a></li>
-<li><a href="#">Giants</a></li>
-<li><a href="#">Indians</a></li>
-<li><a href="#">Mariners</a></li>
-<li><a href="#">Marlins</a></li>
-<li><a href="#">Mets</a></li>
-<li><a href="#">Nationals</a></li>
-<li><a href="#">Orioles</a></li>
-<li><a href="#">Padres</a></li>
-<li><a href="#">Phillies</a></li>
-<li><a href="#">Pirates</a></li>
-<li><a href="#">Rangers</a></li>
-<li><a href="#">Rays</a></li>
-<li><a href="#">Reds</a></li>
-<li><a href="#">Red Sox</a></li>
-<li><a href="#">Rockies</a></li>
-<li><a href="#">Royals</a></li>
-<li><a href="#">Tigers</a></li>
-<li><a href="#">Twins</a></li>
-<li><a href="#">White Sox</a></li>
-<li><a href="#">Yankees</a></li>
+<li><a href="?team=Astros">Astros</a></li>
+<li><a href="?team=Athletics">Athletics</a></li>
+<li><a href="?team=Blue Jays">Blue Jays</a></li>
+<li><a href="?team=Braves">Braves</a></li>
+<li><a href="?team=Brewers">Brewers</a></li>
+<li><a href="?team=Cardinals">Cardinals</a></li>
+<li><a href="?team=Cubs">Cubs</a></li>
+<li><a href="?team=Diamondbacks">Diamondbacks</a></li>
+<li><a href="?team=Dodgers">Dodgers</a></li>
+<li><a href="?team=Giants">Giants</a></li>
+<li><a href="?team=Indians">Indians</a></li>
+<li><a href="?team=Mariners">Mariners</a></li>
+<li><a href="?team=Marlins">Marlins</a></li>
+<li><a href="?team=Mets">Mets</a></li>
+<li><a href="?team=Nationals">Nationals</a></li>
+<li><a href="?team=Orioles">Orioles</a></li>
+<li><a href="?team=Padres">Padres</a></li>
+<li><a href="?team=Phillies">Phillies</a></li>
+<li><a href="?team=Pirates">Pirates</a></li>
+<li><a href="?team=Rangers">Rangers</a></li>
+<li><a href="?team=Rays">Rays</a></li>
+<li><a href="?team=Reds">Reds</a></li>
+<li><a href="?team=Red Sox">Red Sox</a></li>
+<li><a href="?team=Rockies">Rockies</a></li>
+<li><a href="?team=Royals">Royals</a></li>
+<li><a href="?team=Tigers">Tigers</a></li>
+<li><a href="?team=Twins">Twins</a></li>
+<li><a href="?team=White Sox">White Sox</a></li>
+<li><a href="?team=Yankees">Yankees</a></li>
   </ul>
 </div>
     	</div>
