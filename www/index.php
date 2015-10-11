@@ -205,7 +205,7 @@
     }
 
     .create-center{
-        height: 450px;
+        height: 550px;
         width: 450px ;
         margin-left: auto ;
         margin-right: auto ;
