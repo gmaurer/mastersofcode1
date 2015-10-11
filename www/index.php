@@ -18,14 +18,16 @@
 <style type="text/css">
 
     .btn{
-        
+
         float: right;
+        vertical-align: middle;
         
     }
 
     .form-control{
         width: 15%;
         float:right;
+        vertical-align: middle;
 
     }
 
