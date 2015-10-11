@@ -154,6 +154,8 @@
         margin-left: auto ;
         margin-right: auto ;
 
+        border: 1px solid black;
+
     }
 
     .form1{
@@ -161,6 +163,8 @@
         width: 15%;
         top: 20px;
         float:right;
+        border: 1px solid black;
+
         /*padding-right: 5px;*/
 
     }
