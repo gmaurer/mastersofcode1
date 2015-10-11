@@ -15,41 +15,108 @@
 
 </header>
 
+<script>
+    function validateForm() {
+        var x = document.forms["myForm"]["email"].value;
+        var y = document.forms["myForm"]["pass"].value;
+        if (x == null || x == "") {
+            alert("Email must be filled out");
+            return false;
+        }
+        if (y == null || y == "") {
+            alert("Password must be filled out");
+            return false;
+        }
+
+    }
+</script>
+
+
+
 <style type="text/css">
 
-    .btn{
 
+    html{
+        height: 100%;
+    }
+    body {
+        min-height: 100%;
+    }
+
+    .btn{
+        width: 7%;
+        top: 20px;
         float: right;
-        
+
+
     }
 
     .form-control{
-
+        width: 15%;
+        top: 20px;
         float:right;
+
+
+    }
+
+
+    .login-box{
+
+        height: 38px;
+
+        border: 1px solid black;
+        background-color: #3D2EFF;
+
+
+    }
+
+    .login-center{
+        top: 10px;
+        height: 100px;
+      
+
+    }
+
+    .images{
+        position: relative;
+        margin: auto;
+        left: 400px;
+        
+        padding: 10px;
+
+    }
+
+    .center {
+        margin: auto;
+
+
     }
 
 
 </style>
 
-<body>
-    <div>
-        <a href="#" class="btn btn-info" role="button" >New User</a>
-        <input type="email" class="form-control" id="email" placeholder="Enter email">
-        <input type="password" class="form-control" id="pwd" placeholder="Enter password">
+<body style="background-color: #30C2CF">
+    <nav class="login-box">
+    <form name="myForm" class="login-center" role="form">
 
-        <button href="#" class="btn btn-info" role="button" >Login</button>
+            <button href="#" class="btn btn-info" role="button" >Login</button>
+            <input type="password" class="form-control" name="pass" id="pwd" placeholder="Enter password">
+            <input type="email" class="form-control" name="email" id="email" placeholder=" Enter email">
+            
+
 
             
-    </div>
 
+    </form>
+    </nav>
+    <div>
+        <div class="center"><img src="images/header-charitable-works.jpg" class="images" style="width:300px;height:286px;"></div>
+
+
+    </div>
 
 
 </body>
 
-<footer>
 
-
-
-
-</footer>
 </html>
