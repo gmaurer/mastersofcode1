@@ -284,7 +284,7 @@
 
             <button onclick="validateNewForm()" id="SCbtn" data-sc-key="sbpb_M2U5NWFhYjctNzQxNC00MzczLTgyNGMtZWM1OTFiMTVlNTg3" data-name="Donation"
                     data-masterpass="true" data-description="Donation for Giving Ladder Charity" data-reference="99999"
-                    data-amount="100" data-customer-name="Gabe Maurer" data-customer-email="gmaurer@siue.edu" data-redirect-url="http://mc.turco.com/draft.php" data-color="#12B830">
+                    data-amount="10000" data-customer-name="Gabe Maurer" data-customer-email="gmaurer@siue.edu" data-redirect-url="http://mc.turco.com/draft.php" data-color="#12B830">
                 Give Now
             </button>
 
