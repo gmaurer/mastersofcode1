@@ -282,7 +282,7 @@
 
             <h3 class="headerstuff" >Join the Game</h3>
             <br>
-            <p class="headerstuff"> Sign up and support Save the Puppies. Join the exciting fantasy baseball league and thank you for helping Save the Puppies</p>
+            <p class="headerstuff"> Sign up and support Save the Kittens. Join the exciting fantasy baseball league and thank you for helping Save the Kittens</p>
             <br>
 
             <input  type="email" class="form-control form-control1" name="email" value="laura_d@gmail.com" id="email" placeholder=" Enter email">
