@@ -42,13 +42,20 @@ if( $_GET["add"] ) {
 	    $collection = $db->players;
 	    $cursor = $collection->find(array(),array('name' => 1, 'playerid' => 1))->sort(array('name' => 1));
 	    foreach ($cursor as $document) {
-	        echo '"'.$document["name"] .'",' . "\n";   // ,"' . $document["playerid"];
-    	}
+                $n = $document["name"];
+                if ($gotit[$n] == null) {
+	            echo "\"{$n}\",\n";
+                    $gotit[$n] = 1;
+                }
+    	    }
 	?>
 	];
-            $( "#search" ).autocomplete({
+            $( "#searchField" ).autocomplete({
              source: availablePlayers,
-                   minLength: 2
+                   minLength: 2,
+             select: function(event, ui) {
+                   $("#searchField").val(ui.item.label);
+                   $("#searchForm").submit(); }
                        });
 		       });
       </script>
@@ -60,8 +67,10 @@ if( $_GET["add"] ) {
 	<header>
 	</header>
 	<div class="ui-widget", align="right">
-  	  <label for="search">Search: </label>
-    	  <input id="search">
+          <form method="post" id=searchForm>
+  	  <label for="searchField">Search: </label>
+    	  <input id="searchField">
+          </form>
     	</div>
              <div class="row">
                <div class="col-xs-4">
