@@ -62,6 +62,8 @@
     .form-control1{
 
         display: block;
+        padding: 5px;
+
 
     }
 
@@ -79,6 +81,7 @@
     .inputNew{
         top: 38px;
         height: 500px;
+        margin:auto;
 
     }
 
