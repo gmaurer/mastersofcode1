@@ -97,11 +97,11 @@
     }
 
 
-    function sendInfo1(){
-
-        document.forms["myForm1"].submit();
-
-    }
+//    function sendInfo1(){
+//
+//        document.forms["myForm1"].submit();
+//
+//    }
 
 
 </script>
