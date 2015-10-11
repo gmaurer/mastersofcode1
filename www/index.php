@@ -18,7 +18,7 @@
 <style type="text/css">
 
     .btn{
-        width: 100px;
+        width: 15%;
         top: 20px;
         float: right;
 
@@ -26,7 +26,7 @@
     }
 
     .form-control{
-        width: 100px;
+        width: 15%;
         top: 20px;
         float:right;
 
@@ -50,7 +50,7 @@
 
     .login-center{
         height: 100px;
-        vertical-align: middle;
+      
 
     }
 
@@ -63,7 +63,7 @@
 
             <button href="#" class="btn btn-info" role="button" >Login</button>
             <input type="password" class="form-control" id="pwd" placeholder="Enter password">
-            <input type="email" class="form-control" id="email" placeholder=" email">
+            <input type="email" class="form-control" id="email" placeholder=" Enter email">
             
 
 
