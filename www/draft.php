@@ -53,6 +53,11 @@ if ($team==NULL) {
 
     }
 
+    .container,table-responsive{
+        border-radius: 25px;
+
+    }
+
     tr{
         background-color: #FFFFFF;
     }
