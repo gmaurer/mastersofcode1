@@ -250,6 +250,8 @@
     .h3thing{
 
         top=15px;
+        font-family: Futura, “Trebuchet MS”, Arial, sans-serif;
+        color:#DC3D24;
     }
 
 
@@ -271,7 +273,7 @@
 
 
         </form>
-        <h3 class="h3thing">Fans4TheCause</h3>
+        <h2 class="h3thing">Fans4TheCause</h2>
 
 
     </nav>
