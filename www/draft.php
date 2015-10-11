@@ -28,7 +28,12 @@ if ($team==NULL) {
 
 ?>
 <style type="text/css">
-    .col-xs-8{
+    .col-xs-5{
+
+        background-color: #E3AE57;
+    }
+
+    .col-xs-5{
 
         background-color: #E3AE57;
     }
