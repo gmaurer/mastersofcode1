@@ -44,6 +44,16 @@ if ($team==NULL) {
         font-family: Futura, “Trebuchet MS”, Arial, sans-serif;
 
     }
+
+    .tcheck{
+
+
+
+    }
+
+    tr{
+        background-color: #FFFFFF;
+    }
     </style>
 
 
@@ -183,7 +193,7 @@ if ($team==NULL) {
                <div class="col-xs-6">
         <h1 class="h1style" >Search Results</h1>
 	<div class="container,table-responsive">
-	<table border="1" class="table table-hover">
+	<table border="1" class="table table-hover tcheck">
 	<?php
            $x = array();
 	if ( $search != null ) {
