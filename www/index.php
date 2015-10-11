@@ -40,10 +40,10 @@
 
         position:absolute;
         top:50%;
-        height:50%;
-        width:100px;
+
+
         margin-top:-25%;
-        right: 0px;
+        
     }
 
     .images{
