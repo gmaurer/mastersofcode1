@@ -59,13 +59,17 @@
 
     }
 
+    .images{
 
+        vertical-align: middle;
+        horiz-align: ;
 
-    .images {
+    }
+
+    .center {
         margin: auto;
         width: 60%;
-        border:3px solid #8AC007;
-        padding: 10px;
+       
     }
 
 
@@ -85,7 +89,7 @@
 
     </form>
     </nav>
-    <div>
+    <div class="center">
 
         <img src="Baseball-Heart-L.jpg" class="images" style="width:300px;height:286px;">
 
