@@ -18,6 +18,7 @@
 <style type="text/css">
 
     .btn{
+        width: 100px;
         top: 20px;
         float: right;
 
@@ -25,6 +26,7 @@
     }
 
     .form-control{
+        width: 100px;
         top: 20px;
         float:right;
 
