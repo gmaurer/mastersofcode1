@@ -59,12 +59,19 @@
 
     }
 
-    
+    .images{
+
+        margin: auto;
+        width: 60%;
+        
+        padding: 10px;
+
+    }
 
     .center {
         margin: auto;
-        width: 60%;
-        padding: 10px;
+
+
     }
 
 
