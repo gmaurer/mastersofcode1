@@ -127,7 +127,7 @@
 
     <div class="inputNew">
 
-        <form name="myForm1" style="display:block class="create-center" role="form">
+        <form name="myForm1" class="create-center" role="form">
 
             <input  type="donateamt" class="form-control1" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
             <input  type="newreenterpass" class="form-control1" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
