@@ -128,6 +128,7 @@
         padding: 10px;
         margin-left: auto ;
         margin-right: auto ;
+        background-color: #2BADD4;
 
     }
 
@@ -186,7 +187,7 @@
     }
     
     .form-control-num{
-        height: 40px;
+        height: 45px;
         
         
         
