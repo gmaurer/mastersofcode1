@@ -99,7 +99,8 @@
 
         display: block;
         padding: 15px;
-
+        margin-left: auto ;
+        margin-right: auto ;
 
     }
 
