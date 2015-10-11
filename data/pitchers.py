@@ -69,6 +69,7 @@ for fn in sys.argv[1:]:
   with codecs.open(fn, 'rU', encoding='utf-8-sig') as f:
     reader = csv.DictReader(f)
     for r in reader:
+      r['type'] = 'pitcher'
       for intify in [ "W","L","G","GS","CG","ShO","SV","HLD","BS","TBF","H","R","ER","HR","BB","IBB","HBP","WP","BK","SO","playerid" ]:
              r[intify] = int(r[intify])
       for floatify in [ "ERA","IP" ]:
@@ -85,9 +86,8 @@ for fn in sys.argv[1:]:
       x[ id ][ mon ] = r
   normalize(100.,points,x,mon)
 
-print "db.pitchers.count();"
-print "db.pitchers.remove({});"
+print "db.players.count();"
 for id in x:
-   print "db.pitchers.insert(%s);" % (json.dumps(x[id],sort_keys=True, indent=4, separators=(',', ': ')))
-print "db.pitchers.count();"
+   print "db.players.insert(%s);" % (json.dumps(x[id],sort_keys=True, indent=4, separators=(',', ': ')))
+print "db.players.count();"
 

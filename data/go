@@ -1,0 +1,3 @@
+./batters.py stats-2015-07.csv stats-2015-06.csv stats-2015-05.csv stats-2014.csv > stats.js
+./pitchers.py pitching-stats-2015-07.csv pitching-stats-2015-06.csv pitching-stats-2015-05.csv pitching-stats-2014.csv >> stats.js
+mongo bb < stats.js

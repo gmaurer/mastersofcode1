@@ -74,6 +74,7 @@ for fn in sys.argv[1:]:
       for floatify in [ "AVG" ]:
              r[floatify] = float(r[floatify])
       # Calculate raw points
+      r['type'] = 'batter'
       r['points'] = r['1B']*1 + r['2B']*2 + r['3B']*3 + r['HR']*4 + r['R']*1 + r['RBI']*1 + r['SB']*2
       id = r['playerid']
       q = [r['points'], r['playerid']]
@@ -85,9 +86,14 @@ for fn in sys.argv[1:]:
       x[ id ][ mon ] = r
   normalize(100.,points,x,mon)
 
-print "db.batters.count();"
+print "db.players.count();"
+print "db.player.remove({});"
+print "db.players.remove({});"
+print "db.pitchers.remove({});"
 print "db.batters.remove({});"
+print "db.pitcher.remove({});"
+print "db.batter.remove({});"
 for id in x:
-   print "db.batters.insert(%s);" % (json.dumps(x[id],sort_keys=True, indent=4, separators=(',', ': ')))
-print "db.batters.count();"
+   print "db.players.insert(%s);" % (json.dumps(x[id],sort_keys=True, indent=4, separators=(',', ': ')))
+print "db.players.count();"
 
