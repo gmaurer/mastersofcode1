@@ -23,23 +23,14 @@
         
     }
 
-    .login-class{
 
-        vertical-align: middle;
 
-    }
 
-    .form-control{
-        width: 15%;
-
-        vertical-align: middle;
-
-    }
 
     .form-class{
 
         position:absolute;
-        top:50%;
+        top:20px;
         float:right;
 
 
