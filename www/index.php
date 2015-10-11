@@ -273,7 +273,7 @@
 
 
         </form>
-        <h2 class="h3thing">Fans4TheCause</h2>
+        <!-- <h2 class="h3thing">Fans4TheCause</h2> -->
 
 
     </nav>
@@ -282,20 +282,20 @@
 
         <form id="formNew" name="myForm1" class="create-center" role="form">
 
-            <h3 class="headerstuff" >New User</h3>
+            <h3 class="headerstuff" >Join the Game</h3>
             <br>
             <p class="headerstuff"> Sign up and support Save the Puppies. Join the exciting fantasy baseball league and thank you for helping Save the Puppies</p>
             <br>
 
-            <input  type="email" class="form-control form-control1" name="email" id="email" placeholder=" Enter email">
+            <input  type="email" class="form-control form-control1" name="email" value="laura_d@gmail.com" id="email" placeholder=" Enter email">
             <br>
-            <input  type="text" class="form-control form-control1" name="name" id="name" placeholder=" Enter name">
+            <input  type="text" class="form-control form-control1" name="name" id="name" value="Laura Donor" placeholder=" Enter name">
             <br>
-            <input  type="password" class="form-control form-control1" name="pass" id="pass" placeholder=" Enter password">
+            <input  type="password" class="form-control form-control1" name="pass" id="pass" value='123456789' placeholder=" Enter password">
             <br>
-            <input  type="password" class="form-control form-control1" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
+            <input  type="password" class="form-control form-control1" name="newreenterpass" value='123456789' id="newreenterpass" placeholder=" Re-Enter password">
             <br>
-            <input  type="number" class="form-control form-control-num" name="donateamt" id="donateamt" placeholder=" Donation amount ">
+            <input  type="number" class="form-control form-control-num" name="donateamt" value="100" id="donateamt" placeholder=" Donation amount ">
             <br>
             <button href="#" onclick="validateNewForm()" class="btn form-control1-btn" role="button" >Give</button>
         </form>
