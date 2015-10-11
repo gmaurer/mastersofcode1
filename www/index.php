@@ -53,6 +53,8 @@
         var minValVar = 50;
 
 
+        alert(a,b,c,d,e);
+
         if (a == null || a == "") {
             alert("Email must be filled out");
             return false;
