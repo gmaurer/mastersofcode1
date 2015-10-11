@@ -53,13 +53,22 @@ if ($team==NULL) {
 
     }
 
-    .container,table-responsive{
-        border-radius: 25px;
+    .sbox{
 
+        font-family: Futura, “Trebuchet MS”, Arial, sans-serif;
+        color: #FFFFFF;
     }
 
     tr{
         background-color: #FFFFFF;
+    }
+
+    .bedit{
+
+        background-color: #DC3D24;
+        color: #FFFFFF;
+        border: 1px solid black;
+
     }
     </style>
 
@@ -115,11 +124,11 @@ if ($team==NULL) {
 	</header>
 	<div class="ui-widget", align="right">
           <form method="post" id=searchForm>
-  	  <label for="searchField">Search: </label>
+  	  <label class="sbox" for="searchField">Search: </label>
     	  <input type=text name="searchField" id="searchField">
           </form>
  <div class="dropdown">
-  <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Search by Team
+  <button class="btn btn-primary dropdown-toggle bedit" type="button" data-toggle="dropdown">Search by Team
   <span class="caret"></span></button>
   <ul class="dropdown-menu dropdown-menu-right">
 <li><a href="?team=Angels">Angels</a></li>
