@@ -37,6 +37,11 @@ function getPlayersByTeam($team) {
    return $retval;
 }
 
+function saveUser($name, $email, $donation, $event) {
+    $n = array('user' => $email, 'name' => $name, 'event' => $event, 'donation' => $donation);
+    $retval = $db->users->insert($x);
+}
+
 function getPicks() {
    global $db,$user_mongo,$event;
    $key = array( 'user' => $user_mongo, 'event' => $event );

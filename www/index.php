@@ -48,10 +48,6 @@
         var e = document.forms["myForm1"]["donateamt"].value;
 
 
-
-
-
-
         if (a == null || a == "") {
             alert("Email must be filled out");
             return false;
@@ -290,10 +286,6 @@
             <input  type="number" class="form-control form-control-num" name="donateamt" id="donateamt" placeholder=" Donation amount ">
             <br>
             <button href="#" onclick="validateNewForm()" class="btn form-control1-btn" role="button" >Give</button>
-            <input type="hidden" name="method" value="cn"/>
-
-
-
         </form>
 
 

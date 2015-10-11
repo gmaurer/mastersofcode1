@@ -7,7 +7,11 @@
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
     <script type="text/javascript" src="https://www.simplify.com/commerce/simplify.pay.js"></script>
-
+    <script>
+    function validate() {
+       $("button","#scdiv").trigger("click");
+    }
+    </script>
 
 </head>
 <header>
@@ -82,10 +86,10 @@
     <nav class="login-box">
     <form class="login-center" role="form">
 
-            <button href="#" class="btn btn-info" role="button" >Login</button>
+            <adsfbutton href="#" class="btn btn-info" role="button" >Login</button>
             <input type="password" class="form-control" id="pwd" placeholder="Enter password">
             <input type="email" class="form-control" id="email" placeholder=" Enter email">
-            
+            <input type="checkbox" onclick="validate()">
 
 
             
@@ -95,13 +99,13 @@
     <div>
         <div class="center"><img src="images/Baseball-Heart-L.jpg" class="images" style="width:300px;height:286px;"></div>
 
+<div id="scdiv" style="display: none;">
     <button data-sc-key="sbpb_M2U5NWFhYjctNzQxNC00MzczLTgyNGMtZWM1OTFiMTVlNTg3" data-name="Donation" 
             data-masterpass="true" data-description="Donation for Giving Ladder Charity" data-reference="99999"
 data-amount="5000" data-customer-name="Bob Donor" data-customer-email="donor@email.com" data-redirect-url="http://mc.turco.com/draft.php" data-color="#12B830">
       Give Now 
     </button>
-
-    </div>
+</div>
 
 
 </body>
