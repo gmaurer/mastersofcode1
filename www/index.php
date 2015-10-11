@@ -181,7 +181,7 @@
         height: 50px;
         padding: 5px;
         border: 1px solid black;
-        background-color: #232B2B;
+        background-color: #434B4B;
 
 
     }
