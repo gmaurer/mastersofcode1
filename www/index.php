@@ -156,7 +156,7 @@
 
     .form1{
 
-        width: 100px;
+        width: 130px;
         top: 20px;
         float:right;
         border: 1px solid black;
@@ -247,6 +247,11 @@
 
     }
 
+    .h3thing{
+
+        top=15px;
+    }
+
 
 
 
@@ -266,7 +271,7 @@
 
 
         </form>
-        <h3>Fans4TheCause</h3>
+        <h3 class="h3thing">Fans4TheCause</h3>
 
 
     </nav>
