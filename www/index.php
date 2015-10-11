@@ -173,7 +173,7 @@
     }
 
     .create-center{
-        height: 500px;
+        height: 400px;
         width: 400px ;
         margin-left: auto ;
         margin-right: auto ;
