@@ -78,7 +78,7 @@
     }
     body {
         min-height: 100%;
-        padding: 10px;
+        padding: 3px;
     }
 
     .btn{
@@ -120,7 +120,7 @@
     .inputNew{
         top: 38px;
         height: 500px;
-        padding: 50px;
+        padding: 30px;
 
 
     }
