@@ -118,6 +118,7 @@
     .inputNew{
         top: 38px;
         height: 500px;
+        padding: 50px;
 
 
     }
@@ -136,6 +137,7 @@
         margin-right: auto ;
         padding: 20px;
         border: 2px solid black;
+        background-color: #3D2EFF;
 
 
     }
