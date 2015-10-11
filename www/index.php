@@ -74,23 +74,35 @@
 
     html{
         height: 100%;
+        /*padding: 3px;*/
     }
     body {
         min-height: 100%;
+        padding: 3px;
     }
 
     .btn{
+        /*width: 7%;*/
+        /*top: 20px;*/
+        /*float: right;*/
+
+
+    }
+
+    .btn-info{
+
         width: 7%;
         top: 20px;
         float: right;
-
+        background-color: #2BADD4;
+        color: white;
 
     }
 
     .form-control{
-        width: 15%;
-        top: 20px;
-        float:right;
+        /*width: 15%;*/
+        /*top: 20px;*/
+        /*float:right;*/
 
 
     }
@@ -98,16 +110,35 @@
     .form-control1{
 
         display: block;
-        padding: 15px;
+        padding: 10px;
+        margin-left: auto ;
+        margin-right: auto ;
 
+    }
+
+    .form1{
+
+        width: 15%;
+        top: 20px;
+        float:right;
 
     }
 
 
+    .form-control1-btn{
+        display: block;
+        padding: 10px;
+        margin-left: auto ;
+        margin-right: auto ;
+        background-color: #2BADD4;
+        color: white;
+
+    }
+
     .login-box{
 
-        height: 38px;
-
+        height: 50px;
+        padding: 5px;
         border: 1px solid black;
         background-color: #3D2EFF;
 
@@ -115,15 +146,18 @@
     }
 
     .inputNew{
-        top: 38px;
+        top: 40px;
         height: 500px;
+        padding: 30px;
 
 
     }
 
+
+
     .login-center{
         top: 10px;
-        height: 100px;
+        height: 35px;
       
 
     }
@@ -133,6 +167,9 @@
         width: 400px ;
         margin-left: auto ;
         margin-right: auto ;
+        padding: 20px;
+        border: 2px solid black;
+        background-color: #3D2EFF;
 
 
     }
@@ -151,6 +188,13 @@
 
 
     }
+    
+    .form-control-num{
+        height: 45px;
+        
+        
+        
+    }
 
 
 
@@ -162,8 +206,8 @@
     <form name="myForm" class="login-center" role="form">
 
             <button href="#" class="btn btn-info" role="button" >Login</button>
-            <input type="password" class="form-control" name="pass" id="pwd" placeholder="Enter password">
-            <input type="email" class="form-control" name="email" id="email" placeholder=" Enter email">
+            <input type="password" class="form-control form1" name="pass" id="pwd" placeholder="Enter password">
+            <input type="email" class="form-control form1" name="email" id="email" placeholder=" Enter email">
 
 
 
@@ -176,11 +220,17 @@
 
         <form name="myForm1" class="create-center" role="form">
 
-            <input  type="email" class="form-control1" name="newemail" id="newemail" placeholder=" Enter email">
-            <input  type="text" class="form-control1" name="newuser" id="newuser" placeholder=" Enter username">
-            <input  type="password" class="form-control1" name="newpass" id="newpass" placeholder=" Enter password">
-            <input  type="password" class="form-control1" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
-            <input  type="number" class="form-control1" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
+            <input  type="email" class="form-control form-control1" name="newemail" id="newemail" placeholder=" Enter email">
+            <br>
+            <input  type="text" class="form-control form-control1" name="newuser" id="newuser" placeholder=" Enter username">
+            <br>
+            <input  type="password" class="form-control form-control1" name="newpass" id="newpass" placeholder=" Enter password">
+            <br>
+            <input  type="password" class="form-control form-control1" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
+            <br>
+            <input  type="number" class="form-control form-control-num" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
+            <br>
+            <button href="#" class="btn form-control1-btn" role="button" >Login</button>
 
 
         </form>
@@ -191,8 +241,7 @@
 
 
     <div>
-        <div class="center"><img src="images/header-charitable-works.jpg" class="images" style="width:300px;height:286px;"></div>
-
+<!--       <div class="center"><img src="images/header-charitable-works.jpg" class="images" style="width:300px;height:286px;"></div>-->
 
     </div>
 
