@@ -59,6 +59,12 @@
 
     }
 
+    .form-control1{
+
+        display: block;
+
+    }
+
 
     .login-box{
 
@@ -129,11 +135,11 @@
 
         <form name="myForm1" class="create-center" role="form">
 
-            <input  type="donateamt" class="form-control1" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
-            <input  type="newreenterpass" class="form-control1" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
-            <input  type="newpass" class="form-control1" name="newpass" id="newpass" placeholder=" Enter password">
-            <input  type="newuser" class="form-control1" name="newuser" id="newuser" placeholder=" Enter username">
-            <input  type="newemail" class="form-control1" name="newemail" id="newemail" placeholder=" Enter email">
+            <input  type="number" class="form-control1" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
+            <input  type="password" class="form-control1" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
+            <input  type="password" class="form-control1" name="newpass" id="newpass" placeholder=" Enter password">
+            <input  type="text" class="form-control1" name="newuser" id="newuser" placeholder=" Enter username">
+            <input  type="email" class="form-control1" name="newemail" id="newemail" placeholder=" Enter email">
 
 
 
