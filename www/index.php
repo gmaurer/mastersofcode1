@@ -209,7 +209,7 @@
         margin-left: auto ;
         margin-right: auto ;
         padding: 20px;
-        border: 2px solid black;
+        border: 2px #DC3D24;
         background-color: #E3AE57;
 
 
