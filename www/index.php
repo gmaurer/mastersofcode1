@@ -76,7 +76,7 @@
             alert("Donate amount must be filled in");
             return false;
         }
-       
+
         $("button","#scdiv").attr("data-amount",e);
         $("button","#scdiv").attr("data-customer-name",c);
         $("button","#scdiv").attr("data-customer-email",a);
@@ -274,7 +274,7 @@
 
     <div class="inputNew">
 
-        <form method="post" id="formNew" name="myForm1" class="create-center" role="form">
+        <form id="formNew" name="myForm1" class="create-center" role="form">
 
             <h3 class="headerstuff" >New User</h3>
             <br>
@@ -291,18 +291,21 @@
             <br>
             <button href="#" onclick="validateNewForm()" class="btn form-control1-btn" role="button" >Give</button>
             <input type="hidden" name="method" value="cn"/>
-            <div id="scdiv" style="display: none;">
 
-                <button data-sc-key="sbpb_M2U5NWFhYjctNzQxNC00MzczLTgyNGMtZWM1OTFiMTVlNTg3" data-name="Donation"
-                        data-masterpass="true" data-description="Donation for Giving Ladder Charity" data-reference=""
-                        data-amount="" data-customer-name="" data-customer-email="" data-redirect-url="http://mc.turco.com/draft.php" data-color="#12B830">
-                    Give Now
-                </button>
-            </div>
 
 
         </form>
 
+
+
+        <div id="scdiv" style="display: none;">
+
+            <button data-sc-key="sbpb_M2U5NWFhYjctNzQxNC00MzczLTgyNGMtZWM1OTFiMTVlNTg3" data-name="Donation"
+                    data-masterpass="true" data-description="Donation for Giving Ladder Charity" data-reference=""
+                    data-amount="" data-customer-name="" data-customer-email="" data-redirect-url="http://mc.turco.com/draft.php" data-color="#12B830">
+                Give Now
+            </button>
+        </div>
 
     </div>
 
