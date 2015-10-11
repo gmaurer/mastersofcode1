@@ -166,7 +166,7 @@
     .form-control1-btn{
         display: block;
         padding: 10px;
-
+        font-family: Futura, “Trebuchet MS”, Arial, sans-serif;
         margin-left: auto ;
         margin-right: auto ;
         background-color: #DC3D24;
@@ -294,7 +294,7 @@
             <br>
             <input  type="number" class="form-control form-control-num" name="donateamt" value="100" id="donateamt" placeholder=" Donation amount ">
             <br>
-            <a href="#" onclick="validateNewForm()" class="btn form-control1-btn" role="button" >Give</a>
+            <a href="#" onclick="validateNewForm()" class="btn form-control1-btn" role="button" >Start Playing</a>
         </form>
 
 
