@@ -62,13 +62,14 @@
     .images{
 
         vertical-align: middle;
-       
+
 
     }
 
     .center {
+        margin: auto;
+        width: 60%;
 
-        width: 30%;
 
     }
 
@@ -89,9 +90,9 @@
 
     </form>
     </nav>
-    <div class="center">
+    <div>
+        <div class="center"><img src="Baseball-Heart-L.jpg" class="images" style="width:300px;height:286px;"></div>
 
-        <img src="Baseball-Heart-L.jpg" class="images" style="width:300px;height:286px;">
 
     </div>
 
