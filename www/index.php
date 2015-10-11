@@ -173,8 +173,8 @@
     }
 
     .create-center{
-        height: 400px;
-        width: 500px ;
+        height: 450px;
+        width: 450px ;
         margin-left: auto ;
         margin-right: auto ;
         padding: 20px;
