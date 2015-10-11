@@ -246,7 +246,7 @@
 
     .h3stuff{
 
-        top:-10px;
+        /*top:-10px;*/
 
     }
 
@@ -264,11 +264,11 @@
             <input type="hidden" name="method" value="li"/>
 
 
-
+        <h3 class="h3stuff">Save the Puppies</h3>
 
     </form>
 
-        <h3 class="h3stuff">Save the Puppies</h3>
+
     </nav>
 
     <div class="inputNew">
