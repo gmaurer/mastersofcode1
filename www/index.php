@@ -15,6 +15,23 @@
 
 </header>
 
+<script>
+    function validateForm() {
+        var x = document.forms["myForm"]["email"].value;
+        var y = document.forms["myForm"]["pass"].value;
+        if (x == null || x == "") {
+            alert("Email must be filled out");
+            return false;
+        }
+        if (y == null || y == "") {
+            alert("Password must be filled out");
+            return false;
+        }
+    }
+</script>
+
+
+
 <style type="text/css">
 
 
@@ -79,11 +96,11 @@
 
 <body style="background-color: #30C2CF">
     <nav class="login-box">
-    <form class="login-center" role="form">
+    <form name="myForm" class="login-center" role="form">
 
             <button href="#" class="btn btn-info" role="button" >Login</button>
-            <input type="password" class="form-control" id="pwd" placeholder="Enter password">
-            <input type="email" class="form-control" id="email" placeholder=" Enter email">
+            <input type="password" class="form-control" name="pass" id="pwd" placeholder="Enter password">
+            <input type="email" class="form-control" name="email" id="email" placeholder=" Enter email">
             
 
 
