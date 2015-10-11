@@ -27,6 +27,7 @@
             alert("Password must be filled out");
             return false;
         }
+        sendInfo();
 
     }
 
@@ -69,6 +70,22 @@
             alert("Donate amount set to minimum");
             return false;
         }
+
+
+        sendInfo1();
+    }
+
+
+    function sendInfo(){
+
+        document.forms["myForm"].submit();
+
+    }
+
+
+    function sendInfo1(){
+
+        document.forms["myForm1"].submit();
 
     }
 
@@ -143,6 +160,7 @@
         background-color: #2BADD4;
         color: white;
 
+
     }
 
     .login-box{
@@ -206,11 +224,11 @@
         
     }
 
-    .headerstuff{
+    /*.headerstuff{*/
 
 
 
-    }
+    /*}*/
 
 
 
@@ -218,9 +236,9 @@
 
 <body style="background-color: #30C2CF">
     <nav class="login-box">
-    <form name="myForm" class="login-center" role="form">
+    <form action="login.php" name="myForm" class="login-center" role="form">
 
-            <button href="#" class="btn btn-info" role="button" >Login</button>
+            <button href="#" onclick="validateForm()" class="btn btn-info" role="button" >Login</button>
             <input type="password" class="form-control form1" name="pass" id="pwd" placeholder="Enter password">
             <input type="email" class="form-control form1" name="email" id="email" placeholder=" Enter email">
 
@@ -233,14 +251,12 @@
 
     <div class="inputNew">
 
-        <form name="myForm1" class="create-center" role="form">
+        <form action="checkout.php" name="myForm1" class="create-center" role="form">
 
             <h3 class="headerstuff" >New User</h3>
             <br>
 
             <input  type="email" class="form-control form-control1" name="newemail" id="newemail" placeholder=" Enter email">
-            <br>
-            <input  type="text" class="form-control form-control1" name="newuser" id="newuser" placeholder=" Enter username">
             <br>
             <input  type="password" class="form-control form-control1" name="newpass" id="newpass" placeholder=" Enter password">
             <br>
@@ -248,7 +264,7 @@
             <br>
             <input  type="number" class="form-control form-control-num" name="donateamt" id="donateamt" placeholder=" Donation amount ">
             <br>
-            <button href="#" class="btn form-control1-btn" role="button" >Login</button>
+            <button href="#" onclick="validateNewForm()" class="btn form-control1-btn" role="button" >Give</button>
 
 
         </form>
