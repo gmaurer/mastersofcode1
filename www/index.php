@@ -125,7 +125,7 @@
 
     .btn-info1{
 
-        width: 7%;
+        width: 80px;
         top: 20px;
         float: right;
         background-color: #DC3D24;
@@ -156,7 +156,7 @@
 
     .form1{
 
-        width: 15%;
+        width: 100px;
         top: 20px;
         float:right;
         border: 1px solid black;
@@ -169,6 +169,7 @@
     .form-control1-btn{
         display: block;
         padding: 10px;
+
         margin-left: auto ;
         margin-right: auto ;
         background-color: #DC3D24;
