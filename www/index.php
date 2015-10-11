@@ -235,7 +235,7 @@
 
         <form name="myForm1" class="create-center" role="form">
 
-            <h2 class="headerstuff" >New User</h2>
+            <h3 class="headerstuff" >New User</h3>
             <br>
 
             <input  type="email" class="form-control form-control1" name="newemail" id="newemail" placeholder=" Enter email">
