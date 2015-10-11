@@ -157,7 +157,7 @@
 
     .inputNew{
         top: 40px;
-        height: 500px;
+        height: 550px;
         padding: 30px;
 
 
@@ -174,7 +174,7 @@
 
     .create-center{
         height: 400px;
-        width: 400px ;
+        width: 450px ;
         margin-left: auto ;
         margin-right: auto ;
         padding: 20px;
@@ -206,6 +206,11 @@
         
     }
 
+    .headerstuff{
+
+
+
+    }
 
 
 
@@ -230,7 +235,7 @@
 
         <form name="myForm1" class="create-center" role="form">
 
-            <h2 class="form-control form-control1">New User</h2>
+            <h2 class="headerstuff" >New User</h2>
             <br>
 
             <input  type="email" class="form-control form-control1" name="newemail" id="newemail" placeholder=" Enter email">
