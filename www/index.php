@@ -62,7 +62,7 @@
     .form-control1{
 
         display: block;
-        padding: 5px;
+        padding: 15px;
 
 
     }
@@ -81,7 +81,9 @@
     .inputNew{
         top: 38px;
         height: 500px;
-        margin:auto;
+        width: 400px ;
+        margin-left: auto ;
+        margin-right: auto ;
 
     }
 
