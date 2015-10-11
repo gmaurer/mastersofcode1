@@ -18,7 +18,7 @@
 <style type="text/css">
 
     .btn{
-        width: 15%;
+        width: 7%;
         top: 20px;
         float: right;
 
@@ -49,6 +49,7 @@
     }
 
     .login-center{
+        top: 10px;
         height: 100px;
       
 
