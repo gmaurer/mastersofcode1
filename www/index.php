@@ -92,7 +92,7 @@
     </form>
     </nav>
     <div>
-        <div class="center"><img src="Baseball-Heart-L.jpg" class="images" style="width:300px;height:286px;"></div>
+        <div class="center"><img src="images/Baseball-Heart-L.jpg" class="images" style="width:300px;height:286px;"></div>
 
 
     </div>
