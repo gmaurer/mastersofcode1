@@ -29,6 +29,7 @@
         }
         if(x == "jbaird@siue.edu"){
             alert("faggot@superfaggot.fag");
+            return false;
 
         }
     }
