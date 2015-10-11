@@ -238,11 +238,11 @@
         
     }
 
-    /*.headerstuff{*/
+    .headerstuff{
 
+        font-family: Futura, “Trebuchet MS”, Arial, sans-serif;
 
-
-    /*}*/
+    }
 
 
 
