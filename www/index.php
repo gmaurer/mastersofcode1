@@ -37,6 +37,9 @@
         var c = document.forms["myForm1"]["newuser"].value;
         var d = document.forms["myForm1"]["newreenterpass"].value;
         var e = document.forms["myForm1"]["donateamt"].value;
+        var minValVar = 50;
+
+
         if (a == null || b == "") {
             alert("Email must be filled out");
             return false;
@@ -59,6 +62,11 @@
         }
         if (e == null || e == "" ) {
             alert("Donate amount must be filled in");
+            return false;
+        }
+        if (e<minValVar) {
+            document.forms["myForm1"]["donateamt"].value = minValVar;
+            alert("Donate amount set to minimum");
             return false;
         }
 
@@ -228,7 +236,7 @@
             <br>
             <input  type="password" class="form-control form-control1" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
             <br>
-            <input  type="number" class="form-control form-control-num" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
+            <input  type="number" class="form-control form-control-num" name="donateamt" id="donateamt" placeholder=" Donation amount ">
             <br>
             <button href="#" class="btn form-control1-btn" role="button" >Login</button>
 
