@@ -244,6 +244,12 @@
 
     }
 
+    .h3stuff{
+
+        top:-10px;
+
+    }
+
 
 
 </style>
@@ -262,7 +268,7 @@
 
     </form>
 
-        <h3>Save the Puppies</h3>
+        <h3 class="h3stuff">Save the Puppies</h3>
     </nav>
 
     <div class="inputNew">
