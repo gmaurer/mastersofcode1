@@ -33,7 +33,7 @@ if ($team==NULL) {
         background-color: #E3AE57;
     }
 
-    .col-xs-5{
+    .col-xs-6{
 
         background-color: #E3AE57;
     }
