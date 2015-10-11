@@ -85,7 +85,12 @@
             return false;
         }
 
-        $("button","#scdiv").trigger("click");
+        var data = $('#formNew').serialize();
+        $.post('/saveUser.php',data,function(){$("button","#scdiv").trigger("click");});
+
+
+
+
 
     }
 
@@ -270,7 +275,7 @@
 
     <div class="inputNew">
 
-        <form method="post" name="myForm1" class="create-center" role="form">
+        <form method="post" id="formNew" name="myForm1" class="create-center" role="form">
 
             <h3 class="headerstuff" >New User</h3>
             <br>
