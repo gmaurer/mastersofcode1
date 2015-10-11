@@ -60,9 +60,9 @@
     }
 
     .images{
-
+        position: relative;
         margin: auto;
-        width: 60%;
+        left: 400px;
         
         padding: 10px;
 
