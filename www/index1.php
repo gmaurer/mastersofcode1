@@ -72,16 +72,13 @@
             return false;
         }
 
-        $("button","#scdiv").attr("data-amount",e);
-        $("button","#scdiv").attr("data-customer-name",c);
-        $("button","#scdiv").attr("data-customer-email",a);
-        // $("button","#scdiv").each(function(){console.log($(this))});
-        var data = $('#formNew').serialize();
-       // $.post('/saveuser.php',data);
-    setTimeout(function () {
         $("button","#scdiv").trigger("click");
-    }, 7000);
-        return false;
+        //$("button","#scdiv").attr("data-amount",e);
+        ////$("button","#scdiv").attr("data-customer-name",c);
+        //$("button","#scdiv").attr("data-customer-email",a);
+        // $("button","#scdiv").each(function(){console.log($(this))});
+        //var data = $('#formNew').serialize();
+        //$.post('/saveuser.php',data);
     }
 
 
@@ -125,7 +122,7 @@
 
     .btn-info1{
 
-        width: 80px;
+        width: 7%;
         top: 20px;
         float: right;
         background-color: #DC3D24;
@@ -156,7 +153,7 @@
 
     .form1{
 
-        width: 130px;
+        width: 15%;
         top: 20px;
         float:right;
         border: 1px solid black;
@@ -169,7 +166,6 @@
     .form-control1-btn{
         display: block;
         padding: 10px;
-
         margin-left: auto ;
         margin-right: auto ;
         background-color: #DC3D24;
@@ -202,13 +198,11 @@
         top: 15px;
         height: 40px;
         padding-right: 10px;
-        float:right;
-
 
     }
 
     .create-center{
-        height: 520px;
+        height: 450px;
         width: 450px ;
         margin-left: auto ;
         margin-right: auto ;
@@ -247,22 +241,13 @@
 
     }
 
-    .h3thing{
-
-        top=15px;
-        font-family: Futura, “Trebuchet MS”, Arial, sans-serif;
-        color: #FFFFFF;
-    }
-
-
-
 
 
 </style>
 
 <body style="background-color: #232B2B">
     <nav class="login-box">
-        <form action="payment.php" method="post" name="myForm" class="login-center" role="form">
+    <form action="payment.php" method="post" name="myForm" class="login-center" role="form">
 
             <button href="#" onclick="validateForm()" class="btn btn-info1" role="button" >Login</button>
             <input type="password" class="form-control form1" name="pass" id="pwd" placeholder="Enter password">
@@ -272,30 +257,25 @@
 
 
 
-        </form>
-        <!-- <h2 class="h3thing">Fans4TheCause</h2> -->
-
-
+    </form>
     </nav>
 
     <div class="inputNew">
 
         <form id="formNew" name="myForm1" class="create-center" role="form">
 
-            <h3 class="headerstuff" >Join the Game</h3>
-            <br>
-            <p class="headerstuff"> Sign up and support Save the Puppies. Join the exciting fantasy baseball league and thank you for helping Save the Puppies</p>
+            <h3 class="headerstuff" >New User</h3>
             <br>
 
-            <input  type="email" class="form-control form-control1" name="email" value="laura_d@gmail.com" id="email" placeholder=" Enter email">
+            <input  type="email" class="form-control form-control1" name="email" id="email" placeholder=" Enter email">
             <br>
-            <input  type="text" class="form-control form-control1" name="name" id="name" value="Laura Donor" placeholder=" Enter name">
+            <input  type="text" class="form-control form-control1" name="name" id="name" placeholder=" Enter name">
             <br>
-            <input  type="password" class="form-control form-control1" name="pass" id="pass" value='123456789' placeholder=" Enter password">
+            <input  type="password" class="form-control form-control1" name="pass" id="pass" placeholder=" Enter password">
             <br>
-            <input  type="password" class="form-control form-control1" name="newreenterpass" value='123456789' id="newreenterpass" placeholder=" Re-Enter password">
+            <input  type="password" class="form-control form-control1" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
             <br>
-            <input  type="number" class="form-control form-control-num" name="donateamt" value="100" id="donateamt" placeholder=" Donation amount ">
+            <input  type="number" class="form-control form-control-num" name="donateamt" id="donateamt" placeholder=" Donation amount ">
             <br>
             <button href="#" onclick="validateNewForm()" class="btn form-control1-btn" role="button" >Give</button>
         </form>
@@ -305,8 +285,8 @@
         <div id="scdiv" style="display: none;">
 
             <button data-sc-key="sbpb_M2U5NWFhYjctNzQxNC00MzczLTgyNGMtZWM1OTFiMTVlNTg3" data-name="Donation"
-                    data-masterpass="true" data-description="Charitable Donation" 1data-reference=""
-                    1data-amount="100" 1data-customer-name="" 1data-customer-email="" data-redirect-url="http://mc.turco.com/draft.php" data-color="#12B830">
+                    data-masterpass="true" data-description="Charitable Donation" data-reference=""
+                    data-amount="10000" data-redirect-url="http://mc.turco.com/draft.php" data-color="#12B830">
                 Give Now
             </button>
         </div>

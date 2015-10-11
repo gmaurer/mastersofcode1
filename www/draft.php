@@ -68,7 +68,7 @@ if ($team==NULL) {
 		       });
       </script>
 </head>
-<body>
+<body style="background-color:#e3ae57">
 	<!-- Div to create space for header -->
 	<div style="height: 100px;"></div>
 	<div class="row">
@@ -84,7 +84,7 @@ if ($team==NULL) {
  <div class="dropdown">
   <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Search by Team
   <span class="caret"></span></button>
-  <ul class="dropdown-menu">
+  <ul class="dropdown-menu dropdown-menu-right">
 <li><a href="?team=Angels">Angels</a></li>
 <li><a href="?team=Astros">Astros</a></li>
 <li><a href="?team=Athletics">Athletics</a></li>
@@ -120,11 +120,8 @@ if ($team==NULL) {
     	</div>
              <div class="row">
                <div class="col-xs-5">
-        <h1>My Team</h1>
-        <?php $left = 2000; ?>
-        <h4>Points left: <?php echo $left ?><br>Available slots: <?php echo 20-$pos ?></h4>
         <?php
-
+        $left = 2000;
         $x = getPicks();
         $table = "
 	<div class='container,table-responsive'>
@@ -151,6 +148,10 @@ if ($team==NULL) {
         $table .= "
         </table>
         </div>";
+        ?>
+        <h1>My Team</h1>
+        <h4>Points left: <?php echo $left ?><br>Available slots: <?php echo 20-$pos ?></h4>
+<?php
       if ($pos == 0) {
         echo "<h3>Add some of your favorite players from the search to the right</h3>";
       } else {
