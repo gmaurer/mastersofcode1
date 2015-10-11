@@ -1,0 +1,40 @@
+<?php
+
+include ('func.php');
+
+if (!isset($_SESSION['user'])) {
+  header ("Location: http://mc.turco.com");
+  die();
+}
+
+?>
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+      <meta charset="UTF-8">
+      <title>Charity Draft</title>
+      //<link href="GABES CSS" rel="stylesheet">
+</head>
+<body>
+	<header>
+	</header>
+	<table>
+	<?php
+	$row = count($players);
+	
+	$tabledata = "
+	<tr>
+	<th>Player</th>
+	<th>Value</th>
+	</tr>
+	for($i = 0; $i < $row; i++){
+	  <tr>
+	  <td>{$players['name']}</td>
+	  <td>{$players['value']}</td>
+	  </tr>
+	}";
+	?>
+	return $tabledata;
+	</table>
+</body>
