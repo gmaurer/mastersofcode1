@@ -17,6 +17,14 @@
 
 <style type="text/css">
 
+
+    html{
+        height: 100%;
+    }
+    body {
+        min-height: 100%;
+    }
+
     .btn{
         width: 7%;
         top: 20px;
@@ -83,10 +91,5 @@
 
 </body>
 
-<footer>
 
-
-
-
-</footer>
 </html>
