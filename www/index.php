@@ -190,7 +190,7 @@
         top: 40px;
         height: 550px;
         padding: 30px;
-        background-color: #6c8672;
+        background-color: #6d638c;
 
     }
 
@@ -210,7 +210,7 @@
         margin-right: auto ;
         padding: 20px;
         border: 2px solid black;
-        background-color: #b7d7a7;
+        background-color: #6d638c;
 
 
     }
