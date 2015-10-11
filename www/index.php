@@ -82,10 +82,18 @@
     }
 
     .btn{
+        /*width: 7%;*/
+        /*top: 20px;*/
+        /*float: right;*/
+
+
+    }
+
+    .btn-info{
+
         width: 7%;
         top: 20px;
         float: right;
-
 
     }
 
