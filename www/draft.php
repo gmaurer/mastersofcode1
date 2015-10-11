@@ -128,7 +128,7 @@ if ($team==NULL) {
     	  <input type=text name="searchField" id="searchField">
           </form>
  <div class="dropdown">
-  <button class="btn btn-primary dropdown-toggle bedit" type="button" data-toggle="dropdown">Search by Team
+  <button class="btn btn-primary dropdown-toggle bedit" style="background-color: #DC3D24" type="button" data-toggle="dropdown">Search by Team
   <span class="caret"></span></button>
   <ul class="dropdown-menu dropdown-menu-right">
 <li><a href="?team=Angels">Angels</a></li>
