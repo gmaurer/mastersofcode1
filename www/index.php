@@ -105,6 +105,8 @@
     }
 
 
+
+
 </style>
 
 <body style="background-color: #30C2CF">
@@ -114,10 +116,10 @@
             <button href="#" class="btn btn-info" role="button" >Login</button>
             <input type="password" class="form-control" name="pass" id="pwd" placeholder="Enter password">
             <input type="email" class="form-control" name="email" id="email" placeholder=" Enter email">
-            
 
 
-            
+
+
 
     </form>
     </nav>
@@ -126,11 +128,12 @@
 
         <form name="myForm1" class="create-center" role="form">
 
-            <input type="newemail" class="form-control" name="newemail" id="newemail" placeholder=" Enter email">
-            <input type="newuser" class="form-control" name="newuser" id="newuser" placeholder=" Enter username">
-            <input type="newpass" class="form-control" name="newpass" id="newpass" placeholder=" Enter password">
-            <input type="newreenterpass" class="form-control" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
-            <input type="donateamt" class="form-control" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
+            <input style="display:block type="donateamt" class="form-control" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
+            <input style="display:block type="newreenterpass" class="form-control" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
+            <input style="display:block type="newpass" class="form-control" name="newpass" id="newpass" placeholder=" Enter password">
+            <input style="display:block type="newuser" class="form-control" name="newuser" id="newuser" placeholder=" Enter username">
+            <input style="display:block type="newemail" class="form-control" name="newemail" id="newemail" placeholder=" Enter email">
+
 
 
 
