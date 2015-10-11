@@ -29,6 +29,42 @@
         }
 
     }
+
+
+    function validateNewForm() {
+        var a = document.forms["myForm1"]["newemail"].value;
+        var b = document.forms["myForm1"]["newpass"].value;
+        var c = document.forms["myForm1"]["newuser"].value;
+        var d = document.forms["myForm1"]["newreenterpass"].value;
+        var e = document.forms["myForm1"]["donateamt"].value;
+        if (a == null || b == "") {
+            alert("Email must be filled out");
+            return false;
+        }
+        if (b == null || b == "") {
+            alert("Password must be filled out");
+            return false;
+        }
+        if (c == null || c == "") {
+            alert("Username must be filled out");
+            return false;
+        }
+        if (d == null || d == "") {
+            alert("Password must be filled out");
+            return false;
+        }
+        if (b != d) {
+            alert("Passwords must match");
+            return false;
+        }
+        if (e == null || e == "" ) {
+            alert("Donate amount must be filled in");
+            return false;
+        }
+
+    }
+
+
 </script>
 
 
@@ -81,9 +117,7 @@
     .inputNew{
         top: 38px;
         height: 500px;
-        width: 400px ;
-        margin-left: auto ;
-        margin-right: auto ;
+
 
     }
 
@@ -96,7 +130,9 @@
 
     .create-center{
         height: 500px;
-
+        width: 400px ;
+        margin-left: auto ;
+        margin-right: auto ;
 
 
     }
@@ -140,14 +176,11 @@
 
         <form name="myForm1" class="create-center" role="form">
 
-            <input  type="number" class="form-control1" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
-            <input  type="password" class="form-control1" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
-            <input  type="password" class="form-control1" name="newpass" id="newpass" placeholder=" Enter password">
-            <input  type="text" class="form-control1" name="newuser" id="newuser" placeholder=" Enter username">
             <input  type="email" class="form-control1" name="newemail" id="newemail" placeholder=" Enter email">
-
-
-
+            <input  type="text" class="form-control1" name="newuser" id="newuser" placeholder=" Enter username">
+            <input  type="password" class="form-control1" name="newpass" id="newpass" placeholder=" Enter password">
+            <input  type="password" class="form-control1" name="newreenterpass" id="newreenterpass" placeholder=" Re-Enter password">
+            <input  type="number" class="form-control1" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
 
 
         </form>
