@@ -36,6 +36,16 @@
 
     }
 
+    .form-class{
+
+        position:absolute;
+        top:50%;
+        height:50%;
+        width:100px;
+        margin-top:-25%;
+        right: 0px;
+    }
+
     .images{
         margin: 0 auto;
 
@@ -57,7 +67,7 @@
 <body style="background-color: #30C2CF">
     <nav class="login-box">
     <div class="login-class">
-    <form role="form">
+    <form class="form-class" role="form">
 
             <button href="#" class="btn btn-info" role="button" >Login</button>
             <input type="password" class="form-control" id="pwd" placeholder="Enter password">
