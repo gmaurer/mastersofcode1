@@ -74,11 +74,11 @@
 
     html{
         height: 100%;
-        padding: 50px;
+        padding: 3px;
     }
     body {
         min-height: 100%;
-        padding: 50px;
+        padding: 10px;
     }
 
     .btn{
