@@ -59,18 +59,12 @@
 
     }
 
-    .images{
-
-        vertical-align: middle;
-
-
-    }
+    
 
     .center {
         margin: auto;
         width: 60%;
-
-
+        padding: 10px;
     }
 
 
