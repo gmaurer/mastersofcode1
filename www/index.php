@@ -107,6 +107,14 @@
     }
 
 
+    .form-control1-btn{
+        display: block;
+        padding: 10px;
+        margin-left: auto ;
+        margin-right: auto ;
+
+    }
+
     .login-box{
 
         height: 50px;
@@ -124,6 +132,8 @@
 
 
     }
+
+
 
     .login-center{
         top: 10px;
@@ -193,7 +203,7 @@
             <br>
             <input  type="number" class="form-control1" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
             <br>
-            <button href="#" class="form-control1" role="button" >Login</button>
+            <button href="#" class="btn form-control1-btn" role="button" >Login</button>
 
 
         </form>
