@@ -74,9 +74,11 @@
 
     html{
         height: 100%;
+        padding: 50px;
     }
     body {
         min-height: 100%;
+        padding: 50px;
     }
 
     .btn{
@@ -200,8 +202,7 @@
 
 
     <div>
-        <div class="center"><img src="images/header-charitable-works.jpg" class="images" style="width:300px;height:286px;"></div>
-
+<!--       <div class="center"><img src="images/header-charitable-works.jpg" class="images" style="width:300px;height:286px;"></div>-->
 
     </div>
 
