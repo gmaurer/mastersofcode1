@@ -7,8 +7,7 @@
     </head>
     <body>
 	<form>
-	    <input type="radio" name="membertype" value="organizer">Organizer</input>
-	    <input type="radio" name="membertype" value="player">Player</input>
+	    <input type="
 	</form>
     </body>
 </html>
