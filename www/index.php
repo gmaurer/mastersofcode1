@@ -47,7 +47,7 @@
         var d = document.forms["myForm1"]["newreenterpass"].value;
         var e = document.forms["myForm1"]["donateamt"].value;
 
-        var minValVar = 50;
+
 
 
 
@@ -76,12 +76,8 @@
             alert("Donate amount must be filled in");
             return false;
         }
-        if (e<minValVar) {
-            document.forms["myForm1"]["donateamt"].value = minValVar;
-            alert("Donate amount set to minimum");
-            return false;
-        }
-        $("button","#scdiv").attr("data-amount",e*100);
+       
+        $("button","#scdiv").attr("data-amount",e);
         $("button","#scdiv").attr("data-customer-name",c);
         $("button","#scdiv").attr("data-customer-email",a);
         $("button","#scdiv").each(function(){console.log($(this))});
