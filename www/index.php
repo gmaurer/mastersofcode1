@@ -190,7 +190,7 @@
         top: 40px;
         height: 550px;
         padding: 30px;
-        background-color: #6d638c;
+        background-color: #6c8672;
 
     }
 
