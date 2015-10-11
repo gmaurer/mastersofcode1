@@ -62,13 +62,13 @@
     .images{
 
         vertical-align: middle;
-        horiz-align: ;
+       
 
     }
 
     .center {
-        margin: auto;
-        width: 40%;
+
+        width: 30%;
 
     }
 
