@@ -119,7 +119,7 @@ if ($team==NULL) {
 		       });
       </script>
 </head>
-<body >
+<body style="background-color: #232B2B;">
 	<!-- Div to create space for header -->
 	<div style="height: 100px;"></div>
 	<div class="row">
