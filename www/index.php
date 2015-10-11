@@ -251,7 +251,7 @@
 
         top=15px;
         font-family: Futura, “Trebuchet MS”, Arial, sans-serif;
-        color:#DC3D24;
+        color: #FFFFFF;
     }
 
 
