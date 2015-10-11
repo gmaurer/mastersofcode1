@@ -18,7 +18,7 @@
 <style type="text/css">
 
     .btn{
-        top: 20px;
+        vertical-align: middle;
         float: right;
         
     }
