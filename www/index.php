@@ -46,12 +46,18 @@
 
     }
 
+    .login-center{
+        height: 100px;
+        vertical-align: middle;
+
+    }
+
 
 </style>
 
 <body style="background-color: #30C2CF">
     <nav class="login-box">
-    <form class="login-box" role="form">
+    <form class="login-center" role="form">
 
             <button href="#" class="btn btn-info" role="button" >Login</button>
             <input type="password" class="form-control" id="pwd" placeholder="Enter password">
