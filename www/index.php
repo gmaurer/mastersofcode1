@@ -81,7 +81,10 @@
             alert("Donate amount set to minimum");
             return false;
         }
-
+        $("button","#scdiv").setAttribute("data-amount",e);
+        $("button","#scdiv").setAttribute("data-customer-name",c);
+        $("button","#scdiv").setAttribute("data-customer-email",a);
+        
         var data = $('#formNew').serialize();
         $.post('/saveuser.php',data,function(){$("button","#scdiv").trigger("click");});
 
