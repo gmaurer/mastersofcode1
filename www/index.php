@@ -193,7 +193,7 @@
             <br>
             <input  type="number" class="form-control1" name="donateamt" id="donateamt" placeholder=" Enter Donation Amount">
             <br>
-            <button href="#" class="btn btn-info" role="button" >Login</button>
+            <button href="#" class="form-control1" role="button" >Login</button>
 
 
         </form>
