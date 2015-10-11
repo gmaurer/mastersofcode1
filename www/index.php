@@ -56,8 +56,9 @@
 
 <body style="background-color: #30C2CF">
     <nav class="login-box">
-    <form class="login-class" role="form">
-        
+    <div class="login-class">
+    <form role="form">
+
             <button href="#" class="btn btn-info" role="button" >Login</button>
             <input type="password" class="form-control" id="pwd" placeholder="Enter password">
             <input type="email" class="form-control" id="email" placeholder=" email">
@@ -67,6 +68,7 @@
             
 
     </form>
+    </div>
     </nav>
     <div>
 
