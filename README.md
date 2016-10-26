@@ -1,2 +1,2 @@
-# mastersofcode1
+# mastersofcode
 Charity Fantasy Leagues
